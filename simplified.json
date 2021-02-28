@@ -173,45 +173,6 @@
     }
   },
   {
-    "Id": "22413771",
-    "Property": {
-      "Price": "$1,395,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "174 REGIONAL RD 39 RD|Uxbridge, Ontario L0E1T0",
-        "Longitude": "-79.2879813",
-        "Latitude": "44.1763515",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637369801810470000/reb82/highres/9/n4928619_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637369801810470000/reb82/medres/9/n4928619_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637369801810470000/reb82/lowres/9/n4928619_1.jpg",
-          "LastUpdated": "2020-09-29 12:43:01 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,395,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1395000"
-    },
-    "Land": {
-      "SizeTotal": "14.85 Acre   ; Per Mpac|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22855335",
     "Property": {
       "Price": "$1,474,900",
