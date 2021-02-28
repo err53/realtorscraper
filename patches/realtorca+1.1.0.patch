@@ -1,0 +1,18 @@
+diff --git a/node_modules/realtorca/README.md b/node_modules/realtorca/README.md
+old mode 100644
+new mode 100755
+diff --git a/node_modules/realtorca/realtorca.js b/node_modules/realtorca/realtorca.js
+old mode 100644
+new mode 100755
+index a81dd73..fbe36d4
+--- a/node_modules/realtorca/realtorca.js
++++ b/node_modules/realtorca/realtorca.js
+@@ -4,7 +4,7 @@ const request = require('request-promise');
+ const querystring = require('querystring');
+ 
+ const MAP_URL = 'https://www.realtor.ca/Residential/Map.aspx';
+-const API_URL = 'https://api2.realtor.ca/Listing.svc/PropertySearch_Post';
++const API_URL = 'https://api.realtor.ca/Listing.svc/PropertySearch_Post';
+ 
+ const priceTiers = [0, 25000, 50000, 75000, 100000, 125000, 150000, 175000, 200000, 225000, 250000, 275000, 300000, 325000, 350000, 375000, 400000, 425000, 450000, 475000, 500000, 550000, 600000, 650000, 700000, 750000, 800000, 850000, 900000, 950000, 1000000, 1100000, 1200000, 1300000, 1400000, 1500000, 1600000, 1700000, 1800000, 1900000, 2000000, 2500000, 3000000, 4000000, 5000000, 7500000, 10000000];
+ 
