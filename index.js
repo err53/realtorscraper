@@ -18,7 +18,7 @@ let opts = {
   PriceMin: min,
   PriceMax: max,
   SortOrder: 6,
-  SortOrder: "D",
+  SortOrder: "A",
   BedRange: "1-0",
   RecordsPerPage: 200,
   MaximumResults: 1,
