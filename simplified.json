@@ -1,5 +1,52 @@
 [
   {
+    "Id": "22856182",
+    "Property": {
+      "Price": "$1,124,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2105 MAPLE GROVE RD|Cambridge, Ontario N3C2V3",
+        "Longitude": "-80.3391309",
+        "Latitude": "43.4310053",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498599229000000/reb82/highres/4/x5127444_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498599229000000/reb82/medres/4/x5127444_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498599229000000/reb82/lowres/4/x5127444_1.jpg",
+          "LastUpdated": "2021-02-25 2:25:22 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,124,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1124900"
+    },
+    "Land": {
+      "SizeTotal": "151.38 x 763.13 FT   ; 349.49' X 382.66' X 167.78' X 7|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22765943",
     "Property": {
       "Price": "$1,199,000",
@@ -88,6 +135,147 @@
     }
   },
   {
+    "Id": "22812039",
+    "Property": {
+      "Price": "$1,200,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "502 LAKESHORE Road|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.167824",
+        "Latitude": "43.231929",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/highres/2/40065762_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/medres/2/40065762_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/lowres/2/40065762_1.jpg",
+          "LastUpdated": "2021-02-12 9:19:49 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "None"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Marina, Place of Worship, Schools",
+      "ConvertedPrice": "$1,200,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Gravel, None",
+      "PriceUnformattedValue": "1200000"
+    },
+    "Land": {
+      "SizeTotal": "9.75 ac|5 - 9.99 acres",
+      "SizeFrontage": "453 ft",
+      "AccessType": "Water access"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22837715",
+    "Property": {
+      "Price": "$1,249,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1069 LINE 1 RD|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.0938366",
+        "Latitude": "43.2260352",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637493591808230000/reb82/highres/9/x5121619_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637493591808230000/reb82/medres/9/x5121619_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637493591808230000/reb82/lowres/9/x5121619_1.jpg",
+          "LastUpdated": "2021-02-19 7:19:40 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "5",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,249,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1249999"
+    },
+    "Land": {
+      "SizeTotal": "288.07 x 1343.64 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22856802",
+    "Property": {
+      "Price": "$1,299,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "375721 6TH LINE|Amaranth, Ontario L0N1S0",
+        "Longitude": "-80.25071418",
+        "Latitude": "44.06846511",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498667257770000/reb85/highres/1/40072281_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498667257770000/reb85/medres/1/40072281_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498667257770000/reb85/lowres/1/40072281_1.jpg",
+          "LastUpdated": "2021-02-25 4:18:45 PM"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park, Schools, Shopping",
+      "ConvertedPrice": "$1,299,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "PriceUnformattedValue": "1299000"
+    },
+    "Land": {
+      "SizeTotal": "5 - 9.99 acres",
+      "SizeFrontage": "683 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "1410.0000",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "22773640",
     "Property": {
       "Price": "$1,299,800",
@@ -123,6 +311,45 @@
       "BathroomTotal": "3",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22791944",
+    "Property": {
+      "Price": "$1,299,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5834 SIXTH LINE|Guelph/Eramosa, Ontario N0B2K0",
+        "Longitude": "-80.2383424",
+        "Latitude": "43.7016609",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637481938808570000/reb86/highres/2/x5106552_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637481938808570000/reb86/medres/2/x5106552_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637481938808570000/reb86/lowres/2/x5106552_1.jpg",
+          "LastUpdated": "2021-02-06 7:38:00 AM"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,299,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "PriceUnformattedValue": "1299900"
+    },
+    "Land": {
+      "SizeTotal": "Approx 6 Acres|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "5",
+      "StoriesTotal": "2.5000",
       "Type": "House"
     }
   },
@@ -173,6 +400,96 @@
     }
   },
   {
+    "Id": "22778001",
+    "Property": {
+      "Price": "$1,385,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "280 PUMPHOUSE RD|King, Ontario L3Z2A6",
+        "Longitude": "-79.544551",
+        "Latitude": "44.1049483",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637478876955300000/reb82/highres/3/n5101853_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637478876955300000/reb82/medres/3/n5101853_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637478876955300000/reb82/lowres/3/n5101853_1.jpg",
+          "LastUpdated": "2021-02-02 6:34:55 PM"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,385,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "PriceUnformattedValue": "1385000"
+    },
+    "Land": {
+      "SizeTotal": "394.09 FT   ; 721Ft*480Ft*648Ft*75Ft*148Ft*394Ft|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22799387",
+    "Property": {
+      "Price": "$1,390,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1288 LINE 3 Road|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.077413",
+        "Latitude": "43.211972",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637484712109330000/reb114/highres/1/40064051_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637484712109330000/reb114/medres/1/40064051_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637484712109330000/reb114/lowres/1/40064051_1.jpg",
+          "LastUpdated": "2021-02-09 12:40:10 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "4",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Place of Worship",
+      "ConvertedPrice": "$1,390,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel",
+      "PriceUnformattedValue": "1390000"
+    },
+    "Land": {
+      "SizeTotal": "7.7 ac|5 - 9.99 acres",
+      "AccessType": "Highway Nearby"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22413771",
     "Property": {
       "Price": "$1,395,000",
@@ -208,6 +525,52 @@
       "BathroomTotal": "2",
       "Bedrooms": "3",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22843905",
+    "Property": {
+      "Price": "$1,399,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7747 15TH SDRD|Adjala-Tosorontio, Ontario L0M1J0",
+        "Longitude": "-79.9242192",
+        "Latitude": "44.2230337",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/highres/1/n5123831_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/medres/1/n5123831_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/lowres/1/n5123831_1.jpg",
+          "LastUpdated": "2021-02-26 10:37:34 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,399,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1399000"
+    },
+    "Land": {
+      "SizeTotal": "1080 x 405 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -254,6 +617,52 @@
       "BathroomTotal": "5",
       "Bedrooms": "4 + 2",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22866033",
+    "Property": {
+      "Price": "$1,490,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5149 DAVIS DR|Whitchurch-Stouffville, Ontario L0G1E0",
+        "Longitude": "-79.3140918",
+        "Latitude": "44.0924899",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637501919599200000/reb82/highres/2/n5131252_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637501919599200000/reb82/medres/2/n5131252_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637501919599200000/reb82/lowres/2/n5131252_1.jpg",
+          "LastUpdated": "2021-03-01 10:39:19 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,490,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1490000"
+    },
+    "Land": {
+      "SizeTotal": "279.06 x 732.37 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -417,12 +826,8 @@
       ],
       "ParkingSpaceTotal": "8",
       "TypeId": "300",
-      "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Ski area",
       "ConvertedPrice": "$1,589,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
       "ParkingType": "Attached Garage",
       "PriceUnformattedValue": "1589900"
     },
@@ -476,6 +881,53 @@
       "BathroomTotal": "1",
       "Bedrooms": "2",
       "StoriesTotal": "1"
+    }
+  },
+  {
+    "Id": "22756012",
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5338 SIXTH  LINE|Erin, Ontario L7J2L8",
+        "Longitude": "-80.081275",
+        "Latitude": "43.729585",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637472835536770000/reb82/highres/7/x5094637_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637472835536770000/reb82/medres/7/x5094637_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637472835536770000/reb82/lowres/7/x5094637_1.jpg",
+          "LastUpdated": "2021-01-26 6:45:53 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Land": {
+      "SizeTotal": "449.41 FT   ; Irregular 5.71 Acre Lot|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
     }
   },
   {
@@ -569,6 +1021,104 @@
     }
   },
   {
+    "Id": "22678669",
+    "Property": {
+      "Price": "$1,750,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "18627 SHAWS CREEK Road|Caledon, Ontario L7K1L3",
+        "Longitude": "-80.05585339",
+        "Latitude": "43.81580896",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/highres/4/40052764_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/medres/4/40052764_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/lowres/4/40052764_1.jpg",
+          "LastUpdated": "2020-12-21 2:10:59 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Place of Worship, Schools",
+      "ConvertedPrice": "$1,750,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1750000"
+    },
+    "Land": {
+      "SizeTotal": "6.93 ac|5 - 9.99 acres",
+      "SizeFrontage": "300 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "483.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "22678805",
+    "Property": {
+      "Price": "$1,750,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "18627 SHAWS CREEK RD|Caledon, Ontario L7K1L3",
+        "Longitude": "-80.0558491",
+        "Latitude": "43.8154923",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/highres/1/w5069151_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/medres/1/w5069151_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/lowres/1/w5069151_1.jpg",
+          "LastUpdated": "2020-12-21 3:07:49 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,750,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1750000"
+    },
+    "Land": {
+      "SizeTotal": "300.09 x 1006.1 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "2 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22434234",
     "Property": {
       "Price": "$1,799,000",
@@ -654,6 +1204,53 @@
     "Building": {
       "BathroomTotal": "1",
       "Bedrooms": "2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22826489",
+    "Property": {
+      "Price": "$1,827,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "20030 HURONTARIO ST|Caledon, Ontario L7K1W8",
+        "Longitude": "-80.040101",
+        "Latitude": "43.8922387",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637496195673600000/reb82/highres/2/w5117742_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637496195673600000/reb82/medres/2/w5117742_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637496195673600000/reb82/lowres/2/w5117742_1.jpg",
+          "LastUpdated": "2021-02-22 7:39:27 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Hospital, Park",
+      "ConvertedPrice": "$1,827,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1827000"
+    },
+    "Land": {
+      "SizeTotal": "353 x 617 FT   ; 5  Acres Adjacent To New Golf Course|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -750,6 +1347,152 @@
     }
   },
   {
+    "Id": "22853285",
+    "Property": {
+      "Price": "$1,849,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4688 TUFFORD Road|Lincoln, Ontario L0R1B1",
+        "Longitude": "-79.446087",
+        "Latitude": "43.185242",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498839984700000/reb14/highres/3/h4098563_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498839984700000/reb14/medres/3/h4098563_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498839984700000/reb14/lowres/3/h4098563_1.jpg",
+          "LastUpdated": "2021-02-25 9:06:38 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Inside Entry"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,849,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel, Inside Entry",
+      "PriceUnformattedValue": "1849999"
+    },
+    "Land": {
+      "SizeTotal": "6.7 Acres|5 - 9.99 acres",
+      "SizeFrontage": "869 ft"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4",
+      "SizeInterior": "5300.0000",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22856181",
+    "Property": {
+      "Price": "$1,849,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4688 TUFFORD RD|Lincoln, Ontario L0R1B1",
+        "Longitude": "-79.4465177",
+        "Latitude": "43.184942",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498626282430000/reb82/highres/2/x5127432_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498626282430000/reb82/medres/2/x5127432_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498626282430000/reb82/lowres/2/x5127432_1.jpg",
+          "LastUpdated": "2021-02-25 3:10:28 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,849,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1849999"
+    },
+    "Land": {
+      "SizeTotal": "869 x 285 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22846838",
+    "Property": {
+      "Price": "$1,850,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5352 ST JOHN'S SDRD|Whitchurch-Stouffville, Ontario L4A7X4",
+        "Longitude": "-79.2976658189235",
+        "Latitude": "44.0576992461055",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637496896724230000/reb82/highres/4/n5124894_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637496896724230000/reb82/medres/4/n5124894_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637496896724230000/reb82/lowres/4/n5124894_1.jpg",
+          "LastUpdated": "2021-02-23 3:07:52 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "15",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,850,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1850000"
+    },
+    "Land": {
+      "SizeTotal": "550.11 FT   ; 549.94Ft. X 448.51Ft. X 550.46Ft. X 408.|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22635461",
     "Property": {
       "Price": "$1,888,800",
@@ -826,6 +1569,52 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22795876",
+    "Property": {
+      "Price": "$1,899,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6930 RAVENSHOE RD|Georgina, Ontario L0E1R0",
+        "Longitude": "-79.2910556",
+        "Latitude": "44.233246",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637495946812700000/reb82/highres/7/n5107817_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637495946812700000/reb82/medres/7/n5107817_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637495946812700000/reb82/lowres/7/n5107817_1.jpg",
+          "LastUpdated": "2021-02-22 12:44:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,899,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1899000"
+    },
+    "Land": {
+      "SizeTotal": "477.07 x 895.07 FT   ; As Per Plan|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
       "StoriesTotal": "2",
       "Type": "House"
     }
@@ -913,6 +1702,107 @@
     }
   },
   {
+    "Id": "22811840",
+    "Property": {
+      "Price": "$1,949,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "11255 REGIONAL ROAD 25 RD|Halton Hills, Ontario",
+        "Longitude": "-79.9819703",
+        "Latitude": "43.5849818",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/highres/6/w5113106_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/medres/6/w5113106_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/lowres/6/w5113106_1.jpg",
+          "LastUpdated": "2021-02-12 7:38:00 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,949,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1949000"
+    },
+    "Land": {
+      "SizeTotal": "430 x 969 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22866718",
+    "Property": {
+      "Price": "$1,985,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "30 OLD BROCK Road|Aberfoyle, Ontario N0B2J0",
+        "Longitude": "-80.14442661",
+        "Latitude": "43.47232423",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637501946534430000/reb15/highres/7/40073447_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637501946534430000/reb15/medres/7/40073447_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637501946534430000/reb15/lowres/7/40073447_1.jpg",
+          "LastUpdated": "2021-03-01 11:24:13 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Inside Entry"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools, Shopping",
+      "ConvertedPrice": "$1,985,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel, Inside Entry",
+      "PriceUnformattedValue": "1985000"
+    },
+    "Land": {
+      "SizeTotal": "33 ac|25 - 50 acres",
+      "AccessType": "Road access",
+      "LandscapeFeatures": "Landscaped"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "2 + 0",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22606085",
     "Property": {
       "Price": "$1,999,000",
@@ -963,6 +1853,44 @@
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "2"
+    }
+  },
+  {
+    "Id": "22837514",
+    "Property": {
+      "Price": "$1,999,800",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "3992 10 SDRD|Bradford West Gwillimbury, Ontario L3Z2A5",
+        "Longitude": "-79.615714",
+        "Latitude": "44.1617896",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498895821200000/reb82/highres/1/n5121741_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498895821200000/reb82/medres/1/n5121741_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498895821200000/reb82/lowres/1/n5121741_1.jpg",
+          "LastUpdated": "2021-02-25 10:39:42 PM"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,800 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "PriceUnformattedValue": "1999800"
+    },
+    "Land": {
+      "SizeTotal": "134.53 x 165.14 M   ; Irregular Approx 8.68Acres|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "Type": "House"
     }
   }
 ]

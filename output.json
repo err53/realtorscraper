@@ -1,5 +1,122 @@
 [
   {
+    "Id": "22856182",
+    "MlsNumber": "X5127444",
+    "PublicRemarks": "Attention Builders And Renovators! Hidden Away On The Edge Of The City Is This Charming 3 Bedroom Residence Situated On A Lush, Leafy Oasis. This Sprawling 5.6 Acre Property Is Surrounded By Nature And Includes 2.3 Acres Of Protected Greenspace With A Creek At The Rear Which Will Prevent Any Future Development, An Expansive Front Lawn, And A Large Mature Hedge For Additional Privacy. This Country Living Estate Is Only Minutes From The 401 And All Other Amenit (27983626)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1969015,
+        "Name": "SCOTT BENSON",
+        "Organization": {
+          "OrganizationID": 194100,
+          "Name": "SUTTON GROUP QUANTUM REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637499459270000000/lowres/194100.jpg",
+          "Address": {
+            "AddressText": "260 LAKESHORE BLVD E|OAKVILLE, Ontario L6J1J1",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "844-5000",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/194100/sutton-group-quantum-realty-inc-260-lakeshore-blvd-e-oakville-ontario-l6j1j1",
+          "PhotoLastupdate": "2021-02-26 2:18:47 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "844-5000",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "https://scottbensonteam.ca/",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459377117"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1969015.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "SCOTT",
+        "LastName": "BENSON",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1969015/scott-benson-260-lakeshore-blvd-e-oakville-ontario-l6j1j1",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1969015.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,124,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2105 MAPLE GROVE RD|Cambridge, Ontario N3C2V3",
+        "Longitude": "-80.3391309",
+        "Latitude": "43.4310053",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498599229000000/reb82/highres/4/x5127444_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498599229000000/reb82/medres/4/x5127444_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498599229000000/reb82/lowres/4/x5127444_1.jpg",
+          "LastUpdated": "2021-02-25 2:25:22 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,124,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1124900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "151.38 x 763.13 FT   ; 349.49' X 382.66' X 167.78' X 7|5 - 9.99 acres"
+    },
+    "PostalCode": "N3C2V3",
+    "RelativeDetailsURL": "/real-estate/22856182/2105-maple-grove-rd-cambridge",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-25 7:25:22 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22856182/2105-maple-grove-rd-cambridge",
+    "RelativeURLFr": "/immobilier/22856182/2105-maple-grove-rd-cambridge"
+  },
+  {
     "Id": "22765943",
     "MlsNumber": "N5097826",
     "PublicRemarks": "10 Acres Of Lush Agricultural Lands In The Holland Marsh! This Prime Area Offers Rich Organic Muck Soil Suited For Growing Any Produce, Horticulture & Forestry Desired. Conveniently Located 30M N Of Toronto, And Just Minutes From Hwy 9 & 400. Perfect Location To Build Your Dream House! Zoned To Allow Agricultural Produce Storage Facilities, Nurseries Or Commercial Greenhouses & Farmers Market!**** EXTRAS **** Incl. All Apps, Elfs & Window Coverings. Fully Serviced Property (Gas, Hydro, Phone, Etc). (27863769)",
@@ -234,11 +351,475 @@
     "RelativeDetailsURL": "/real-estate/21138425/5175-county-rd-13-adjala-tosorontio-everett",
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-02-27 11:20:22 PM",
-    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2020-06-29 5:12:28 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/21138425/5175-county-rd-13-adjala-tosorontio-everett",
     "RelativeURLFr": "/immobilier/21138425/5175-county-rd-13-adjala-tosorontio"
+  },
+  {
+    "Id": "22812039",
+    "MlsNumber": "40065762",
+    "PublicRemarks": "Fantastic opportunity to build your dream home or renovate existing large 4 bedroom farm house on 9.75 acres in Niagara-on-the-Lake. Large barn with plenty of storage for farm equipment or the perfect workshop. Farm is underdrained and currently planted with a mix of vegetables and fruit. Only a 10 minute drive into town and all amenities. Minimum 24 hour notice required for all showings. (62877801)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1746308,
+        "Name": "MICHELLE REYNOLDS",
+        "Organization": {
+          "OrganizationID": 75382,
+          "Name": "ROYAL LEPAGE NRC REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637500270180000000/lowres/1004014.jpg",
+          "Address": {
+            "AddressText": "125 QUEEN ST. P.O.BOX 1645|NIAGARA-ON-THE-LAKE, Ontario L0S1J0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "468-4214",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "688-3178",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460120869"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.nrcrealty.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/75382/royal-lepage-nrc-realty-125-queen-st-pobox-1645-niagara-on-the-lake-ontario-l0s1j0",
+          "PhotoLastupdate": "2021-02-27 12:50:18 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "401-8874",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "688-3178",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.homesniagara.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463768327"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636945677400000000/lowres/1180373.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "MICHELLE",
+        "LastName": "REYNOLDS",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1746308/michelle-reynolds-125-queen-st-pobox-1645-niagara-on-the-lake-ontario-l0s1j0",
+        "AgentPhotoLastUpdated": "2019-05-27 15:29:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636945677400000000/highres/1180373.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1833930,
+        "Name": "STEFAN REGIER",
+        "Organization": {
+          "OrganizationID": 283835,
+          "Name": "ROYAL LEPAGE NRC REALTY",
+          "Address": {
+            "AddressText": "35 MAYWOOD AVENUE|ST. CATHARINES, Ontario L2R1C5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "688-4561",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "635-9228",
+              "AreaCode": "800",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460119962"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.homesniagara.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283835/royal-lepage-nrc-realty-35-maywood-avenue-st-catharines-ontario-l2r1c5",
+          "PhotoLastupdate": "2021-02-27 12:50:18 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "257-6744",
+            "AreaCode": "289",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "635-9228",
+            "AreaCode": "800",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463658707"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636945688200000000/lowres/1196542.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "STEFAN",
+        "LastName": "REGIER",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1833930/stefan-regier-35-maywood-avenue-st-catharines-ontario-l2r1c5",
+        "AgentPhotoLastUpdated": "2019-05-27 15:47:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636945688200000000/highres/1196542.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,200,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "502 LAKESHORE Road|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.167824",
+        "Latitude": "43.231929",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/highres/2/40065762_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/medres/2/40065762_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/lowres/2/40065762_1.jpg",
+          "LastUpdated": "2021-02-12 9:19:49 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "None"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Marina, Place of Worship, Schools",
+      "ConvertedPrice": "$1,200,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Gravel, None",
+      "PriceUnformattedValue": "1200000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "9.75 ac|5 - 9.99 acres",
+      "SizeFrontage": "453 ft",
+      "AccessType": "Water access"
+    },
+    "PostalCode": "L0S1J0",
+    "RelativeDetailsURL": "/real-estate/22812039/502-lakeshore-road-niagara-on-the-lake",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-12 2:19:49 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22812039/502-lakeshore-road-niagara-on-the-lake",
+    "RelativeURLFr": "/immobilier/22812039/502-lakeshore-road-niagara-on-the-lake"
+  },
+  {
+    "Id": "22837715",
+    "MlsNumber": "X5121619",
+    "PublicRemarks": "Perfect Opportunity To Purchase This Exceptionally Well Maintained 3 Bedroom Brick Bungalow. Sitting On A Beautiful 9.03 Acre Sprawl Of Land, In Niagara's Wine Country. Just Ten Minutes Away From The Historic Old Town, 1.2 Km Away From Amenities In Virgil And A Few Minutes Away From The Niagara Parkway. This Home Has Been In The Same Family Since It Was Built And Is Now Ready For You To Turn It Into Your Dream Property. (27959334)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2088651,
+        "Name": "DEAN MICHAEL SERRAVALLE",
+        "Organization": {
+          "OrganizationID": 286071,
+          "Name": "REVEL REALTY INC.",
+          "Address": {
+            "AddressText": "8685 LUNDYS LANE #3|NIAGARA FALLS, Ontario L2H1H5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "357-1700",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "357-1705",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "442076212"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "HTTP://www.revelrealty.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/286071/revel-realty-inc-8685-lundys-lane-3-niagara-falls-ontario-l2h1h5",
+          "PhotoLastupdate": "2021-02-22 2:37:44 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "357-1700",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459473879"
+          }
+        ],
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "DEAN MICHAEL",
+        "LastName": "SERRAVALLE",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2088651/dean-michael-serravalle-8685-lundys-lane-3-niagara-falls-ontario-l2h1h5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,249,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1069 LINE 1 RD|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.0938366",
+        "Latitude": "43.2260352",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637493591808230000/reb82/highres/9/x5121619_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637493591808230000/reb82/medres/9/x5121619_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637493591808230000/reb82/lowres/9/x5121619_1.jpg",
+          "LastUpdated": "2021-02-19 7:19:40 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "5",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,249,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1249999"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "288.07 x 1343.64 FT|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://www.youtube.com/watch?v=siRA7YuqC5A&t=8s"
+    },
+    "PostalCode": "L0S1J0",
+    "RelativeDetailsURL": "/real-estate/22837715/1069-line-1-rd-niagara-on-the-lake",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-20 12:19:41 AM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22837715/1069-line-1-rd-niagara-on-the-lake",
+    "RelativeURLFr": "/immobilier/22837715/1069-line-1-rd-niagara-on-the-lake"
+  },
+  {
+    "Id": "22856802",
+    "MlsNumber": "40072281",
+    "PublicRemarks": "Welcome to paradise 9.1 acres of absolute epic-ness. This resort like property is the place youll never want to leave. Set far back from the rd is this wonderful craftsman bungalow with walkout basement and completely updated with high end finishing throughout.  This 3bed 2fullbath is the perfect place to call home...but wait theres more... Muskoka like view over your own private artisan well fed swimming and stocked pond! Also newer installed above ground heated pool fully fenced in as well as a hot tub tucked neatly under deck which has been fully enclosed so no need to clean snow off the cover! This is truly a rare property and in this market exactly what people are looking for. Lockdown shmockdown in this private resort. (62929083)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "1410.0000",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "0"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2093899,
+        "Name": "Kris Rose",
+        "Organization": {
+          "OrganizationID": 283269,
+          "Name": "RE/MAX REALTY ENTERPRISES INC.(LSE)",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637498667250000000/lowres/1326258.jpg",
+          "Address": {
+            "AddressText": "125 Lakeshore Road East|Mississauga, Ontario L5G1E5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "278-3500",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "278-0468",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxrealtymississauga.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283269/remax-realty-enterprises-inclse-125-lakeshore-road-east-mississauga-ontario-l5g1e5",
+          "PhotoLastupdate": "2021-02-25 4:18:45 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "271-0766",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456745825"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Kris",
+        "LastName": "Rose",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2093899/kris-rose-125-lakeshore-road-east-mississauga-ontario-l5g1e5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,299,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "375721 6TH LINE|Amaranth, Ontario L0N1S0",
+        "Longitude": "-80.25071418",
+        "Latitude": "44.06846511",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498667257770000/reb85/highres/1/40072281_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498667257770000/reb85/medres/1/40072281_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498667257770000/reb85/lowres/1/40072281_1.jpg",
+          "LastUpdated": "2021-02-25 4:18:45 PM"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park, Schools, Shopping",
+      "ConvertedPrice": "$1,299,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "PriceUnformattedValue": "1299000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "5 - 9.99 acres",
+      "SizeFrontage": "683 ft"
+    },
+    "PostalCode": "L0N1S0",
+    "RelativeDetailsURL": "/real-estate/22856802/375721-6th-line-amaranth",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-25 9:18:45 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22856802/375721-6th-line-amaranth",
+    "RelativeURLFr": "/immobilier/22856802/375721-6th-line-amaranth"
   },
   {
     "Id": "22773640",
@@ -437,6 +1018,118 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22773640/70-kydd-lane-uxbridge-rural-uxbridge",
     "RelativeURLFr": "/immobilier/22773640/70-kydd-lane-uxbridge"
+  },
+  {
+    "Id": "22791944",
+    "MlsNumber": "X5106552",
+    "PublicRemarks": "Incredible Gated Approx. 6 Acre Property Mins To Rockwood W/Quick Access To 401/Toronto. Pro Painted 2 ? Storey Stone Farmhouse W/ Rare Basemt W/High Ceilings. Approx 3200 Sqft Of Finished Space. Brand New Flrs On 2nd W/4 Bed Plus 3rd Flr Master Retreat W/Private 3Pc Ensuite. Spectacular Pastoral Views W/Mixture Of Treed Land & Open Fields. Lg Principal Rooms W/Formal Living & Dining Plus Casual Family Rm & Lg Eat-In Country Kitchen.**** EXTRAS **** Inclusions: Fridge, Stove, Dishwasher, Washer, Dryer, Water Softener, Owned Water Heater. (27898496)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "5",
+      "StoriesTotal": "2.5000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1850835,
+        "Name": "TYLER STEWART DAWE",
+        "Organization": {
+          "OrganizationID": 51494,
+          "Name": "RE/MAX CONNEX REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637484892100000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "106 MAIN ST. N. BOX 629|ROCKWOOD, Ontario N0B2K0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "856-4348",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "856-4458",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51494/remax-connex-realty-inc-106-main-st-n-box-629-rockwood-ontario-n0b2k0",
+          "PhotoLastupdate": "2021-02-09 5:40:10 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "639-7676",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "464438798"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "TYLER STEWART",
+        "LastName": "DAWE",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1850835/tyler-stewart-dawe-106-main-st-n-box-629-rockwood-ontario-n0b2k0",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,299,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5834 SIXTH LINE|Guelph/Eramosa, Ontario N0B2K0",
+        "Longitude": "-80.2383424",
+        "Latitude": "43.7016609",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637481938808570000/reb86/highres/2/x5106552_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637481938808570000/reb86/medres/2/x5106552_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637481938808570000/reb86/lowres/2/x5106552_1.jpg",
+          "LastUpdated": "2021-02-06 7:38:00 AM"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,299,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "PriceUnformattedValue": "1299900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "Approx 6 Acres|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "BrochureLink": "https://youtu.be/v0kaMxC6hhA",
+      "PhotoLink": "https://my.matterport.com/show/?m=wxffDRNVkSL&mls=1",
+      "VideoLink": "http://listing.otbxair.com/5834sixthline/?mls"
+    },
+    "PostalCode": "N0B2K0",
+    "RelativeDetailsURL": "/real-estate/22791944/5834-sixth-line-guelpheramosa-rockwood",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-06 12:38:00 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22791944/5834-sixth-line-guelpheramosa-rockwood",
+    "RelativeURLFr": "/immobilier/22791944/5834-sixth-line-guelpheramosa"
   },
   {
     "Id": "22864108",
@@ -687,6 +1380,267 @@
     "RelativeURLFr": "/immobilier/22864108/7102-9th-line-new-tecumseth"
   },
   {
+    "Id": "22778001",
+    "MlsNumber": "N5101853",
+    "PublicRemarks": "Cottage-Like Living With Picturesque Views From Every Window. Lots Of Outdoor Space For Family To Enjoy Or To Farm On. Hobby Farm On 7.995 Acres. Renovated 3 Bedroom Bungalow. Lots Of Income Potential. Farmed Portion Of Land Is Leased To The Farmer. Part Of Non-Farmed Portion Of Land Is Leased. Unfinished Basement With Two Separate Entrances. Close To Shopping (Bradford Plazas). Minutes To Bradford Or Newmarket.**** EXTRAS **** Existing: Fridge, Stove, B/I Dishwasher, Washer, Dryer, All Elfs, All Window Coverings, Garden Shed. Fruit Trees-Apples,Pears. (27879854)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1601757,
+        "Name": "GALYNA KHUDA",
+        "Organization": {
+          "OrganizationID": 90198,
+          "Name": "RIGHT AT HOME REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637478871850000000/lowres/90198.jpg",
+          "Address": {
+            "AddressText": "480 EGLINTON AVE WEST #30|MISSISSAUGA, Ontario L5R0G2",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "565-9200",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "565-6677",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.rightathomerealty.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/90198/right-at-home-realty-inc-480-eglinton-ave-west-30-mississauga-ontario-l5r0g2",
+          "PhotoLastupdate": "2021-02-02 6:26:25 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "565-9200",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463809902"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "GALYNA",
+        "LastName": "KHUDA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1601757/galyna-khuda-480-eglinton-ave-west-30-mississauga-ontario-l5r0g2",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,385,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "280 PUMPHOUSE RD|King, Ontario L3Z2A6",
+        "Longitude": "-79.544551",
+        "Latitude": "44.1049483",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637478876955300000/reb82/highres/3/n5101853_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637478876955300000/reb82/medres/3/n5101853_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637478876955300000/reb82/lowres/3/n5101853_1.jpg",
+          "LastUpdated": "2021-02-02 6:34:55 PM"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,385,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "PriceUnformattedValue": "1385000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "394.09 FT   ; 721Ft*480Ft*648Ft*75Ft*148Ft*394Ft|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://unbranded.mediatours.ca/property/280-pumphouse-road-king/"
+    },
+    "PostalCode": "L3Z2A6",
+    "RelativeDetailsURL": "/real-estate/22778001/280-pumphouse-rd-king-rural-king",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-02 11:34:55 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22778001/280-pumphouse-rd-king-rural-king",
+    "RelativeURLFr": "/immobilier/22778001/280-pumphouse-rd-king"
+  },
+  {
+    "Id": "22799387",
+    "MlsNumber": "40064051",
+    "PublicRemarks": "Highly sought-after and extremely hard to find, this bungalow is guaranteed to impress any buyer who appreciates spacious and peaceful living. There are 7 picturesque acres to enjoy along with glorious views over the neighbouring forest. The layout is spread over 1,834sqft and offers three large bedrooms, a formal dining room with built-ins plus a lower level with a unique wine cellar, a games room and a spacious family room with a gas stove. In the heart of the home sits the open-plan kitchen and family room. Prepare delicious meals in this gourmet space complete with gorgeous cabinetry and an island while relaxing in the family room will be a pleasure thanks to the gas fireplace and soaring vaulted ceiling. Love to host guests? You will adore the sun-soaked raised deck along with the two-tiered patio that looks over the glistening Malibu in-ground pool and picturesque property. Extra features include a master bedroom ensuite and fireplace, a lower-level laundry plus theres also a two-car garage. This idyllic home is in a family-friendly community within Niagara-On-The-Lake and is less than 10 minutes from the centre of town. (62863438)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1983958,
+        "Name": "JENNIFER HUANG",
+        "Organization": {
+          "OrganizationID": 75381,
+          "Name": "ROYAL LEPAGE NRC REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637484712100000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "33 MAYWOOD AVE|ST. CATHARINES, Ontario L2R1C5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "688-4561",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "688-3178",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460120883"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.nrcrealty.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/75381/royal-lepage-nrc-realty-33-maywood-ave-st-catharines-ontario-l2r1c5",
+          "PhotoLastupdate": "2021-02-09 12:40:10 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "325-3838",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "688-3178",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://HTTP://www.homesniagara.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456751090"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636873111600000000/lowres/1268740.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "JENNIFER",
+        "LastName": "HUANG",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1983958/jennifer-huang-33-maywood-ave-st-catharines-ontario-l2r1c5",
+        "AgentPhotoLastUpdated": "2019-03-04 15:46:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636873111600000000/highres/1268740.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,390,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1288 LINE 3 Road|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.077413",
+        "Latitude": "43.211972",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637484712109330000/reb114/highres/1/40064051_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637484712109330000/reb114/medres/1/40064051_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637484712109330000/reb114/lowres/1/40064051_1.jpg",
+          "LastUpdated": "2021-02-09 12:40:10 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "4",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Place of Worship",
+      "ConvertedPrice": "$1,390,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel",
+      "PriceUnformattedValue": "1390000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "7.7 ac|5 - 9.99 acres",
+      "AccessType": "Highway Nearby"
+    },
+    "PostalCode": "L0S1J0",
+    "RelativeDetailsURL": "/real-estate/22799387/1288-line-3-road-niagara-on-the-lake",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-09 5:40:10 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22799387/1288-line-3-road-niagara-on-the-lake",
+    "RelativeURLFr": "/immobilier/22799387/1288-line-3-road-niagara-on-the-lake"
+  },
+  {
     "Id": "22413771",
     "MlsNumber": "N4928619",
     "PublicRemarks": "Do Not Miss This Excellent Opportunity To Own A Picturesque 14.85 Acre Hobby Farm, Located Minutes From Uxbridge.  Long Treed Driveway Leads Up To A Large 2 Storey Century Home, Featuring Many Recent Updates/Improvements. Open Concept Kitchen With Adjoining Family & Dining Rm. Many W/O On Main Fl To Covered Porch & Side Yard. Farm Features Many Fenced In Paddocks, Small Barn, Large Veggie Garden And Small Apple Orchard.**** EXTRAS **** Prime Location Off Main Paved Road. Minutes To The Towns Of Uxbridge, Mount Albert, Zephyr & Udora. Easy Commuting To The Gta. Property Contains 2 Dug Wells. Main Heat Source Is Propane, Along With Wood Burning Stoves. (27342390)",
@@ -849,6 +1803,212 @@
     "RelativeURLFr": "/immobilier/22413771/174-regional-rd-39-rd-uxbridge"
   },
   {
+    "Id": "22843905",
+    "MlsNumber": "N5123831",
+    "PublicRemarks": "Stunning Custom Built Open Concept Raised Bungalow Located On 8.06 Acres Surrounded In Nature, Lush, Evergreens, Boasting Vaulted Ceilings, Easily Made Into 4-5 Bdrms,1000 Ft Frontage With Potential Subdividing, Including Pond Surrounded By Treed Lot,Walking Trails,Huge Sliding Barn Door Pantry/Coffee Bar In Kitchen,Beautiful Views With Stunning Sunrises,17' Ceilings In The Great Room, Mixture Of Open Land & Mature Forest,Less Than 10 Minutes To All Amenities**** EXTRAS **** All Elf's Fridge,Stove,Washer Dryer Cathedral Ceilings & Flr To Ceiling Stone Fireplace, Loft Overlooks Huge Grt Rm. Granite Counter In Kitchen.New S/S Appliances,Floor To Ceiling Stone Gas Fireplace,Under 1 Hour To Pearson Airport. (27967736)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1736581,
+        "Name": "GURSHARAN BAJWA",
+        "Organization": {
+          "OrganizationID": 247448,
+          "Name": "HOMELIFE MAPLE LEAF REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637496700900000000/lowres/247448.jpg",
+          "Address": {
+            "AddressText": "80 EASTERN AVENUE #3|BRAMPTON, Ontario L6W1X9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "456-9090",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "456-9091",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881653"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.hlmapleleaf.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/247448/homelife-maple-leaf-realty-ltd-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+          "PhotoLastupdate": "2021-02-23 9:41:30 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "289-5548",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://Www.bajwahomes.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463734152"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636967203600000000/lowres/1178040.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "GURSHARAN",
+        "LastName": "BAJWA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1736581/gursharan-bajwa-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+        "AgentPhotoLastUpdated": "2019-06-21 13:26:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636967203600000000/highres/1178040.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2031505,
+        "Name": "GURLALJEET SINGH BAL",
+        "Organization": {
+          "OrganizationID": 247448,
+          "Name": "HOMELIFE MAPLE LEAF REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637496700900000000/lowres/247448.jpg",
+          "Address": {
+            "AddressText": "80 EASTERN AVENUE #3|BRAMPTON, Ontario L6W1X9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "456-9090",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "456-9091",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881653"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.hlmapleleaf.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/247448/homelife-maple-leaf-realty-ltd-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+          "PhotoLastupdate": "2021-02-23 9:41:30 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "456-9090",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459424693"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "GURLALJEET SINGH",
+        "LastName": "BAL",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2031505/gurlaljeet-singh-bal-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,399,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7747 15TH SDRD|Adjala-Tosorontio, Ontario L0M1J0",
+        "Longitude": "-79.9242192",
+        "Latitude": "44.2230337",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/highres/1/n5123831_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/medres/1/n5123831_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/lowres/1/n5123831_1.jpg",
+          "LastUpdated": "2021-02-26 10:37:34 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,399,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1399000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "1080 x 405 FT|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://tours.ultraflick.ca/cp/7747-tosorontio-sideroad-15-everett/"
+    },
+    "PostalCode": "L0M1J0",
+    "RelativeDetailsURL": "/real-estate/22843905/7747-15th-sdrd-adjala-tosorontio-everett",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-27 3:37:34 AM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22843905/7747-15th-sdrd-adjala-tosorontio-everett",
+    "RelativeURLFr": "/immobilier/22843905/7747-15th-sdrd-adjala-tosorontio"
+  },
+  {
     "Id": "22855335",
     "MlsNumber": "N5127335",
     "PublicRemarks": "Amazing Opportunity To Purchase An Incredibly Private 12.52 Acres Just 5 Minutes From Town. Custom-Built 4391 Sqft Home Surrounded By Trees With Great Space To Play, Hike Or Relax. Chef's Kitchen With Walkout To Deck, Large Principle Rooms With Rich Hardwood, Second Master Retreat On Main Floor (Great For In-Laws), Huge Master With His/Hers W/I Closets And 5Pc Ensuite. Multiple Options For Home Offices. Beautiful Scenery From Every Window!**** EXTRAS **** Additional 2171 Sqft In Finished Basement With Walk-Up To Garage. Rough-In For Kitchen, Could Easily Be Converted To An In-Law Apartment And Still Leave Large Rec And Bedroom Access For Main House. Fenced Backyard For Pets And Children. (27982670)",
@@ -967,6 +2127,195 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22855335/791-davis-dr-uxbridge-rural-uxbridge",
     "RelativeURLFr": "/immobilier/22855335/791-davis-dr-uxbridge"
+  },
+  {
+    "Id": "22866033",
+    "MlsNumber": "N5131252",
+    "PublicRemarks": "B U N G A L O W ! Situated On 5 Private Forested Acres| Set Well Back From The Road| Enjoy Privacy And Scenic Forested Views| Open Concept Great Room/Kitchen| 9 Ft Ceilings, Hardwood Floors, Kitchen W/Centre Island/Eat-In Brkfst Area| Master W/Ensuite+Heated Marble Flr| Bedroom 2 + Br 3 W Jack & Jill Ensuite| Sweeping Staircase To L L Expansive Open Concept Bright Rec Rm With Wet Bar And Walk-Out| 5 Minute Drive To Newmarket & Hwy 404!**** EXTRAS **** Fantastic Low Maintenance! Rural Property| Ample Room In Lower Level For A 4th Bedroom - Currently A Gym | Fenced-In Dog Run W/Synthetic Lawn| 2 Tiered Deck W/Gazebo, Hot Tub @ Back Overlooks Private Forest| Propane Tank (R) To Be Assumed (27997285)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1408214,
+        "Name": "WALTER WEI",
+        "Organization": {
+          "OrganizationID": 256963,
+          "Name": "RIGHT AT HOME REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637501831060000000/lowres/256963.jpg",
+          "Address": {
+            "AddressText": "1550 16TH AVENUE BLDG B UNIT 3 & 4|RICHMOND HILL, Ontario L4B3K9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "695-7888",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "695-0900",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/256963/right-at-home-realty-inc-1550-16th-avenue-bldg-b-unit-3-4-richmond-hill-ontario-l4b3k9",
+          "PhotoLastupdate": "2021-03-01 8:11:46 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "695-7888",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455706977"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1408214.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "WALTER",
+        "LastName": "WEI",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1408214/walter-wei-1550-16th-avenue-bldg-b-unit-3-4-richmond-hill-ontario-l4b3k9",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1408214.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2015358,
+        "Name": "SALLY TAO",
+        "Organization": {
+          "OrganizationID": 256963,
+          "Name": "RIGHT AT HOME REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637501831060000000/lowres/256963.jpg",
+          "Address": {
+            "AddressText": "1550 16TH AVENUE BLDG B UNIT 3 & 4|RICHMOND HILL, Ontario L4B3K9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "695-7888",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "695-0900",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/256963/right-at-home-realty-inc-1550-16th-avenue-bldg-b-unit-3-4-richmond-hill-ontario-l4b3k9",
+          "PhotoLastupdate": "2021-03-01 8:11:46 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "695-7888",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.ihomesteam.ca",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/ihomesteam",
+            "WebsiteTypeId": "2"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459413458"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636511105800000000/lowres/1296660.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "SALLY",
+        "LastName": "TAO",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2015358/sally-tao-1550-16th-avenue-bldg-b-unit-3-4-richmond-hill-ontario-l4b3k9",
+        "AgentPhotoLastUpdated": "2018-01-09 16:03:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636511105800000000/highres/1296660.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,490,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5149 DAVIS DR|Whitchurch-Stouffville, Ontario L0G1E0",
+        "Longitude": "-79.3140918",
+        "Latitude": "44.0924899",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637501919599200000/reb82/highres/2/n5131252_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637501919599200000/reb82/medres/2/n5131252_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637501919599200000/reb82/lowres/2/n5131252_1.jpg",
+          "LastUpdated": "2021-03-01 10:39:19 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,490,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1490000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "279.06 x 732.37 FT|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://www.winsold.com/tour/43418"
+    },
+    "PostalCode": "L0G1E0",
+    "RelativeDetailsURL": "/real-estate/22866033/5149-davis-dr-whitchurch-stouffville-rural-whitchurch-stouffville",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-01 3:39:20 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22866033/5149-davis-dr-whitchurch-stouffville-rural-whitchurch-stouffville",
+    "RelativeURLFr": "/immobilier/22866033/5149-davis-dr-whitchurch-stouffville"
   },
   {
     "Id": "22835843",
@@ -1381,7 +2730,7 @@
         "Organization": {
           "OrganizationID": 259470,
           "Name": "RE/MAX ALL-STARS REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637500314480000000/lowres/259470.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637501830970000000/lowres/259470.jpg",
           "Address": {
             "AddressText": "47 BROCK STREET WEST|UXBRIDGE, Ontario L9P1N5",
             "PermitShowAddress": true,
@@ -1406,7 +2755,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/259470/remax-all-stars-realty-inc-47-brock-street-west-uxbridge-ontario-l9p1n5",
-          "PhotoLastupdate": "2021-02-27 2:04:08 PM"
+          "PhotoLastupdate": "2021-03-01 8:11:37 AM"
         },
         "Phones": [
           {
@@ -1445,7 +2794,7 @@
         "Organization": {
           "OrganizationID": 259470,
           "Name": "RE/MAX ALL-STARS REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637500314480000000/lowres/259470.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637501830970000000/lowres/259470.jpg",
           "Address": {
             "AddressText": "47 BROCK STREET WEST|UXBRIDGE, Ontario L9P1N5",
             "PermitShowAddress": true,
@@ -1470,7 +2819,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/259470/remax-all-stars-realty-inc-47-brock-street-west-uxbridge-ontario-l9p1n5",
-          "PhotoLastupdate": "2021-02-27 2:04:08 PM"
+          "PhotoLastupdate": "2021-03-01 8:11:37 AM"
         },
         "Phones": [
           {
@@ -1525,12 +2874,8 @@
       ],
       "ParkingSpaceTotal": "8",
       "TypeId": "300",
-      "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Ski area",
       "ConvertedPrice": "$1,589,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
       "ParkingType": "Attached Garage",
       "PriceUnformattedValue": "1589900"
     },
@@ -1546,7 +2891,6 @@
     "RelativeDetailsURL": "/real-estate/22864120/481-webb-rd-uxbridge-uxbridge",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-02-27 7:04:08 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22864120/481-webb-rd-uxbridge-uxbridge",
     "RelativeURLFr": "/immobilier/22864120/481-webb-rd-uxbridge"
@@ -1753,6 +3097,132 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22059815/18367-keele-st-king-rural-king",
     "RelativeURLFr": "/immobilier/22059815/18367-keele-st-king"
+  },
+  {
+    "Id": "22756012",
+    "MlsNumber": "X5094637",
+    "PublicRemarks": "Welcome To Country Living! Located Just South-West Of Erin Village, Not Far From The City, This Fantastic Hobby Farm Sits On Just Under 6 Acres Of Land, Great Storage For Small Business, Includes Barn, Several Paddocks, 30'X36' Workshop With Hoist And 41'X80' Drive-Thru Coverall. Well Maintained, Charming 3- Bedroom Bungalow With Oversized 2-Car Garage (Being Sold As Is) Awaits Your Personal Touches. Public/Catholic Schools 7Min Drive, Bus Pick-Up At The Door**** EXTRAS **** Includes: Fridge, Stovetop, B/I Oven, Dishwasher, Washer, Dryer, Hwt, Water Softener, Gdo + 1 Remote, 200-Amp W/Pony Panel. Above Ground Pool, Deck Extension (2019) Roof (2019), Copy Of Survey Attached. (27850649)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1900058,
+        "Name": "DOLORES VALENTE FLAGG",
+        "Organization": {
+          "OrganizationID": 282886,
+          "Name": "ROYAL LEPAGE REALTY PLUS",
+          "Address": {
+            "AddressText": "2575 DUNDAS STREET W #7|MISSISSAUGA, Ontario L5K2M6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "828-6550",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "828-1511",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/282886/royal-lepage-realty-plus-2575-dundas-street-w-7-mississauga-ontario-l5k2m6",
+          "PhotoLastupdate": "2021-01-30 6:09:23 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "206-5220",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.doloresflagg.com/",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455769370"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636282156000000000/lowres/1900058.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "DOLORES VALENTE",
+        "LastName": "FLAGG",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1900058/dolores-valente-flagg-2575-dundas-street-w-7-mississauga-ontario-l5k2m6",
+        "AgentPhotoLastUpdated": "2017-04-19 16:20:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636282156000000000/highres/1900058.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5338 SIXTH  LINE|Erin, Ontario L7J2L8",
+        "Longitude": "-80.081275",
+        "Latitude": "43.729585",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637472835536770000/reb82/highres/7/x5094637_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637472835536770000/reb82/medres/7/x5094637_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637472835536770000/reb82/lowres/7/x5094637_1.jpg",
+          "LastUpdated": "2021-01-26 6:45:53 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "449.41 FT   ; Irregular 5.71 Acre Lot|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://bit.ly/3cf3rjk"
+    },
+    "PostalCode": "L7J2L8",
+    "RelativeDetailsURL": "/real-estate/22756012/5338-sixth-line-erin-rural-erin",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-01-26 11:45:55 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22756012/5338-sixth-line-erin-rural-erin",
+    "RelativeURLFr": "/immobilier/22756012/5338-sixth-line-erin"
   },
   {
     "Id": "20185869",
@@ -2257,6 +3727,398 @@
     "RelativeURLFr": "/immobilier/20189014/5826-first-line-erin"
   },
   {
+    "Id": "22678669",
+    "MlsNumber": "40052764",
+    "PublicRemarks": "With this secluded haven, who needs to vacation elsewhere, when you can hike along the beautiful stone-lined meandering paths traversing the woods around this gorgeous country setting! With its outstanding construction and striking Craftsman design, nestled in a private retreat, just minutes from Erin and Orangeville, this home awaits your interior design to finish it in style. Come live the country life you've been dreaming of! Live in the finished 1-bed apartment above the garage while completing the interior. ln-floor heating throughout. R44 insulated walls, plumbed for 2 ensuites on 2nd floor & powder room on main level, and ready for centre island. (62731433)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "483.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1981516,
+        "Name": "Kevin Latam",
+        "Organization": {
+          "OrganizationID": 114628,
+          "Name": "Royal LePage Meadowtowne Realty Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637462401230000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "877-8262",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "464439595"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.meadowtowne.com/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
+          "PhotoLastupdate": "2021-01-14 4:55:23 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "362-8455",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.latamandlatam.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455148795"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1280875.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "Kevin",
+        "LastName": "Latam",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1981516/kevin-latam-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1280875.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2074689,
+        "Name": "Mark Latam",
+        "Organization": {
+          "OrganizationID": 114628,
+          "Name": "Royal LePage Meadowtowne Realty Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637462401230000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "877-8262",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "464439595"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.meadowtowne.com/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
+          "PhotoLastupdate": "2021-01-14 4:55:23 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "400-9812",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://latamandlatam.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455148610"
+          }
+        ],
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "Mark",
+        "LastName": "Latam",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2074689/mark-latam-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,750,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "18627 SHAWS CREEK Road|Caledon, Ontario L7K1L3",
+        "Longitude": "-80.05585339",
+        "Latitude": "43.81580896",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/highres/4/40052764_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/medres/4/40052764_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/lowres/4/40052764_1.jpg",
+          "LastUpdated": "2020-12-21 2:10:59 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Place of Worship, Schools",
+      "ConvertedPrice": "$1,750,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1750000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "6.93 ac|5 - 9.99 acres",
+      "SizeFrontage": "300 ft",
+      "AccessType": "Road access"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youriguide.com/18627_shaws_creek_rd_caledon_on"
+    },
+    "PostalCode": "L7K1L3",
+    "RelativeDetailsURL": "/real-estate/22678669/18627-shaws-creek-road-caledon",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2020-12-21 7:11:06 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22678669/18627-shaws-creek-road-caledon",
+    "RelativeURLFr": "/immobilier/22678669/18627-shaws-creek-road-caledon"
+  },
+  {
+    "Id": "22678805",
+    "MlsNumber": "W5069151",
+    "PublicRemarks": "With This Secluded Haven, Who Needs To Vacation Elsewhere, When You Can Hike Along The Beautiful Stone-Lined Meandering Paths Traversing The Woods Around This Gorgeous Country Setting! With Its Outstanding Construction And Striking Craftsman Design, Nestled In A Private Retreat, Just Minutes From Erin And Orangeville, This Home Awaits Your Interior Design To Finish It In Style. Come Live The Country Life You've Been Dreaming Of!**** EXTRAS **** Live In The Finished 1-Bed Apartment Above The Garage While Completing The Interior. In-Floor Heating Throughout. R44 Insulated Walls, Plumbed For 2 Ensuites On 2nd Floor & Powder Room On Main, And Ready For A Center Island. (27747956)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "2 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1686008,
+        "Name": "KEVIN LATAM",
+        "Organization": {
+          "OrganizationID": 51483,
+          "Name": "ROYAL LEPAGE MEADOWTOWNE REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637441691170000000/lowres/51483.jpg",
+          "Address": {
+            "AddressText": "324 GUELPH STREET SUITE 12|GEORGETOWN, Ontario L7G4B5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "877-8262",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51483/royal-lepage-meadowtowne-realty-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
+          "PhotoLastupdate": "2020-12-21 5:38:37 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "887-1822",
+            "AreaCode": "226",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://latamandlatam.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "460358507"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1686008.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "KEVIN",
+        "LastName": "LATAM",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1686008/kevin-latam-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1686008.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1908343,
+        "Name": "MARK LATAM",
+        "Organization": {
+          "OrganizationID": 51483,
+          "Name": "ROYAL LEPAGE MEADOWTOWNE REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637441691170000000/lowres/51483.jpg",
+          "Address": {
+            "AddressText": "324 GUELPH STREET SUITE 12|GEORGETOWN, Ontario L7G4B5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "877-8262",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51483/royal-lepage-meadowtowne-realty-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
+          "PhotoLastupdate": "2020-12-21 5:38:37 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "887-1822",
+            "AreaCode": "226",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.latamandlatam.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/latamandlatam/",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "https://twitter.com/LatamandLatam",
+            "WebsiteTypeId": "4"
+          },
+          {
+            "Website": "https://www.linkedin.com/in/marklatam/?ppe=1",
+            "WebsiteTypeId": "3"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "460358515"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1908343.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "MARK",
+        "LastName": "LATAM",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1908343/mark-latam-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1908343.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,750,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "18627 SHAWS CREEK RD|Caledon, Ontario L7K1L3",
+        "Longitude": "-80.0558491",
+        "Latitude": "43.8154923",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/highres/1/w5069151_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/medres/1/w5069151_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/lowres/1/w5069151_1.jpg",
+          "LastUpdated": "2020-12-21 3:07:49 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,750,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1750000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "300.09 x 1006.1 FT|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://unbranded.youriguide.com/18627_shaws_creek_rd_caledon_on"
+    },
+    "PostalCode": "L7K1L3",
+    "RelativeDetailsURL": "/real-estate/22678805/18627-shaws-creek-rd-caledon-rural-caledon",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2020-12-21 8:07:49 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22678805/18627-shaws-creek-rd-caledon-rural-caledon",
+    "RelativeURLFr": "/immobilier/22678805/18627-shaws-creek-rd-caledon"
+  },
+  {
     "Id": "22434234",
     "MlsNumber": "40028565",
     "PublicRemarks": "Prestigious Scenic Drive address! Breathtaking views of the land are just a part of a daily life here at 347 Scenic Drive.  This 4 bedrooms and 3 bathrooms home with attached double car garage and 30.95 acres of land has been in the same family for over 3 decades. Lovingly maintained by the current owners this beautiful country home offers plenty of room and possibilities for families and investors alike. Main level features kitchen, living and dining room, den, three good sized bedrooms, family room with wood burning fireplace and main bath.  Lower level has oversized rec room with wood burning fireplace, two kitchens, living room, bedroom and two baths.  Basement with two separate entrances offers in law suite potential. In addition to the house there is a large storage barn and a shed with cellar on the property. Drilled well feeds the water to the house. Centrally located only minutes to Brantford, Paris and Cambridge and Hwy 403. Country living at it's best with conveniences of the city nearby.  Book your private tour of this property today! (62462799)",
@@ -2566,6 +4428,130 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22721212/4981-vivian-rd-whitchurch-stouffville-rural-whitchurch-stouffville",
     "RelativeURLFr": "/immobilier/22721212/4981-vivian-rd-whitchurch-stouffville"
+  },
+  {
+    "Id": "22826489",
+    "MlsNumber": "W5117742",
+    "PublicRemarks": "5 Acres As Per Mpac. Fantastic Offering Spacious Bungalow, 3 Generous Bedrooms, Renovated 4 Pc Washrooms, 2 Fireplaces On Main Level, Private Lot, Very Large Unfinished Basement With Walkup Separate Entrance, 34X14 Workshop With Power + Double Car Garage. ** Legal Desc Cont'd: Exprop.Pl Pr637842 ; Caledon** Please Attach Schedule B & 801**** EXTRAS **** New Windows 2020, New Uv Filter,Great Opportunity For Investment Or Personal Use ! Great Tenants Of 3 Years Are Willing To Stay Or Leave As Per Seller.Beautiful Property ,Treed Lot,Workshop Allows Many Options,Super Sized Basement.With A (27944231)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1418540,
+        "Name": "GARY GURJIT BHINDER",
+        "Organization": {
+          "OrganizationID": 50932,
+          "Name": "RE/MAX REALTY SERVICES INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637496701640000000/lowres/1002980.jpg",
+          "Address": {
+            "AddressText": "295 QUEEN STREET EAST|BRAMPTON, Ontario L6W3R1",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "456-1000",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "456-1924",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/50932/remax-realty-services-inc-295-queen-street-east-brampton-ontario-l6w3r1",
+          "PhotoLastupdate": "2021-02-23 9:42:44 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "456-1000",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://garybhinder.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455661845"
+          }
+        ],
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "GARY GURJIT",
+        "LastName": "BHINDER",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1418540/gary-gurjit-bhinder-295-queen-street-east-brampton-ontario-l6w3r1",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,827,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "20030 HURONTARIO ST|Caledon, Ontario L7K1W8",
+        "Longitude": "-80.040101",
+        "Latitude": "43.8922387",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637496195673600000/reb82/highres/2/w5117742_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637496195673600000/reb82/medres/2/w5117742_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637496195673600000/reb82/lowres/2/w5117742_1.jpg",
+          "LastUpdated": "2021-02-22 7:39:27 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Hospital, Park",
+      "ConvertedPrice": "$1,827,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1827000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "353 x 617 FT   ; 5  Acres Adjacent To New Golf Course|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://unbranded.mediatours.ca/property/20030-hurontario-street-caledon-village/"
+    },
+    "PostalCode": "L7K1W8",
+    "RelativeDetailsURL": "/real-estate/22826489/20030-hurontario-st-caledon-rural-caledon",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-23 12:39:27 AM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22826489/20030-hurontario-st-caledon-rural-caledon",
+    "RelativeURLFr": "/immobilier/22826489/20030-hurontario-st-caledon"
   },
   {
     "Id": "22782576",
@@ -2970,6 +4956,448 @@
     "RelativeURLFr": "/immobilier/22050964/3732-glenwoods-ave-w-georgina"
   },
   {
+    "Id": "22853285",
+    "MlsNumber": "H4098563",
+    "PublicRemarks": "Take a look at this colossal, custom built, 4 bedroom, 4.5 bathroom, 2 storey home located in Niagara's picturesque wine country! 5300 square feet of luxurious home, perfectly situated on 6.7 acres of peaceful orchard farmland! Just minutes to the QEW and the quaint town of Beamsville, this home is PERFECT for commuters while still being nestled in a peaceful rural landscape. From the moment you enter the home, you are greeted with stunning sky high ceilings and large windows, allowing the home to be flooded with natural light! The main floor primary suite features a large walk-in closet and stunning ensuite. Actually... all four bedrooms in the home have their very own ensuite, featuring everything from oversized, glass door showers, to soaker, stand alone tubs and his and hers sinks. Even the mudroom comes equipped with a DOG SHOWER! Yes that's right! Even your precious pooch can enjoy the luxury of it's very own shower! The unfinished basement with 9 foot ceilings has plenty of potential with rough-ins for a kitchen as well as a 3 piece bath. The attached three car garage completes the home but the large lot holds potential for a large workshop, or even a second luxurious home! A 6000 gallon cistern with full water treatment system comes included. Don't miss out on this perfect opportunity for you and your family! Call to book a showing today! (26951848)",
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4",
+      "SizeInterior": "5300.0000",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1524224,
+        "Name": "Rob Golfi",
+        "Organization": {
+          "OrganizationID": 275989,
+          "Name": "RE/MAX Escarpment Golfi Realty Inc.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637498695820000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "1 Markland Street|Hamilton, Ontario L8P2J5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "575-7700",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "575-1962",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/275989/remax-escarpment-golfi-realty-inc-1-markland-street-hamilton-ontario-l8p2j5",
+          "PhotoLastupdate": "2021-02-25 5:06:22 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "575-7700",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "575-1962",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "HTTP://www.robgolfi.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "453428005"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637045152000000000/lowres/1064132.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Rob",
+        "LastName": "Golfi",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1524224/rob-golfi-1-markland-street-hamilton-ontario-l8p2j5",
+        "AgentPhotoLastUpdated": "2019-09-19 18:40:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637045152000000000/highres/1064132.jpg",
+        "RankMyAgentKey": "27061",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,849,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4688 TUFFORD Road|Lincoln, Ontario L0R1B1",
+        "Longitude": "-79.446087",
+        "Latitude": "43.185242",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498839984700000/reb14/highres/3/h4098563_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498839984700000/reb14/medres/3/h4098563_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498839984700000/reb14/lowres/3/h4098563_1.jpg",
+          "LastUpdated": "2021-02-25 9:06:38 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Inside Entry"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,849,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel, Inside Entry",
+      "PriceUnformattedValue": "1849999"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "6.7 Acres|5 - 9.99 acres",
+      "SizeFrontage": "869 ft"
+    },
+    "AlternateURL": {
+      "PhotoLink": "https://youtu.be/3BJ302ypVWo",
+      "VideoLink": "https://youtu.be/00-Ij1nABr4"
+    },
+    "PostalCode": "L0R1B1",
+    "RelativeDetailsURL": "/real-estate/22853285/4688-tufford-road-lincoln",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-26 2:06:39 AM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22853285/4688-tufford-road-lincoln",
+    "RelativeURLFr": "/immobilier/22853285/4688-tufford-road-lincoln"
+  },
+  {
+    "Id": "22856181",
+    "MlsNumber": "X5127432",
+    "PublicRemarks": "Colossal, Custom Built, 4 Bed, 4.5 Bath, 2 Storey Home In Wine Country! 5300Sqft Of Luxurious Home On 6.7 Acres Of Orchard Farmland! Sky High Ceilings & Large Windows, Flooded W/Natural Light! Main Floor Primary Suite Features A Large Walk-In Closet & Stunning Ensuite. All 4 Beds Have Own Ensuites, Feat Oversized Showers, Soaker Tubs & Double Sinks. Mudroom Has Dog Shower! Unfinished Bsmt W/9Ft Ceilings & Rough-Ins For Kitchen & Full Bath. 3 Car Garage. Rsa**** EXTRAS **** Mins To The Qew And Beamsville, This Home Is Perfect For Commuters While Still Being Nestled In A Rural Landscape. Inclusions: Fridge, Stove, Dishwasher, Washer And Dryer, All Electrical Light Fixtures, Window Coverings. (27983613)",
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2024837,
+        "Name": "ROB GOLFI",
+        "Organization": {
+          "OrganizationID": 279447,
+          "Name": "RE/MAX ESCARPMENT GOLFI REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637498599220000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "1 MARKLAND ST #2|HAMILTON, Ontario L8P2J5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "575-7700",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "575-1962",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414882917"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.robgolfi.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279447/remax-escarpment-golfi-realty-inc-1-markland-st-2-hamilton-ontario-l8p2j5",
+          "PhotoLastupdate": "2021-02-25 2:25:22 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "575-7700",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459420994"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "ROB",
+        "LastName": "GOLFI",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2024837/rob-golfi-1-markland-st-2-hamilton-ontario-l8p2j5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,849,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4688 TUFFORD RD|Lincoln, Ontario L0R1B1",
+        "Longitude": "-79.4465177",
+        "Latitude": "43.184942",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498626282430000/reb82/highres/2/x5127432_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498626282430000/reb82/medres/2/x5127432_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498626282430000/reb82/lowres/2/x5127432_1.jpg",
+          "LastUpdated": "2021-02-25 3:10:28 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,849,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1849999"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "869 x 285 FT|5 - 9.99 acres"
+    },
+    "PostalCode": "L0R1B1",
+    "RelativeDetailsURL": "/real-estate/22856181/4688-tufford-rd-lincoln",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-25 8:10:28 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22856181/4688-tufford-rd-lincoln",
+    "RelativeURLFr": "/immobilier/22856181/4688-tufford-rd-lincoln"
+  },
+  {
+    "Id": "22846838",
+    "MlsNumber": "N5124894",
+    "PublicRemarks": "Nature Lovers Paradise/Beautiful Country House With Incredible 5.39 Acre Private Mature Treed Lot With Extra Wide 550 Feet Frontage. Lovingly Maintained/Updated Ranch Bungalow, Bright 3 Bedrooms With 3 Bathrooms. Finished Walk-Out Basement With Separate Entrance. Garage Parks 4+1 On Car Lift. Prestigious Estate Area Within Minutes To Banks, Restaurant, Supermarket, Newmarket, Aurora, Hwy 48, Hwy 404 & Go Train. Close To Ballantrae Golf.**** EXTRAS **** All Electric Light Fixtures, All Window Coverings, Fridge, Stove, Microwave, B/I Dishwasher, Washer, Dryer, Car Lift In Garage, Central Air, Central Vac & Equipment. Gdo & Remote. H20 Softener(As Is). (27971732)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1905558,
+        "Name": "SERENA WU",
+        "Organization": {
+          "OrganizationID": 257504,
+          "Name": "RE/MAX EXCEL REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637496896720000000/lowres/1214882.jpg",
+          "Address": {
+            "AddressText": "50 ACADIA AVE SUITE 120|MARKHAM, Ontario L3R0B3",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "475-4750",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "475-4770",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/257504/remax-excel-realty-ltd-50-acadia-ave-suite-120-markham-ontario-l3r0b3",
+          "PhotoLastupdate": "2021-02-23 3:07:52 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "338-0330",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "338-0330",
+            "AreaCode": "647",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455771706"
+          }
+        ],
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "SERENA",
+        "LastName": "WU",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1905558/serena-wu-50-acadia-ave-suite-120-markham-ontario-l3r0b3",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1958526,
+        "Name": "THOMAS TAO",
+        "Organization": {
+          "OrganizationID": 257504,
+          "Name": "RE/MAX EXCEL REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637496896720000000/lowres/1214882.jpg",
+          "Address": {
+            "AddressText": "50 ACADIA AVE SUITE 120|MARKHAM, Ontario L3R0B3",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "475-4750",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "475-4770",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/257504/remax-excel-realty-ltd-50-acadia-ave-suite-120-markham-ontario-l3r0b3",
+          "PhotoLastupdate": "2021-02-23 3:07:52 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "475-4750",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459365872"
+          }
+        ],
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "THOMAS",
+        "LastName": "TAO",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1958526/thomas-tao-50-acadia-ave-suite-120-markham-ontario-l3r0b3",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,850,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5352 ST JOHN'S SDRD|Whitchurch-Stouffville, Ontario L4A7X4",
+        "Longitude": "-79.2976658189235",
+        "Latitude": "44.0576992461055",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637496896724230000/reb82/highres/4/n5124894_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637496896724230000/reb82/medres/4/n5124894_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637496896724230000/reb82/lowres/4/n5124894_1.jpg",
+          "LastUpdated": "2021-02-23 3:07:52 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "15",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,850,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1850000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "550.11 FT   ; 549.94Ft. X 448.51Ft. X 550.46Ft. X 408.|5 - 9.99 acres"
+    },
+    "PostalCode": "L4A7X4",
+    "RelativeDetailsURL": "/real-estate/22846838/5352-st-johns-sdrd-whitchurch-stouffville-rural-whitchurch-stouffville",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-23 8:07:52 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22846838/5352-st-johns-sdrd-whitchurch-stouffville-rural-whitchurch-stouffville",
+    "RelativeURLFr": "/immobilier/22846838/5352-st-johns-sdrd-whitchurch-stouffville"
+  },
+  {
     "Id": "22635461",
     "MlsNumber": "N5053481",
     "PublicRemarks": "Find Your Dream Property Approximate 100 Acres And A Beautiful Old Custom 2+2 Bedroom Bungalow, 2 Car Garage, Bright Modern Finished Walk-Out Basement, Fabulous Open Concept Kitchen & Family Room W/Walk Out From Family Room, Private Setting & Scenic View. 10 Mins From Hwy 48. Large Barn W/200 Amp Service. New Well And Septic. Basement Clear Without Any Support Post. Icf Construction In Basement. Great House And Huge Cold Cellar!**** EXTRAS **** Alarm System, Central Vac (As Is). Includes Elf's, Microwave And Dishwasher. Hot Water Tank Owned. Plumbing Rough In Basement. Great Potential To Sub-Dividing To Smaller Lots. (27688942)",
@@ -3195,6 +5623,132 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22415515/837147-4th-line-mulmur-rural-mulmur",
     "RelativeURLFr": "/immobilier/22415515/837147-4th-line-mulmur"
+  },
+  {
+    "Id": "22795876",
+    "MlsNumber": "N5107817",
+    "PublicRemarks": "Enjoy Your \"\"Country Living\"\" In This Viceroy Style Home With A Modern Design On A Picturesque 9.75 Acre Mature Lot! Surrounded Views From Every Room. This Stunning Two Story Exemplifies Exceptional Detail & Craftmanship From 23' Vaulted Ceilings To A Showpiece Kitchen, This Rare Offering Will Turn Heads In Every Rm Boasting Granite Counters, Centre Island, Two Built In Ovens, Induction Stove-Top, Large Hot Tub And More..**** EXTRAS **** Stainless Steel Fridge, Double Full Size Ovens, Induction Stove-Top, Garburator, Built In Dishwasher, Hot Tub (27903693)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1873784,
+        "Name": "RAY NICOLINI",
+        "Organization": {
+          "OrganizationID": 51517,
+          "Name": "CENTURY 21 ST. ANDREW'S REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637496012090000000/lowres/51517.jpg",
+          "Address": {
+            "AddressText": "11 WELLINGTON STREET E UNIT B|AURORA, Ontario L4G1H4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "841-1030",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "841-7922",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51517/century-21-st-andrews-realty-inc-11-wellington-street-e-unit-b-aurora-ontario-l4g1h4",
+          "PhotoLastupdate": "2021-02-22 2:33:29 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "841-1030",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.realtorray.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455760330"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637019025000000000/lowres/1203778.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "RAY",
+        "LastName": "NICOLINI",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1873784/ray-nicolini-11-wellington-street-e-unit-b-aurora-ontario-l4g1h4",
+        "AgentPhotoLastUpdated": "2019-08-20 12:55:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637019025000000000/highres/1203778.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,899,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6930 RAVENSHOE RD|Georgina, Ontario L0E1R0",
+        "Longitude": "-79.2910556",
+        "Latitude": "44.233246",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637495946812700000/reb82/highres/7/n5107817_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637495946812700000/reb82/medres/7/n5107817_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637495946812700000/reb82/lowres/7/n5107817_1.jpg",
+          "LastUpdated": "2021-02-22 12:44:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,899,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1899000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "477.07 x 895.07 FT   ; As Per Plan|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://advirtours.view.property/public/vtour/display/1780275#!/"
+    },
+    "PostalCode": "L0E1R0",
+    "RelativeDetailsURL": "/real-estate/22795876/6930-ravenshoe-rd-georgina-baldwin",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-22 5:44:41 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22795876/6930-ravenshoe-rd-georgina-baldwin",
+    "RelativeURLFr": "/immobilier/22795876/6930-ravenshoe-rd-georgina"
   },
   {
     "Id": "22205231",
@@ -3470,6 +6024,456 @@
     "RelativeURLFr": "/immobilier/22745762/50-hochreiter-rd-king"
   },
   {
+    "Id": "22811840",
+    "MlsNumber": "W5113106",
+    "PublicRemarks": "Beautiful Rural Property Over 9 Acres Of Land With House With 2400 Sq Ft Workshop In The Back, Family Home/ Business Opportunity Or Perfect Investment Property For Rental / Business, With In 10 Mins To Highway 401, Prestigious Circular Driveway With Ornamental Gate Surrounded By Beautiful Trees, Over 4000 Sq Ft Of Stunning Finished Space, Plz Show And Sell.**** EXTRAS **** All Elf's, All Appliances, New Roof, New Washrooms Upstairs, New Laminate Floor In The Basement, New Deck. 200 Amp Service In The House, New Water Pump. (27924946)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1736581,
+        "Name": "GURSHARAN BAJWA",
+        "Organization": {
+          "OrganizationID": 247448,
+          "Name": "HOMELIFE MAPLE LEAF REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637493561610000000/lowres/247448.jpg",
+          "Address": {
+            "AddressText": "80 EASTERN AVENUE #3|BRAMPTON, Ontario L6W1X9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "456-9090",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "456-9091",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881653"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.hlmapleleaf.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/247448/homelife-maple-leaf-realty-ltd-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+          "PhotoLastupdate": "2021-02-19 6:29:21 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "289-5548",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://Www.bajwahomes.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463734152"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636967203600000000/lowres/1178040.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "GURSHARAN",
+        "LastName": "BAJWA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1736581/gursharan-bajwa-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+        "AgentPhotoLastUpdated": "2019-06-21 13:26:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636967203600000000/highres/1178040.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1940748,
+        "Name": "KIRITPAL GREWAL",
+        "Organization": {
+          "OrganizationID": 247448,
+          "Name": "HOMELIFE MAPLE LEAF REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637493561610000000/lowres/247448.jpg",
+          "Address": {
+            "AddressText": "80 EASTERN AVENUE #3|BRAMPTON, Ontario L6W1X9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "456-9090",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "456-9091",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881653"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.hlmapleleaf.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/247448/homelife-maple-leaf-realty-ltd-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+          "PhotoLastupdate": "2021-02-19 6:29:21 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "456-9090",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://kiritpalgrewal.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459353439"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1940748.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "KIRITPAL",
+        "LastName": "GREWAL",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1940748/kiritpal-grewal-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1940748.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,949,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "11255 REGIONAL ROAD 25 RD|Halton Hills, Ontario",
+        "Longitude": "-79.9819703",
+        "Latitude": "43.5849818",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/highres/6/w5113106_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/medres/6/w5113106_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/lowres/6/w5113106_1.jpg",
+          "LastUpdated": "2021-02-12 7:38:00 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,949,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1949000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "430 x 969 FT|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://tours.ultraflick.ca/11255-regional-road-25-halton-hills/nb/"
+    },
+    "PostalCode": "",
+    "RelativeDetailsURL": "/real-estate/22811840/11255-regional-road-25-rd-halton-hills-rural-halton-hills",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-13 12:38:01 AM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22811840/11255-regional-road-25-rd-halton-hills-rural-halton-hills",
+    "RelativeURLFr": "/immobilier/22811840/11255-regional-road-25-rd-halton-hills"
+  },
+  {
+    "Id": "22866718",
+    "MlsNumber": "40073447",
+    "PublicRemarks": "Cottage country without the drive! Imagine driving to your own private retreat with towering pine trees, walking trails, waterfall and your own private island! Now imagine not having to drive 3hrs in traffic to enjoy its beauty. This spectacular setting is situated in the Township of Puslinch, On AND its one of a kind. Approximately 35 acres of protected waterfront situated on the Aberfoyle Mill Pond. The home has been completely re-built and offers such serenity with beautiful windows allowing views of the sunsets and sunrises from every angle over the pond. An abundance of waterfowl visits the shoreline each year to hatch their yearlings only to return the next year to continue the circle of life. If you are a fisherman then cast a line as the water has served as a great breeding ground for many species of fish. Maybe you just want to paddle around in your canoe or paddle board, either works great on your private pond. Camping under the stars in the summer months or skating and cross country skiing in the winter months are all options. Visit your own private island just a short paddle from shore you can setup a tent catch dinner and enjoy over the campfire. Sounds too good to be true. This truly magical property is one of a kind and certainly needs to be seen to be appreciated The stunning 2 bedroom (could convert to 3) bungalow floorplan offering wide open space, heated radiant flooring, vaulted ceilings, double car garage, treks decking, 3 season sunroom, cozy family room, 2 gas fireplaces, stone accent wall, large Master bedroom with walk-in closet and 4 pc ensuite. All this and more with easy access to hospital, schools, shopping, major highway! Call today for your personal tour (62940165)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "2 + 0",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1388624,
+        "Name": "Teri Lynn Hilson",
+        "Organization": {
+          "OrganizationID": 280832,
+          "Name": "RE/MAX Real Estate Centre Inc, Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637501946530000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "345 Steeles Avenue East, Unit A|Milton, Ontario L9T3G6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "878-7777",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "878-7029",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxcentre.ca/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/280832/remax-real-estate-centre-inc-brokerage-345-steeles-avenue-east-unit-a-milton-ontario-l9t3g6",
+          "PhotoLastupdate": "2021-03-01 11:24:13 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "334-1676",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "878-7029",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.listednsold.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "http://www.facebook.com/Milton.Ont1/",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "http://www.instagram.com/teamhilson/",
+            "WebsiteTypeId": "5"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "462848045"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636758779200000000/lowres/1035799.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Teri Lynn",
+        "LastName": "Hilson",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1388624/teri-lynn-hilson-345-steeles-avenue-east-unit-a-milton-ontario-l9t3g6",
+        "AgentPhotoLastUpdated": "2018-10-23 07:52:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636758779200000000/highres/1035799.jpg",
+        "RankMyAgentKey": "20475",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2108484,
+        "Name": "Courtney Hilson",
+        "Organization": {
+          "OrganizationID": 205365,
+          "Name": "RE/MAX Real Estate Centre Inc, Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637501946530000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "345 Steeles Avenue East|Milton, Ontario L9T3G6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "878-7777",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "878-7029",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxcentre.ca/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/205365/remax-real-estate-centre-inc-brokerage-345-steeles-avenue-east-milton-ontario-l9t3g6",
+          "PhotoLastupdate": "2021-03-01 11:24:13 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "699-0488",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "878-7029",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.listednsold.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "http://www.facebook.com/Milton.Ont1",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "http://www.instagram.com/courtneyhilson.remax/",
+            "WebsiteTypeId": "5"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "462846834"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637478150400000000/lowres/1377402.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Courtney",
+        "LastName": "Hilson",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2108484/courtney-hilson-345-steeles-avenue-east-milton-ontario-l9t3g6",
+        "AgentPhotoLastUpdated": "2021-02-01 22:24:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637478150400000000/highres/1377402.jpg",
+        "RankMyAgentKey": "20475",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,985,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "30 OLD BROCK Road|Aberfoyle, Ontario N0B2J0",
+        "Longitude": "-80.14442661",
+        "Latitude": "43.47232423",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637501946534430000/reb15/highres/7/40073447_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637501946534430000/reb15/medres/7/40073447_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637501946534430000/reb15/lowres/7/40073447_1.jpg",
+          "LastUpdated": "2021-03-01 11:24:13 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Inside Entry"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools, Shopping",
+      "ConvertedPrice": "$1,985,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel, Inside Entry",
+      "PriceUnformattedValue": "1985000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "33 ac|25 - 50 acres",
+      "AccessType": "Road access",
+      "LandscapeFeatures": "Landscaped"
+    },
+    "PostalCode": "N0B2J0",
+    "RelativeDetailsURL": "/real-estate/22866718/30-old-brock-road-aberfoyle",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-01 4:24:13 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22866718/30-old-brock-road-aberfoyle",
+    "RelativeURLFr": "/immobilier/22866718/30-old-brock-road-aberfoyle"
+  },
+  {
     "Id": "22606085",
     "MlsNumber": "40045941",
     "PublicRemarks": "Built In The Heart Of Oak Ridge Golf Club This Custom Built Southwest Contemporary Home Features; Cathedral Ceilings, Chandeliers, 3 Fireplaces, 4 Walkouts, Custom Kitchen W Corian, Entertaining Centre, 6 Bedrooms, 6 Bathrooms, 2 Master Suites, 2 Inlaw Suites (1 Roughed In) 10' Ceiling Height Throughout Including Basement. Nascor Insulated Wall Panels, Steel Framed Constr, Roof (2010) Completely Lined With Ice And Water Shield, Too Many Extras A Must See! Craftsmans' Wkshop With Sep. Ent. Fam Rm, Office, Fpl/Thtre Rm, Sound Proof Bedroom, Storage, 3Pc Bath 2 Geothermal Furnaces, Hw On Demand, Water Soft, Drill Well, 2 X200 Breaker Panel. Please See Full Feature List. Min From The 407. (62652026)",
@@ -3608,5 +6612,116 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22606085/7-wyldewood-court-scugog",
     "RelativeURLFr": "/immobilier/22606085/7-wyldewood-court-scugog"
+  },
+  {
+    "Id": "22837514",
+    "MlsNumber": "N5121741",
+    "PublicRemarks": "Not To Be Missed. Prime Land, A Great Opportunity To Purchase In The Heart Of Bradford. This Land Is The Only One With The Access To The Crown Land With Trails For Hiking And Nature Walk. Treed 8.68 Acres Hobby Farm, Detached 3 Bedroom 2 Washroom House, Separate Barn, Separate Workshop, Crown Land At The Back. There Are Approx 4000 Trees Ready To Be Sold For $200,000.**** EXTRAS **** Newer Fridge, Stove, Dishwasher, Washer Dryer (27959255)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1414149,
+        "Name": "MAOOD BIN TAHIR",
+        "Organization": {
+          "OrganizationID": 51093,
+          "Name": "DREAM LAND REALTY INC.",
+          "Address": {
+            "AddressText": "17 TODD BROOK DRIVE|TORONTO, Ontario M9V1R5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "748-0020",
+              "AreaCode": "416",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "748-9910",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51093/dream-land-realty-inc-17-todd-brook-drive-toronto-ontario-m9v1r5",
+          "PhotoLastupdate": "2021-02-26 8:11:57 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "748-0020",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.dreamlandrealty.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455703505"
+          }
+        ],
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "MAOOD BIN",
+        "LastName": "TAHIR",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1414149/maood-bin-tahir-17-todd-brook-drive-toronto-ontario-m9v1r5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,999,800",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "3992 10 SDRD|Bradford West Gwillimbury, Ontario L3Z2A5",
+        "Longitude": "-79.615714",
+        "Latitude": "44.1617896",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637498895821200000/reb82/highres/1/n5121741_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637498895821200000/reb82/medres/1/n5121741_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637498895821200000/reb82/lowres/1/n5121741_1.jpg",
+          "LastUpdated": "2021-02-25 10:39:42 PM"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,800 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "PriceUnformattedValue": "1999800"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "134.53 x 165.14 M   ; Irregular Approx 8.68Acres|5 - 9.99 acres"
+    },
+    "PostalCode": "L3Z2A5",
+    "RelativeDetailsURL": "/real-estate/22837514/3992-10-sdrd-bradford-west-gwillimbury-rural-bradford-west-gwillimbury",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-02-26 3:39:42 AM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22837514/3992-10-sdrd-bradford-west-gwillimbury-rural-bradford-west-gwillimbury",
+    "RelativeURLFr": "/immobilier/22837514/3992-10-sdrd-bradford-west-gwillimbury"
   }
 ]
