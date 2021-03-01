@@ -141,10 +141,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637500314451970000/reb82/highres/7/n5130347_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637500314451970000/reb82/medres/7/n5130347_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637500314451970000/reb82/lowres/7/n5130347_1.jpg",
-          "LastUpdated": "2021-02-27 2:04:05 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637501181285270000/reb82/highres/7/n5130347_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637501181285270000/reb82/medres/7/n5130347_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637501181285270000/reb82/lowres/7/n5130347_1.jpg",
+          "LastUpdated": "2021-02-28 2:08:48 PM"
         }
       ],
       "Parking": [
@@ -255,47 +255,6 @@
       "Bedrooms": "4 + 2",
       "StoriesTotal": "2",
       "Type": "House"
-    }
-  },
-  {
-    "Id": "22735747",
-    "Property": {
-      "Price": "$1,479,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1621 WEMBURY Road|Mississauga, Ontario L5J2L8",
-        "Longitude": "-79.63729778",
-        "Latitude": "43.53231019",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637466709369930000/reb15/highres/5/40058015_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637466709369930000/reb15/medres/5/40058015_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637466709369930000/reb15/lowres/5/40058015_1.jpg",
-          "LastUpdated": "2021-01-19 4:35:36 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,479,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1479000"
-    },
-    "Land": {
-      "SizeTotal": "50 - 100 acres",
-      "SizeFrontage": "86 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "2 + 1",
-      "StoriesTotal": "1",
-      "Type": "House",
-      "UnitTotal": "0"
     }
   },
   {
