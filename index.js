@@ -19,10 +19,11 @@ let opts = {
   PriceMax: max,
   SortOrder: 6,
   SortOrder: "A",
-  BedRange: "1-0",
+  BedRange: "3-0",
   RecordsPerPage: 200,
   MaximumResults: 1,
   LandSizeRange: "5-0",
+  Garage: 1,
 };
 
 async function main() {
