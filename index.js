@@ -22,7 +22,7 @@ let opts = {
   BedRange: "1-0",
   RecordsPerPage: 200,
   MaximumResults: 1,
-  LandSizeRange: "10-0",
+  LandSizeRange: "5-0",
 };
 
 async function main() {
