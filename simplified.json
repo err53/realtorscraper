@@ -233,127 +233,6 @@
     }
   },
   {
-    "Id": "22856802",
-    "Property": {
-      "Price": "$1,299,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "375721 6TH LINE|Amaranth, Ontario L0N1S0",
-        "Longitude": "-80.25071418",
-        "Latitude": "44.06846511",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637498667257770000/reb85/highres/1/40072281_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637498667257770000/reb85/medres/1/40072281_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637498667257770000/reb85/lowres/1/40072281_1.jpg",
-          "LastUpdated": "2021-02-25 4:18:45 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Park, Schools, Shopping",
-      "ConvertedPrice": "$1,299,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1299000"
-    },
-    "Land": {
-      "SizeTotal": "5 - 9.99 acres",
-      "SizeFrontage": "683 ft"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "1410.0000",
-      "StoriesTotal": "1",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
-    "Id": "22773640",
-    "Property": {
-      "Price": "$1,299,800",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "70 KYDD LANE|Uxbridge, Ontario L0C1H0",
-        "Longitude": "-79.1452609",
-        "Latitude": "44.2503093",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637478034471870000/reb82/highres/2/n5100552_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637478034471870000/reb82/medres/2/n5100552_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637478034471870000/reb82/lowres/2/n5100552_1.jpg",
-          "LastUpdated": "2021-02-01 7:10:47 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,299,800 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1299800"
-    },
-    "Land": {
-      "SizeTotal": "343.2 x 1269.68 FT|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22791944",
-    "Property": {
-      "Price": "$1,299,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5834 SIXTH LINE|Guelph/Eramosa, Ontario N0B2K0",
-        "Longitude": "-80.2383424",
-        "Latitude": "43.7016609",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637481938808570000/reb86/highres/2/x5106552_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637481938808570000/reb86/medres/2/x5106552_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637481938808570000/reb86/lowres/2/x5106552_1.jpg",
-          "LastUpdated": "2021-02-06 7:38:00 AM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,299,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1299900"
-    },
-    "Land": {
-      "SizeTotal": "Approx 6 Acres|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "5",
-      "StoriesTotal": "2.5000",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22864108",
     "Property": {
       "Price": "$1,349,000",
@@ -395,45 +274,6 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22778001",
-    "Property": {
-      "Price": "$1,385,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "280 PUMPHOUSE RD|King, Ontario L3Z2A6",
-        "Longitude": "-79.544551",
-        "Latitude": "44.1049483",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637478876955300000/reb82/highres/3/n5101853_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637478876955300000/reb82/medres/3/n5101853_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637478876955300000/reb82/lowres/3/n5101853_1.jpg",
-          "LastUpdated": "2021-02-02 6:34:55 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,385,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1385000"
-    },
-    "Land": {
-      "SizeTotal": "394.09 FT   ; 721Ft*480Ft*648Ft*75Ft*148Ft*394Ft|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -486,45 +326,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "3 + 0",
       "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22413771",
-    "Property": {
-      "Price": "$1,395,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "174 REGIONAL RD 39 RD|Uxbridge, Ontario L0E1T0",
-        "Longitude": "-79.2879813",
-        "Latitude": "44.1763515",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637369801810470000/reb82/highres/9/n4928619_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637369801810470000/reb82/medres/9/n4928619_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637369801810470000/reb82/lowres/9/n4928619_1.jpg",
-          "LastUpdated": "2020-09-29 12:43:01 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,395,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1395000"
-    },
-    "Land": {
-      "SizeTotal": "14.85 Acre   ; Per Mpac|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -714,45 +515,6 @@
     }
   },
   {
-    "Id": "22842433",
-    "Property": {
-      "Price": "$1,498,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "351 HIGHWAY 47 RD|Uxbridge, Ontario L9P1R3",
-        "Longitude": "-79.1857733674797",
-        "Latitude": "44.0419780204353",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637496012420730000/reb82/highres/4/n5123034_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637496012420730000/reb82/medres/4/n5123034_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637496012420730000/reb82/lowres/4/n5123034_1.jpg",
-          "LastUpdated": "2021-02-22 2:34:02 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,498,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1498000"
-    },
-    "Land": {
-      "SizeTotal": "12.88 Acre|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22832354",
     "Property": {
       "Price": "$1,524,999",
@@ -839,48 +601,6 @@
       "Bedrooms": "2 + 1",
       "StoriesTotal": "1",
       "Type": "House"
-    }
-  },
-  {
-    "Id": "22059815",
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Vacant Land",
-      "Address": {
-        "AddressText": "18367 KEELE ST|King, Ontario L7B0G5",
-        "Longitude": "-79.5564365",
-        "Latitude": "44.0600906",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637305863523100000/reb82/highres/6/n4816576_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637305863523100000/reb82/medres/6/n4816576_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637305863523100000/reb82/lowres/6/n4816576_1.jpg",
-          "LastUpdated": "2020-07-17 12:39:12 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "16",
-      "TypeId": "303",
-      "AmmenitiesNearBy": "Hospital",
-      "ConvertedPrice": "$1,599,000 ",
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Land": {
-      "SizeTotal": "297.2 x 2080.9 FT   ; South-1681.60, Back- 526.07,North-2080.9|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "2",
-      "StoriesTotal": "1"
     }
   },
   {
@@ -978,45 +698,6 @@
       "Bedrooms": "13 + 0",
       "SizeInterior": "5360.0000",
       "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "20189014",
-    "Property": {
-      "Price": "$1,700,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5826 FIRST LINE|Erin, Ontario L0N1Z0",
-        "Longitude": "-80.2066335",
-        "Latitude": "43.7310798",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS636806669261970000/reb86/highres/9/x4323549_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS636806669261970000/reb86/medres/9/x4323549_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS636806669261970000/reb86/lowres/9/x4323549_1.jpg",
-          "LastUpdated": "2018-12-17 6:08:46 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,700,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1700000"
-    },
-    "Land": {
-      "SizeTotal": "992 x 1090 FT|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "9 + 4",
-      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -1167,45 +848,6 @@
       "StoriesTotal": "1",
       "Type": "House",
       "UnitTotal": "1"
-    }
-  },
-  {
-    "Id": "22721212",
-    "Property": {
-      "Price": "$1,799,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "4981 VIVIAN RD|Whitchurch-Stouffville, Ontario L4A2A9",
-        "Longitude": "-79.3144721",
-        "Latitude": "44.0710532",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637462081538500000/reb82/highres/2/n5083992_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637462081538500000/reb82/medres/2/n5083992_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637462081538500000/reb82/lowres/2/n5083992_1.jpg",
-          "LastUpdated": "2021-01-14 8:02:33 AM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1799000"
-    },
-    "Land": {
-      "SizeTotal": "12.64 Acre|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "2",
-      "StoriesTotal": "1",
-      "Type": "House"
     }
   },
   {
@@ -1539,41 +1181,6 @@
     }
   },
   {
-    "Id": "22415515",
-    "Property": {
-      "Price": "$1,895,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "837147 4TH LINE|Mulmur, Ontario L0N1M0",
-        "Longitude": "-80.0711023904886",
-        "Latitude": "44.1697294774333",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637420846689900000/reb86/highres/0/x4929420_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637420846689900000/reb86/medres/0/x4929420_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637420846689900000/reb86/lowres/0/x4929420_1.jpg",
-          "LastUpdated": "2020-11-27 2:37:48 PM"
-        }
-      ],
-      "TypeId": "300",
-      "ConvertedPrice": "$1,895,000 ",
-      "PriceUnformattedValue": "1895000"
-    },
-    "Land": {
-      "SizeTotal": "71.8 Acre   ; 71.80 Irregular Acres|50 - 100 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22795876",
     "Property": {
       "Price": "$1,899,000",
@@ -1662,46 +1269,6 @@
     }
   },
   {
-    "Id": "22745762",
-    "Property": {
-      "Price": "$1,900,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "50 HOCHREITER RD|King, Ontario L0G1H6",
-        "Longitude": "-79.5282114",
-        "Latitude": "44.135006",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637469233934830000/reb82/highres/8/n5091718_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637469233934830000/reb82/medres/8/n5091718_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637469233934830000/reb82/lowres/8/n5091718_1.jpg",
-          "LastUpdated": "2021-01-22 2:43:13 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Marina",
-      "ConvertedPrice": "$1,900,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1900000"
-    },
-    "Land": {
-      "SizeTotal": "1351.65 x 400.21 FT   ; 12.4 Acres|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "4",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22811840",
     "Property": {
       "Price": "$1,949,000",
@@ -1743,61 +1310,6 @@
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "3 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22866718",
-    "Property": {
-      "Price": "$1,985,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "30 OLD BROCK Road|Aberfoyle, Ontario N0B2J0",
-        "Longitude": "-80.14442661",
-        "Latitude": "43.47232423",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637501946534430000/reb15/highres/7/40073447_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637501946534430000/reb15/medres/7/40073447_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637501946534430000/reb15/lowres/7/40073447_1.jpg",
-          "LastUpdated": "2021-03-01 11:24:13 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
-        },
-        {
-          "Name": "Inside Entry"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools, Shopping",
-      "ConvertedPrice": "$1,985,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Gravel, Inside Entry",
-      "PriceUnformattedValue": "1985000"
-    },
-    "Land": {
-      "SizeTotal": "33 ac|25 - 50 acres",
-      "AccessType": "Road access",
-      "LandscapeFeatures": "Landscaped"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "2 + 0",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -1853,44 +1365,6 @@
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "2"
-    }
-  },
-  {
-    "Id": "22837514",
-    "Property": {
-      "Price": "$1,999,800",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "3992 10 SDRD|Bradford West Gwillimbury, Ontario L3Z2A5",
-        "Longitude": "-79.615714",
-        "Latitude": "44.1617896",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637498895821200000/reb82/highres/1/n5121741_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637498895821200000/reb82/medres/1/n5121741_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637498895821200000/reb82/lowres/1/n5121741_1.jpg",
-          "LastUpdated": "2021-02-25 10:39:42 PM"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,999,800 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "PriceUnformattedValue": "1999800"
-    },
-    "Land": {
-      "SizeTotal": "134.53 x 165.14 M   ; Irregular Approx 8.68Acres|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "Type": "House"
     }
   }
 ]
