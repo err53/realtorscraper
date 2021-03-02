@@ -1,52 +1,5 @@
 [
   {
-    "Id": "22856182",
-    "Property": {
-      "Price": "$1,124,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "2105 MAPLE GROVE RD|Cambridge, Ontario N3C2V3",
-        "Longitude": "-80.3391309",
-        "Latitude": "43.4310053",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637498599229000000/reb82/highres/4/x5127444_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637498599229000000/reb82/medres/4/x5127444_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637498599229000000/reb82/lowres/4/x5127444_1.jpg",
-          "LastUpdated": "2021-02-25 2:25:22 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools",
-      "ConvertedPrice": "$1,124,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1124900"
-    },
-    "Land": {
-      "SizeTotal": "151.38 x 763.13 FT   ; 349.49' X 382.66' X 167.78' X 7|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22765943",
     "Property": {
       "Price": "$1,199,000",
@@ -183,52 +136,6 @@
       "BathroomTotal": "1",
       "Bedrooms": "4 + 0",
       "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22837715",
-    "Property": {
-      "Price": "$1,249,999",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1069 LINE 1 RD|Niagara-on-the-Lake, Ontario L0S1J0",
-        "Longitude": "-79.0938366",
-        "Latitude": "43.2260352",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637493591808230000/reb82/highres/9/x5121619_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637493591808230000/reb82/medres/9/x5121619_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637493591808230000/reb82/lowres/9/x5121619_1.jpg",
-          "LastUpdated": "2021-02-19 7:19:40 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "5",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,249,999 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1249999"
-    },
-    "Land": {
-      "SizeTotal": "288.07 x 1343.64 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -588,8 +495,12 @@
       ],
       "ParkingSpaceTotal": "8",
       "TypeId": "300",
+      "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Ski area",
       "ConvertedPrice": "$1,589,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
       "ParkingType": "Attached Garage",
       "PriceUnformattedValue": "1589900"
     },
@@ -1311,6 +1222,52 @@
       "BathroomTotal": "4",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22868511",
+    "Property": {
+      "Price": "$1,949,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "833366 4TH LINE|Mono, Ontario L9W5Z4",
+        "Longitude": "-80.0255396",
+        "Latitude": "43.9691024",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637502063376670000/reb82/highres/1/x5131581_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637502063376670000/reb82/medres/1/x5131581_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637502063376670000/reb82/lowres/1/x5131581_1.jpg",
+          "LastUpdated": "2021-03-01 2:38:57 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "15",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,949,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1949000"
+    },
+    "Land": {
+      "SizeTotal": "323.26 x 1032.99 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4 + 1",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
