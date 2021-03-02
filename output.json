@@ -703,7 +703,6 @@
     "RelativeDetailsURL": "/real-estate/22864108/7102-9th-line-new-tecumseth-rural-new-tecumseth",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-02-28 7:08:48 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22864108/7102-9th-line-new-tecumseth-rural-new-tecumseth",
     "RelativeURLFr": "/immobilier/22864108/7102-9th-line-new-tecumseth"
@@ -1015,8 +1014,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "7747 15TH SDRD|Adjala-Tosorontio, Ontario L0M1J0",
-        "Longitude": "-79.9242192",
-        "Latitude": "44.2230337",
+        "Longitude": "-79.7668271",
+        "Latitude": "44.175769",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -1838,6 +1837,532 @@
     "RelativeURLFr": "/immobilier/22864120/481-webb-rd-uxbridge"
   },
   {
+    "Id": "22871328",
+    "MlsNumber": "40070842",
+    "PublicRemarks": "One of a kind, 2.5-storey, century stone home on over 13 acres, situated just north of Rockwood and 20 minutes from Guelph. Large circa 1855-built home with some updates, including a galley kitchen with stainless appliances, metal roof, and otherwise - ready for your imagination. The main floor has large principle rooms, some original trim work, a retro main floor 3pc bathroom, and there is an expansive, bright great room with wood burning fireplace in a 2-storey addition that was completed in 1988. This signature room overlooks the abutting open and private farmland. Upstairs are 3 large bedrooms, another 3pc bath that is a cheater-ensuite to the master, and a vast 2nd floor den. Up another flight of steps and you are in the finished, approximately 200 square foot attic - a nook for reading, a hide-away play room, an office, or fabulous storage. The home is heated by geothermal forced air furnace. Approximately 64' x 54' bank barn with attached 3-car garage, a beautiful private spring fed swimming pond and bordering Lutteral Creek. With a setting this serene (including some wetlands and pastures) and nature as your neighbour, you can create your own idyllic enclave to enjoy for many years. Take the drone flight, view the photos and come and visit! Lots of history here! (62942170)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "3000.0000",
+      "StoriesTotal": "2.5000",
+      "Type": "House",
+      "UnitTotal": "2"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1555458,
+        "Name": "John Clark",
+        "Organization": {
+          "OrganizationID": 85456,
+          "Name": "Royal LePage Royal City Realty Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502798730000000/lowres/1002052.jpg",
+          "Address": {
+            "AddressText": "214 Speedvale Avenue West|Guelph, Ontario N1H1C4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "821-6191",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "821-6764",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460126995"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royalcity.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/85456/royal-lepage-royal-city-realty-brokerage-214-speedvale-avenue-west-guelph-ontario-n1h1c4",
+          "PhotoLastupdate": "2021-03-02 11:04:33 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "835-2900",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "821-6764",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.greatguelphrealestate.ca",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/thercteam/",
+            "WebsiteTypeId": "2"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456779188"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1044348.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "John",
+        "LastName": "Clark",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1555458/john-clark-214-speedvale-avenue-west-guelph-ontario-n1h1c4",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1044348.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1587443,
+        "Name": "Jeff C. Morley",
+        "Organization": {
+          "OrganizationID": 150024,
+          "Name": "Royal LePage Royal City Realty Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502798730000000/lowres/1178772.jpg",
+          "Address": {
+            "AddressText": "118 Main Street|Rockwood, Ontario N0B2K0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "856-9922",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "856-9909",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460127177"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royalcity.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/150024/royal-lepage-royal-city-realty-brokerage-118-main-street-rockwood-ontario-n0b2k0",
+          "PhotoLastupdate": "2021-03-02 11:04:33 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "856-9922",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "856-9909",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.royallepage.ca/jeffmorley",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "464165820"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637060546800000000/lowres/1182838.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "Jeff",
+        "LastName": "Morley",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1587443/jeff-morley-118-main-street-rockwood-ontario-n0b2k0",
+        "AgentPhotoLastUpdated": "2019-10-07 14:18:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637060546800000000/highres/1182838.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1947110,
+        "Name": "Collette Aeschlimann",
+        "Organization": {
+          "OrganizationID": 85456,
+          "Name": "Royal LePage Royal City Realty Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502798730000000/lowres/1002052.jpg",
+          "Address": {
+            "AddressText": "214 Speedvale Avenue West|Guelph, Ontario N1H1C4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "821-6191",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "821-6764",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460126995"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royalcity.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/85456/royal-lepage-royal-city-realty-brokerage-214-speedvale-avenue-west-guelph-ontario-n1h1c4",
+          "PhotoLastupdate": "2021-03-02 11:04:33 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "821-6191",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "821-6764",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.rcteam.ca",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "http://www.facebook.com/thercteam/",
+            "WebsiteTypeId": "2"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "457417009"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636040834800000000/lowres/1947110.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Collette",
+        "LastName": "Aeschlimann",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1947110/collette-aeschlimann-214-speedvale-avenue-west-guelph-ontario-n1h1c4",
+        "AgentPhotoLastUpdated": "2016-07-14 08:58:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636040834800000000/highres/1947110.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1556676,
+        "Name": "Lorna Ronald",
+        "Organization": {
+          "OrganizationID": 85456,
+          "Name": "Royal LePage Royal City Realty Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502798730000000/lowres/1002052.jpg",
+          "Address": {
+            "AddressText": "214 Speedvale Avenue West|Guelph, Ontario N1H1C4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "821-6191",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "821-6764",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460126995"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royalcity.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/85456/royal-lepage-royal-city-realty-brokerage-214-speedvale-avenue-west-guelph-ontario-n1h1c4",
+          "PhotoLastupdate": "2021-03-02 11:04:33 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "821-6191",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "821-6764",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.greatguelphrealestate.ca",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/thercteam/",
+            "WebsiteTypeId": "2"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456778182"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1147462.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Lorna",
+        "LastName": "Ronald",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1556676/lorna-ronald-214-speedvale-avenue-west-guelph-ontario-n1h1c4",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1147462.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
+        "Longitude": "-80.21969319",
+        "Latitude": "43.6817002",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637502690491530000/reb44/highres/2/40070842_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637502690491530000/reb44/medres/2/40070842_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637502690491530000/reb44/lowres/2/40070842_1.jpg",
+          "LastUpdated": "2021-03-02 8:04:09 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage, Gravel",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "BrochureLink": "https://royalcity.com/listing/40070842",
+      "VideoLink": "https://youriguide.com/8423_side_rd_20_guelph_eramosa_on/"
+    },
+    "PostalCode": "N0B2K0",
+    "RelativeDetailsURL": "/real-estate/22871328/8423-sideroad-20-guelpheramosa",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-02 1:04:09 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22871328/8423-sideroad-20-guelpheramosa",
+    "RelativeURLFr": "/immobilier/22871328/8423-sideroad-20-guelpheramosa"
+  },
+  {
+    "Id": "22872976",
+    "MlsNumber": "X5133701",
+    "PublicRemarks": "One Of A Kind Century Stone Home On Over 13 Acres, Just North Of Rockwood. The Main Floor Has Large Principle Rooms, A 3Pc Bathroom And An Expansive Great Room. Upstairs Are 3 Large Bedrooms, A 3Pc Bath, And A 2nd Floor Den. Continuing Up Is A Finished, Approx. 200 Square Foot Attic. The Home Is Heated By Geothermal Forced Air Furnace. Approximately 64'X54' Bank Barn With Attached 3-Car Garage, A Private Spring Fed Swimming Pond And Bordering Lutteral Creek.**** EXTRAS **** Offers Conditional On Severance With Twp. Of Gue/Era For 90 Days From Acceptance. Property Being Sold \"\"As Is\"\". Water Sample Showing 0.0 In Supplements. Closing Date And Taxes/Assess. Pending Severance Completion. Pins 711700240 & 711700197 (28006677)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2082413,
+        "Name": "JEFF C. MORLEY",
+        "Organization": {
+          "OrganizationID": 80584,
+          "Name": "ROYAL LEPAGE ROYAL CITY REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502891580000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "118 MAIN STREET|ROCKWOOD, Ontario N0B2K0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "856-9922",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "856-9909",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/80584/royal-lepage-royal-city-realty-ltd-118-main-street-rockwood-ontario-n0b2k0",
+          "PhotoLastupdate": "2021-03-02 1:39:18 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "856-9922",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459312358"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637087414800000000/lowres/1357250.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "JEFF C.",
+        "LastName": "MORLEY",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2082413/jeff-c-morley-118-main-street-rockwood-ontario-n0b2k0",
+        "AgentPhotoLastUpdated": "2019-11-07 16:38:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637087414800000000/highres/1357250.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
+        "Longitude": "-80.2246821",
+        "Latitude": "43.6800213",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/highres/1/x5133701_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/medres/1/x5133701_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/lowres/1/x5133701_1.jpg",
+          "LastUpdated": "2021-03-02 3:07:53 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://unbranded.youriguide.com/8423_side_rd_20_guelph_eramosa_on/"
+    },
+    "PostalCode": "N0B2K0",
+    "RelativeDetailsURL": "/real-estate/22872976/8423-sideroad-20-guelpheramosa-rural-guelpheramosa",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-02 8:07:54 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22872976/8423-sideroad-20-guelpheramosa-rural-guelpheramosa",
+    "RelativeURLFr": "/immobilier/22872976/8423-sideroad-20-guelpheramosa"
+  },
+  {
     "Id": "22756012",
     "MlsNumber": "X5094637",
     "PublicRemarks": "Welcome To Country Living! Located Just South-West Of Erin Village, Not Far From The City, This Fantastic Hobby Farm Sits On Just Under 6 Acres Of Land, Great Storage For Small Business, Includes Barn, Several Paddocks, 30'X36' Workshop With Hoist And 41'X80' Drive-Thru Coverall. Well Maintained, Charming 3- Bedroom Bungalow With Oversized 2-Car Garage (Being Sold As Is) Awaits Your Personal Touches. Public/Catholic Schools 7Min Drive, Bus Pick-Up At The Door**** EXTRAS **** Includes: Fridge, Stovetop, B/I Oven, Dishwasher, Washer, Dryer, Hwt, Water Softener, Gdo + 1 Remote, 200-Amp W/Pony Panel. Above Ground Pool, Deck Extension (2019) Roof (2019), Copy Of Survey Attached. (27850649)",
@@ -2315,7 +2840,7 @@
         "Organization": {
           "OrganizationID": 114628,
           "Name": "Royal LePage Meadowtowne Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637462401230000000/lowres/default/royallepage.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502234860000000/lowres/default/royallepage.gif",
           "Address": {
             "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
             "PermitShowAddress": true,
@@ -2331,7 +2856,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "464456487"
+              "ContactId": "464507090"
             }
           ],
           "Websites": [
@@ -2345,7 +2870,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-01-14 4:55:23 PM"
+          "PhotoLastupdate": "2021-03-01 7:24:46 PM"
         },
         "Phones": [
           {
@@ -2384,7 +2909,7 @@
         "Organization": {
           "OrganizationID": 114628,
           "Name": "Royal LePage Meadowtowne Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637462401230000000/lowres/default/royallepage.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502234860000000/lowres/default/royallepage.gif",
           "Address": {
             "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
             "PermitShowAddress": true,
@@ -2400,7 +2925,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "464456487"
+              "ContactId": "464507090"
             }
           ],
           "Websites": [
@@ -2414,7 +2939,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-01-14 4:55:23 PM"
+          "PhotoLastupdate": "2021-03-01 7:24:46 PM"
         },
         "Phones": [
           {
@@ -3793,134 +4318,6 @@
     "RelativeURLFr": "/immobilier/22846838/5352-st-johns-sdrd-whitchurch-stouffville"
   },
   {
-    "Id": "22635461",
-    "MlsNumber": "N5053481",
-    "PublicRemarks": "Find Your Dream Property Approximate 100 Acres And A Beautiful Old Custom 2+2 Bedroom Bungalow, 2 Car Garage, Bright Modern Finished Walk-Out Basement, Fabulous Open Concept Kitchen & Family Room W/Walk Out From Family Room, Private Setting & Scenic View. 10 Mins From Hwy 48. Large Barn W/200 Amp Service. New Well And Septic. Basement Clear Without Any Support Post. Icf Construction In Basement. Great House And Huge Cold Cellar!**** EXTRAS **** Alarm System, Central Vac (As Is). Includes Elf's, Microwave And Dishwasher. Hot Water Tank Owned. Plumbing Rough In Basement. Great Potential To Sub-Dividing To Smaller Lots. (27688942)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "2 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1787009,
-        "Name": "REX CHENG",
-        "Organization": {
-          "OrganizationID": 271499,
-          "Name": "HOMELIFE BEST CHOICE REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637424299710000000/lowres/271499.jpg",
-          "Address": {
-            "AddressText": "300 - 50 SHEPPARD AVE W.|TORONTO, Ontario M2N1M2",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "590-2888",
-              "AreaCode": "416",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "590-1568",
-              "AreaCode": "416",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414881794"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/271499/homelife-best-choice-realty-300-50-sheppard-ave-w-toronto-ontario-m2n1m2",
-          "PhotoLastupdate": "2020-12-01 2:32:51 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "590-2888",
-            "AreaCode": "416",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://rexcheng.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455751030"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1787009.jpg",
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "REX",
-        "LastName": "CHENG",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1787009/rex-cheng-300---50-sheppard-ave-w-toronto-ontario-m2n1m2",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1787009.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,888,800",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "465 BREWSTER RD|Uxbridge, Ontario L9P1R2",
-        "Longitude": "-79.2312124",
-        "Latitude": "44.2259912",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637495096801900000/reb82/highres/1/n5053481_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637495096801900000/reb82/medres/1/n5053481_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637495096801900000/reb82/lowres/1/n5053481_1.jpg",
-          "LastUpdated": "2021-02-21 1:08:00 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,888,800 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1888800"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "1183 x 3192 FT   ; 98.28 Acres.  R=1356 Ft. Per Lsrca|50 - 100 acres"
-    },
-    "PostalCode": "L9P1R2",
-    "RelativeDetailsURL": "/real-estate/22635461/465-brewster-rd-uxbridge-rural-uxbridge",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-02-21 6:08:00 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22635461/465-brewster-rd-uxbridge-rural-uxbridge",
-    "RelativeURLFr": "/immobilier/22635461/465-brewster-rd-uxbridge"
-  },
-  {
     "Id": "22795876",
     "MlsNumber": "N5107817",
     "PublicRemarks": "Enjoy Your \"\"Country Living\"\" In This Viceroy Style Home With A Modern Design On A Picturesque 9.75 Acre Mature Lot! Surrounded Views From Every Room. This Stunning Two Story Exemplifies Exceptional Detail & Craftmanship From 23' Vaulted Ceilings To A Showpiece Kitchen, This Rare Offering Will Turn Heads In Every Rm Boasting Granite Counters, Centre Island, Two Built In Ovens, Induction Stove-Top, Large Hot Tub And More..**** EXTRAS **** Stainless Steel Fridge, Double Full Size Ovens, Induction Stove-Top, Garburator, Built In Dishwasher, Hot Tub (27903693)",
@@ -4182,220 +4579,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22205231/5-linton-lane-king-nobleton",
     "RelativeURLFr": "/immobilier/22205231/5-linton-lane-king"
-  },
-  {
-    "Id": "22811840",
-    "MlsNumber": "W5113106",
-    "PublicRemarks": "Beautiful Rural Property Over 9 Acres Of Land With House With 2400 Sq Ft Workshop In The Back, Family Home/ Business Opportunity Or Perfect Investment Property For Rental / Business, With In 10 Mins To Highway 401, Prestigious Circular Driveway With Ornamental Gate Surrounded By Beautiful Trees, Over 4000 Sq Ft Of Stunning Finished Space, Plz Show And Sell.**** EXTRAS **** All Elf's, All Appliances, New Roof, New Washrooms Upstairs, New Laminate Floor In The Basement, New Deck. 200 Amp Service In The House, New Water Pump. (27924946)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1736581,
-        "Name": "GURSHARAN BAJWA",
-        "Organization": {
-          "OrganizationID": 247448,
-          "Name": "HOMELIFE MAPLE LEAF REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637493561610000000/lowres/247448.jpg",
-          "Address": {
-            "AddressText": "80 EASTERN AVENUE #3|BRAMPTON, Ontario L6W1X9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "456-9090",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "456-9091",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414881653"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.hlmapleleaf.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/247448/homelife-maple-leaf-realty-ltd-80-eastern-avenue-3-brampton-ontario-l6w1x9",
-          "PhotoLastupdate": "2021-02-19 6:29:21 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "289-5548",
-            "AreaCode": "647",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://Www.bajwahomes.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "463734152"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636967203600000000/lowres/1178040.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "GURSHARAN",
-        "LastName": "BAJWA",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1736581/gursharan-bajwa-80-eastern-avenue-3-brampton-ontario-l6w1x9",
-        "AgentPhotoLastUpdated": "2019-06-21 13:26:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636967203600000000/highres/1178040.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1940748,
-        "Name": "KIRITPAL GREWAL",
-        "Organization": {
-          "OrganizationID": 247448,
-          "Name": "HOMELIFE MAPLE LEAF REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637493561610000000/lowres/247448.jpg",
-          "Address": {
-            "AddressText": "80 EASTERN AVENUE #3|BRAMPTON, Ontario L6W1X9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "456-9090",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "456-9091",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414881653"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.hlmapleleaf.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/247448/homelife-maple-leaf-realty-ltd-80-eastern-avenue-3-brampton-ontario-l6w1x9",
-          "PhotoLastupdate": "2021-02-19 6:29:21 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "456-9090",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://kiritpalgrewal.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459353439"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1940748.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "KIRITPAL",
-        "LastName": "GREWAL",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1940748/kiritpal-grewal-80-eastern-avenue-3-brampton-ontario-l6w1x9",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1940748.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,949,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "11255 REGIONAL ROAD 25 RD|Halton Hills, Ontario",
-        "Longitude": "-79.9819703",
-        "Latitude": "43.5849818",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/highres/6/w5113106_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/medres/6/w5113106_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/lowres/6/w5113106_1.jpg",
-          "LastUpdated": "2021-02-12 7:38:00 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,949,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1949000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "430 x 969 FT|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://tours.ultraflick.ca/11255-regional-road-25-halton-hills/nb/"
-    },
-    "PostalCode": "",
-    "RelativeDetailsURL": "/real-estate/22811840/11255-regional-road-25-rd-halton-hills-rural-halton-hills",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-02-13 12:38:01 AM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22811840/11255-regional-road-25-rd-halton-hills-rural-halton-hills",
-    "RelativeURLFr": "/immobilier/22811840/11255-regional-road-25-rd-halton-hills"
   },
   {
     "Id": "22868511",

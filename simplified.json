@@ -243,8 +243,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "7747 15TH SDRD|Adjala-Tosorontio, Ontario L0M1J0",
-        "Longitude": "-79.9242192",
-        "Latitude": "44.2230337",
+        "Longitude": "-79.7668271",
+        "Latitude": "44.175769",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -511,6 +511,102 @@
       "BathroomTotal": "3",
       "Bedrooms": "2 + 1",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22871328",
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
+        "Longitude": "-80.21969319",
+        "Latitude": "43.6817002",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637502690491530000/reb44/highres/2/40070842_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637502690491530000/reb44/medres/2/40070842_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637502690491530000/reb44/lowres/2/40070842_1.jpg",
+          "LastUpdated": "2021-03-02 8:04:09 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage, Gravel",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "3000.0000",
+      "StoriesTotal": "2.5000",
+      "Type": "House",
+      "UnitTotal": "2"
+    }
+  },
+  {
+    "Id": "22872976",
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
+        "Longitude": "-80.2246821",
+        "Latitude": "43.6800213",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/highres/1/x5133701_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/medres/1/x5133701_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/lowres/1/x5133701_1.jpg",
+          "LastUpdated": "2021-03-02 3:07:53 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -1046,52 +1142,6 @@
     }
   },
   {
-    "Id": "22635461",
-    "Property": {
-      "Price": "$1,888,800",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "465 BREWSTER RD|Uxbridge, Ontario L9P1R2",
-        "Longitude": "-79.2312124",
-        "Latitude": "44.2259912",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637495096801900000/reb82/highres/1/n5053481_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637495096801900000/reb82/medres/1/n5053481_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637495096801900000/reb82/lowres/1/n5053481_1.jpg",
-          "LastUpdated": "2021-02-21 1:08:00 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,888,800 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1888800"
-    },
-    "Land": {
-      "SizeTotal": "1183 x 3192 FT   ; 98.28 Acres.  R=1356 Ft. Per Lsrca|50 - 100 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "2 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22795876",
     "Property": {
       "Price": "$1,899,000",
@@ -1175,52 +1225,6 @@
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22811840",
-    "Property": {
-      "Price": "$1,949,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "11255 REGIONAL ROAD 25 RD|Halton Hills, Ontario",
-        "Longitude": "-79.9819703",
-        "Latitude": "43.5849818",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/highres/6/w5113106_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/medres/6/w5113106_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637487554805200000/reb82/lowres/6/w5113106_1.jpg",
-          "LastUpdated": "2021-02-12 7:38:00 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,949,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1949000"
-    },
-    "Land": {
-      "SizeTotal": "430 x 969 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
       "Type": "House"
     }
