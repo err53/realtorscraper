@@ -283,52 +283,6 @@
     }
   },
   {
-    "Id": "22855335",
-    "Property": {
-      "Price": "$1,474,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "791 DAVIS DR|Uxbridge, Ontario L9P1R3",
-        "Longitude": "-79.1078464",
-        "Latitude": "44.138571",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637498573049100000/reb88/highres/5/n5127335_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637498573049100000/reb88/medres/5/n5127335_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637498573049100000/reb88/lowres/5/n5127335_1.jpg",
-          "LastUpdated": "2021-02-25 1:41:44 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "32",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,474,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Garage",
-      "PriceUnformattedValue": "1474900"
-    },
-    "Land": {
-      "SizeTotal": "12.52 x 12.52 Acre|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "4 + 2",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22866033",
     "Property": {
       "Price": "$1,490,000",
@@ -855,6 +809,43 @@
       "StoriesTotal": "1",
       "Type": "House",
       "UnitTotal": "1"
+    }
+  },
+  {
+    "Id": "22875475",
+    "Property": {
+      "Price": "$1,799,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "636391 PRINCE OF WALES  RD|Mulmur, Ontario L9V0C1",
+        "Longitude": "-80.1472619",
+        "Latitude": "44.1269058",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,799,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799000"
+    },
+    "Land": {
+      "SizeTotal": "40.75 Acre   ; As Per Mpac|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
     }
   },
   {
