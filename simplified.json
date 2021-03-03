@@ -46,48 +46,6 @@
     }
   },
   {
-    "Id": "21138425",
-    "Property": {
-      "Price": "$1,200,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5175 COUNTY RD 13|Adjala-Tosorontio, Ontario L0M1J0",
-        "Longitude": "-79.9301512",
-        "Latitude": "44.1493338",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/highres/9/n4577059_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/medres/9/n4577059_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/lowres/9/n4577059_1.jpg",
-          "LastUpdated": "2020-06-29 1:12:28 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "ConvertedPrice": "$1,200,000 ",
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1200000"
-    },
-    "Land": {
-      "SizeTotal": "44 Acre   ; Irregular Acreage As Per Mpac|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22812039",
     "Property": {
       "Price": "$1,200,000",
@@ -136,6 +94,48 @@
       "BathroomTotal": "1",
       "Bedrooms": "4 + 0",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "21138425",
+    "Property": {
+      "Price": "$1,200,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5175 COUNTY RD 13|Adjala-Tosorontio, Ontario L0M1J0",
+        "Longitude": "-79.9301512",
+        "Latitude": "44.1493338",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/highres/9/n4577059_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/medres/9/n4577059_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/lowres/9/n4577059_1.jpg",
+          "LastUpdated": "2020-06-29 1:12:28 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "ConvertedPrice": "$1,200,000 ",
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1200000"
+    },
+    "Land": {
+      "SizeTotal": "44 Acre   ; Irregular Acreage As Per Mpac|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   },
@@ -817,12 +817,21 @@
       "Price": "$1,799,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "636391 PRINCE OF WALES  RD|Mulmur, Ontario L9V0C1",
+        "AddressText": "636391 PRINCE OF WALES RD|Mulmur, Ontario L9V0C1",
         "Longitude": "-80.1472619",
         "Latitude": "44.1269058",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/highres/3/x5133823_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/medres/3/x5133823_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/lowres/3/x5133823_1.jpg",
+          "LastUpdated": "2021-03-02 7:20:57 PM"
+        }
+      ],
       "Parking": [
         {
           "Name": "Attached Garage"
@@ -910,10 +919,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637495061011400000/reb82/highres/1/x5103431_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637495061011400000/reb82/medres/1/x5103431_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637495061011400000/reb82/lowres/1/x5103431_1.jpg",
-          "LastUpdated": "2021-02-21 12:08:21 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637503667093370000/reb82/highres/1/x5103431_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637503667093370000/reb82/medres/1/x5103431_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637503667093370000/reb82/lowres/1/x5103431_1.jpg",
+          "LastUpdated": "2021-03-03 11:11:49 AM"
         }
       ],
       "Parking": [
@@ -1147,10 +1156,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637495946812700000/reb82/highres/7/n5107817_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637495946812700000/reb82/medres/7/n5107817_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637495946812700000/reb82/lowres/7/n5107817_1.jpg",
-          "LastUpdated": "2021-02-22 12:44:41 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637503557542100000/reb82/highres/7/n5107817_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637503557542100000/reb82/medres/7/n5107817_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637503557542100000/reb82/lowres/7/n5107817_1.jpg",
+          "LastUpdated": "2021-03-03 8:09:14 AM"
         }
       ],
       "Parking": [
@@ -1221,47 +1230,98 @@
     }
   },
   {
-    "Id": "22868511",
+    "Id": "22877207",
     "Property": {
-      "Price": "$1,949,000",
+      "Price": "$1,995,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "833366 4TH LINE|Mono, Ontario L9W5Z4",
-        "Longitude": "-80.0255396",
-        "Latitude": "43.9691024",
+        "AddressText": "14141 DUBLIN Line|Acton, Ontario L7J2L9",
+        "Longitude": "-80.06852705",
+        "Latitude": "43.63313356",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637502063376670000/reb82/highres/1/x5131581_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637502063376670000/reb82/medres/1/x5131581_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637502063376670000/reb82/lowres/1/x5131581_1.jpg",
-          "LastUpdated": "2021-03-01 2:38:57 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637503638579000000/reb15/highres/0/40071330_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637503638579000000/reb15/medres/0/40071330_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637503638579000000/reb15/lowres/0/40071330_1.jpg",
+          "LastUpdated": "2021-03-03 10:24:17 AM"
         }
       ],
       "Parking": [
         {
-          "Name": "Detached Garage"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "15",
+      "ParkingSpaceTotal": "23",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,949,000 ",
+      "AmmenitiesNearBy": "Shopping",
+      "ConvertedPrice": "$1,995,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1949000"
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1995000"
     },
     "Land": {
-      "SizeTotal": "323.26 x 1032.99 FT|5 - 9.99 acres"
+      "SizeTotal": "5 - 9.99 acres",
+      "SizeFrontage": "258 ft",
+      "AccessType": "Highway access"
     },
     "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4 + 1",
+      "BathroomTotal": "4",
+      "Bedrooms": "4 + 0",
+      "SizeInterior": "3150.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "22879282",
+    "Property": {
+      "Price": "$1,995,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "14141 DUBLIN  LINE|Halton Hills, Ontario L7J2L9",
+        "Longitude": "-80.0684699",
+        "Latitude": "43.6327859",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637503795950330000/reb82/highres/4/w5134904_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637503795950330000/reb82/medres/4/w5134904_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637503795950330000/reb82/lowres/4/w5134904_1.jpg",
+          "LastUpdated": "2021-03-03 2:46:35 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "23",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,995,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1995000"
+    },
+    "Land": {
+      "SizeTotal": "257.71 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
       "StoriesTotal": "2",
       "Type": "House"
     }
