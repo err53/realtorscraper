@@ -761,6 +761,52 @@
     }
   },
   {
+    "Id": "22875475",
+    "Property": {
+      "Price": "$1,799,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "636391 PRINCE OF WALES RD|Mulmur, Ontario L9V0C1",
+        "Longitude": "-80.1472619",
+        "Latitude": "44.1269058",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/highres/3/x5133823_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/medres/3/x5133823_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/lowres/3/x5133823_1.jpg",
+          "LastUpdated": "2021-03-02 7:20:57 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,799,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799000"
+    },
+    "Land": {
+      "SizeTotal": "40.75 Acre   ; As Per Mpac|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22434234",
     "Property": {
       "Price": "$1,799,000",
@@ -809,52 +855,6 @@
       "StoriesTotal": "1",
       "Type": "House",
       "UnitTotal": "1"
-    }
-  },
-  {
-    "Id": "22875475",
-    "Property": {
-      "Price": "$1,799,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "636391 PRINCE OF WALES RD|Mulmur, Ontario L9V0C1",
-        "Longitude": "-80.1472619",
-        "Latitude": "44.1269058",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/highres/3/x5133823_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/medres/3/x5133823_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/lowres/3/x5133823_1.jpg",
-          "LastUpdated": "2021-03-02 7:20:57 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1799000"
-    },
-    "Land": {
-      "SizeTotal": "40.75 Acre   ; As Per Mpac|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
     }
   },
   {
