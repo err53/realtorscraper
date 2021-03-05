@@ -46,6 +46,48 @@
     }
   },
   {
+    "Id": "21138425",
+    "Property": {
+      "Price": "$1,200,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5175 COUNTY RD 13|Adjala-Tosorontio, Ontario L0M1J0",
+        "Longitude": "-79.9301512",
+        "Latitude": "44.1493338",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/highres/9/n4577059_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/medres/9/n4577059_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/lowres/9/n4577059_1.jpg",
+          "LastUpdated": "2020-06-29 1:12:28 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "ConvertedPrice": "$1,200,000 ",
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1200000"
+    },
+    "Land": {
+      "SizeTotal": "44 Acre   ; Irregular Acreage As Per Mpac|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22812039",
     "Property": {
       "Price": "$1,200,000",
@@ -94,48 +136,6 @@
       "BathroomTotal": "1",
       "Bedrooms": "4 + 0",
       "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "21138425",
-    "Property": {
-      "Price": "$1,200,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5175 COUNTY RD 13|Adjala-Tosorontio, Ontario L0M1J0",
-        "Longitude": "-79.9301512",
-        "Latitude": "44.1493338",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/highres/9/n4577059_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/medres/9/n4577059_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/lowres/9/n4577059_1.jpg",
-          "LastUpdated": "2020-06-29 1:12:28 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "ConvertedPrice": "$1,200,000 ",
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1200000"
-    },
-    "Land": {
-      "SizeTotal": "44 Acre   ; Irregular Acreage As Per Mpac|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   },
@@ -324,99 +324,6 @@
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22835843",
-    "Property": {
-      "Price": "$1,497,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "3604 CONCESSION RD 7|Adjala-Tosorontio, Ontario L0G1L0",
-        "Longitude": "-79.8841921105591",
-        "Latitude": "44.0873131270329",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637493409346900000/reb82/highres/5/n5120875_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637493409346900000/reb82/medres/5/n5120875_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637493409346900000/reb82/lowres/5/n5120875_1.jpg",
-          "LastUpdated": "2021-02-19 2:15:34 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Hospital",
-      "ConvertedPrice": "$1,497,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1497000"
-    },
-    "Land": {
-      "SizeTotal": "20 Acre   ; 454 Frontage X 1996 Depth Approx|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22832354",
-    "Property": {
-      "Price": "$1,524,999",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "9072 WELLINGTON 50 RD|Erin, Ontario L7J2L8",
-        "Longitude": "-80.0733755575239",
-        "Latitude": "43.68485066188",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637492774886170000/reb86/highres/1/x5120271_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637492774886170000/reb86/medres/1/x5120271_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637492774886170000/reb86/lowres/1/x5120271_1.jpg",
-          "LastUpdated": "2021-02-18 8:38:08 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "16",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,524,999 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Garage",
-      "PriceUnformattedValue": "1524999"
-    },
-    "Land": {
-      "SizeTotal": "720.33 x 698.82 FT   ; Over 11 Acres Slightly Irregular|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -996,106 +903,6 @@
     }
   },
   {
-    "Id": "22853285",
-    "Property": {
-      "Price": "$1,849,999",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "4688 TUFFORD Road|Lincoln, Ontario L0R1B1",
-        "Longitude": "-79.446087",
-        "Latitude": "43.185242",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637498839984700000/reb14/highres/3/h4098563_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637498839984700000/reb14/medres/3/h4098563_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637498839984700000/reb14/lowres/3/h4098563_1.jpg",
-          "LastUpdated": "2021-02-25 9:06:38 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
-        },
-        {
-          "Name": "Inside Entry"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,999 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Gravel, Inside Entry",
-      "PriceUnformattedValue": "1849999"
-    },
-    "Land": {
-      "SizeTotal": "6.7 Acres|5 - 9.99 acres",
-      "SizeFrontage": "869 ft"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "4",
-      "SizeInterior": "5300.0000",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22856181",
-    "Property": {
-      "Price": "$1,849,999",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "4688 TUFFORD RD|Lincoln, Ontario L0R1B1",
-        "Longitude": "-79.4465177",
-        "Latitude": "43.184942",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637498626282430000/reb82/highres/2/x5127432_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637498626282430000/reb82/medres/2/x5127432_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637498626282430000/reb82/lowres/2/x5127432_1.jpg",
-          "LastUpdated": "2021-02-25 3:10:28 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,999 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1849999"
-    },
-    "Land": {
-      "SizeTotal": "869 x 285 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22846838",
     "Property": {
       "Price": "$1,850,000",
@@ -1377,6 +1184,60 @@
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "2"
+    }
+  },
+  {
+    "Id": "22885590",
+    "Property": {
+      "Price": "$1,999,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "997 Garden Lane|Millgrove, Ontario L8B1P2",
+        "Longitude": "-79.943615",
+        "Latitude": "43.360636",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637504673105270000/reb14/highres/7/h4099367_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637504673105270000/reb14/medres/7/h4099367_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637504673105270000/reb14/lowres/7/h4099367_1.jpg",
+          "LastUpdated": "2021-03-04 3:08:30 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Inside Entry"
+        },
+        {
+          "Name": "Interlocked"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Inside Entry, Interlocked",
+      "PriceUnformattedValue": "1999000"
+    },
+    "Land": {
+      "SizeTotal": "213.23 x 0|10 - 24.99 acres",
+      "SizeFrontage": "213 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4",
+      "SizeInterior": "2221.0000",
+      "StoriesTotal": "2",
+      "Type": "House"
     }
   }
 ]
