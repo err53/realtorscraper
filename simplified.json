@@ -1001,6 +1001,52 @@
     }
   },
   {
+    "Id": "22894155",
+    "Property": {
+      "Price": "$1,849,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "Address not available",
+        "Longitude": "-79.9788906",
+        "Latitude": "43.6356223",
+        "PermitShowAddress": false,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637506347121170000/reb86/highres/9/w5140349_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637506347121170000/reb86/medres/9/w5140349_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637506347121170000/reb86/lowres/9/w5140349_1.jpg",
+          "LastUpdated": "2021-03-06 1:38:32 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,849,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1849900"
+    },
+    "Land": {
+      "SizeTotal": "132.41 FT   ; Irregular 7.72 Acres|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22846838",
     "Property": {
       "Price": "$1,850,000",
@@ -1232,59 +1278,6 @@
     }
   },
   {
-    "Id": "22606085",
-    "Property": {
-      "Price": "$1,999,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7 WYLDEWOOD Court|Scugog, Ontario L9L2B4",
-        "Longitude": "-79.03341608",
-        "Latitude": "44.03158359",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637437090686330000/reb46/highres/1/40045941_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637437090686330000/reb46/medres/1/40045941_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637437090686330000/reb46/lowres/1/40045941_1.jpg",
-          "LastUpdated": "2020-12-16 9:51:08 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Carport"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby",
-      "ConvertedPrice": "$1,999,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Carport",
-      "PriceUnformattedValue": "1999000"
-    },
-    "Land": {
-      "SizeTotal": "1066 ac|1/2 - 1.99 acres",
-      "SizeFrontage": "146 ft",
-      "AccessType": "Road access"
-    },
-    "Building": {
-      "BathroomTotal": "0",
-      "Bedrooms": "5 + 0",
-      "SizeInterior": "7300.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "2"
-    }
-  },
-  {
     "Id": "22885590",
     "Property": {
       "Price": "$1,999,000",
@@ -1336,6 +1329,59 @@
       "SizeInterior": "2221.0000",
       "StoriesTotal": "2",
       "Type": "House"
+    }
+  },
+  {
+    "Id": "22606085",
+    "Property": {
+      "Price": "$1,999,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7 WYLDEWOOD Court|Scugog, Ontario L9L2B4",
+        "Longitude": "-79.03341608",
+        "Latitude": "44.03158359",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637437090686330000/reb46/highres/1/40045941_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637437090686330000/reb46/medres/1/40045941_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637437090686330000/reb46/lowres/1/40045941_1.jpg",
+          "LastUpdated": "2020-12-16 9:51:08 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Carport"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby",
+      "ConvertedPrice": "$1,999,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Carport",
+      "PriceUnformattedValue": "1999000"
+    },
+    "Land": {
+      "SizeTotal": "1066 ac|1/2 - 1.99 acres",
+      "SizeFrontage": "146 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "0",
+      "Bedrooms": "5 + 0",
+      "SizeInterior": "7300.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "2"
     }
   }
 ]
