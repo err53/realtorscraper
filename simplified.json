@@ -186,6 +186,58 @@
     }
   },
   {
+    "Id": "22888490",
+    "Property": {
+      "Price": "$1,350,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8556 ERAMOSA GARAFRAXA Townline|Centre Wellington, Ontario N0B2K0",
+        "Longitude": "-80.27554793",
+        "Latitude": "43.73987156",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637505366756100000/reb44/highres/4/40076314_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637505366756100000/reb44/medres/4/40076314_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637505366756100000/reb44/lowres/4/40076314_1.jpg",
+          "LastUpdated": "2021-03-05 10:24:35 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Hospital, Park, Place of Worship, Schools",
+      "ConvertedPrice": "$1,350,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel",
+      "PriceUnformattedValue": "1350000"
+    },
+    "Land": {
+      "SizeTotal": "25.003 ac|25 - 50 acres",
+      "AccessType": "Water access"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4 + 0",
+      "SizeInterior": "1850.0000",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22799387",
     "Property": {
       "Price": "$1,390,000",
@@ -324,6 +376,52 @@
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22892353",
+    "Property": {
+      "Price": "$1,499,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "15 15 SIDE RD|Halton Hills, Ontario L9T2X7",
+        "Longitude": "-79.9746974260654",
+        "Latitude": "43.5808277424419",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637505660303070000/reb82/highres/1/w5139381_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637505660303070000/reb82/medres/1/w5139381_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637505660303070000/reb82/lowres/1/w5139381_1.jpg",
+          "LastUpdated": "2021-03-05 6:33:50 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "6",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1499000"
+    },
+    "Land": {
+      "SizeTotal": "751.1 x 1988.44 FT   ; Irregualr|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "6",
+      "Bedrooms": "5",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -668,52 +766,6 @@
     }
   },
   {
-    "Id": "22875475",
-    "Property": {
-      "Price": "$1,799,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "636391 PRINCE OF WALES RD|Mulmur, Ontario L9V0C1",
-        "Longitude": "-80.1472619",
-        "Latitude": "44.1269058",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/highres/3/x5133823_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/medres/3/x5133823_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/lowres/3/x5133823_1.jpg",
-          "LastUpdated": "2021-03-02 7:20:57 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1799000"
-    },
-    "Land": {
-      "SizeTotal": "40.75 Acre   ; As Per Mpac|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22434234",
     "Property": {
       "Price": "$1,799,000",
@@ -762,6 +814,52 @@
       "StoriesTotal": "1",
       "Type": "House",
       "UnitTotal": "1"
+    }
+  },
+  {
+    "Id": "22875475",
+    "Property": {
+      "Price": "$1,799,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "636391 PRINCE OF WALES RD|Mulmur, Ontario L9V0C1",
+        "Longitude": "-80.1472619",
+        "Latitude": "44.1269058",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/highres/3/x5133823_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/medres/3/x5133823_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/lowres/3/x5133823_1.jpg",
+          "LastUpdated": "2021-03-02 7:20:57 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,799,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799000"
+    },
+    "Land": {
+      "SizeTotal": "40.75 Acre   ; As Per Mpac|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
     }
   },
   {
@@ -826,10 +924,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637503667093370000/reb82/highres/1/x5103431_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637503667093370000/reb82/medres/1/x5103431_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637503667093370000/reb82/lowres/1/x5103431_1.jpg",
-          "LastUpdated": "2021-03-03 11:11:49 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637505522436130000/reb82/highres/1/x5103431_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637505522436130000/reb82/medres/1/x5103431_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637505522436130000/reb82/lowres/1/x5103431_1.jpg",
+          "LastUpdated": "2021-03-05 2:44:03 PM"
         }
       ],
       "Parking": [
@@ -1051,10 +1149,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637503638579000000/reb15/highres/0/40071330_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637503638579000000/reb15/medres/0/40071330_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637503638579000000/reb15/lowres/0/40071330_1.jpg",
-          "LastUpdated": "2021-03-03 10:24:17 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637505358649430000/reb15/highres/0/40071330_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637505358649430000/reb15/medres/0/40071330_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637505358649430000/reb15/lowres/0/40071330_1.jpg",
+          "LastUpdated": "2021-03-05 10:11:04 AM"
         }
       ],
       "Parking": [
