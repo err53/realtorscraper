@@ -17,8 +17,6 @@ let opts = {
   LongitudeMax: Math.max(bounding[0].longitude(), bounding[1].longitude()),
   PriceMin: min,
   PriceMax: max,
-  SortOrder: 6,
-  SortOrder: "A",
   BedRange: "3-0",
   RecordsPerPage: 200,
   MaximumResults: 1,
@@ -50,11 +48,17 @@ async function main() {
       output = output.concat(newPage.Results);
     }
   }
+  
+  output.sort((a, b) => {
+    return Number(a.Id) - Number(b.Id)
+  });
+  
   await fs.writeFile("./output.json", JSON.stringify(output, null, 2));
 
   const simplified = output.map((obj) => {
     return {
       Id: obj.Id,
+      MlsNumber: obj.MlsNumber,
       Property: obj.Property,
       Land: obj.Land,
       Building: obj.Building,
