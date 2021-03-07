@@ -968,6 +968,54 @@
     }
   },
   {
+    "Id": "22868535",
+    "MlsNumber": "X5131904",
+    "Property": {
+      "Price": "$1,699,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "754177 2ND LINE EHS|Mono, Ontario L9W5W8",
+        "Longitude": "-80.0671748340923",
+        "Latitude": "44.0060434948441",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637502063859600000/reb82/highres/4/x5131904_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637502063859600000/reb82/medres/4/x5131904_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637502063859600000/reb82/lowres/4/x5131904_1.jpg",
+          "LastUpdated": "2021-03-01 2:39:45 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "23",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,699,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1699000"
+    },
+    "Land": {
+      "SizeTotal": "13.7 Acre|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22871328",
     "MlsNumber": "40070842",
     "Property": {
@@ -1373,10 +1421,10 @@
       "Price": "$1,849,900",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "Address not available",
+        "AddressText": "12354 FIFTH LINE|Halton Hills, Ontario L0P1H0",
         "Longitude": "-79.9788906",
         "Latitude": "43.6356223",
-        "PermitShowAddress": false,
+        "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
