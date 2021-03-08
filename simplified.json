@@ -357,10 +357,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/highres/1/w5069151_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/medres/1/w5069151_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/lowres/1/w5069151_1.jpg",
-          "LastUpdated": "2020-12-21 3:07:49 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/highres/1/w5069151_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/medres/1/w5069151_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/lowres/1/w5069151_1.jpg",
+          "LastUpdated": "2021-03-07 7:38:18 AM"
         }
       ],
       "Parking": [
@@ -627,59 +627,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "3 + 0",
       "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22812039",
-    "MlsNumber": "40065762",
-    "Property": {
-      "Price": "$1,200,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "502 LAKESHORE Road|Niagara-on-the-Lake, Ontario L0S1J0",
-        "Longitude": "-79.167824",
-        "Latitude": "43.231929",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/highres/2/40065762_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/medres/2/40065762_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/lowres/2/40065762_1.jpg",
-          "LastUpdated": "2021-02-12 9:19:49 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Gravel"
-        },
-        {
-          "Name": "None"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby, Marina, Place of Worship, Schools",
-      "ConvertedPrice": "$1,200,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Gravel, None",
-      "PriceUnformattedValue": "1200000"
-    },
-    "Land": {
-      "SizeTotal": "9.75 ac|5 - 9.99 acres",
-      "SizeFrontage": "453 ft",
-      "AccessType": "Water access"
-    },
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "4 + 0",
-      "StoriesTotal": "2",
       "Type": "House"
     }
   },

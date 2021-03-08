@@ -1097,7 +1097,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "464753101"
+              "ContactId": "464804174"
             }
           ],
           "Websites": [
@@ -1166,7 +1166,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "464753101"
+              "ContactId": "464804174"
             }
           ],
           "Websites": [
@@ -1417,10 +1417,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/highres/1/w5069151_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/medres/1/w5069151_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637441600697170000/reb86/lowres/1/w5069151_1.jpg",
-          "LastUpdated": "2020-12-21 3:07:49 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/highres/1/w5069151_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/medres/1/w5069151_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/lowres/1/w5069151_1.jpg",
+          "LastUpdated": "2021-03-07 7:38:18 AM"
         }
       ],
       "Parking": [
@@ -1449,7 +1449,8 @@
     "PostalCode": "L7K1L3",
     "RelativeDetailsURL": "/real-estate/22678805/18627-shaws-creek-rd-caledon-rural-caledon",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2020-12-21 8:07:49 PM",
+    "PhotoChangeDateUTC": "2021-03-07 12:38:18 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22678805/18627-shaws-creek-rd-caledon-rural-caledon",
     "RelativeURLFr": "/immobilier/22678805/18627-shaws-creek-rd-caledon"
@@ -1901,7 +1902,6 @@
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-02-25 7:25:40 PM",
     "PhotoChangeDateUTC": "2021-03-05 7:44:03 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22782576/386106-20-sdrd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/22782576/386106-20-sdrd-mono"
@@ -2176,227 +2176,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22799387/1288-line-3-road-niagara-on-the-lake",
     "RelativeURLFr": "/immobilier/22799387/1288-line-3-road-niagara-on-the-lake"
-  },
-  {
-    "Id": "22812039",
-    "MlsNumber": "40065762",
-    "PublicRemarks": "Fantastic opportunity to build your dream home or renovate existing large 4 bedroom farm house on 9.75 acres in Niagara-on-the-Lake. Large barn with plenty of storage for farm equipment or the perfect workshop. Farm is underdrained and currently planted with a mix of vegetables and fruit. Only a 10 minute drive into town and all amenities. Minimum 24 hour notice required for all showings. (62877801)",
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "4 + 0",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1746308,
-        "Name": "MICHELLE REYNOLDS",
-        "Organization": {
-          "OrganizationID": 75382,
-          "Name": "ROYAL LEPAGE NRC REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637500270180000000/lowres/1004014.jpg",
-          "Address": {
-            "AddressText": "125 QUEEN ST. P.O.BOX 1645|NIAGARA-ON-THE-LAKE, Ontario L0S1J0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "468-4214",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "688-3178",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "460120869"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.nrcrealty.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/75382/royal-lepage-nrc-realty-125-queen-st-pobox-1645-niagara-on-the-lake-ontario-l0s1j0",
-          "PhotoLastupdate": "2021-02-27 12:50:18 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "401-8874",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "688-3178",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.homesniagara.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "463768327"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636945677400000000/lowres/1180373.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "MICHELLE",
-        "LastName": "REYNOLDS",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1746308/michelle-reynolds-125-queen-st-pobox-1645-niagara-on-the-lake-ontario-l0s1j0",
-        "AgentPhotoLastUpdated": "2019-05-27 15:29:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636945677400000000/highres/1180373.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1833930,
-        "Name": "STEFAN REGIER",
-        "Organization": {
-          "OrganizationID": 283835,
-          "Name": "ROYAL LEPAGE NRC REALTY",
-          "Address": {
-            "AddressText": "35 MAYWOOD AVENUE|ST. CATHARINES, Ontario L2R1C5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "688-4561",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "635-9228",
-              "AreaCode": "800",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "460119962"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.homesniagara.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/283835/royal-lepage-nrc-realty-35-maywood-avenue-st-catharines-ontario-l2r1c5",
-          "PhotoLastupdate": "2021-02-27 12:50:18 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "257-6744",
-            "AreaCode": "289",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "635-9228",
-            "AreaCode": "800",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "463658707"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636945688200000000/lowres/1196542.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "STEFAN",
-        "LastName": "REGIER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1833930/stefan-regier-35-maywood-avenue-st-catharines-ontario-l2r1c5",
-        "AgentPhotoLastUpdated": "2019-05-27 15:47:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636945688200000000/highres/1196542.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,200,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "502 LAKESHORE Road|Niagara-on-the-Lake, Ontario L0S1J0",
-        "Longitude": "-79.167824",
-        "Latitude": "43.231929",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/highres/2/40065762_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/medres/2/40065762_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637487183891870000/reb114/lowres/2/40065762_1.jpg",
-          "LastUpdated": "2021-02-12 9:19:49 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Gravel"
-        },
-        {
-          "Name": "None"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby, Marina, Place of Worship, Schools",
-      "ConvertedPrice": "$1,200,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Gravel, None",
-      "PriceUnformattedValue": "1200000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "9.75 ac|5 - 9.99 acres",
-      "SizeFrontage": "453 ft",
-      "AccessType": "Water access"
-    },
-    "PostalCode": "L0S1J0",
-    "RelativeDetailsURL": "/real-estate/22812039/502-lakeshore-road-niagara-on-the-lake",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-02-12 2:19:49 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22812039/502-lakeshore-road-niagara-on-the-lake",
-    "RelativeURLFr": "/immobilier/22812039/502-lakeshore-road-niagara-on-the-lake"
   },
   {
     "Id": "22826489",
@@ -4617,7 +4396,6 @@
     "RelativeDetailsURL": "/real-estate/22877207/14141-dublin-line-acton",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-05 3:11:06 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22877207/14141-dublin-line-acton",
     "RelativeURLFr": "/immobilier/22877207/14141-dublin-line-acton"
@@ -5091,7 +4869,6 @@
     "RelativeDetailsURL": "/real-estate/22888490/8556-eramosa-garafraxa-townline-centre-wellington",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-05 3:24:35 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22888490/8556-eramosa-garafraxa-townline-centre-wellington",
     "RelativeURLFr": "/immobilier/22888490/8556-eramosa-garafraxa-townline-centre-wellington"
@@ -5206,7 +4983,6 @@
     "RelativeDetailsURL": "/real-estate/22892353/15-15-side-rd-halton-hills-rural-halton-hills",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-05 11:33:50 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22892353/15-15-side-rd-halton-hills-rural-halton-hills",
     "RelativeURLFr": "/immobilier/22892353/15-15-side-rd-halton-hills"
