@@ -141,49 +141,6 @@
     }
   },
   {
-    "Id": "22205231",
-    "MlsNumber": "N4860807",
-    "Property": {
-      "Price": "$1,900,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5 LINTON LANE|King, Ontario L0G1N0",
-        "Longitude": "-79.660223",
-        "Latitude": "43.9410602",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637332143009370000/reb82/highres/7/n4860807_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637332143009370000/reb82/medres/7/n4860807_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637332143009370000/reb82/lowres/7/n4860807_1.jpg",
-          "LastUpdated": "2020-08-16 10:38:20 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "6",
-      "TypeId": "300",
-      "ConvertedPrice": "$1,900,000 ",
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1900000"
-    },
-    "Land": {
-      "SizeTotal": "395.05 x 909.46 FT   ; Irregular Lot - 10.119 Acres|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22434234",
     "MlsNumber": "40028565",
     "Property": {
@@ -1404,6 +1361,96 @@
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22898312",
+    "MlsNumber": "N5141601",
+    "Property": {
+      "Price": "$1,750,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5 LINTON LANE|King, Ontario L0G1N0",
+        "Longitude": "-79.660223",
+        "Latitude": "43.9410602",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637508098682170000/reb82/highres/1/n5141601_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637508098682170000/reb82/medres/1/n5141601_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637508098682170000/reb82/lowres/1/n5141601_1.jpg",
+          "LastUpdated": "2021-03-08 2:17:48 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "6",
+      "TypeId": "300",
+      "ConvertedPrice": "$1,750,000 ",
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1750000"
+    },
+    "Land": {
+      "SizeTotal": "395.05 x 909.46 FT   ; Irregular Lot - 10.119 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22898371",
+    "MlsNumber": "N5141928",
+    "Property": {
+      "Price": "$1,099,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1198 CONCESSION RD 8 RD|Adjala-Tosorontio, Ontario L0G1W0",
+        "Longitude": "-79.8406226",
+        "Latitude": "43.9846647",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637508135957830000/reb82/highres/8/n5141928_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637508135957830000/reb82/medres/8/n5141928_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637508135957830000/reb82/lowres/8/n5141928_1.jpg",
+          "LastUpdated": "2021-03-08 3:19:55 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "7",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,099,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1099000"
+    },
+    "Land": {
+      "SizeTotal": "199.6 x 2199.6 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "2 + 1",
       "StoriesTotal": "1",
       "Type": "House"
     }
