@@ -960,7 +960,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "464855961"
+              "ContactId": "464909244"
             }
           ],
           "Websites": [
@@ -1029,7 +1029,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "464855961"
+              "ContactId": "464909244"
             }
           ],
           "Websites": [
@@ -1313,7 +1313,6 @@
     "RelativeDetailsURL": "/real-estate/22678805/18627-shaws-creek-rd-caledon-rural-caledon",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-07 12:38:18 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22678805/18627-shaws-creek-rd-caledon-rural-caledon",
     "RelativeURLFr": "/immobilier/22678805/18627-shaws-creek-rd-caledon"
@@ -2163,212 +2162,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22826489/20030-hurontario-st-caledon-rural-caledon",
     "RelativeURLFr": "/immobilier/22826489/20030-hurontario-st-caledon"
-  },
-  {
-    "Id": "22843905",
-    "MlsNumber": "N5123831",
-    "PublicRemarks": "Stunning Custom Built Open Concept Raised Bungalow Located On 8.06 Acres Surrounded In Nature, Lush, Evergreens, Boasting Vaulted Ceilings, Easily Made Into 4-5 Bdrms,1000 Ft Frontage With Potential Subdividing, Including Pond Surrounded By Treed Lot,Walking Trails,Huge Sliding Barn Door Pantry/Coffee Bar In Kitchen,Beautiful Views With Stunning Sunrises,17' Ceilings In The Great Room, Mixture Of Open Land & Mature Forest,Less Than 10 Minutes To All Amenities**** EXTRAS **** All Elf's Fridge,Stove,Washer Dryer Cathedral Ceilings & Flr To Ceiling Stone Fireplace, Loft Overlooks Huge Grt Rm. Granite Counter In Kitchen.New S/S Appliances,Floor To Ceiling Stone Gas Fireplace,Under 1 Hour To Pearson Airport. (27967736)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1736581,
-        "Name": "GURSHARAN BAJWA",
-        "Organization": {
-          "OrganizationID": 247448,
-          "Name": "HOMELIFE MAPLE LEAF REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637496700900000000/lowres/247448.jpg",
-          "Address": {
-            "AddressText": "80 EASTERN AVENUE #3|BRAMPTON, Ontario L6W1X9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "456-9090",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "456-9091",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414881653"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.hlmapleleaf.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/247448/homelife-maple-leaf-realty-ltd-80-eastern-avenue-3-brampton-ontario-l6w1x9",
-          "PhotoLastupdate": "2021-02-23 9:41:30 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "289-5548",
-            "AreaCode": "647",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://Www.bajwahomes.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "463734152"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636967203600000000/lowres/1178040.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "GURSHARAN",
-        "LastName": "BAJWA",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1736581/gursharan-bajwa-80-eastern-avenue-3-brampton-ontario-l6w1x9",
-        "AgentPhotoLastUpdated": "2019-06-21 13:26:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636967203600000000/highres/1178040.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 2031505,
-        "Name": "GURLALJEET SINGH BAL",
-        "Organization": {
-          "OrganizationID": 247448,
-          "Name": "HOMELIFE MAPLE LEAF REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637496700900000000/lowres/247448.jpg",
-          "Address": {
-            "AddressText": "80 EASTERN AVENUE #3|BRAMPTON, Ontario L6W1X9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "456-9090",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "456-9091",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414881653"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.hlmapleleaf.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/247448/homelife-maple-leaf-realty-ltd-80-eastern-avenue-3-brampton-ontario-l6w1x9",
-          "PhotoLastupdate": "2021-02-23 9:41:30 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "456-9090",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459424693"
-          }
-        ],
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "GURLALJEET SINGH",
-        "LastName": "BAL",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2031505/gurlaljeet-singh-bal-80-eastern-avenue-3-brampton-ontario-l6w1x9",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,399,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7747 15TH SDRD|Adjala-Tosorontio, Ontario L0M1J0",
-        "Longitude": "-79.7668271",
-        "Latitude": "44.175769",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/highres/1/n5123831_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/medres/1/n5123831_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/lowres/1/n5123831_1.jpg",
-          "LastUpdated": "2021-02-26 10:37:34 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,399,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Garage",
-      "PriceUnformattedValue": "1399000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "1080 x 405 FT|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://tours.ultraflick.ca/cp/7747-tosorontio-sideroad-15-everett/"
-    },
-    "PostalCode": "L0M1J0",
-    "RelativeDetailsURL": "/real-estate/22843905/7747-15th-sdrd-adjala-tosorontio-everett",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-02-27 3:37:34 AM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22843905/7747-15th-sdrd-adjala-tosorontio-everett",
-    "RelativeURLFr": "/immobilier/22843905/7747-15th-sdrd-adjala-tosorontio"
   },
   {
     "Id": "22846838",
@@ -4520,223 +4313,6 @@
     "RelativeURLFr": "/immobilier/22885590/997-garden-lane-millgrove"
   },
   {
-    "Id": "22888490",
-    "MlsNumber": "40076314",
-    "PublicRemarks": "Beautiful country oasis set on 25 acres! With stunning panoramic views, your dream hobby farm is awaiting you. The private setting of this lovely 2 storey home will not disappoint. Custom built in 1978 and home to only one owner since construction, it features a great family floor plan with living, dining and family rooms, eat-in-kitchen on the main floor  and powder room. Upstairs features 4 bedrooms including a large master with balcony overlooking your own piece of paradise  and 5 piece bath. The walkout basement creates space for everyone including a large rec room, 3 piece bath, workshop and hobby space areas.  Outside is a dream come true. The impressive versatile 32x40 outbuilding (2013) and approx. 8-9 acres of workable land is all the hobbyist could ask for. Enjoy hiking through your own private trails, camping in the beautiful wooded lands or simply sit and soak in the natural beauty that is all yours from your large deck and gazebo. All of this conveniently located minutes to Fergus, Rockwood, Guelph, Orangeville and 1 hour to Toronto Pearson. This little piece of heaven is truly a gem for anyone looking for country living at its finest. (62964804)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4 + 0",
-      "SizeInterior": "1850.0000",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1931287,
-        "Name": "Brian Gammie",
-        "Organization": {
-          "OrganizationID": 253819,
-          "Name": "Edge Realty Solutions Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637505366750000000/lowres/1248596.jpg",
-          "Address": {
-            "AddressText": "127 Metcalfe Street|Elora, Ontario N0B1S0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "846-7653",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "846-9996",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463975386"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.edgerealtysolutions.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/253819/edge-realty-solutions-brokerage-127-metcalfe-street-elora-ontario-n0b1s0",
-          "PhotoLastupdate": "2021-03-05 10:24:35 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "846-7653",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "846-9996",
-            "AreaCode": "519",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456776348"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1231746.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Brian",
-        "LastName": "Gammie",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1931287/brian-gammie-127-metcalfe-street-elora-ontario-n0b1s0",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1231746.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1555605,
-        "Name": "Rob Woods",
-        "Organization": {
-          "OrganizationID": 253819,
-          "Name": "Edge Realty Solutions Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637505366750000000/lowres/1248596.jpg",
-          "Address": {
-            "AddressText": "127 Metcalfe Street|Elora, Ontario N0B1S0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "846-7653",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "846-9996",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463975386"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.edgerealtysolutions.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/253819/edge-realty-solutions-brokerage-127-metcalfe-street-elora-ontario-n0b1s0",
-          "PhotoLastupdate": "2021-03-05 10:24:35 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "362-7731",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "846-9996",
-            "AreaCode": "519",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "458568089"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1044088.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Rob",
-        "LastName": "Woods",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1555605/rob-woods-127-metcalfe-street-elora-ontario-n0b1s0",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1044088.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,350,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8556 ERAMOSA GARAFRAXA Townline|Centre Wellington, Ontario N0B2K0",
-        "Longitude": "-80.27554793",
-        "Latitude": "43.73987156",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637505366756100000/reb44/highres/4/40076314_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637505366756100000/reb44/medres/4/40076314_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637505366756100000/reb44/lowres/4/40076314_1.jpg",
-          "LastUpdated": "2021-03-05 10:24:35 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby, Hospital, Park, Place of Worship, Schools",
-      "ConvertedPrice": "$1,350,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Gravel",
-      "PriceUnformattedValue": "1350000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "25.003 ac|25 - 50 acres",
-      "AccessType": "Water access"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youriguide.com/8556_eramosa_garafraxa_townline_rockwood_on/"
-    },
-    "PostalCode": "N0B2K0",
-    "RelativeDetailsURL": "/real-estate/22888490/8556-eramosa-garafraxa-townline-centre-wellington",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-05 3:24:35 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22888490/8556-eramosa-garafraxa-townline-centre-wellington",
-    "RelativeURLFr": "/immobilier/22888490/8556-eramosa-garafraxa-townline-centre-wellington"
-  },
-  {
     "Id": "22892353",
     "MlsNumber": "W5139381",
     "PublicRemarks": "46.5 Acres Vacant Rural Residential/Farm Land.Breathtaking Dog Leg Shaped Lot.Open In The Rear Suitable To Build Your Custom Dream Home,Treed At Front Road Side To Give You Privacy.Very Prestigious Area Of Halton Hills.Building Appl Has Been Submitted For A Custom-Built Home Designed By Antonio Giovinazzo Of Ag Designs Approx. 5000Sf Home & A 3000Sf Separate Garage.In Circulation W/ Niagara Escarpment Commissions, Halton Conservation.**** EXTRAS **** Purchaser To Take Over Permit Process And Responsible For Development Charges. Buyer To Do Their Own Due Diligence! Don't Miss This Opportunity. (28031734)",
@@ -5161,7 +4737,7 @@
   {
     "Id": "22898371",
     "MlsNumber": "N5141928",
-    "PublicRemarks": "Welcome To Picturesque Adjala!  This 3 Bedroom Bungalow Sits On Just Under 10 Acres With Breathtaking Views All Around. Most Windows Have Been Replaced Within The Last Ten Years.  Roof Replaced 2017 And Drilled Well In 2003. Above Ground Pool With Filter And Solar Blanket.  Perfect Home To Renovate For The Family Downsizing Or Build Your New Dream Home!**** EXTRAS **** 10 X 12 Garden Shed And 12 X 12 Sunroom.  Highspeed Fibe Coming To Road In June/2021. 5 Minutes To Caledon Equestrian Park And Half Hour To Pearson Airport. Survey Available. (28040299)",
+    "PublicRemarks": "Welcome To Picturesque Adjala!  This 3 Bedroom Bungalow Sits On Just Under 10 Acres With Breathtaking Views All Around. Most Windows Have Been Replaced Within The Last Ten Years.  Roof Replaced 2017 And Drilled Well In 2003. Inground Pool With Filter And Solar Blanket.  Perfect Home To Renovate For The Family Downsizing Or Build Your New Dream Home! Taxes Reflect Farm Rebate.**** EXTRAS **** 10 X 12 Garden Shed And 12 X 12 Sunroom.  Highspeed Fibe Coming To Road In June/2021. 5 Minutes To Caledon Equestrian Park And Half Hour To Pearson Airport. Survey Available. (28040299)",
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "2 + 1",
@@ -5175,7 +4751,7 @@
         "Organization": {
           "OrganizationID": 248929,
           "Name": "IPRO REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637508098770000000/lowres/1204125.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637508966590000000/lowres/1204125.jpg",
           "Address": {
             "AddressText": "41 BROADWAY AVE UNIT 3|ORANGEVILLE, Ontario L9W1J7",
             "PermitShowAddress": true,
@@ -5194,7 +4770,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/248929/ipro-realty-ltd-41-broadway-ave-unit-3-orangeville-ontario-l9w1j7",
-          "PhotoLastupdate": "2021-03-08 2:17:57 PM"
+          "PhotoLastupdate": "2021-03-09 2:24:19 PM"
         },
         "Phones": [
           {
@@ -5284,5 +4860,199 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22898371/1198-concession-rd-8-rd-adjala-tosorontio-rural-adjala-tosorontio",
     "RelativeURLFr": "/immobilier/22898371/1198-concession-rd-8-rd-adjala-tosorontio"
+  },
+  {
+    "Id": "22899797",
+    "MlsNumber": "40073192",
+    "PublicRemarks": "This is a piece of property with amazing future potential. Located along the path of development, right on HWY7 with incredible business exposure. Fantastic opportunity to buy a character home on over 5 enchanting acres with a creek running through it. The house has a unique ambiance, is solid, and has been extensively updated including a newer roof, wiring, plumbing, triple glazed windows, insulation, wood siding, very efficient geothermal heating, kitchen, and more. Very comfortable rural residence with the opportunity to buy together with an existing established and profitable plant nursery business (25 years in business). Lost Horizons nursery is well known and loved by many for the quality of its plants. This property is the perfect place for someone looking to escape the big city and looking to own a precious piece of the property, run their own business, or simply as a work from home option.  The house can be expanded onto or potentially build new on the property. Strategic location. Minutes to Acton and GO Transit, Shopping, biking, nearby stables! The land value alone is incredible - the business, which brings over $100,000 net per year (with space for improvement) is a bonus. Highly trained nursery staff is willing to stay and help run the current business. Hundreds of thousand in plant inventory. The existing stream provides water for irrigation. (62972989)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "1500.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "1"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2051031,
+        "Name": "Matthew Czaplinski",
+        "Organization": {
+          "OrganizationID": 283251,
+          "Name": "SUTTON GROUP QUANTUM REALTY INC.",
+          "Address": {
+            "AddressText": "1673 Lakeshore Road West|Mississauga, Ontario L5J1J4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "822-5000",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "822-5617",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463981288"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://suttonquantum.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283251/sutton-group-quantum-realty-inc-1673-lakeshore-road-west-mississauga-ontario-l5j1j4",
+          "PhotoLastupdate": "2021-03-09 8:28:40 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "822-5000",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456755969"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Matthew",
+        "LastName": "Czaplinski",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2051031/matthew-czaplinski-1673-lakeshore-road-west-mississauga-ontario-l5j1j4",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2052134,
+        "Name": "Kate Czaplinska",
+        "Organization": {
+          "OrganizationID": 283251,
+          "Name": "SUTTON GROUP QUANTUM REALTY INC.",
+          "Address": {
+            "AddressText": "1673 Lakeshore Road West|Mississauga, Ontario L5J1J4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "822-5000",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "822-5617",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463981288"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://suttonquantum.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283251/sutton-group-quantum-realty-inc-1673-lakeshore-road-west-mississauga-ontario-l5j1j4",
+          "PhotoLastupdate": "2021-03-09 8:28:40 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "525-1206",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "458466321"
+          }
+        ],
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "Kate",
+        "LastName": "Czaplinska",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2052134/kate-czaplinska-1673-lakeshore-road-west-mississauga-ontario-l5j1j4",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,798,888",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5654 HWY 7|Acton, Ontario L7J2L7",
+        "Longitude": "-80.08498917",
+        "Latitude": "43.62751514",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637509186827070000/reb85/highres/2/40073192_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637509186827070000/reb85/medres/2/40073192_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637509186827070000/reb85/lowres/2/40073192_1.jpg",
+          "LastUpdated": "2021-03-09 8:31:22 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,798,888 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Gravel",
+      "PriceUnformattedValue": "1798888"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "5 - 9.99 acres",
+      "AccessType": "Highway access",
+      "LandscapeFeatures": "Landscaped"
+    },
+    "PostalCode": "L7J2L7",
+    "RelativeDetailsURL": "/real-estate/22899797/5654-hwy-7-acton",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-10 1:31:26 AM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22899797/5654-hwy-7-acton",
+    "RelativeURLFr": "/immobilier/22899797/5654-hwy-7-acton"
   }
 ]

@@ -636,53 +636,6 @@
     }
   },
   {
-    "Id": "22843905",
-    "MlsNumber": "N5123831",
-    "Property": {
-      "Price": "$1,399,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7747 15TH SDRD|Adjala-Tosorontio, Ontario L0M1J0",
-        "Longitude": "-79.7668271",
-        "Latitude": "44.175769",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/highres/1/n5123831_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/medres/1/n5123831_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637499758546100000/reb82/lowres/1/n5123831_1.jpg",
-          "LastUpdated": "2021-02-26 10:37:34 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,399,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Garage",
-      "PriceUnformattedValue": "1399000"
-    },
-    "Land": {
-      "SizeTotal": "1080 x 405 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22846838",
     "MlsNumber": "N5124894",
     "Property": {
@@ -1219,59 +1172,6 @@
     }
   },
   {
-    "Id": "22888490",
-    "MlsNumber": "40076314",
-    "Property": {
-      "Price": "$1,350,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8556 ERAMOSA GARAFRAXA Townline|Centre Wellington, Ontario N0B2K0",
-        "Longitude": "-80.27554793",
-        "Latitude": "43.73987156",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637505366756100000/reb44/highres/4/40076314_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637505366756100000/reb44/medres/4/40076314_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637505366756100000/reb44/lowres/4/40076314_1.jpg",
-          "LastUpdated": "2021-03-05 10:24:35 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby, Hospital, Park, Place of Worship, Schools",
-      "ConvertedPrice": "$1,350,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Gravel",
-      "PriceUnformattedValue": "1350000"
-    },
-    "Land": {
-      "SizeTotal": "25.003 ac|25 - 50 acres",
-      "AccessType": "Water access"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4 + 0",
-      "SizeInterior": "1850.0000",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22892353",
     "MlsNumber": "W5139381",
     "Property": {
@@ -1453,6 +1353,56 @@
       "Bedrooms": "2 + 1",
       "StoriesTotal": "1",
       "Type": "House"
+    }
+  },
+  {
+    "Id": "22899797",
+    "MlsNumber": "40073192",
+    "Property": {
+      "Price": "$1,798,888",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5654 HWY 7|Acton, Ontario L7J2L7",
+        "Longitude": "-80.08498917",
+        "Latitude": "43.62751514",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637509186827070000/reb85/highres/2/40073192_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637509186827070000/reb85/medres/2/40073192_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637509186827070000/reb85/lowres/2/40073192_1.jpg",
+          "LastUpdated": "2021-03-09 8:31:22 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,798,888 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Gravel",
+      "PriceUnformattedValue": "1798888"
+    },
+    "Land": {
+      "SizeTotal": "5 - 9.99 acres",
+      "AccessType": "Highway access",
+      "LandscapeFeatures": "Landscaped"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "1500.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "1"
     }
   }
 ]
