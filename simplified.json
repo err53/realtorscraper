@@ -1076,7 +1076,7 @@
       "Price": "$1,995,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "14141 DUBLIN  LINE|Halton Hills, Ontario L7J2L9",
+        "AddressText": "14141 DUBLIN LINE|Halton Hills, Ontario L7J2L9",
         "Longitude": "-80.0684699",
         "Latitude": "43.6327859",
         "PermitShowAddress": true,
@@ -1324,10 +1324,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637508135957830000/reb82/highres/8/n5141928_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637508135957830000/reb82/medres/8/n5141928_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637508135957830000/reb82/lowres/8/n5141928_1.jpg",
-          "LastUpdated": "2021-03-08 3:19:55 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637509745349230000/reb82/highres/8/n5141928_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637509745349230000/reb82/medres/8/n5141928_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637509745349230000/reb82/lowres/8/n5141928_1.jpg",
+          "LastUpdated": "2021-03-10 12:02:14 PM"
         }
       ],
       "Parking": [
@@ -1403,6 +1403,53 @@
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "1"
+    }
+  },
+  {
+    "Id": "22909516",
+    "MlsNumber": "N5144845",
+    "Property": {
+      "Price": "$1,799,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "257 ASHWORTH RD E|Uxbridge, Ontario L0E1T0",
+        "Longitude": "-79.2527163",
+        "Latitude": "44.1453034",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637509834468200000/reb82/highres/5/n5144845_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637509834468200000/reb82/medres/5/n5144845_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637509834468200000/reb82/lowres/5/n5144845_1.jpg",
+          "LastUpdated": "2021-03-10 2:30:46 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "23",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,799,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799900"
+    },
+    "Land": {
+      "SizeTotal": "318.5 x 1331.9 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
     }
   }
 ]
