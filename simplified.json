@@ -1120,53 +1120,6 @@
     }
   },
   {
-    "Id": "22894155",
-    "MlsNumber": "W5140349",
-    "Property": {
-      "Price": "$1,849,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "12354 FIFTH LINE|Halton Hills, Ontario L0P1H0",
-        "Longitude": "-79.9788906",
-        "Latitude": "43.6356223",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637506347121170000/reb86/highres/9/w5140349_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637506347121170000/reb86/medres/9/w5140349_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637506347121170000/reb86/lowres/9/w5140349_1.jpg",
-          "LastUpdated": "2021-03-06 1:38:32 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1849900"
-    },
-    "Land": {
-      "SizeTotal": "132.41 FT   ; Irregular 7.72 Acres|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22898312",
     "MlsNumber": "N5141601",
     "Property": {
@@ -1416,10 +1369,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637510751870200000/reb82/highres/6/n5147046_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637510751870200000/reb82/medres/6/n5147046_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637510751870200000/reb82/lowres/6/n5147046_1.jpg",
-          "LastUpdated": "2021-03-11 3:59:47 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511027731600000/reb82/highres/6/n5147046_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511027731600000/reb82/medres/6/n5147046_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511027731600000/reb82/lowres/6/n5147046_1.jpg",
+          "LastUpdated": "2021-03-11 11:39:33 PM"
         }
       ],
       "Parking": [
@@ -1462,10 +1415,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637510946470900000/reb82/highres/7/w5147487_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637510946470900000/reb82/medres/7/w5147487_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637510946470900000/reb82/lowres/7/w5147487_1.jpg",
-          "LastUpdated": "2021-03-11 9:24:07 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511400518330000/reb82/highres/7/w5147487_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511400518330000/reb82/medres/7/w5147487_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511400518330000/reb82/lowres/7/w5147487_1.jpg",
+          "LastUpdated": "2021-03-12 10:00:51 AM"
         }
       ],
       "Parking": [
@@ -1489,6 +1442,109 @@
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22921117",
+    "MlsNumber": "W5149303",
+    "Property": {
+      "Price": "$1,969,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "12354 FIFTH LINE|Halton Hills, Ontario L0P1H0",
+        "Longitude": "-79.9788906",
+        "Latitude": "43.6356223",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511531344770000/reb86/highres/3/w5149303_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511531344770000/reb86/medres/3/w5149303_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511531344770000/reb86/lowres/3/w5149303_1.jpg",
+          "LastUpdated": "2021-03-12 1:38:54 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,969,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1969000"
+    },
+    "Land": {
+      "SizeTotal": "132.41 FT   ; Irregular 7.72 Acres|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22921349",
+    "MlsNumber": "H4100099",
+    "Property": {
+      "Price": "$1,249,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "506 6TH CONC Road E|Flamborough, Ontario L0R1V0",
+        "Longitude": "-79.917387",
+        "Latitude": "43.37611",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511550247700000/reb14/highres/9/h4100099_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511550247700000/reb14/medres/9/h4100099_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511550247700000/reb14/lowres/9/h4100099_1.jpg",
+          "LastUpdated": "2021-03-12 2:10:24 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Tandem"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Course, Schools",
+      "ConvertedPrice": "$1,249,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel, Tandem",
+      "PriceUnformattedValue": "1249000"
+    },
+    "Land": {
+      "SizeTotal": "401 x 0|10 - 24.99 acres",
+      "SizeFrontage": "401 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "SizeInterior": "1472.0000",
       "StoriesTotal": "1",
       "Type": "House"
     }
