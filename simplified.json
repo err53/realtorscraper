@@ -730,54 +730,6 @@
     }
   },
   {
-    "Id": "22864120",
-    "MlsNumber": "N5130443",
-    "Property": {
-      "Price": "$1,589,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "481 WEBB RD|Uxbridge, Ontario L9P1R4",
-        "Longitude": "-79.1363621",
-        "Latitude": "44.0075513",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637500314483730000/reb82/highres/3/n5130443_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637500314483730000/reb82/medres/3/n5130443_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637500314483730000/reb82/lowres/3/n5130443_1.jpg",
-          "LastUpdated": "2021-02-27 2:04:08 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,589,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1589900"
-    },
-    "Land": {
-      "SizeTotal": "327.22 x 1333.9 FT   ; Lot Is Irregular In Shape|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "2 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22866033",
     "MlsNumber": "N5131252",
     "Property": {
@@ -870,57 +822,6 @@
       "Bedrooms": "4 + 0",
       "StoriesTotal": "2",
       "Type": "House"
-    }
-  },
-  {
-    "Id": "22871328",
-    "MlsNumber": "40070842",
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
-        "Longitude": "-80.21969319",
-        "Latitude": "43.6817002",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637502690491530000/reb44/highres/2/40070842_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637502690491530000/reb44/medres/2/40070842_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637502690491530000/reb44/lowres/2/40070842_1.jpg",
-          "LastUpdated": "2021-03-02 8:04:09 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        },
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage, Gravel",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Land": {
-      "SizeTotal": "10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "3000.0000",
-      "StoriesTotal": "2.5000",
-      "Type": "House",
-      "UnitTotal": "2"
     }
   },
   {
@@ -1021,7 +922,7 @@
     "Id": "22877207",
     "MlsNumber": "40071330",
     "Property": {
-      "Price": "$1,995,000",
+      "Price": "$1,875,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "14141 DUBLIN Line|Acton, Ontario L7J2L9",
@@ -1048,12 +949,12 @@
       "TypeId": "300",
       "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Shopping",
-      "ConvertedPrice": "$1,995,000 ",
+      "ConvertedPrice": "$1,875,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1995000"
+      "PriceUnformattedValue": "1875000"
     },
     "Land": {
       "SizeTotal": "5 - 9.99 acres",
@@ -1073,7 +974,7 @@
     "Id": "22879282",
     "MlsNumber": "W5134904",
     "Property": {
-      "Price": "$1,995,000",
+      "Price": "$1,875,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "14141 DUBLIN LINE|Halton Hills, Ontario L7J2L9",
@@ -1099,12 +1000,12 @@
       "ParkingSpaceTotal": "23",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,995,000 ",
+      "ConvertedPrice": "$1,875,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1995000"
+      "PriceUnformattedValue": "1875000"
     },
     "Land": {
       "SizeTotal": "257.71 FT|5 - 9.99 acres"
@@ -1421,10 +1322,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637509834468200000/reb82/highres/5/n5144845_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637509834468200000/reb82/medres/5/n5144845_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637509834468200000/reb82/lowres/5/n5144845_1.jpg",
-          "LastUpdated": "2021-03-10 2:30:46 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637510948030700000/reb82/highres/5/n5144845_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637510948030700000/reb82/medres/5/n5144845_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637510948030700000/reb82/lowres/5/n5144845_1.jpg",
+          "LastUpdated": "2021-03-11 9:26:43 PM"
         }
       ],
       "Parking": [
@@ -1448,6 +1349,146 @@
     "Building": {
       "BathroomTotal": "5",
       "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22915393",
+    "MlsNumber": "N5146533",
+    "Property": {
+      "Price": "$1,395,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1465 15TH SDRD|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.7278931",
+        "Latitude": "44.0222591",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637510685871900000/reb82/highres/3/n5146533_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637510685871900000/reb82/medres/3/n5146533_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637510685871900000/reb82/lowres/3/n5146533_1.jpg",
+          "LastUpdated": "2021-03-11 2:09:47 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,395,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1395000"
+    },
+    "Land": {
+      "SizeTotal": "226.38 x 1438.07 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22915492",
+    "MlsNumber": "N5147046",
+    "Property": {
+      "Price": "$1,999,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4244 DOANE RD|East Gwillimbury, Ontario L0G1V0",
+        "Longitude": "-79.3583285",
+        "Latitude": "44.1420252",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637510751870200000/reb82/highres/6/n5147046_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637510751870200000/reb82/medres/6/n5147046_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637510751870200000/reb82/lowres/6/n5147046_1.jpg",
+          "LastUpdated": "2021-03-11 3:59:47 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1999000"
+    },
+    "Land": {
+      "SizeTotal": "542 x 1351 FT   ; 25 Acres 542X1351X1134X586X594|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22918346",
+    "MlsNumber": "W5147487",
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "16719 HUMBER STATION RD|Caledon, Ontario L7E3A5",
+        "Longitude": "-79.8430451",
+        "Latitude": "43.9220096",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637510946470900000/reb82/highres/7/w5147487_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637510946470900000/reb82/medres/7/w5147487_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637510946470900000/reb82/lowres/7/w5147487_1.jpg",
+          "LastUpdated": "2021-03-11 9:24:07 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "15",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Land": {
+      "SizeTotal": "6.5 Acre   ; Lot Size Per Mpac|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3",
       "StoriesTotal": "1",
       "Type": "House"
     }
