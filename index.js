@@ -50,7 +50,7 @@ async function main() {
   }
   
   output.sort((a, b) => {
-    return Number(a.Id) - Number(b.Id)
+    return a.MlsNumber - b.MlsNumber
   });
   
   await fs.writeFile("./output.json", JSON.stringify(output, null, 2));
