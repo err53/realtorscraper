@@ -52,95 +52,6 @@
     }
   },
   {
-    "Id": "21138425",
-    "MlsNumber": "N4577059",
-    "Property": {
-      "Price": "$1,200,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5175 COUNTY RD 13|Adjala-Tosorontio, Ontario L0M1J0",
-        "Longitude": "-79.9301512",
-        "Latitude": "44.1493338",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/highres/9/n4577059_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/medres/9/n4577059_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/lowres/9/n4577059_1.jpg",
-          "LastUpdated": "2020-06-29 1:12:28 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "ConvertedPrice": "$1,200,000 ",
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1200000"
-    },
-    "Land": {
-      "SizeTotal": "44 Acre   ; Irregular Acreage As Per Mpac|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22050964",
-    "MlsNumber": "N4814406",
-    "Property": {
-      "Price": "$1,849,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "3732 GLENWOODS AVE W|Georgina, Ontario L0E1R0",
-        "Longitude": "-79.396489",
-        "Latitude": "44.2274568",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637303198695670000/reb88/highres/6/n4814406_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637303198695670000/reb88/medres/6/n4814406_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637303198695670000/reb88/lowres/6/n4814406_1.jpg",
-          "LastUpdated": "2020-07-14 10:37:49 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1849900"
-    },
-    "Land": {
-      "SizeTotal": "1466.88 x 47.08 Acre   ; 1466.88 On Glenwoods & 876.52 On Kennedy|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22434234",
     "MlsNumber": "40028565",
     "Property": {
@@ -1307,53 +1218,6 @@
     }
   },
   {
-    "Id": "22915393",
-    "MlsNumber": "N5146533",
-    "Property": {
-      "Price": "$1,395,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1465 15TH SDRD|New Tecumseth, Ontario L0G1W0",
-        "Longitude": "-79.7278931",
-        "Latitude": "44.0222591",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637510685871900000/reb82/highres/3/n5146533_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637510685871900000/reb82/medres/3/n5146533_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637510685871900000/reb82/lowres/3/n5146533_1.jpg",
-          "LastUpdated": "2021-03-11 2:09:47 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "14",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,395,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1395000"
-    },
-    "Land": {
-      "SizeTotal": "226.38 x 1438.07 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22915492",
     "MlsNumber": "N5147046",
     "Property": {
@@ -1501,18 +1365,18 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "506 6TH CONC Road E|Flamborough, Ontario L0R1V0",
-        "Longitude": "-79.917387",
-        "Latitude": "43.37611",
+        "Longitude": "-79.915149",
+        "Latitude": "43.374581",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511550247700000/reb14/highres/9/h4100099_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511550247700000/reb14/medres/9/h4100099_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511550247700000/reb14/lowres/9/h4100099_1.jpg",
-          "LastUpdated": "2021-03-12 2:10:24 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511657440830000/reb14/highres/9/h4100099_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511657440830000/reb14/medres/9/h4100099_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511657440830000/reb14/lowres/9/h4100099_1.jpg",
+          "LastUpdated": "2021-03-12 5:09:04 PM"
         }
       ],
       "Parking": [
@@ -1546,6 +1410,194 @@
       "Bedrooms": "3",
       "SizeInterior": "1472.0000",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22921844",
+    "MlsNumber": "N5148649",
+    "Property": {
+      "Price": "$1,795,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1191 COUNTY RD 50|Adjala-Tosorontio, Ontario L0N1P0",
+        "Longitude": "-79.8676970512256",
+        "Latitude": "43.976877413387",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511570754500000/reb82/highres/9/n5148649_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511570754500000/reb82/medres/9/n5148649_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511570754500000/reb82/lowres/9/n5148649_1.jpg",
+          "LastUpdated": "2021-03-12 2:44:35 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,795,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1795000"
+    },
+    "Land": {
+      "SizeTotal": "253.5 x 1960 FT   ; 11.73 Acres As Per Mpac|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22921924",
+    "MlsNumber": "N5149054",
+    "Property": {
+      "Price": "$1,895,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6400 7TH LINE|New Tecumseth, Ontario L0G1A0",
+        "Longitude": "-79.799265267984",
+        "Latitude": "44.0640119102596",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/highres/4/n5149054_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/medres/4/n5149054_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/lowres/4/n5149054_1.jpg",
+          "LastUpdated": "2021-03-12 2:44:57 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,895,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1895000"
+    },
+    "Land": {
+      "SizeTotal": "35.32 x 35.32 Acre   ; 35.32 Acres As Per Mpac|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22923918",
+    "MlsNumber": "X5149441",
+    "Property": {
+      "Price": "$1,249,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "506 6TH CONC RD E|Hamilton, Ontario L0R1V0",
+        "Longitude": "-79.9154204183095",
+        "Latitude": "43.3749629816702",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511704487230000/reb82/highres/1/x5149441_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511704487230000/reb82/medres/1/x5149441_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511704487230000/reb82/lowres/1/x5149441_1.jpg",
+          "LastUpdated": "2021-03-12 6:27:28 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,249,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1249000"
+    },
+    "Land": {
+      "SizeTotal": "400.98 x 1091.6 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22925635",
+    "MlsNumber": "N5150388",
+    "Property": {
+      "Price": "$1,200,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5175 COUNTY RD 13|Adjala-Tosorontio, Ontario L0M1J0",
+        "Longitude": "-79.9301512",
+        "Latitude": "44.1493338",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637512405773200000/reb82/highres/8/n5150388_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637512405773200000/reb82/medres/8/n5150388_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637512405773200000/reb82/lowres/8/n5150388_1.jpg",
+          "LastUpdated": "2021-03-13 1:56:17 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,200,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1200000"
+    },
+    "Land": {
+      "SizeTotal": "44 Acre   ; Irregular As Per Mpac|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   }

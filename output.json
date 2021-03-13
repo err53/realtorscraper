@@ -333,323 +333,6 @@
     "RelativeURLFr": "/immobilier/20185869/5826-first-line-erin"
   },
   {
-    "Id": "21138425",
-    "MlsNumber": "N4577059",
-    "PublicRemarks": "Please Note This Property Is Sold Conditional On Seller Finding Suitable Accomodations.  No Further Showings Unless Otherwise Noted. Stunning Renovated Home Includes New Wiring, New Furnace (2016), Garage Is Heated By Oil, All New Wood Exterior, Kitchen & Bathrooms, Floors, Windows. Stunning Custom Kitchen With Granite Counters, Mn Flr Master, In Ground Pool, Bank Barn, Drive Shed... Ideal Location!!!**** EXTRAS **** Incl: Cvac & Attach, Uv Light, Iron Filter, Gar/Dr Op & Remote (S), W/Softener(O), Pool Working But \"\"As Is\"\" & Pool Equip, Tv Mounts, Windows & Wood In Upstairs Barn & Contents In Shed Behind Barn (Wood Etc) Excl: All Tvs, Wood For Woodstove (25715484)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1424651,
-        "Name": "MARSHA D. HARRISON",
-        "Organization": {
-          "OrganizationID": 261236,
-          "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637500465860000000/lowres/261236.jpg",
-          "Address": {
-            "AddressText": "7 VICTORIA ST. WEST|PO BOX 759|ALLISTON, Ontario L9R1V9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "435-3000",
-              "AreaCode": "705",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "435-3001",
-              "AreaCode": "705",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/261236/royal-lepage-rcr-realty-7-victoria-st-west-po-box-759-alliston-ontario-l9r1v9",
-          "PhotoLastupdate": "2021-02-27 6:16:26 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "435-3000",
-            "AreaCode": "705",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.sellwithmarsha.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455680794"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636330532200000000/lowres/1424651.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "MARSHA D.",
-        "LastName": "HARRISON",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1424651/marsha-d-harrison-7-victoria-st-west-po-box-759-alliston-ontario-l9r1v9",
-        "AgentPhotoLastUpdated": "2017-06-14 16:07:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636330532200000000/highres/1424651.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,200,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5175 COUNTY RD 13|Adjala-Tosorontio, Ontario L0M1J0",
-        "Longitude": "-79.9301512",
-        "Latitude": "44.1493338",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/highres/9/n4577059_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/medres/9/n4577059_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637290331486970000/reb82/lowres/9/n4577059_1.jpg",
-          "LastUpdated": "2020-06-29 1:12:28 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "ConvertedPrice": "$1,200,000 ",
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1200000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "44 Acre   ; Irregular Acreage As Per Mpac|25 - 50 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://barrierealestatevideoproductions.ca/?v=wv0CyJPdNpM&i=1420"
-    },
-    "PostalCode": "L0M1J0",
-    "RelativeDetailsURL": "/real-estate/21138425/5175-county-rd-13-adjala-tosorontio-everett",
-    "StatusId": "1",
-    "PriceChangeDateUTC": "2021-02-27 11:20:22 PM",
-    "PhotoChangeDateUTC": "2020-06-29 5:12:28 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/21138425/5175-county-rd-13-adjala-tosorontio-everett",
-    "RelativeURLFr": "/immobilier/21138425/5175-county-rd-13-adjala-tosorontio"
-  },
-  {
-    "Id": "22050964",
-    "MlsNumber": "N4814406",
-    "PublicRemarks": "An Ideal Property For Farm & Investment On 47.08 Acres W/ 2 Houses & Two Frontages (Kennedy + Glenwoods). Land Is High & All Workable. 60X50 Barn(Hydro & Water) - Det. Garage, Out Building -( + Century Home (Cira 1885) With Six Bedrooms 11 Rooms Total, 2 Storey, 2 Staircases To 2nd Level - \"\"1st\"\" House Is A Sidesplit With Finished Attached Double Garage & Inside Entry, Renovated 2018/19 ).  Excellent Development Investment Potential Here !**** EXTRAS **** All Appliances And Electrical Light Fixtures.  Exclude Wood Storage Box In Front Sunroom In House 2. (26865370)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1930439,
-        "Name": "RANDY DONNERAL",
-        "Organization": {
-          "OrganizationID": 259576,
-          "Name": "RE/MAX ALL-STARS REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637419840660000000/lowres/259576.jpg",
-          "Address": {
-            "AddressText": "144 QUEEN STREET|PORT PERRY, Ontario L9L1A6",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "985-4427",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "985-8127",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "464130943"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.remaxallstars.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/259576/remax-all-stars-realty-inc-144-queen-street-port-perry-ontario-l9l1a6",
-          "PhotoLastupdate": "2020-11-26 10:41:06 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "339-2497",
-            "AreaCode": "647",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "339-2497",
-            "AreaCode": "647",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459365759"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636815157600000000/lowres/1231268.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "RANDY",
-        "LastName": "DONNERAL",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1930439/randy-donneral-144-queen-street-port-perry-ontario-l9l1a6",
-        "AgentPhotoLastUpdated": "2018-12-27 13:56:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636815157600000000/highres/1231268.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1411028,
-        "Name": "REINHOLD W. SCHICKEDANZ",
-        "Organization": {
-          "OrganizationID": 282936,
-          "Name": "RE/MAX ALL-STARS REALTY INC.",
-          "Address": {
-            "AddressText": "1 ALBERT ST S|SUNDERLAND, Ontario L0C1H0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "702-3000",
-              "AreaCode": "705",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "464132709"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/282936/remax-all-stars-realty-inc-1-albert-st-s-sunderland-ontario-l0c1h0",
-          "PhotoLastupdate": "2020-11-26 10:41:06 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "702-3000",
-            "AreaCode": "705",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455701286"
-          }
-        ],
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "REINHOLD W.",
-        "LastName": "SCHICKEDANZ",
-        "CccMember": true,
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1411028/reinhold-w-schickedanz-1-albert-st-s-sunderland-ontario-l0c1h0",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,849,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "3732 GLENWOODS AVE W|Georgina, Ontario L0E1R0",
-        "Longitude": "-79.396489",
-        "Latitude": "44.2274568",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637303198695670000/reb88/highres/6/n4814406_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637303198695670000/reb88/medres/6/n4814406_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637303198695670000/reb88/lowres/6/n4814406_1.jpg",
-          "LastUpdated": "2020-07-14 10:37:49 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1849900"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "1466.88 x 47.08 Acre   ; 1466.88 On Glenwoods & 876.52 On Kennedy|25 - 50 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://maddoxmedia.ca/3732-glenwoods-ave-keswick/"
-    },
-    "PostalCode": "L0E1R0",
-    "RelativeDetailsURL": "/real-estate/22050964/3732-glenwoods-ave-w-georgina-belhaven",
-    "StatusId": "1",
-    "PriceChangeDateUTC": "2020-09-27 11:40:06 AM",
-    "PhotoChangeDateUTC": "2020-07-14 2:37:49 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22050964/3732-glenwoods-ave-w-georgina-belhaven",
-    "RelativeURLFr": "/immobilier/22050964/3732-glenwoods-ave-w-georgina"
-  },
-  {
     "Id": "22434234",
     "MlsNumber": "40028565",
     "PublicRemarks": "Prestigious Scenic Drive address! Breathtaking views of the land are just a part of a daily life here at 347 Scenic Drive.  This 4 bedrooms and 3 bathrooms home with attached double car garage and 30.95 acres of land has been in the same family for over 3 decades. Lovingly maintained by the current owners this beautiful country home offers plenty of room and possibilities for families and investors alike. Main level features kitchen, living and dining room, den, three good sized bedrooms, family room with wood burning fireplace and main bath.  Lower level has oversized rec room with wood burning fireplace, two kitchens, living room, bedroom and two baths.  Basement with two separate entrances offers in law suite potential. In addition to the house there is a large storage barn and a shed with cellar on the property. Drilled well feeds the water to the house. Centrally located only minutes to Brantford, Paris and Cambridge and Hwy 403. Country living at it's best with conveniences of the city nearby.  Book your private tour of this property today! (62462799)",
@@ -960,7 +643,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465038000"
+              "ContactId": "465088990"
             }
           ],
           "Websites": [
@@ -1029,7 +712,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465038000"
+              "ContactId": "465088990"
             }
           ],
           "Websites": [
@@ -3175,7 +2858,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/278440/century-21-millennium-inc-57a-broadway-avenue-orangeville-ontario-l9w1j8",
-          "PhotoLastupdate": "2021-03-03 2:47:33 PM"
+          "PhotoLastupdate": "2021-03-12 6:27:01 PM"
         },
         "Phones": [
           {
@@ -3462,7 +3145,6 @@
     "RelativeDetailsURL": "/real-estate/22877207/14141-dublin-line-acton",
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-03-11 2:25:27 PM",
-    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-03-05 3:11:06 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/22877207/14141-dublin-line-acton",
@@ -3590,7 +3272,6 @@
     "RelativeDetailsURL": "/real-estate/22879282/14141-dublin-line-halton-hills-acton",
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-03-11 7:16:20 PM",
-    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-03-03 7:46:35 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/22879282/14141-dublin-line-halton-hills-acton",
@@ -4421,158 +4102,9 @@
     "RelativeDetailsURL": "/real-estate/22909516/257-ashworth-rd-e-uxbridge-rural-uxbridge",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-12 2:26:43 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22909516/257-ashworth-rd-e-uxbridge-rural-uxbridge",
     "RelativeURLFr": "/immobilier/22909516/257-ashworth-rd-e-uxbridge"
-  },
-  {
-    "Id": "22915393",
-    "MlsNumber": "N5146533",
-    "PublicRemarks": "Country Paradise Found On This 7+ Acre Horse Farm Only Mins From The Quaint Village Of Schomberg. This All Brick 3+3 Bdrm, 3 Bath Bungalow Boasts A Beautifully Renovated In-Law Suite, Wood Stove, And Gas Fireplace. Enjoy Private Views Of A Fully Landscaped Yard, Pond, And Paddocks. 4-Stall Barn Features A Run-In Shed, Electrically Fenced Paddocks, And Backs Onto Your Own Private Hardwood Forest With Trails Leading For Miles Into Greenspace.**** EXTRAS **** Included Are Solar Panels Generating $8-10K/Yr Plus A Backup Generac Generator Powering The Entire Home. 2X Washer & Dryer Located On Main & Bsmt. 2X Appliances On Main & Bsmt. Many Updates! See Attached Schedule For Additional Details. (28061926)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2053638,
-        "Name": "JESSICA D'ARRIGO",
-        "Organization": {
-          "OrganizationID": 257209,
-          "Name": "MAIN STREET REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637510685870000000/lowres/257209.jpg",
-          "Address": {
-            "AddressText": "150 MAIN STREET S.|NEWMARKET, Ontario L3Y3Z1",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "853-5550",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "853-5597",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "464118977"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.mainstreetrealtyltd.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/257209/main-street-realty-ltd-150-main-street-s-newmarket-ontario-l3y3z1",
-          "PhotoLastupdate": "2021-03-11 2:09:47 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "853-5550",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://jessicadarrigo.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/jessica.maier.921/",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://www.linkedin.com/in/jessdarrigorealestate/",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459440060"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636628504200000000/lowres/1328895.jpg",
-        "Position": "Salesperson",
-        "DesignationCodes": "CNE RSPS SRS",
-        "PermitFreetextEmail": true,
-        "FirstName": "JESSICA",
-        "LastName": "D'ARRIGO",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2053638/jessica-darrigo-150-main-street-s-newmarket-ontario-l3y3z1",
-        "AgentPhotoLastUpdated": "2018-05-25 13:07:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636628504200000000/highres/1328895.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,395,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1465 15TH SDRD|New Tecumseth, Ontario L0G1W0",
-        "Longitude": "-79.7278931",
-        "Latitude": "44.0222591",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637510685871900000/reb82/highres/3/n5146533_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637510685871900000/reb82/medres/3/n5146533_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637510685871900000/reb82/lowres/3/n5146533_1.jpg",
-          "LastUpdated": "2021-03-11 2:09:47 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "14",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,395,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1395000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "226.38 x 1438.07 FT|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youtu.be/civu0rmq8B8"
-    },
-    "PostalCode": "L0G1W0",
-    "RelativeDetailsURL": "/real-estate/22915393/1465-15th-sdrd-new-tecumseth-rural-new-tecumseth",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-11 7:09:47 PM",
-    "HasNewImageUpdate": true,
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22915393/1465-15th-sdrd-new-tecumseth-rural-new-tecumseth",
-    "RelativeURLFr": "/immobilier/22915393/1465-15th-sdrd-new-tecumseth"
   },
   {
     "Id": "22915492",
@@ -4769,7 +4301,6 @@
     "RelativeDetailsURL": "/real-estate/22915492/4244-doane-rd-east-gwillimbury-rural-east-gwillimbury",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-12 4:39:33 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22915492/4244-doane-rd-east-gwillimbury-rural-east-gwillimbury",
     "RelativeURLFr": "/immobilier/22915492/4244-doane-rd-east-gwillimbury"
@@ -5209,7 +4740,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/283099/royal-lepage-burloak-real-estate-services-3060-mainway-suite-200a-burlington-ontario-l7m1a3",
-          "PhotoLastupdate": "2021-03-12 2:08:11 PM"
+          "PhotoLastupdate": "2021-03-12 5:07:25 PM"
         },
         "Phones": [
           {
@@ -5255,7 +4786,7 @@
         "Organization": {
           "OrganizationID": 55164,
           "Name": "Royal LePage Burloak Real Estate Services",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637511548910000000/lowres/1003546.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637511656450000000/lowres/1003546.jpg",
           "Address": {
             "AddressText": "Suite#200-3060 Mainway|Burlington, Ontario L7M1A3",
             "PermitShowAddress": true,
@@ -5291,7 +4822,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/55164/royal-lepage-burloak-real-estate-services-suite200-3060-mainway-burlington-ontario-l7m1a3",
-          "PhotoLastupdate": "2021-03-12 2:08:11 PM"
+          "PhotoLastupdate": "2021-03-12 5:07:25 PM"
         },
         "Phones": [
           {
@@ -5337,18 +4868,18 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "506 6TH CONC Road E|Flamborough, Ontario L0R1V0",
-        "Longitude": "-79.917387",
-        "Latitude": "43.37611",
+        "Longitude": "-79.915149",
+        "Latitude": "43.374581",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511550247700000/reb14/highres/9/h4100099_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511550247700000/reb14/medres/9/h4100099_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511550247700000/reb14/lowres/9/h4100099_1.jpg",
-          "LastUpdated": "2021-03-12 2:10:24 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511657440830000/reb14/highres/9/h4100099_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511657440830000/reb14/medres/9/h4100099_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511657440830000/reb14/lowres/9/h4100099_1.jpg",
+          "LastUpdated": "2021-03-12 5:09:04 PM"
         }
       ],
       "Parking": [
@@ -5384,10 +4915,523 @@
     "PostalCode": "L0R1V0",
     "RelativeDetailsURL": "/real-estate/22921349/506-6th-conc-road-e-flamborough",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-12 7:10:25 PM",
+    "PhotoChangeDateUTC": "2021-03-12 10:09:04 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22921349/506-6th-conc-road-e-flamborough",
     "RelativeURLFr": "/immobilier/22921349/506-6th-conc-road-e-flamborough"
+  },
+  {
+    "Id": "22921844",
+    "MlsNumber": "N5148649",
+    "PublicRemarks": "South Adjala Close To #9, Hill Top Views For Miles. Bring Your Family Along The Long Paved Driveway Set Well Back From The Rd Providing Private Secure Comfort To This Country Oasis. In The Summer Enjoy The Professionally Maintained Inground Pool, Walk The Numerous Trails, Sit In The Shade On The Porch Or Sun It Out On The Patio. In The Winter Cozy Up To Any Of The 3 Fireplace In This Large Magnificent Home.Dad Can Enjoy His Heated Workshop Or The 3 Car Garage**** EXTRAS **** Hill Top Views For Miles To The West,Trail Network, 3 Fireplaces, Inground Pool, Heated/Insulated Workshop, 3 Car Garage, Paved Driveway. (28070493)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1923039,
+        "Name": "ROB MCDONOUGH",
+        "Organization": {
+          "OrganizationID": 286639,
+          "Name": "RE/MAX HALLMARK MCDONOUGH GROUP REALTY",
+          "Address": {
+            "AddressText": "22 QUEEN ST SOUTH|TOTTENHAM, Ontario L0G1W0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "936-3500",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "454711835"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/286639/remax-hallmark-mcdonough-group-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
+          "PhotoLastupdate": "2021-03-13 1:56:03 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "294-3157",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.robmcdonough.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456927334"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1923039.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "ROB",
+        "LastName": "MCDONOUGH",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1923039/rob-mcdonough-22-queen-st-south-tottenham-ontario-l0g1w0",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1923039.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,795,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1191 COUNTY RD 50|Adjala-Tosorontio, Ontario L0N1P0",
+        "Longitude": "-79.8676970512256",
+        "Latitude": "43.976877413387",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511570754500000/reb82/highres/9/n5148649_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511570754500000/reb82/medres/9/n5148649_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511570754500000/reb82/lowres/9/n5148649_1.jpg",
+          "LastUpdated": "2021-03-12 2:44:35 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,795,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1795000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "253.5 x 1960 FT   ; 11.73 Acres As Per Mpac|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://wylieford.homelistingtours.com/listing2/1191-county-road-50"
+    },
+    "PostalCode": "L0N1P0",
+    "RelativeDetailsURL": "/real-estate/22921844/1191-county-rd-50-adjala-tosorontio-rural-adjala-tosorontio",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-12 7:44:35 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22921844/1191-county-rd-50-adjala-tosorontio-rural-adjala-tosorontio",
+    "RelativeURLFr": "/immobilier/22921844/1191-county-rd-50-adjala-tosorontio"
+  },
+  {
+    "Id": "22921924",
+    "MlsNumber": "N5149054",
+    "PublicRemarks": "Where Can You Find Such An Expansive Parcel Of Land At Over 35 Acres Complimented With A Large Open Concept Vaulted Ceiling Country Home, Equestrian Barn/Shop, 3 Paddocks And A Full Compliment Of Installed Solar Panels Yielding Over $7,000 A Year In Free Money!! Whether You Are Inside Or Outside The Vast Property Is Yours To Enjoy From The Wrap Around Porch With Outdoor Natural Gas Fireplace To The Riverside Cabin Where You Can Fish, Swim, Or Just Sit Back.**** EXTRAS **** Natural Gas, Solar Panels 10Mw Microfit Program. Steel Structure Allows Any Wall To Be Removed,Barn/Shop, 3 Paddocks, Double Sided Indoor/Outdoor Fireplace, Hot Tub, Riverside Cabin, Huge Unfinished Walkout Lower Level. (28070978)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1923039,
+        "Name": "ROB MCDONOUGH",
+        "Organization": {
+          "OrganizationID": 286639,
+          "Name": "RE/MAX HALLMARK MCDONOUGH GROUP REALTY",
+          "Address": {
+            "AddressText": "22 QUEEN ST SOUTH|TOTTENHAM, Ontario L0G1W0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "936-3500",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "454711835"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/286639/remax-hallmark-mcdonough-group-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
+          "PhotoLastupdate": "2021-03-13 1:56:06 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "294-3157",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.robmcdonough.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456927334"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1923039.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "ROB",
+        "LastName": "MCDONOUGH",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1923039/rob-mcdonough-22-queen-st-south-tottenham-ontario-l0g1w0",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1923039.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,895,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6400 7TH LINE|New Tecumseth, Ontario L0G1A0",
+        "Longitude": "-79.799265267984",
+        "Latitude": "44.0640119102596",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/highres/4/n5149054_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/medres/4/n5149054_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/lowres/4/n5149054_1.jpg",
+          "LastUpdated": "2021-03-12 2:44:57 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,895,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1895000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "35.32 x 35.32 Acre   ; 35.32 Acres As Per Mpac|25 - 50 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://wylieford.homelistingtours.com/listing2/6400-7th-line"
+    },
+    "PostalCode": "L0G1A0",
+    "RelativeDetailsURL": "/real-estate/22921924/6400-7th-line-new-tecumseth-rural-new-tecumseth",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-12 7:44:57 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22921924/6400-7th-line-new-tecumseth-rural-new-tecumseth",
+    "RelativeURLFr": "/immobilier/22921924/6400-7th-line-new-tecumseth"
+  },
+  {
+    "Id": "22923918",
+    "MlsNumber": "X5149441",
+    "PublicRemarks": "Idyllic Location And Just Over 10 Acres!  Gorgeous Bungalow In A Private Country Setting With Countless Trails & A Meandering Grindstone Creek! With Trails Ready For Hiking, Mountain Biking, Atvs & Snowmobiles, You Can Marvel At Wildlife!  Minutes From The Conveniences Of Charming Waterdown And Bordering An Equestrian Farm!. Golf Courses, Dining, Schools, Highways, And Aldershot Go Station Are A Short Drive Away.**** EXTRAS **** Inclusions: Elf's, Fridge, Stove, Microwave, Dishwasher, Window Coverings, Agdo- No Remotes, Gazebo Exclusions: Hot Tub As-Is To Be Removed (28073359)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2058183,
+        "Name": "TANYA ROCCA",
+        "Organization": {
+          "OrganizationID": 269020,
+          "Name": "ROYAL LEPAGE BURLOAK REAL ESTATE SERVICES",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637511704480000000/lowres/1231482.jpg",
+          "Address": {
+            "AddressText": "3060 MAINWAY SUITE 200A|BURLINGTON, Ontario L7M1A3",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "844-2022",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "335-1659",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "456235073"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royallepageburlington",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/269020/royal-lepage-burloak-real-estate-services-3060-mainway-suite-200a-burlington-ontario-l7m1a3",
+          "PhotoLastupdate": "2021-03-12 6:27:28 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "844-2022",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "335-4102",
+            "AreaCode": "905",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459444179"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636866993400000000/lowres/1333377.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "TANYA",
+        "LastName": "ROCCA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2058183/tanya-rocca-3060-mainway-suite-200a-burlington-ontario-l7m1a3",
+        "AgentPhotoLastUpdated": "2019-02-25 13:49:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636866993400000000/highres/1333377.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,249,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "506 6TH CONC RD E|Hamilton, Ontario L0R1V0",
+        "Longitude": "-79.9154204183095",
+        "Latitude": "43.3749629816702",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637511704487230000/reb82/highres/1/x5149441_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637511704487230000/reb82/medres/1/x5149441_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637511704487230000/reb82/lowres/1/x5149441_1.jpg",
+          "LastUpdated": "2021-03-12 6:27:28 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,249,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1249000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "400.98 x 1091.6 FT|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://homesmedia.ca/rocca-sisters/506-concession-rd-6-e-millgrove/"
+    },
+    "PostalCode": "L0R1V0",
+    "RelativeDetailsURL": "/real-estate/22923918/506-6th-conc-rd-e-hamilton-rural-flamborough",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-12 11:27:28 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22923918/506-6th-conc-rd-e-hamilton-rural-flamborough",
+    "RelativeURLFr": "/immobilier/22923918/506-6th-conc-rd-e-hamilton"
+  },
+  {
+    "Id": "22925635",
+    "MlsNumber": "N5150388",
+    "PublicRemarks": "It Is Available!! But Don't Wait Or You Might Miss Your Chance To Be The New Owner Of This Fabulous Property! Updated In 2016 It Has Had Almost Everything Done. Custom Kitchen With Slow Close Drawers And Granite Counters, Main Floor Laundry And Mbr. Attached Garage Has Heat & Property Also Features In-Ground Pool, Bank Barn, Drive Shed And Many Acres To Roam!**** EXTRAS **** Incl: Hwt(O) '20, Cvac ('19) & Atch, O/W ('19), Uv Light, Iron Filter, Gardo & Remote, Wtr Sft,Pool Working But \"\"As Is\"\" & Pool Equip,Tv Mounts,Windows & Wood In Upstairs Barn & Contents In Shed Behind Barn. Excl: All Tvs, Wood For Woodstove (28076023)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1424651,
+        "Name": "MARSHA D. HARRISON",
+        "Organization": {
+          "OrganizationID": 261236,
+          "Name": "ROYAL LEPAGE RCR REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637512405770000000/lowres/261236.jpg",
+          "Address": {
+            "AddressText": "7 VICTORIA ST. WEST|PO BOX 759|ALLISTON, Ontario L9R1V9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "435-3000",
+              "AreaCode": "705",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "435-3001",
+              "AreaCode": "705",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/261236/royal-lepage-rcr-realty-7-victoria-st-west-po-box-759-alliston-ontario-l9r1v9",
+          "PhotoLastupdate": "2021-03-13 1:56:17 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "435-3000",
+            "AreaCode": "705",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.sellwithmarsha.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455680794"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636330532200000000/lowres/1424651.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "MARSHA D.",
+        "LastName": "HARRISON",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1424651/marsha-d-harrison-7-victoria-st-west-po-box-759-alliston-ontario-l9r1v9",
+        "AgentPhotoLastUpdated": "2017-06-14 16:07:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636330532200000000/highres/1424651.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,200,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5175 COUNTY RD 13|Adjala-Tosorontio, Ontario L0M1J0",
+        "Longitude": "-79.9301512",
+        "Latitude": "44.1493338",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637512405773200000/reb82/highres/8/n5150388_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637512405773200000/reb82/medres/8/n5150388_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637512405773200000/reb82/lowres/8/n5150388_1.jpg",
+          "LastUpdated": "2021-03-13 1:56:17 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,200,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1200000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "44 Acre   ; Irregular As Per Mpac|25 - 50 acres"
+    },
+    "PostalCode": "L0M1J0",
+    "RelativeDetailsURL": "/real-estate/22925635/5175-county-rd-13-adjala-tosorontio-everett",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-13 6:56:17 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22925635/5175-county-rd-13-adjala-tosorontio-everett",
+    "RelativeURLFr": "/immobilier/22925635/5175-county-rd-13-adjala-tosorontio"
   }
 ]
