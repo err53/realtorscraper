@@ -1516,126 +1516,6 @@
     "RelativeURLFr": "/immobilier/22892353/15-15-side-rd-halton-hills"
   },
   {
-    "Id": "22872976",
-    "MlsNumber": "X5133701",
-    "PublicRemarks": "One Of A Kind Century Stone Home On Over 13 Acres, Just North Of Rockwood. The Main Floor Has Large Principle Rooms, A 3Pc Bathroom And An Expansive Great Room. Upstairs Are 3 Large Bedrooms, A 3Pc Bath, And A 2nd Floor Den. Continuing Up Is A Finished, Approx. 200 Square Foot Attic. The Home Is Heated By Geothermal Forced Air Furnace. Approximately 64'X54' Bank Barn With Attached 3-Car Garage, A Private Spring Fed Swimming Pond And Bordering Lutteral Creek.**** EXTRAS **** Offers Conditional On Severance With Twp. Of Gue/Era For 90 Days From Acceptance. Property Being Sold \"\"As Is\"\". Water Sample Showing 0.0 In Supplements. Closing Date And Taxes/Assess. Pending Severance Completion. Pins 711700240 & 711700197 (28006677)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2082413,
-        "Name": "JEFF C. MORLEY",
-        "Organization": {
-          "OrganizationID": 80584,
-          "Name": "ROYAL LEPAGE ROYAL CITY REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502891580000000/lowres/default/royallepage.gif",
-          "Address": {
-            "AddressText": "118 MAIN STREET|ROCKWOOD, Ontario N0B2K0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "856-9922",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "856-9909",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/80584/royal-lepage-royal-city-realty-ltd-118-main-street-rockwood-ontario-n0b2k0",
-          "PhotoLastupdate": "2021-03-02 1:39:18 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "856-9922",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459312358"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637087414800000000/lowres/1357250.jpg",
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "JEFF C.",
-        "LastName": "MORLEY",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2082413/jeff-c-morley-118-main-street-rockwood-ontario-n0b2k0",
-        "AgentPhotoLastUpdated": "2019-11-07 16:38:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637087414800000000/highres/1357250.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
-        "Longitude": "-80.2246821",
-        "Latitude": "43.6800213",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/highres/1/x5133701_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/medres/1/x5133701_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/lowres/1/x5133701_1.jpg",
-          "LastUpdated": "2021-03-02 3:07:53 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://unbranded.youriguide.com/8423_side_rd_20_guelph_eramosa_on/"
-    },
-    "PostalCode": "N0B2K0",
-    "RelativeDetailsURL": "/real-estate/22872976/8423-sideroad-20-guelpheramosa-rural-guelpheramosa",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-02 8:07:54 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22872976/8423-sideroad-20-guelpheramosa-rural-guelpheramosa",
-    "RelativeURLFr": "/immobilier/22872976/8423-sideroad-20-guelpheramosa"
-  },
-  {
     "Id": "22918346",
     "MlsNumber": "W5147487",
     "PublicRemarks": "Welcome To Your Private Sanctuary! Fairy Tale Inspired Bungalow W/Att 2Car & Det 3 Car Garage W/Gorgeous Studio Space Above, Nestled On 6.5 Acres Of Natural Wonderland. Beautiful Grounds & Private Access To Caledon Trail, Surrounded By Pristine Conservation Lands, Outdoor Enthusiasts Will Be In Heaven! Inside Relax By The Fire In The Open Concept Floor Plan W/Cathedral Ceiling Or The Fab Sunroom To Take In Views Of The Pond. Plenty Of Walkouts To Massive**** EXTRAS **** Multi Tiered Deck & Hot Tub. Geothermal Heating System For The Home & In-Floor Radiant Heat For The Garage! A Live, Work & Play Setting Like No Other Just Minutes To Bolton Or Caledon East. An Absolute Must See! (28065833)",
@@ -1844,6 +1724,126 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22918346/16719-humber-station-rd-caledon-rural-caledon",
     "RelativeURLFr": "/immobilier/22918346/16719-humber-station-rd-caledon"
+  },
+  {
+    "Id": "22872976",
+    "MlsNumber": "X5133701",
+    "PublicRemarks": "One Of A Kind Century Stone Home On Over 13 Acres, Just North Of Rockwood. The Main Floor Has Large Principle Rooms, A 3Pc Bathroom And An Expansive Great Room. Upstairs Are 3 Large Bedrooms, A 3Pc Bath, And A 2nd Floor Den. Continuing Up Is A Finished, Approx. 200 Square Foot Attic. The Home Is Heated By Geothermal Forced Air Furnace. Approximately 64'X54' Bank Barn With Attached 3-Car Garage, A Private Spring Fed Swimming Pond And Bordering Lutteral Creek.**** EXTRAS **** Offers Conditional On Severance With Twp. Of Gue/Era For 90 Days From Acceptance. Property Being Sold \"\"As Is\"\". Water Sample Showing 0.0 In Supplements. Closing Date And Taxes/Assess. Pending Severance Completion. Pins 711700240 & 711700197 (28006677)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2082413,
+        "Name": "JEFF C. MORLEY",
+        "Organization": {
+          "OrganizationID": 80584,
+          "Name": "ROYAL LEPAGE ROYAL CITY REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502891580000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "118 MAIN STREET|ROCKWOOD, Ontario N0B2K0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "856-9922",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "856-9909",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/80584/royal-lepage-royal-city-realty-ltd-118-main-street-rockwood-ontario-n0b2k0",
+          "PhotoLastupdate": "2021-03-02 1:39:18 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "856-9922",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459312358"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637087414800000000/lowres/1357250.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "JEFF C.",
+        "LastName": "MORLEY",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2082413/jeff-c-morley-118-main-street-rockwood-ontario-n0b2k0",
+        "AgentPhotoLastUpdated": "2019-11-07 16:38:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637087414800000000/highres/1357250.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
+        "Longitude": "-80.2246821",
+        "Latitude": "43.6800213",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/highres/1/x5133701_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/medres/1/x5133701_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/lowres/1/x5133701_1.jpg",
+          "LastUpdated": "2021-03-02 3:07:53 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://unbranded.youriguide.com/8423_side_rd_20_guelph_eramosa_on/"
+    },
+    "PostalCode": "N0B2K0",
+    "RelativeDetailsURL": "/real-estate/22872976/8423-sideroad-20-guelpheramosa-rural-guelpheramosa",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-02 8:07:54 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22872976/8423-sideroad-20-guelpheramosa-rural-guelpheramosa",
+    "RelativeURLFr": "/immobilier/22872976/8423-sideroad-20-guelpheramosa"
   },
   {
     "Id": "22756012",

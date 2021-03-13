@@ -436,53 +436,6 @@
     }
   },
   {
-    "Id": "22872976",
-    "MlsNumber": "X5133701",
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
-        "Longitude": "-80.2246821",
-        "Latitude": "43.6800213",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/highres/1/x5133701_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/medres/1/x5133701_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/lowres/1/x5133701_1.jpg",
-          "LastUpdated": "2021-03-02 3:07:53 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Land": {
-      "SizeTotal": "10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22918346",
     "MlsNumber": "W5147487",
     "Property": {
@@ -526,6 +479,53 @@
       "BathroomTotal": "4",
       "Bedrooms": "3",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22872976",
+    "MlsNumber": "X5133701",
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
+        "Longitude": "-80.2246821",
+        "Latitude": "43.6800213",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/highres/1/x5133701_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/medres/1/x5133701_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/lowres/1/x5133701_1.jpg",
+          "LastUpdated": "2021-03-02 3:07:53 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
