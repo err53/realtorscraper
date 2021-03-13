@@ -50,7 +50,7 @@ async function main() {
   }
   
   output.sort((a, b) => {
-    return a.MlsNumber - b.MlsNumber
+    return ('' + a.MlsNumber).localeCompare(b.MlsNumber);
   });
   
   await fs.writeFile("./output.json", JSON.stringify(output, null, 2));
