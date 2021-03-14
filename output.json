@@ -643,7 +643,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465094202"
+              "ContactId": "465142517"
             }
           ],
           "Websites": [
@@ -712,7 +712,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465094202"
+              "ContactId": "465142517"
             }
           ],
           "Websites": [
@@ -1352,6 +1352,198 @@
     "RelativeURLFr": "/immobilier/22899797/5654-hwy-7-acton"
   },
   {
+    "Id": "22926246",
+    "MlsNumber": "40076134",
+    "PublicRemarks": "Fantastic country home and hobby farm just east of beautiful Rockwood, Ontario. Set on 8.75 rolling acres, a 5-minute drive to downtown, this convenient location cannot be beat. Set up as an equestrian facility, this property features multiple paddocks, 5 outdoor run-in sheds, a 20 x 40 sand dressage ring and 40 x 50 barn with 5 bay box stalls, tack room, hay storage plus hydro & water. The house, a 1,500 sq. ft. bungalow, is bright and cheery with vaulted ceilings and floor to ceiling propane fireplace in the living-dining area, multiple walkouts, 3-bedrooms and 2 baths all upstairs. The walkout basement is the perfect in-law or rental suite with its large windows, kitchen and living area with second propane fireplace, 2-bedrooms, full bath, and sauna. Notable updates include new French doors in kitchen, newer vinyl siding & windows, 200 amp electrical service, upgraded insulation, composite deck and new septic system installed in 2010. Attached two car garage and lots of parking for a dozen or more automobiles. Generous backyard with southwest exposure would be the perfect spot for a future pool. Call your REALTOR now to arrange a visit to this fabulous rural property. (63002380)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 2",
+      "SizeInterior": "1500.0000",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "1"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1750539,
+        "Name": "KRISTEN DYER",
+        "Organization": {
+          "OrganizationID": 156357,
+          "Name": "R.W. Dyer Realty Inc., Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637512578830000000/lowres/78973.jpg",
+          "Address": {
+            "AddressText": "29 Blair Rd.|Cambridge, Ontario N1S2H7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "653-5353",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463978741"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/156357/rw-dyer-realty-inc-brokerage-29-blair-rd-cambridge-ontario-n1s2h7",
+          "PhotoLastupdate": "2021-03-13 6:44:43 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "465-5353",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "458965971"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636879061800000000/lowres/1066106.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "KRISTEN",
+        "LastName": "DYER",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1750539/kristen-dyer-29-blair-rd-cambridge-ontario-n1s2h7",
+        "AgentPhotoLastUpdated": "2019-03-11 13:03:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636879061800000000/highres/1066106.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1520451,
+        "Name": "Jack Dyer",
+        "Organization": {
+          "OrganizationID": 156357,
+          "Name": "R.W. Dyer Realty Inc., Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637512578830000000/lowres/78973.jpg",
+          "Address": {
+            "AddressText": "29 Blair Rd.|Cambridge, Ontario N1S2H7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "653-5353",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463978741"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/156357/rw-dyer-realty-inc-brokerage-29-blair-rd-cambridge-ontario-n1s2h7",
+          "PhotoLastupdate": "2021-03-13 6:44:43 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "658-0788",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.jackdyer.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "458965978"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636879045000000000/lowres/1066107.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "Jack",
+        "LastName": "Dyer",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1520451/jack-dyer-29-blair-rd-cambridge-ontario-n1s2h7",
+        "AgentPhotoLastUpdated": "2019-03-11 12:35:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636879045000000000/highres/1066107.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,195,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5058 6TH LINE, RR 2|Rockwood, Ontario N0B2K0",
+        "Longitude": "-80.12929422",
+        "Latitude": "43.62464324",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/highres/4/40076134_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/medres/4/40076134_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/lowres/4/40076134_1.jpg",
+          "LastUpdated": "2021-03-13 6:44:43 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Airport, Place of Worship, Shopping",
+      "ConvertedPrice": "$1,195,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel",
+      "PriceUnformattedValue": "1195000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "8.75 ac|5 - 9.99 acres",
+      "SizeFrontage": "481 ft",
+      "AccessType": "Road access"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youriguide.com/5058_6_line_rockwood_on/"
+    },
+    "PostalCode": "N0B2K0",
+    "RelativeDetailsURL": "/real-estate/22926246/5058-6th-line-rr-2-rockwood",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-13 11:44:43 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22926246/5058-6th-line-rr-2-rockwood",
+    "RelativeURLFr": "/immobilier/22926246/5058-6th-line-rr-2-rockwood"
+  },
+  {
     "Id": "22885590",
     "MlsNumber": "H4099367",
     "PublicRemarks": "NESTLED ON A QUIET ROAD IN EAST FLAMBOROUGH, SITS JUST OVER 12 1/2 ACRES, 10 ACRES OF WHICH IS PRIME LAND/SOIL AND WAS ONCE USED TO MARKET GARDEN FLOWERS AND VEGETABLES FOR OVER 50 YEARS. THIS PROPERTY BOASTS 2 RESIDENCES, BOTH HAVING FRONTAGE ON GARDEN LANE. THE 1900 BRICK FARM HOUSE HAS APPROX 1100 SF, 2 BEDROOM AND 1 BATH. IN 1969, THE FAMILY BUILT THEIR NEW HOME. IT HAS LAVISH GARDENS TO ADMIRE AND AN INTERLOCK BRICK DRIVEWAY & WALKWAY LEADING YOU UP TO THE HOME. WITH OVER 2200 SF, 4 BEDROOMS, 2 BATHS, SEPARATE LIVING & FAMILY ROOM ALL ON MAIN LEVEL. LOTS OF SPACE FOR EVERYONE. JUST DOWN THE LANE SITS 3 OUTBUILDINGS, 26'X42', 24'X 52' , AND 50'X24', ALL WITH CONCRETE FLOORS AND HYDRO. THIS PROPERTY HAS ENDLESS POSSIBILITIES.....JUST BRING YOUR DREAMS. RSA TAXES REFLECT FARM REBATE (26984957)",
@@ -1534,7 +1726,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/283099/royal-lepage-burloak-real-estate-services-3060-mainway-suite-200a-burlington-ontario-l7m1a3",
-          "PhotoLastupdate": "2021-03-12 5:07:25 PM"
+          "PhotoLastupdate": "2021-03-14 11:05:43 AM"
         },
         "Phones": [
           {
@@ -1580,7 +1772,7 @@
         "Organization": {
           "OrganizationID": 55164,
           "Name": "Royal LePage Burloak Real Estate Services",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637511656450000000/lowres/1003546.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637513167430000000/lowres/1003546.jpg",
           "Address": {
             "AddressText": "Suite#200-3060 Mainway|Burlington, Ontario L7M1A3",
             "PermitShowAddress": true,
@@ -1616,7 +1808,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/55164/royal-lepage-burloak-real-estate-services-suite200-3060-mainway-burlington-ontario-l7m1a3",
-          "PhotoLastupdate": "2021-03-12 5:07:25 PM"
+          "PhotoLastupdate": "2021-03-14 11:05:43 AM"
         },
         "Phones": [
           {
@@ -1662,8 +1854,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "506 6TH CONC Road E|Flamborough, Ontario L0R1V0",
-        "Longitude": "-79.915149",
-        "Latitude": "43.374581",
+        "Longitude": "-79.914773",
+        "Latitude": "43.374097",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -1710,7 +1902,6 @@
     "RelativeDetailsURL": "/real-estate/22921349/506-6th-conc-road-e-flamborough",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-12 10:09:04 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22921349/506-6th-conc-road-e-flamborough",
     "RelativeURLFr": "/immobilier/22921349/506-6th-conc-road-e-flamborough"
@@ -2722,7 +2913,7 @@
         "Organization": {
           "OrganizationID": 248929,
           "Name": "IPRO REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637509972610000000/lowres/1204125.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637513269060000000/lowres/1204125.jpg",
           "Address": {
             "AddressText": "41 BROADWAY AVE UNIT 3|ORANGEVILLE, Ontario L9W1J7",
             "PermitShowAddress": true,
@@ -2741,7 +2932,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/248929/ipro-realty-ltd-41-broadway-ave-unit-3-orangeville-ontario-l9w1j7",
-          "PhotoLastupdate": "2021-03-10 6:21:01 PM"
+          "PhotoLastupdate": "2021-03-14 1:55:06 PM"
         },
         "Phones": [
           {
@@ -3280,7 +3471,6 @@
     "RelativeDetailsURL": "/real-estate/22921844/1191-county-rd-50-adjala-tosorontio-rural-adjala-tosorontio",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-12 7:44:35 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22921844/1191-county-rd-50-adjala-tosorontio-rural-adjala-tosorontio",
     "RelativeURLFr": "/immobilier/22921844/1191-county-rd-50-adjala-tosorontio"
@@ -3288,7 +3478,7 @@
   {
     "Id": "22921924",
     "MlsNumber": "N5149054",
-    "PublicRemarks": "Where Can You Find Such An Expansive Parcel Of Land At Over 35 Acres Complimented With A Large Open Concept Vaulted Ceiling Country Home, Equestrian Barn/Shop, 3 Paddocks And A Full Compliment Of Installed Solar Panels Yielding Over $7,000 A Year In Free Money!! Whether You Are Inside Or Outside The Vast Property Is Yours To Enjoy From The Wrap Around Porch With Outdoor Natural Gas Fireplace To The Riverside Cabin Where You Can Fish, Swim, Or Just Sit Back.**** EXTRAS **** Natural Gas, Solar Panels 10Mw Microfit Program. Steel Structure Allows Any Wall To Be Removed,Barn/Shop, 3 Paddocks, Double Sided Indoor/Outdoor Fireplace, Hot Tub, Riverside Cabin, Huge Unfinished Walkout Lower Level. (28070978)",
+    "PublicRemarks": "Where Can You Find Such An Expansive Parcel Of Land At Over 35 Acres Complimented With A Large Open Concept Vaulted Ceiling Country Home, Equestrian Barn/Shop, 3 Paddocks And A Full Compliment Of Installed Solar Panels Yielding Over $7,000 A Year In Free Money!! Whether You Are Inside Or Outside The Vast Property Is Yours To Enjoy From The Wrap Around Porch With Outdoor Natural Gas Fireplace To The Riverside Cabin Where You Can Fish, Swim, Or Just Sit Back.**** EXTRAS **** Nearby Tracks Are For Steam Train Only, Natural Gas, Solar Panels 10Mw Microfit Program. Steel Structure Allows Any Wall To Be Removed,Barn/Shop, 3 Paddocks, D/S Indoor/Outdoor Fireplace, Hot Tub, Riverside Cabin, Walkout Lower Level. (28070978)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3",
@@ -3326,7 +3516,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/286639/remax-hallmark-mcdonough-group-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-03-13 1:56:06 PM"
+          "PhotoLastupdate": "2021-03-14 8:00:34 AM"
         },
         "Phones": [
           {
@@ -3405,7 +3595,6 @@
     "RelativeDetailsURL": "/real-estate/22921924/6400-7th-line-new-tecumseth-rural-new-tecumseth",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-12 7:44:57 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22921924/6400-7th-line-new-tecumseth-rural-new-tecumseth",
     "RelativeURLFr": "/immobilier/22921924/6400-7th-line-new-tecumseth"
@@ -4294,7 +4483,6 @@
     "RelativeDetailsURL": "/real-estate/22918346/16719-humber-station-rd-caledon-rural-caledon",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-12 3:00:52 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22918346/16719-humber-station-rd-caledon-rural-caledon",
     "RelativeURLFr": "/immobilier/22918346/16719-humber-station-rd-caledon"
@@ -4466,7 +4654,6 @@
     "RelativeDetailsURL": "/real-estate/22921117/12354-fifth-line-halton-hills-limehouse",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-12 6:38:54 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22921117/12354-fifth-line-halton-hills-limehouse",
     "RelativeURLFr": "/immobilier/22921117/12354-fifth-line-halton-hills"
@@ -5429,7 +5616,6 @@
     "RelativeDetailsURL": "/real-estate/22923918/506-6th-conc-rd-e-hamilton-rural-flamborough",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-12 11:27:28 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22923918/506-6th-conc-rd-e-hamilton-rural-flamborough",
     "RelativeURLFr": "/immobilier/22923918/506-6th-conc-rd-e-hamilton"

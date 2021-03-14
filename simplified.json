@@ -364,6 +364,61 @@
     }
   },
   {
+    "Id": "22926246",
+    "MlsNumber": "40076134",
+    "Property": {
+      "Price": "$1,195,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5058 6TH LINE, RR 2|Rockwood, Ontario N0B2K0",
+        "Longitude": "-80.12929422",
+        "Latitude": "43.62464324",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/highres/4/40076134_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/medres/4/40076134_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/lowres/4/40076134_1.jpg",
+          "LastUpdated": "2021-03-13 6:44:43 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Airport, Place of Worship, Shopping",
+      "ConvertedPrice": "$1,195,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel",
+      "PriceUnformattedValue": "1195000"
+    },
+    "Land": {
+      "SizeTotal": "8.75 ac|5 - 9.99 acres",
+      "SizeFrontage": "481 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 2",
+      "SizeInterior": "1500.0000",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "1"
+    }
+  },
+  {
     "Id": "22885590",
     "MlsNumber": "H4099367",
     "Property": {
@@ -426,8 +481,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "506 6TH CONC Road E|Flamborough, Ontario L0R1V0",
-        "Longitude": "-79.915149",
-        "Latitude": "43.374581",
+        "Longitude": "-79.914773",
+        "Latitude": "43.374097",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
