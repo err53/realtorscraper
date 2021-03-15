@@ -67,10 +67,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637454400964070000/reb41/highres/5/40028565_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637454400964070000/reb41/medres/5/40028565_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637454400964070000/reb41/lowres/5/40028565_1.jpg",
-          "LastUpdated": "2021-01-05 10:41:36 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637514046844000000/reb41/highres/5/40028565_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637514046844000000/reb41/medres/5/40028565_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637514046844000000/reb41/lowres/5/40028565_1.jpg",
+          "LastUpdated": "2021-03-15 11:31:24 AM"
         }
       ],
       "Parking": [
@@ -577,53 +577,6 @@
     }
   },
   {
-    "Id": "22795876",
-    "MlsNumber": "N5107817",
-    "Property": {
-      "Price": "$1,899,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6930 RAVENSHOE RD|Georgina, Ontario L0E1R0",
-        "Longitude": "-79.2910556",
-        "Latitude": "44.233246",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637503557542100000/reb82/highres/7/n5107817_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637503557542100000/reb82/medres/7/n5107817_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637503557542100000/reb82/lowres/7/n5107817_1.jpg",
-          "LastUpdated": "2021-03-03 8:09:14 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,899,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1899000"
-    },
-    "Land": {
-      "SizeTotal": "477.07 x 895.07 FT   ; As Per Plan|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22846838",
     "MlsNumber": "N5124894",
     "Property": {
@@ -1085,6 +1038,101 @@
       "BathroomTotal": "3",
       "Bedrooms": "3",
       "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22927681",
+    "MlsNumber": "N5151122",
+    "Property": {
+      "Price": "$1,888,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1645 DAVIS DR W|King, Ontario L3Y4V9",
+        "Longitude": "-79.5361666",
+        "Latitude": "44.0425727",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637513927106270000/reb82/highres/2/n5151122_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637513927106270000/reb82/medres/2/n5151122_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637513927106270000/reb82/lowres/2/n5151122_1.jpg",
+          "LastUpdated": "2021-03-15 8:11:50 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "15",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Public Transit, Schools",
+      "ConvertedPrice": "$1,888,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1888000"
+    },
+    "Land": {
+      "SizeTotal": "958.53 x 610 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "2 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22929594",
+    "MlsNumber": "N5151366",
+    "Property": {
+      "Price": "$1,699,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6930 RAVENSHOE RD|Georgina, Ontario L0E1R0",
+        "Longitude": "-79.2910556",
+        "Latitude": "44.233246",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637514140512230000/reb82/highres/6/n5151366_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637514140512230000/reb82/medres/6/n5151366_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637514140512230000/reb82/lowres/6/n5151366_1.jpg",
+          "LastUpdated": "2021-03-15 2:07:31 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,699,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1699900"
+    },
+    "Land": {
+      "SizeTotal": "477.07 x 895.07 FT   ; As Per Plan|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -1653,6 +1701,53 @@
       "BathroomTotal": "2",
       "Bedrooms": "3",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22927536",
+    "MlsNumber": "X5151197",
+    "Property": {
+      "Price": "$1,799,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "3918 MADDAUGH  RD|Hamilton, Ontario N0B2J0",
+        "Longitude": "-80.079839",
+        "Latitude": "43.419844",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637513907338400000/reb86/highres/7/x5151197_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637513907338400000/reb86/medres/7/x5151197_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637513907338400000/reb86/lowres/7/x5151197_1.jpg",
+          "LastUpdated": "2021-03-15 7:38:53 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,799,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799000"
+    },
+    "Land": {
+      "SizeTotal": "982 x 416 FT   ; 222.44 Ft X 982.01 Ft X 416.74 Ft X 740|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   }
