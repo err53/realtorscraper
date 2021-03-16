@@ -644,7 +644,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465194486"
+              "ContactId": "465247736"
             }
           ],
           "Websites": [
@@ -713,7 +713,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465194486"
+              "ContactId": "465247736"
             }
           ],
           "Websites": [
@@ -955,209 +955,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22799387/1288-line-3-road-niagara-on-the-lake",
     "RelativeURLFr": "/immobilier/22799387/1288-line-3-road-niagara-on-the-lake"
-  },
-  {
-    "Id": "22877207",
-    "MlsNumber": "40071330",
-    "PublicRemarks": "Over 9 incredible acres of Country Estate living that offers glorious vistas in a serene and private setting. This exquisite property offers families a unique opportunity to escape the city life while still being conveniently located 5 minutes to the GO train, 15 minutes to the 401 and 407, and only 5 minutes into town. The manicured rolling hills, fenced area and panoramic views create endless possibilities for years to come. Pride of ownership is evident throughout this charming home, which features hardwood and walnut floors throughout the main and upper level, with a spacious floor plan offering a formal living and dining area, office, family room with wood burning fireplace, and a sunlit eat-in kitchen with tranquil views. Completing the upper level is a convenient laundry shoot, a main 5-piece bath, and 4 spacious bedrooms including the master bedroom with a walk-in closet and 5-piece ensuite with skylight. Enjoy the added living space in the newly renovated walk-out basement boasting a large rec area with a 2nd wood burning fireplace, bonus room, workshop, 4-piece bath, laundry and ample storage space. This charismatic home is set back from the tree lined road, and offers a fully fenced yard with a large 18x36 in ground pool, shed, horse paddock and so much more! (62948537)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "4 + 0",
-      "SizeInterior": "3150.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "0"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1626625,
-        "Name": "Jamie Vieira",
-        "Organization": {
-          "OrganizationID": 283330,
-          "Name": "Century 21 Miller Real Estate Ltd.,  Brokerage",
-          "Address": {
-            "AddressText": "3030 Preserve Drive|Oakville, Ontario L6M0T9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "845-9180",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.vierateam.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/283330/century-21-miller-real-estate-ltd-brokerage-3030-preserve-drive-oakville-ontario-l6m0t9",
-          "PhotoLastupdate": "2021-03-11 9:24:36 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "845-9180",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "https://vieirateam.com/",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "454445537"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636850779000000000/lowres/1161644.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Jamie",
-        "LastName": "Vieira",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1626625/jamie-vieira-3030-preserve-drive-oakville-ontario-l6m0t9",
-        "AgentPhotoLastUpdated": "2019-02-06 19:25:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636850779000000000/highres/1161644.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1944845,
-        "Name": "Michelle Rose Andreacchi",
-        "Organization": {
-          "OrganizationID": 280004,
-          "Name": "Century 21 Miller Real Estate Ltd., Brokerage",
-          "Address": {
-            "AddressText": "9 - 209 Speers Road|Oakville, Ontario L6K0H5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "845-9180",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "845-7674",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.century21miller.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/280004/century-21-miller-real-estate-ltd-brokerage-9-209-speers-road-oakville-ontario-l6k0h5",
-          "PhotoLastupdate": "2021-03-11 9:24:36 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "523-6004",
-            "AreaCode": "416",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "845-7674",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.michelleroseandreacchi.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "458926072"
-          }
-        ],
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Michelle",
-        "LastName": "Andreacchi",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1944845/michelle-andreacchi-9---209-speers-road-oakville-ontario-l6k0h5",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,875,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "14141 DUBLIN Line|Acton, Ontario L7J2L9",
-        "Longitude": "-80.06852705",
-        "Latitude": "43.63313356",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637505358649430000/reb15/highres/0/40071330_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637505358649430000/reb15/medres/0/40071330_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637505358649430000/reb15/lowres/0/40071330_1.jpg",
-          "LastUpdated": "2021-03-05 10:11:04 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "23",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Shopping",
-      "ConvertedPrice": "$1,875,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1875000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "5 - 9.99 acres",
-      "SizeFrontage": "258 ft",
-      "AccessType": "Highway access"
-    },
-    "AlternateURL": {
-      "PhotoLink": "https://vimeo.com/519082082",
-      "VideoLink": "http://listing.otbxair.com/14141dublinline"
-    },
-    "PostalCode": "L7J2L9",
-    "RelativeDetailsURL": "/real-estate/22877207/14141-dublin-line-acton",
-    "StatusId": "1",
-    "PriceChangeDateUTC": "2021-03-11 2:25:27 PM",
-    "PhotoChangeDateUTC": "2021-03-05 3:11:06 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22877207/14141-dublin-line-acton",
-    "RelativeURLFr": "/immobilier/22877207/14141-dublin-line-acton"
   },
   {
     "Id": "22899797",
@@ -1672,239 +1469,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22885590/997-garden-lane-millgrove",
     "RelativeURLFr": "/immobilier/22885590/997-garden-lane-millgrove"
-  },
-  {
-    "Id": "22921349",
-    "MlsNumber": "H4100099",
-    "PublicRemarks": "Idyllic location and just over 10 acres!  Gorgeous private country setting with countless trails & a meandering Grindstone Creek provides for an all-season retreat for the nature enthusiast! With trails ready for hiking, mountain biking, ATVs & snowmobiles, you can marvel at wildlife that includes tree frogs, tadpoles, and bird watching opportunities galore!  Minutes from the conveniences of charming Waterdown and just across from Wyatt Road, this bungalow borders an equestrian farm with the charm of an old stacked-stone wall perfect for wedding and event photography. Golf courses, dining, schools, highways, and Aldershot GO Station are a short drive away. Inside, the 3-bedroom, 2-bathroom home features a newly renovated main bathroom (2020), an eat-in kitchen with island and breakfast bar, and charming rustic-styled finishes including a decorative wood-burning stove. Professionally landscaped, this stunning property boasts ample green space complete with a  fire pit, ideal for relaxing or entertaining in any season.  Enjoy country nights on your newly finished front deck (2020) overlooking an extremely large, serene property. This Muskoka-feel of this home and location is ideal for calm and relaxation, with unending possibilities to add your own personal touch! (27021448)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "SizeInterior": "1472.0000",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1585114,
-        "Name": "Tanya Rocca",
-        "Organization": {
-          "OrganizationID": 283099,
-          "Name": "Royal LePage Burloak Real Estate Services",
-          "Address": {
-            "AddressText": "3060 Mainway Suite 200A|Burlington, Ontario L7M1A3",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "335-3042",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "335-1659",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "456266256"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.royallepageburlington.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/283099/royal-lepage-burloak-real-estate-services-3060-mainway-suite-200a-burlington-ontario-l7m1a3",
-          "PhotoLastupdate": "2021-03-14 11:05:43 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "335-4102",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "335-1659",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "HTTP://www.roccasisters.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "461844522"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636437080800000000/lowres/1152418.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Tanya",
-        "LastName": "Rocca",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1585114/tanya-rocca-3060-mainway-suite-200a-burlington-ontario-l7m1a3",
-        "AgentPhotoLastUpdated": "2017-10-15 23:48:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636437080800000000/highres/1152418.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1863243,
-        "Name": "Peter Anelli-Rocca",
-        "Organization": {
-          "OrganizationID": 55164,
-          "Name": "Royal LePage Burloak Real Estate Services",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637513167430000000/lowres/1003546.jpg",
-          "Address": {
-            "AddressText": "Suite#200-3060 Mainway|Burlington, Ontario L7M1A3",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "335-3042",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "335-1659",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "456266262"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.royallepageburlington.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/55164/royal-lepage-burloak-real-estate-services-suite200-3060-mainway-burlington-ontario-l7m1a3",
-          "PhotoLastupdate": "2021-03-14 11:05:43 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "203-3303",
-            "AreaCode": "289",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "335-1659",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "HTTP://www.roccasisters.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "458537995"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636808990800000000/lowres/1201229.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Peter",
-        "LastName": "Anelli-Rocca",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1863243/peter-anelli-rocca-suite200-3060-mainway-burlington-ontario-l7m1a3",
-        "AgentPhotoLastUpdated": "2018-12-20 10:38:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636808990800000000/highres/1201229.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,249,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "506 6TH CONC Road E|Flamborough, Ontario L0R1V0",
-        "Longitude": "-79.914773",
-        "Latitude": "43.374097",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511657440830000/reb14/highres/9/h4100099_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511657440830000/reb14/medres/9/h4100099_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511657440830000/reb14/lowres/9/h4100099_1.jpg",
-          "LastUpdated": "2021-03-12 5:09:04 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
-        },
-        {
-          "Name": "Tandem"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Course, Schools",
-      "ConvertedPrice": "$1,249,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Gravel, Tandem",
-      "PriceUnformattedValue": "1249000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "401 x 0|10 - 24.99 acres",
-      "SizeFrontage": "401 ft"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youtu.be/77QRhgafyKo"
-    },
-    "PostalCode": "L0R1V0",
-    "RelativeDetailsURL": "/real-estate/22921349/506-6th-conc-road-e-flamborough",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-12 10:09:04 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22921349/506-6th-conc-road-e-flamborough",
-    "RelativeURLFr": "/immobilier/22921349/506-6th-conc-road-e-flamborough"
   },
   {
     "Id": "22765943",
@@ -2897,136 +2461,6 @@
     "RelativeURLFr": "/immobilier/22898371/1198-concession-rd-8-rd-adjala-tosorontio"
   },
   {
-    "Id": "22909516",
-    "MlsNumber": "N5144845",
-    "PublicRemarks": "Breathtaking Views Of Stunning Vistas In Cottage Country Setting Minutes Away From City Conveniences! 3 + 2 Bdrm Bungalow On 10.07 Acres Of Mostly Sugar Maple Trees. Spring-Fed Pond Perfect For Fishing Or Skating! Recenly Reno'd Inside & Out W Top Quality Upgrades Kit (19), Bath (19/20) & Bdrms (18/20). Master Bath (19) W Dbl Floating Vanities, Ld Mirrors, Soaker Tub & Rain Shower Head. 2 Septic Tanks (Pumped 2021) & Well Water Pump.**** EXTRAS **** Ss Bosch Fridge, Ss Dbl B/I Wall Ovens, Ss Dw, Gas Cooktop, Live-Edge Shelving, Hot Tub, Bsmt Ss Dw, Bsmt Fridge & Stove, All Elfs, Boiler Pool Winter Cover & Pool Cleaner. Exclude: Great Rm Fireplace Mantel (28054361)",
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "3 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1679357,
-        "Name": "BARBARA SITKO KWAPIS",
-        "Organization": {
-          "OrganizationID": 50967,
-          "Name": "NORMAN HILL REALTY INC.",
-          "Address": {
-            "AddressText": "20 CACHET WOODS COURT UNIT 2|MARKHAM, Ontario L6C3G1",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "887-5678",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "887-2079",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/50967/norman-hill-realty-inc-20-cachet-woods-court-unit-2-markham-ontario-l6c3g1",
-          "PhotoLastupdate": "2021-03-10 2:30:46 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "716-5900",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "887-5515",
-            "AreaCode": "877",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.ilovemyjob.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456179742"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1679357.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "BARBARA SITKO",
-        "LastName": "KWAPIS",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1679357/barbara-sitko-kwapis-20-cachet-woods-court-unit-2-markham-ontario-l6c3g1",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1679357.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,799,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "257 ASHWORTH RD E|Uxbridge, Ontario L0E1T0",
-        "Longitude": "-79.2527163",
-        "Latitude": "44.1453034",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637510948030700000/reb82/highres/5/n5144845_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637510948030700000/reb82/medres/5/n5144845_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637510948030700000/reb82/lowres/5/n5144845_1.jpg",
-          "LastUpdated": "2021-03-11 9:26:43 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "23",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1799900"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "318.5 x 1331.9 FT|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://www.houssmax.ca/vtournb/h0594599"
-    },
-    "PostalCode": "L0E1T0",
-    "RelativeDetailsURL": "/real-estate/22909516/257-ashworth-rd-e-uxbridge-rural-uxbridge",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-12 2:26:43 AM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22909516/257-ashworth-rd-e-uxbridge-rural-uxbridge",
-    "RelativeURLFr": "/immobilier/22909516/257-ashworth-rd-e-uxbridge"
-  },
-  {
     "Id": "22915492",
     "MlsNumber": "N5147046",
     "PublicRemarks": "Exquisite Property Offers An Experience Of Unparalleled Tranquility Boasting Over 25 Acres Of Land & Renovated Modern Open Concept Home Completely Transformed W/ The Most Tasteful Finishes. Large L/R & Fam Rm, Open Concept Kitchen W/ Island. Pot Light Throughout, Wood Burning Fireplace. Acres Of Hay Fields A Large Indoor Sand Horse Riding Arena, Insulated Steel Building Equipped W/ Full Kitchen, Heating & 3Pc Washroom! This Property Has So Much To Offer!**** EXTRAS **** Minutes Away From The City With A Private Pond Awaits This Enchanting Oasis! New Stainless Steel Appliances, All Electrical Light Fixtures, Garage Door Opener, New Plumbing, New Hvac, New Electrical, Hardwood Floors Throughout. (28062538)",
@@ -3042,7 +2476,7 @@
         "Organization": {
           "OrganizationID": 50408,
           "Name": "CENTURY 21 LEADING EDGE REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637510686080000000/lowres/1002250.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637514303140000000/lowres/1002250.jpg",
           "Address": {
             "AddressText": "18 WYNFORD DRIVE #214|TORONTO, Ontario M3C3S2",
             "PermitShowAddress": true,
@@ -3079,7 +2513,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/50408/century-21-leading-edge-realty-inc-18-wynford-drive-214-toronto-ontario-m3c3s2",
-          "PhotoLastupdate": "2021-03-11 2:10:08 PM"
+          "PhotoLastupdate": "2021-03-15 6:38:34 PM"
         },
         "Phones": [
           {
@@ -3116,7 +2550,7 @@
         "Organization": {
           "OrganizationID": 50408,
           "Name": "CENTURY 21 LEADING EDGE REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637510686080000000/lowres/1002250.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637514303140000000/lowres/1002250.jpg",
           "Address": {
             "AddressText": "18 WYNFORD DRIVE #214|TORONTO, Ontario M3C3S2",
             "PermitShowAddress": true,
@@ -3153,7 +2587,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/50408/century-21-leading-edge-realty-inc-18-wynford-drive-214-toronto-ontario-m3c3s2",
-          "PhotoLastupdate": "2021-03-11 2:10:08 PM"
+          "PhotoLastupdate": "2021-03-15 6:38:34 PM"
         },
         "Phones": [
           {
@@ -3215,7 +2649,10 @@
     },
     "Business": {},
     "Land": {
-      "SizeTotal": "542 x 1351 FT   ; 25 Acres 542X1351X1134X586X594|25 - 50 acres"
+      "SizeTotal": "542 x 1351 FT   ; 25 Acres 542X1351X1134X586X594.|25 - 50 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://www.youtube.com/watch?v=KvhsuK9L46U"
     },
     "PostalCode": "L0G1V0",
     "RelativeDetailsURL": "/real-estate/22915492/4244-doane-rd-east-gwillimbury-rural-east-gwillimbury",
@@ -3595,136 +3032,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22925635/5175-county-rd-13-adjala-tosorontio-everett",
     "RelativeURLFr": "/immobilier/22925635/5175-county-rd-13-adjala-tosorontio"
-  },
-  {
-    "Id": "22927681",
-    "MlsNumber": "N5151122",
-    "PublicRemarks": "Welcome To Tall Pines. 12+ Acres On The Oak Ridges Moraine. Privacy, Yet 6 Mins To The Heart Of Newmarket. 2+2 Bdrms- Lower Level Features An In-Law Suite W/Walkout. Master W/Walkout To Screened In Porch Overlooking The Trees To Enjoy Those Morning Coffees. Living Room Features Gorgeous Vaulted Ceiling. Recent Upgrades In Kitchen.  Property Has Separate Cedar Lined Bunkhouse W/Heat And Electric. Easy Access To 404/400, Newmarket Go, Trains And Great Schools.**** EXTRAS **** Motivated Seller - Lowest Taxes You Will Find For A Property Of This Size Due To The Land Tax Incentive. Easily Made Into A Multigenerational Home With Kitchens On Both Levels. Stunning Views From Every Window. Come Live With Nature. (28078803)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "2 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2059311,
-        "Name": "JORDAN SPRINGFORD",
-        "Organization": {
-          "OrganizationID": 286375,
-          "Name": "HOMELIFE OPTIMUM REALTY",
-          "Address": {
-            "AddressText": "16600 BAYVIEW AVE SUITE 207|NEWMARKET, Ontario L3X1Z9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "841-2673",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "841-2674",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "457958040"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "HTTP://www.homelifeoptimum.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/286375/homelife-optimum-realty-16600-bayview-ave-suite-207-newmarket-ontario-l3x1z9",
-          "PhotoLastupdate": "2021-03-15 2:07:20 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "841-2673",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459445304"
-          }
-        ],
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "JORDAN",
-        "LastName": "SPRINGFORD",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2059311/jordan-springford-16600-bayview-ave-suite-207-newmarket-ontario-l3x1z9",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,888,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1645 DAVIS DR W|King, Ontario L3Y4V9",
-        "Longitude": "-79.5361666",
-        "Latitude": "44.0425727",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637513927106270000/reb82/highres/2/n5151122_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637513927106270000/reb82/medres/2/n5151122_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637513927106270000/reb82/lowres/2/n5151122_1.jpg",
-          "LastUpdated": "2021-03-15 8:11:50 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "15",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Public Transit, Schools",
-      "ConvertedPrice": "$1,888,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1888000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "958.53 x 610 FT|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://wylieford.homelistingtours.com/listing2/1645-davis-dr-west-"
-    },
-    "PostalCode": "L3Y4V9",
-    "RelativeDetailsURL": "/real-estate/22927681/1645-davis-dr-w-king-rural-king",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-15 12:11:50 PM",
-    "HasNewImageUpdate": true,
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22927681/1645-davis-dr-w-king-rural-king",
-    "RelativeURLFr": "/immobilier/22927681/1645-davis-dr-w-king"
   },
   {
     "Id": "22929594",
@@ -4166,133 +3473,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22826489/20030-hurontario-st-caledon-rural-caledon",
     "RelativeURLFr": "/immobilier/22826489/20030-hurontario-st-caledon"
-  },
-  {
-    "Id": "22879282",
-    "MlsNumber": "W5134904",
-    "PublicRemarks": "Over 9 Incredible Acres Of Country Estate Living That Offers Glorious Vistas In A Serene & Private Setting. This Exquisite Property Offers Families A Unique Opportunity To Escape The City Life While Still Being Conveniently Located 5 Mins To The Go, 15 Mins To The 401& 407, & 5 Mins Into Town. Offering Panoramic Views W/ Hardwood T/O The Main & Upper Lvl, 4 Bdrms & A Newly Renovated W/O Bsmnt With A Rec Room, Workshop And More!**** EXTRAS **** Existing Fridge, Stove, Dishwasher, Washer/Dryer, Window Coverings & Electrical Light Fixtures. (28014186)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1894259,
-        "Name": "JAMIE VIEIRA",
-        "Organization": {
-          "OrganizationID": 279946,
-          "Name": "CENTURY 21 MILLER REAL ESTATE LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637510687170000000/lowres/1307597.jpg",
-          "Address": {
-            "AddressText": "209 SPEERS RD UNIT 10|OAKVILLE, Ontario L6K2E9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "845-9180",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "845-7674",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/279946/century-21-miller-real-estate-ltd-209-speers-rd-unit-10-oakville-ontario-l6k2e9",
-          "PhotoLastupdate": "2021-03-11 2:11:57 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "510-6695",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "https://vieirateam.com/",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "463631817"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636850779000000000/lowres/1213403.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "JAMIE",
-        "LastName": "VIEIRA",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1894259/jamie-vieira-209-speers-rd-unit-10-oakville-ontario-l6k2e9",
-        "AgentPhotoLastUpdated": "2019-02-06 19:25:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636850779000000000/highres/1213403.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,875,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "14141 DUBLIN LINE|Halton Hills, Ontario L7J2L9",
-        "Longitude": "-80.0684699",
-        "Latitude": "43.6327859",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637503795950330000/reb82/highres/4/w5134904_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637503795950330000/reb82/medres/4/w5134904_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637503795950330000/reb82/lowres/4/w5134904_1.jpg",
-          "LastUpdated": "2021-03-03 2:46:35 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "23",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,875,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1875000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "257.71 FT|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://listing.otbxair.com/14141dublinline/?mls"
-    },
-    "PostalCode": "L7J2L9",
-    "RelativeDetailsURL": "/real-estate/22879282/14141-dublin-line-halton-hills-acton",
-    "StatusId": "1",
-    "PriceChangeDateUTC": "2021-03-11 7:16:20 PM",
-    "PhotoChangeDateUTC": "2021-03-03 7:46:35 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22879282/14141-dublin-line-halton-hills-acton",
-    "RelativeURLFr": "/immobilier/22879282/14141-dublin-line-halton-hills"
   },
   {
     "Id": "22892353",
@@ -5613,144 +4793,6 @@
     "RelativeURLFr": "/immobilier/22875475/636391-prince-of-wales-rd-mulmur"
   },
   {
-    "Id": "22923918",
-    "MlsNumber": "X5149441",
-    "PublicRemarks": "Idyllic Location And Just Over 10 Acres!  Gorgeous Bungalow In A Private Country Setting With Countless Trails & A Meandering Grindstone Creek! With Trails Ready For Hiking, Mountain Biking, Atvs & Snowmobiles, You Can Marvel At Wildlife!  Minutes From The Conveniences Of Charming Waterdown And Bordering An Equestrian Farm!. Golf Courses, Dining, Schools, Highways, And Aldershot Go Station Are A Short Drive Away.**** EXTRAS **** Inclusions: Elf's, Fridge, Stove, Microwave, Dishwasher, Window Coverings, Agdo- No Remotes, Gazebo Exclusions: Hot Tub As-Is To Be Removed (28073359)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2058183,
-        "Name": "TANYA ROCCA",
-        "Organization": {
-          "OrganizationID": 269020,
-          "Name": "ROYAL LEPAGE BURLOAK REAL ESTATE SERVICES",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637513421380000000/lowres/1231482.jpg",
-          "Address": {
-            "AddressText": "3060 MAINWAY SUITE 200A|BURLINGTON, Ontario L7M1A3",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "844-2022",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "335-1659",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "456235073"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.royallepageburlington",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/269020/royal-lepage-burloak-real-estate-services-3060-mainway-suite-200a-burlington-ontario-l7m1a3",
-          "PhotoLastupdate": "2021-03-14 6:08:58 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "844-2022",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "335-4102",
-            "AreaCode": "905",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459444179"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636866993400000000/lowres/1333377.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "TANYA",
-        "LastName": "ROCCA",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2058183/tanya-rocca-3060-mainway-suite-200a-burlington-ontario-l7m1a3",
-        "AgentPhotoLastUpdated": "2019-02-25 13:49:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636866993400000000/highres/1333377.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,249,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "506 6TH CONC RD E|Hamilton, Ontario L0R1V0",
-        "Longitude": "-79.9154204183095",
-        "Latitude": "43.3749629816702",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511704487230000/reb82/highres/1/x5149441_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511704487230000/reb82/medres/1/x5149441_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511704487230000/reb82/lowres/1/x5149441_1.jpg",
-          "LastUpdated": "2021-03-12 6:27:28 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,249,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1249000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "400.98 x 1091.6 FT|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://homesmedia.ca/rocca-sisters/506-concession-rd-6-e-millgrove/"
-    },
-    "PostalCode": "L0R1V0",
-    "RelativeDetailsURL": "/real-estate/22923918/506-6th-conc-rd-e-hamilton-rural-flamborough",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-12 11:27:28 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22923918/506-6th-conc-rd-e-hamilton-rural-flamborough",
-    "RelativeURLFr": "/immobilier/22923918/506-6th-conc-rd-e-hamilton"
-  },
-  {
     "Id": "22927536",
     "MlsNumber": "X5151197",
     "PublicRemarks": "This House Will Not Disappoint. Over 3500 Sf Of The Finest Finishes On All 3 Levels. Ideal For Raising A Family And Entertaining Guests All Year Round. This Home Offers 4 Spacious Bdrms, 3 Bthrms, Lounge Room With A Wood Burning F/P & A Walk Out To An Immense Backyard Which Includes A 25X50 Ft In-Ground Pool. Beautifully Designed Kitchen With S/S Appls. & Oversize Island.**** EXTRAS **** The Solarium Overlooks The Pond W/Direct Patio Access. Heated Floors In Kitchen, Ensuite & Powder Room & Ash-Silk Oil Finished Hardwood Throughout. New: Pool Heater & Cover, Furnace & Ac, Eavestrough, Imported Euro Windows & Doors. (28078733)",
@@ -5767,7 +4809,7 @@
         "Organization": {
           "OrganizationID": 273408,
           "Name": "ICI SOURCE REAL ASSET SERVICES INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637513907310000000/lowres/273408.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637514771390000000/lowres/273408.jpg",
           "Address": {
             "AddressText": "2 ROBERT SPECK PKWY #750|MISSISSAUGA, Ontario L4Z1H8",
             "PermitShowAddress": true,
@@ -5804,7 +4846,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/273408/ici-source-real-asset-services-inc-2-robert-speck-pkwy-750-mississauga-ontario-l4z1h8",
-          "PhotoLastupdate": "2021-03-15 7:38:51 AM"
+          "PhotoLastupdate": "2021-03-16 7:38:59 AM"
         },
         "Phones": [
           {
@@ -5835,7 +4877,7 @@
         "Organization": {
           "OrganizationID": 273408,
           "Name": "ICI SOURCE REAL ASSET SERVICES INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637513907310000000/lowres/273408.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637514771390000000/lowres/273408.jpg",
           "Address": {
             "AddressText": "2 ROBERT SPECK PKWY #750|MISSISSAUGA, Ontario L4Z1H8",
             "PermitShowAddress": true,
@@ -5872,7 +4914,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/273408/ici-source-real-asset-services-inc-2-robert-speck-pkwy-750-mississauga-ontario-l4z1h8",
-          "PhotoLastupdate": "2021-03-15 7:38:51 AM"
+          "PhotoLastupdate": "2021-03-16 7:38:59 AM"
         },
         "Phones": [
           {
@@ -5902,7 +4944,7 @@
       "Price": "$1,799,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "3918 MADDAUGH  RD|Hamilton, Ontario N0B2J0",
+        "AddressText": "3918 MADDAUGH RD|Hamilton, Ontario N0B2J0",
         "Longitude": "-80.079839",
         "Latitude": "43.419844",
         "PermitShowAddress": true,
@@ -5939,7 +4981,7 @@
     "AlternateURL": {
       "DetailsLink": "https://www.lartdesmaisons.com/3918-maddaugh-rd-puslinch",
       "MapLink": "https://www.google.com/maps/place/3918+Maddaugh+Rd,+Puslinch,+ON+N0B+2J0/data=!4m2!3m1!1s0x882b7f410c7f47d1:0xb8658c35d97ae1ed?sa=X&ved=2ahUKEwjzhaPnzrDvAhUM7awKHSXeDicQ8gEwAHoECAUQAQ",
-      "VideoLink": "https://www.youtube.com/watch?v=6gzA4DPDsm8"
+      "VideoLink": "https://my.matterport.com/show/?m=c3j3PvRMUhu&cloudEdit=1"
     },
     "PostalCode": "N0B2J0",
     "RelativeDetailsURL": "/real-estate/22927536/3918-maddaugh-rd-hamilton-rural-flamborough",
