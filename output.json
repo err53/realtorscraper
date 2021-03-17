@@ -464,7 +464,6 @@
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-01-28 6:25:50 PM",
     "PhotoChangeDateUTC": "2021-03-15 3:31:24 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22434234/347-scenic-drive-st-george",
     "RelativeURLFr": "/immobilier/22434234/347-scenic-drive-st-george"
@@ -644,7 +643,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465247736"
+              "ContactId": "465301443"
             }
           ],
           "Websites": [
@@ -713,7 +712,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465247736"
+              "ContactId": "465301443"
             }
           ],
           "Websites": [
@@ -2927,7 +2926,7 @@
         "Organization": {
           "OrganizationID": 261236,
           "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637512405770000000/lowres/261236.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637515142400000000/lowres/261236.jpg",
           "Address": {
             "AddressText": "7 VICTORIA ST. WEST|PO BOX 759|ALLISTON, Ontario L9R1V9",
             "PermitShowAddress": true,
@@ -2952,7 +2951,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/261236/royal-lepage-rcr-realty-7-victoria-st-west-po-box-759-alliston-ontario-l9r1v9",
-          "PhotoLastupdate": "2021-03-13 1:56:17 PM"
+          "PhotoLastupdate": "2021-03-16 5:57:20 PM"
         },
         "Phones": [
           {
@@ -3155,7 +3154,6 @@
     "RelativeDetailsURL": "/real-estate/22929594/6930-ravenshoe-rd-georgina-baldwin",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-15 6:07:31 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22929594/6930-ravenshoe-rd-georgina-baldwin",
     "RelativeURLFr": "/immobilier/22929594/6930-ravenshoe-rd-georgina"
@@ -3587,215 +3585,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22892353/15-15-side-rd-halton-hills-rural-halton-hills",
     "RelativeURLFr": "/immobilier/22892353/15-15-side-rd-halton-hills"
-  },
-  {
-    "Id": "22918346",
-    "MlsNumber": "W5147487",
-    "PublicRemarks": "Welcome To Your Private Sanctuary! Fairy Tale Inspired Bungalow W/Att 2Car & Det 3 Car Garage W/Gorgeous Studio Space Above, Nestled On 6.5 Acres Of Natural Wonderland. Beautiful Grounds & Private Access To Caledon Trail, Surrounded By Pristine Conservation Lands, Outdoor Enthusiasts Will Be In Heaven! Inside Relax By The Fire In The Open Concept Floor Plan W/Cathedral Ceiling Or The Fab Sunroom To Take In Views Of The Pond. Plenty Of Walkouts To Massive**** EXTRAS **** Multi Tiered Deck & Hot Tub. Geothermal Heating System For The Home & In-Floor Radiant Heat For The Garage! A Live, Work & Play Setting Like No Other Just Minutes To Bolton Or Caledon East. An Absolute Must See! (28065833)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1405591,
-        "Name": "CHRIS P. RICHIE",
-        "Organization": {
-          "OrganizationID": 50844,
-          "Name": "RE/MAX IN THE HILLS INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637510946470000000/lowres/default/remaxoa.gif",
-          "Address": {
-            "AddressText": "933009 AIRPORT ROAD|CALEDON, Ontario L9W2Z2",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "584-0234",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "942-8816",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414880819"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.remax-inthehills-on.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/50844/remax-in-the-hills-inc-933009-airport-road-caledon-ontario-l9w2z2",
-          "PhotoLastupdate": "2021-03-11 9:24:07 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "942-0234",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "667-8299",
-            "AreaCode": "888",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.remax-inthehills-on.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455696250"
-          }
-        ],
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "CHRIS P.",
-        "LastName": "RICHIE",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1405591/chris-p-richie-933009-airport-road-caledon-ontario-l9w2z2",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1420733,
-        "Name": "SEAN DYLAN ANDERSON",
-        "Organization": {
-          "OrganizationID": 50844,
-          "Name": "RE/MAX IN THE HILLS INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637510946470000000/lowres/default/remaxoa.gif",
-          "Address": {
-            "AddressText": "933009 AIRPORT ROAD|CALEDON, Ontario L9W2Z2",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "584-0234",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "942-8816",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414880819"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.remax-inthehills-on.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/50844/remax-in-the-hills-inc-933009-airport-road-caledon-ontario-l9w2z2",
-          "PhotoLastupdate": "2021-03-11 9:24:07 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "584-0234",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455660188"
-          }
-        ],
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "SEAN DYLAN",
-        "LastName": "ANDERSON",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1420733/sean-dylan-anderson-933009-airport-road-caledon-ontario-l9w2z2",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "16719 HUMBER STATION RD|Caledon, Ontario L7E3A5",
-        "Longitude": "-79.8430451",
-        "Latitude": "43.9220096",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511400518330000/reb82/highres/7/w5147487_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511400518330000/reb82/medres/7/w5147487_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511400518330000/reb82/lowres/7/w5147487_1.jpg",
-          "LastUpdated": "2021-03-12 10:00:51 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "15",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "6.5 Acre   ; Lot Size Per Mpac|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://listing.fdimedia.com/16719humberstationrd/?mls"
-    },
-    "PostalCode": "L7E3A5",
-    "RelativeDetailsURL": "/real-estate/22918346/16719-humber-station-rd-caledon-rural-caledon",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-12 3:00:52 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22918346/16719-humber-station-rd-caledon-rural-caledon",
-    "RelativeURLFr": "/immobilier/22918346/16719-humber-station-rd-caledon"
   },
   {
     "Id": "22921117",
@@ -4265,10 +4054,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637505522436130000/reb82/highres/1/x5103431_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637505522436130000/reb82/medres/1/x5103431_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637505522436130000/reb82/lowres/1/x5103431_1.jpg",
-          "LastUpdated": "2021-03-05 2:44:03 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637515092152900000/reb82/highres/1/x5103431_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637515092152900000/reb82/medres/1/x5103431_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637515092152900000/reb82/lowres/1/x5103431_1.jpg",
+          "LastUpdated": "2021-03-16 4:33:35 PM"
         }
       ],
       "Parking": [
@@ -4297,7 +4086,8 @@
     "RelativeDetailsURL": "/real-estate/22782576/386106-20-sdrd-mono-rural-mono",
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-02-25 7:25:40 PM",
-    "PhotoChangeDateUTC": "2021-03-05 7:44:03 PM",
+    "PhotoChangeDateUTC": "2021-03-16 8:33:35 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22782576/386106-20-sdrd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/22782576/386106-20-sdrd-mono"
@@ -4987,7 +4777,6 @@
     "RelativeDetailsURL": "/real-estate/22927536/3918-maddaugh-rd-hamilton-rural-flamborough",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-15 11:38:54 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22927536/3918-maddaugh-rd-hamilton-rural-flamborough",
     "RelativeURLFr": "/immobilier/22927536/3918-maddaugh-rd-hamilton"

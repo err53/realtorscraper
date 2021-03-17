@@ -1077,53 +1077,6 @@
     }
   },
   {
-    "Id": "22918346",
-    "MlsNumber": "W5147487",
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "16719 HUMBER STATION RD|Caledon, Ontario L7E3A5",
-        "Longitude": "-79.8430451",
-        "Latitude": "43.9220096",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511400518330000/reb82/highres/7/w5147487_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511400518330000/reb82/medres/7/w5147487_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511400518330000/reb82/lowres/7/w5147487_1.jpg",
-          "LastUpdated": "2021-03-12 10:00:51 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "15",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Land": {
-      "SizeTotal": "6.5 Acre   ; Lot Size Per Mpac|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22921117",
     "MlsNumber": "W5149303",
     "Property": {
@@ -1234,10 +1187,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637505522436130000/reb82/highres/1/x5103431_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637505522436130000/reb82/medres/1/x5103431_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637505522436130000/reb82/lowres/1/x5103431_1.jpg",
-          "LastUpdated": "2021-03-05 2:44:03 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637515092152900000/reb82/highres/1/x5103431_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637515092152900000/reb82/medres/1/x5103431_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637515092152900000/reb82/lowres/1/x5103431_1.jpg",
+          "LastUpdated": "2021-03-16 4:33:35 PM"
         }
       ],
       "Parking": [
