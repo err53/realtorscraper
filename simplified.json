@@ -48,7 +48,8 @@
       "Bedrooms": "13 + 0",
       "SizeInterior": "5360.0000",
       "StoriesTotal": "1.5000",
-      "Type": "House"
+      "Type": "House",
+      "UnitTotal": "0"
     }
   },
   {
@@ -67,10 +68,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637514046844000000/reb41/highres/5/40028565_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637514046844000000/reb41/medres/5/40028565_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637514046844000000/reb41/lowres/5/40028565_1.jpg",
-          "LastUpdated": "2021-03-15 11:31:24 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637516639581530000/reb41/highres/5/40028565_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637516639581530000/reb41/medres/5/40028565_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637516639581530000/reb41/lowres/5/40028565_1.jpg",
+          "LastUpdated": "2021-03-18 11:32:38 AM"
         }
       ],
       "Parking": [
@@ -934,6 +935,53 @@
     }
   },
   {
+    "Id": "22941870",
+    "MlsNumber": "N5155392",
+    "Property": {
+      "Price": "$1,450,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "10650 CONCESSION 6 RD|Uxbridge, Ontario L9P1R2",
+        "Longitude": "-79.1766554636931",
+        "Latitude": "44.1739498305702",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637515927127100000/reb82/highres/2/n5155392_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637515927127100000/reb82/medres/2/n5155392_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637515927127100000/reb82/lowres/2/n5155392_1.jpg",
+          "LastUpdated": "2021-03-17 3:45:12 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,450,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1450000"
+    },
+    "Land": {
+      "SizeTotal": "327.09 x 1846.1 FT   ; Irregular 15.56 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22678805",
     "MlsNumber": "W5069151",
     "Property": {
@@ -1404,6 +1452,49 @@
       "BathroomTotal": "3",
       "Bedrooms": "4",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22946978",
+    "MlsNumber": "X5157563",
+    "Property": {
+      "Price": "$1,499,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "555345 MONO-AMARANTH TL|Mono, Ontario L9V0Z1",
+        "Longitude": "-80.154806",
+        "Latitude": "44.0126221",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637516715224100000/reb86/highres/3/x5157563_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637516715224100000/reb86/medres/3/x5157563_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637516715224100000/reb86/lowres/3/x5157563_1.jpg",
+          "LastUpdated": "2021-03-18 1:38:42 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "ConvertedPrice": "$1,499,900 ",
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1499900"
+    },
+    "Land": {
+      "SizeTotal": "1716.74 x 1026.7 FT|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   }
