@@ -645,7 +645,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465357325"
+              "ContactId": "465411547"
             }
           ],
           "Websites": [
@@ -714,7 +714,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465357325"
+              "ContactId": "465411547"
             }
           ],
           "Websites": [
@@ -827,11 +827,10 @@
         "IndividualID": 1983958,
         "Name": "JENNIFER HUANG",
         "Organization": {
-          "OrganizationID": 75381,
+          "OrganizationID": 283835,
           "Name": "ROYAL LEPAGE NRC REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637484712100000000/lowres/default/royallepage.gif",
           "Address": {
-            "AddressText": "33 MAYWOOD AVE|ST. CATHARINES, Ontario L2R1C5",
+            "AddressText": "35 MAYWOOD AVENUE|ST. CATHARINES, Ontario L2R1C5",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
@@ -844,19 +843,19 @@
             },
             {
               "PhoneType": "Fax",
-              "PhoneNumber": "688-3178",
-              "AreaCode": "905",
+              "PhoneNumber": "635-9228",
+              "AreaCode": "800",
               "PhoneTypeId": "4"
             }
           ],
           "Emails": [
             {
-              "ContactId": "460120883"
+              "ContactId": "460119962"
             }
           ],
           "Websites": [
             {
-              "Website": "http://www.nrcrealty.ca",
+              "Website": "http://www.homesniagara.com",
               "WebsiteTypeId": "1"
             }
           ],
@@ -864,8 +863,8 @@
           "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/75381/royal-lepage-nrc-realty-33-maywood-ave-st-catharines-ontario-l2r1c5",
-          "PhotoLastupdate": "2021-02-09 12:40:10 PM"
+          "RelativeDetailsURL": "/office/firm/283835/royal-lepage-nrc-realty-35-maywood-avenue-st-catharines-ontario-l2r1c5",
+          "PhotoLastupdate": "2021-03-19 1:30:19 PM"
         },
         "Phones": [
           {
@@ -876,8 +875,8 @@
           },
           {
             "PhoneType": "Fax",
-            "PhoneNumber": "688-3178",
-            "AreaCode": "905",
+            "PhoneNumber": "635-9228",
+            "AreaCode": "800",
             "PhoneTypeId": "4"
           }
         ],
@@ -889,7 +888,7 @@
         ],
         "Emails": [
           {
-            "ContactId": "456751090"
+            "ContactId": "465397988"
           }
         ],
         "Photo": "https://cdn.realtor.ca/individual/TS636873111600000000/lowres/1268740.jpg",
@@ -899,7 +898,7 @@
         "LastName": "HUANG",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1983958/jennifer-huang-33-maywood-ave-st-catharines-ontario-l2r1c5",
+        "RelativeDetailsURL": "/agent/1983958/jennifer-huang-35-maywood-avenue-st-catharines-ontario-l2r1c5",
         "AgentPhotoLastUpdated": "2019-03-04 15:46:00",
         "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636873111600000000/highres/1268740.jpg",
         "RankMyAgentKey": "",
@@ -1342,6 +1341,418 @@
     "RelativeURLFr": "/immobilier/22926246/5058-6th-line-rr-2-rockwood"
   },
   {
+    "Id": "22953460",
+    "MlsNumber": "40084094",
+    "PublicRemarks": "Top 5 Reasons You Will Love This Home: 1) Custom bungalow with beautiful views from every room and a master suite with an open-concept ensuite 2) Finished walk-out basement with a recreation room with a custom bar and a wood stove, a games room, and a den 3) Backyard with a pool house with a tiki bar, stamped concrete patio, and custom iron gates surround the saltwater pool 4) 40x60 workshop with endless desirable features 5) 25 acres of land exuding a pride of ownership and a true love for nature. 4,177 fin.sq.ft. Age 20. For info, photos & video, visit our website. (63037554)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "2090.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1682681,
+        "Name": "Mark Faris",
+        "Organization": {
+          "OrganizationID": 276843,
+          "Name": "Faris Team Real Estate Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637517608320000000/lowres/1278574.jpg",
+          "Address": {
+            "AddressText": "6288 Yonge Street|Innisfil, Ontario L0L1K0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "797-8485",
+              "AreaCode": "705",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "797-8486",
+              "AreaCode": "705",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "422302391"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.faristeam.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/276843/faris-team-real-estate-brokerage-6288-yonge-street-innisfil-ontario-l0l1k0",
+          "PhotoLastupdate": "2021-03-19 2:27:12 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "797-8485",
+            "AreaCode": "705",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "797-8486",
+            "AreaCode": "705",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.facebook.com/themarkfaristeam",
+            "WebsiteTypeId": "2"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463971753"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637364769000000000/lowres/1172869.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "Mark",
+        "LastName": "Faris",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1682681/mark-faris-6288-yonge-street-innisfil-ontario-l0l1k0",
+        "AgentPhotoLastUpdated": "2020-09-23 16:55:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637364769000000000/highres/1172869.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2062006,
+        "Name": "Michelle McCague",
+        "Organization": {
+          "OrganizationID": 286274,
+          "Name": "Faris Team Real Estate Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637517608320000000/lowres/1359396.jpg",
+          "Address": {
+            "AddressText": "117 Young Street, Unit 11|Alliston, Ontario L9R0E9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "530-2305",
+              "AreaCode": "705",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "797-8486",
+              "AreaCode": "705",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463968757"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.faristeam.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/286274/faris-team-real-estate-brokerage-117-young-street-unit-11-alliston-ontario-l9r0e9",
+          "PhotoLastupdate": "2021-03-19 2:27:12 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "530-2305",
+            "AreaCode": "705",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "797-8486",
+            "AreaCode": "705",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.faristeam.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463974679"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637364707800000000/lowres/1337050.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Michelle",
+        "LastName": "McCague",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2062006/michelle-mccague-117-young-street-unit-11-alliston-ontario-l9r0e9",
+        "AgentPhotoLastUpdated": "2020-09-23 15:13:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637364707800000000/highres/1337050.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,950,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7039 CONCESSION ROAD 2|Lisle, Ontario L0M1M0",
+        "Longitude": "-79.99745174",
+        "Latitude": "44.22220969",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637517608328500000/reb17/highres/4/40084094_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637517608328500000/reb17/medres/4/40084094_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637517608328500000/reb17/lowres/4/40084094_1.jpg",
+          "LastUpdated": "2021-03-19 2:27:12 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,950,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel",
+      "PriceUnformattedValue": "1950000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "25 ac|25 - 50 acres",
+      "SizeFrontage": "52 ft"
+    },
+    "AlternateURL": {
+      "BrochureLink": "https://www.faristeam.ca/listings/7039-concession-road-2-lisle-real-estate/",
+      "DetailsLink": "https://www.faristeam.ca/listings/7039-concession-road-2-lisle-real-estate/",
+      "PhotoLink": "https://youriguide.com/7039_concession_rd_2_lisle_on/",
+      "VideoLink": "https://www.youtube.com/watch?v=WdQ_U2Bk0aw"
+    },
+    "PostalCode": "L0M1M0",
+    "RelativeDetailsURL": "/real-estate/22953460/7039-concession-road-2-lisle",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-19 6:27:12 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22953460/7039-concession-road-2-lisle",
+    "RelativeURLFr": "/immobilier/22953460/7039-concession-road-2-lisle"
+  },
+  {
+    "Id": "22951397",
+    "MlsNumber": "E5158765",
+    "PublicRemarks": "Here Is The Country Property That You Have Been Waiting For! Sprawling 40 Acre Property Features A Spacious Multi-Generational Family Home W/Sun-Filled Above-Grade In-Law Suite *Plus* A Sep Entrance To The Large, Partially Finished Basement! Gorgeous, Private Master Loft To Enjoy The Stunning Views! Fantastic Workshop Space In The Oversized 2 Car Garage, 2 Laundry Rms, Multiple Walk/Outs! Custom Kitchen, Double-Sided Fireplace. Great Commuter Location!**** EXTRAS **** 4 Stall 24X40' Barn W/Hay Loft & Insulated Tack Room, 32X60' Coverall-Style Structure. Approx 80X120'Sand-Ring, 6 Paddocks,28 Acres In Hay(Mixed/Alfalfa). Include: Fridge(2), Stove(2),Washer/Dryer(2),Freezer, Dishwasher, Microwave, Gazebo. (28110162)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1946972,
+        "Name": "DAWN MICHELLE DONER",
+        "Organization": {
+          "OrganizationID": 50244,
+          "Name": "ROYAL LEPAGE YOUR COMMUNITY REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637517384530000000/lowres/1097742.jpg",
+          "Address": {
+            "AddressText": "6173 MAIN STREET|STOUFFVILLE, Ontario L4A4H8",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "642-6333",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "727-7702",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/50244/royal-lepage-your-community-realty-6173-main-street-stouffville-ontario-l4a4h8",
+          "PhotoLastupdate": "2021-03-19 8:14:13 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "642-6333",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459357450"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1946972.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "DAWN MICHELLE",
+        "LastName": "DONER",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1946972/dawn-michelle-doner-6173-main-street-stouffville-ontario-l4a4h8",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1946972.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2002765,
+        "Name": "TRACEY BRITTEN",
+        "Organization": {
+          "OrganizationID": 50244,
+          "Name": "ROYAL LEPAGE YOUR COMMUNITY REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637517384530000000/lowres/1097742.jpg",
+          "Address": {
+            "AddressText": "6173 MAIN STREET|STOUFFVILLE, Ontario L4A4H8",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "642-6333",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "727-7702",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/50244/royal-lepage-your-community-realty-6173-main-street-stouffville-ontario-l4a4h8",
+          "PhotoLastupdate": "2021-03-19 8:14:13 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "642-6333",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459403670"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "TRACEY",
+        "LastName": "BRITTEN",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2002765/tracey-britten-6173-main-street-stouffville-ontario-l4a4h8",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,425,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "23900 SIMCOE ST|Scugog, Ontario L0C1H0",
+        "Longitude": "-78.9521974487138",
+        "Latitude": "44.2199344077225",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637517387015130000/reb82/highres/5/e5158765_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637517387015130000/reb82/medres/5/e5158765_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637517387015130000/reb82/lowres/5/e5158765_1.jpg",
+          "LastUpdated": "2021-03-19 8:18:21 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,425,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1425000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "1168.63 x 1483.8 FT   ; 40 Acres - As Per Mpac|25 - 50 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://www.youtube.com/watch?fbclid=IwAR18_5sBEEVMXO26MeXCEau7c8HPirPEbFLGrJ4ZOrPik1gw2FpKk6zG_ZQ&v"
+    },
+    "PostalCode": "L0C1H0",
+    "RelativeDetailsURL": "/real-estate/22951397/23900-simcoe-st-scugog-rural-scugog",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-19 12:18:21 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22951397/23900-simcoe-st-scugog-rural-scugog",
+    "RelativeURLFr": "/immobilier/22951397/23900-simcoe-st-scugog"
+  },
+  {
     "Id": "22885590",
     "MlsNumber": "H4099367",
     "PublicRemarks": "NESTLED ON A QUIET ROAD IN EAST FLAMBOROUGH, SITS JUST OVER 12 1/2 ACRES, 10 ACRES OF WHICH IS PRIME LAND/SOIL AND WAS ONCE USED TO MARKET GARDEN FLOWERS AND VEGETABLES FOR OVER 50 YEARS. THIS PROPERTY BOASTS 2 RESIDENCES, BOTH HAVING FRONTAGE ON GARDEN LANE. THE 1900 BRICK FARM HOUSE HAS APPROX 1100 SF, 2 BEDROOM AND 1 BATH. IN 1969, THE FAMILY BUILT THEIR NEW HOME. IT HAS LAVISH GARDENS TO ADMIRE AND AN INTERLOCK BRICK DRIVEWAY & WALKWAY LEADING YOU UP TO THE HOME. WITH OVER 2200 SF, 4 BEDROOMS, 2 BATHS, SEPARATE LIVING & FAMILY ROOM ALL ON MAIN LEVEL. LOTS OF SPACE FOR EVERYONE. JUST DOWN THE LANE SITS 3 OUTBUILDINGS, 26'X42', 24'X 52' , AND 50'X24', ALL WITH CONCRETE FLOORS AND HYDRO. THIS PROPERTY HAS ENDLESS POSSIBILITIES.....JUST BRING YOUR DREAMS. RSA TAXES REFLECT FARM REBATE (26984957)",
@@ -1765,253 +2176,6 @@
     "RelativeURLFr": "/immobilier/22846838/5352-st-johns-sdrd-whitchurch-stouffville"
   },
   {
-    "Id": "22864108",
-    "MlsNumber": "N5130347",
-    "PublicRemarks": "The Best Of Both Worlds!  The Space, Peace, & Tranquility That You've Always Wanted In A 10 Acre Property & Conveniently Located Close To All In-Town Amenities. In Just Minutes You Can Go From Hiking Your Own Trails Or Relaxing Poolside To Dining At Amazing Local Restaurants Or Working Out At The Gym! It's No Wonder People Are Falling In Love With New Tecumseth Countryside. Extremely Well Kept Bungalow Offers The Perfect Setting To Raise A Family.**** EXTRAS **** Detached Workshop Perfect For The Hobbyist. Heated Double Garage. Lots Of Room To Park Your Boat, Trailer,Etc. Inground Pool Perfect For Those Summer Days! Click On The Virtual Tour Link For More Pics, Videos, & To Hear The Sellers Story. (27994455)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1993102,
-        "Name": "KYLE BUTCHER",
-        "Organization": {
-          "OrganizationID": 208084,
-          "Name": "RE/MAX HALLMARK CHAY REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637500314450000000/lowres/1201590.jpg",
-          "Address": {
-            "AddressText": "22 QUEEN ST SOUTH|TOTTENHAM, Ontario L0G1W0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "936-3500",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "936-5356",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "425315346"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "HTTP://www.remaxchay.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/208084/remax-hallmark-chay-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-02-27 2:04:05 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "936-3500",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "936-3500",
-            "AreaCode": "905",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.butcherteam.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/butcherteam",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/TheButcherTeam",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://www.linkedin.com/profile/view?id=434830929&trk=nav_responsive_tab_profile",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459395975"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1993102.jpg",
-        "Position": "Salesperson",
-        "DesignationCodes": "RENE SRS",
-        "PermitFreetextEmail": true,
-        "FirstName": "KYLE",
-        "LastName": "BUTCHER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1993102/kyle-butcher-22-queen-st-south-tottenham-ontario-l0g1w0",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1993102.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1406335,
-        "Name": "CRAIG BUTCHER",
-        "Organization": {
-          "OrganizationID": 208084,
-          "Name": "RE/MAX HALLMARK CHAY REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637500314450000000/lowres/1201590.jpg",
-          "Address": {
-            "PermitShowAddress": false,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "936-3500",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "936-5356",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "425315346"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "HTTP://www.remaxchay.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/208084/remax-hallmark-chay-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-02-27 2:04:05 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "936-2500",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "936-2500",
-            "AreaCode": "905",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.butcherteam.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "http://www.facebook.com/butcherteam",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://www.linkedin.com/pub/craig-butcher/7/187/229",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455709158"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1406335.jpg",
-        "Position": "Broker",
-        "DesignationCodes": "CNE CLHMS MCNE SRS",
-        "PermitFreetextEmail": true,
-        "FirstName": "CRAIG",
-        "LastName": "BUTCHER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1406335/craig-butcher",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1406335.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,349,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7102 9TH LINE|New Tecumseth, Ontario L0G1A0",
-        "Longitude": "-79.8461292994751",
-        "Latitude": "44.0789468675566",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637501181285270000/reb82/highres/7/n5130347_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637501181285270000/reb82/medres/7/n5130347_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637501181285270000/reb82/lowres/7/n5130347_1.jpg",
-          "LastUpdated": "2021-02-28 2:08:48 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,349,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1349000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "205 x 2130 FT   ; 10.03 Acres (Per Mpac)|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "PhotoLink": "https://vendoit.com/Property/PropertyDetails?id=690&qrCode=false",
-      "VideoLink": "https://vendoit.com/Property/PropertyDetails?id=690&qrCode=false"
-    },
-    "PostalCode": "L0G1A0",
-    "RelativeDetailsURL": "/real-estate/22864108/7102-9th-line-new-tecumseth-rural-new-tecumseth",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-02-28 7:08:48 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22864108/7102-9th-line-new-tecumseth-rural-new-tecumseth",
-    "RelativeURLFr": "/immobilier/22864108/7102-9th-line-new-tecumseth"
-  },
-  {
     "Id": "22866033",
     "MlsNumber": "N5131252",
     "PublicRemarks": "Situated On 5 Private Forested Acres| Set Well Back From The Road| Enjoy Privacy And Scenic Forested Views| Open Concept Great Room/Kitchen| 9 Ft Ceilings, Hardwood Floors, Kitchen W/Centre Island/Eat-In Brkfst Area| Master W/Ensuite+Heated Marble Flr| Bedroom 2 + Br 3 W/Ensuite. Staircase To L L Expansive Open Concept Bright Rec Rm With Wet Bar And Walk-Out| 5 Minute Drive To Newmarket & Hwy 404!**** EXTRAS **** Fantastic Low Maintenance! Rural Property| Heated Ceramic Floor In Kitchen Area -  | Fenced-In Dog Run W/Synthetic Lawn| 2 Tiered Deck W/Gazebo, Hot Tub @ Back Overlooks Private Forest| Propane Tank (R) To Be Assumed. Gym In Bsmt. (27997285)",
@@ -2336,132 +2500,6 @@
     "RelativeURLFr": "/immobilier/22898312/5-linton-lane-king"
   },
   {
-    "Id": "22898371",
-    "MlsNumber": "N5141928",
-    "PublicRemarks": "Welcome To Picturesque Adjala!  This 3 Bedroom Bungalow, 1Km North Of Highway 9, Sits On Just Under 10 Acres With Breathtaking Views All Around. Most Windows Have Been Replaced Within The Last Ten Years.  Roof Replaced 2017 And Drilled Well In 2003. Inground Pool With Filter And Solar Blanket.  Perfect Home To Renovate For The Family Downsizing Or Build Your New Dream Home! Taxes Reflect Farm Rebate.**** EXTRAS **** 10 X 12 Garden Shed And 12 X 12 Sunroom.  Highspeed Fibe Coming To Road In June/2021. 5 Minutes To Caledon Equestrian Park And Half Hour To Pearson Airport. Survey Available. (28040299)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "2 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1405192,
-        "Name": "DEBRAH ANNE TIDEY",
-        "Organization": {
-          "OrganizationID": 248929,
-          "Name": "IPRO REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637513269060000000/lowres/1204125.jpg",
-          "Address": {
-            "AddressText": "41 BROADWAY AVE UNIT 3|ORANGEVILLE, Ontario L9W1J7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "940-0004",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/248929/ipro-realty-ltd-41-broadway-ave-unit-3-orangeville-ontario-l9w1j7",
-          "PhotoLastupdate": "2021-03-14 1:55:06 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "228-7890",
-            "AreaCode": "647",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "228-7890",
-            "AreaCode": "647",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.debtidey.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455702784"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1405192.jpg",
-        "Position": "Salesperson",
-        "DesignationCodes": "SRS",
-        "PermitFreetextEmail": true,
-        "FirstName": "DEBRAH ANNE",
-        "LastName": "TIDEY",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1405192/debrah-anne-tidey-41-broadway-ave-unit-3-orangeville-ontario-l9w1j7",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1405192.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,099,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1198 CONCESSION RD 8 RD|Adjala-Tosorontio, Ontario L0G1W0",
-        "Longitude": "-79.8406226",
-        "Latitude": "43.9846647",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637509745349230000/reb82/highres/8/n5141928_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637509745349230000/reb82/medres/8/n5141928_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637509745349230000/reb82/lowres/8/n5141928_1.jpg",
-          "LastUpdated": "2021-03-10 12:02:14 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "7",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,099,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1099000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "199.6 x 2199.6 FT|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://www.myvisuallistings.com/vtnb/306753"
-    },
-    "PostalCode": "L0G1W0",
-    "RelativeDetailsURL": "/real-estate/22898371/1198-concession-rd-8-rd-adjala-tosorontio-rural-adjala-tosorontio",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-10 5:02:15 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22898371/1198-concession-rd-8-rd-adjala-tosorontio-rural-adjala-tosorontio",
-    "RelativeURLFr": "/immobilier/22898371/1198-concession-rd-8-rd-adjala-tosorontio"
-  },
-  {
     "Id": "22915492",
     "MlsNumber": "N5147046",
     "PublicRemarks": "Exquisite Property Offers An Experience Of Unparalleled Tranquility Boasting Over 25 Acres Of Land & Renovated Modern Open Concept Home Completely Transformed W/ The Most Tasteful Finishes. Large L/R & Fam Rm, Open Concept Kitchen W/ Island. Pot Light Throughout, Wood Burning Fireplace. Acres Of Hay Fields A Large Indoor Sand Horse Riding Arena, Insulated Steel Building Equipped W/ Full Kitchen, Heating & 3Pc Washroom! This Property Has So Much To Offer!**** EXTRAS **** Minutes Away From The City With A Private Pond Awaits This Enchanting Oasis! New Stainless Steel Appliances, All Electrical Light Fixtures, Garage Door Opener, New Plumbing, New Hvac, New Electrical, Hardwood Floors Throughout. (28062538)",
@@ -2499,7 +2537,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "420453451"
+              "ContactId": "465411189"
             }
           ],
           "Websites": [
@@ -2573,7 +2611,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "420453451"
+              "ContactId": "465411189"
             }
           ],
           "Websites": [
@@ -3177,7 +3215,7 @@
         "Organization": {
           "OrganizationID": 51523,
           "Name": "CENTURY 21 HERITAGE GROUP LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637515927120000000/lowres/1002009.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637516776060000000/lowres/1002009.jpg",
           "Address": {
             "AddressText": "17035 YONGE ST. SUITE 100|NEWMARKET, Ontario L3Y5Y1",
             "PermitShowAddress": true,
@@ -3208,7 +3246,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/51523/century-21-heritage-group-ltd-17035-yonge-st-suite-100-newmarket-ontario-l3y5y1",
-          "PhotoLastupdate": "2021-03-17 3:45:12 PM"
+          "PhotoLastupdate": "2021-03-18 3:20:06 PM"
         },
         "Phones": [
           {
@@ -3241,7 +3279,7 @@
         "Organization": {
           "OrganizationID": 51523,
           "Name": "CENTURY 21 HERITAGE GROUP LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637515927120000000/lowres/1002009.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637516776060000000/lowres/1002009.jpg",
           "Address": {
             "AddressText": "17035 YONGE ST. SUITE 100|NEWMARKET, Ontario L3Y5Y1",
             "PermitShowAddress": true,
@@ -3272,7 +3310,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/51523/century-21-heritage-group-ltd-17035-yonge-st-suite-100-newmarket-ontario-l3y5y1",
-          "PhotoLastupdate": "2021-03-17 3:45:12 PM"
+          "PhotoLastupdate": "2021-03-18 3:20:06 PM"
         },
         "Phones": [
           {
@@ -3339,14 +3377,157 @@
     "Land": {
       "SizeTotal": "327.09 x 1846.1 FT   ; Irregular 15.56 Acres|10 - 24.99 acres"
     },
+    "AlternateURL": {
+      "DetailsLink": "http://www.10650concession6.com/",
+      "VideoLink": "http://www.10650concession6.com/unbranded/"
+    },
     "PostalCode": "L9P1R2",
     "RelativeDetailsURL": "/real-estate/22941870/10650-concession-6-rd-uxbridge-rural-uxbridge",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-17 7:45:12 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22941870/10650-concession-6-rd-uxbridge-rural-uxbridge",
     "RelativeURLFr": "/immobilier/22941870/10650-concession-6-rd-uxbridge"
+  },
+  {
+    "Id": "22949851",
+    "MlsNumber": "N5157949",
+    "PublicRemarks": "10 Acre Secluded Country Property With Sunset Views Overlooking Beautiful Hockley Valley. Unique Mcm-Style Home With Multiple Walkouts To Backyard Oasis Featuring Inground Pool, Hot Tub & Fire Pit. Sprawling 4 Level Backsplit With 2 Home Office Spaces. In-Law Suite With Accessible Bathroom. Enjoy 10-Acre Grounds For Gardening, Private Jogging/Hiking, Practice Your Golf Swing, Snowshoe & Cross-Country Ski In The Winter. Detached Garage & Workshop & Large Shed.**** EXTRAS **** Lots Of Extras Including Wood-Burning F/Place, Gas F/Place, Hot Tub, Sauna, Chicken Coop,  Maple Syrup Evaporator, Wine Fridge, Propane Gas Bbq, Upgrade Water Filtration Including Ro System In Kitchen. 200 Amp Service With Generator. (28107800)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "5",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1860847,
+        "Name": "KURT DIENER",
+        "Organization": {
+          "OrganizationID": 50719,
+          "Name": "RE/MAX WEST REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637516898580000000/lowres/1002321.jpg",
+          "Address": {
+            "AddressText": "9-1 QUEENSGATE BOULEVARD|BOLTON, Ontario L7E2X7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "857-7653",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "857-7671",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxwest.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/50719/remax-west-realty-inc-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
+          "PhotoLastupdate": "2021-03-18 6:44:18 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "234-5878",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.thedienerteam.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/rurbanliving",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "http://twitter.com/kurtdiener",
+            "WebsiteTypeId": "4"
+          },
+          {
+            "Website": "http://www.linkedin.com/company/the-diener-team",
+            "WebsiteTypeId": "3"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "457446590"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1860847.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "KURT",
+        "LastName": "DIENER",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1860847/kurt-diener-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1860847.jpg",
+        "RankMyAgentKey": "32115",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "3045 CONCESSION ROAD 4 RD|Adjala-Tosorontio, Ontario L0G1L0",
+        "Longitude": "-79.9222335",
+        "Latitude": "44.0529163",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637517518184200000/reb82/highres/9/n5157949_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637517518184200000/reb82/medres/9/n5157949_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637517518184200000/reb82/lowres/9/n5157949_1.jpg",
+          "LastUpdated": "2021-03-19 11:56:58 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10.12 Acre   ; M/L Irregular|10 - 24.99 acres"
+    },
+    "PostalCode": "L0G1L0",
+    "RelativeDetailsURL": "/real-estate/22949851/3045-concession-road-4-rd-adjala-tosorontio-rural-adjala-tosorontio",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-19 3:56:58 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22949851/3045-concession-road-4-rd-adjala-tosorontio-rural-adjala-tosorontio",
+    "RelativeURLFr": "/immobilier/22949851/3045-concession-road-4-rd-adjala-tosorontio"
   },
   {
     "Id": "22678805",
@@ -4969,6 +5150,145 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22927536/3918-maddaugh-rd-hamilton-rural-flamborough",
     "RelativeURLFr": "/immobilier/22927536/3918-maddaugh-rd-hamilton"
+  },
+  {
+    "Id": "22948579",
+    "MlsNumber": "X5157323",
+    "PublicRemarks": "Location!Location!Location Private Stunning One Of A Kind Five Star Luxury 4 Bedroom Bungalow On 9.92 Acre Lot Perfect For Multi Generational Family Has Three Different Living Areas. Large Kitchen, Family Room & Living Room, Dining & Rec Room, Welcoming Landscaping, Multi Level Deck & In Ground Pool With Patio. Covered Front Porch, Dbl Door Entry & Large Open Foyer. Do Not Miss This Opportunity. Must See This Property!! Close To Orangeville.**** EXTRAS **** All Elf's,Fridge,Stove,Gas Oven In The Kitchen,Washer & Dryer,Furnace (2020) 10 Yrs Warranty,Water Softner(2019) New Control Panel,Hot Water Tank Owned,New Thermostat.Pond On The Front.Attached 3 Car Garage.Rm For 2 Cars & Workshop. (28105902)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1736581,
+        "Name": "GURSHARAN BAJWA",
+        "Organization": {
+          "OrganizationID": 247448,
+          "Name": "HOMELIFE MAPLE LEAF REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637517386680000000/lowres/247448.jpg",
+          "Address": {
+            "AddressText": "80 EASTERN AVENUE #3|BRAMPTON, Ontario L6W1X9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "456-9090",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "456-9091",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881653"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.hlmapleleaf.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/247448/homelife-maple-leaf-realty-ltd-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+          "PhotoLastupdate": "2021-03-19 8:17:48 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "289-5548",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://Www.bajwahomes.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463734152"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636967203600000000/lowres/1178040.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "GURSHARAN",
+        "LastName": "BAJWA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1736581/gursharan-bajwa-80-eastern-avenue-3-brampton-ontario-l6w1x9",
+        "AgentPhotoLastUpdated": "2019-06-21 13:26:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636967203600000000/highres/1178040.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,489,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "473519 COUNTY ROAD 11|Amaranth, Ontario L9W0R3",
+        "Longitude": "-80.1731902",
+        "Latitude": "43.9501689",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637516779323800000/reb82/highres/3/x5157323_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637516779323800000/reb82/medres/3/x5157323_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637516779323800000/reb82/lowres/3/x5157323_1.jpg",
+          "LastUpdated": "2021-03-18 3:25:32 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,489,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1489000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "216.01 x 2021.74 FT|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://tours.ultraflick.ca/473519-dufferin-county-road-11-laurel/nb/"
+    },
+    "PostalCode": "L9W0R3",
+    "RelativeDetailsURL": "/real-estate/22948579/473519-county-road-11-amaranth-rural-amaranth",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-18 7:25:32 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22948579/473519-county-road-11-amaranth-rural-amaranth",
+    "RelativeURLFr": "/immobilier/22948579/473519-county-road-11-amaranth"
   },
   {
     "Id": "22946978",

@@ -368,6 +368,106 @@
     }
   },
   {
+    "Id": "22953460",
+    "MlsNumber": "40084094",
+    "Property": {
+      "Price": "$1,950,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7039 CONCESSION ROAD 2|Lisle, Ontario L0M1M0",
+        "Longitude": "-79.99745174",
+        "Latitude": "44.22220969",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637517608328500000/reb17/highres/4/40084094_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637517608328500000/reb17/medres/4/40084094_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637517608328500000/reb17/lowres/4/40084094_1.jpg",
+          "LastUpdated": "2021-03-19 2:27:12 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,950,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel",
+      "PriceUnformattedValue": "1950000"
+    },
+    "Land": {
+      "SizeTotal": "25 ac|25 - 50 acres",
+      "SizeFrontage": "52 ft"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "2090.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22951397",
+    "MlsNumber": "E5158765",
+    "Property": {
+      "Price": "$1,425,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "23900 SIMCOE ST|Scugog, Ontario L0C1H0",
+        "Longitude": "-78.9521974487138",
+        "Latitude": "44.2199344077225",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637517387015130000/reb82/highres/5/e5158765_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637517387015130000/reb82/medres/5/e5158765_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637517387015130000/reb82/lowres/5/e5158765_1.jpg",
+          "LastUpdated": "2021-03-19 8:18:21 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,425,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1425000"
+    },
+    "Land": {
+      "SizeTotal": "1168.63 x 1483.8 FT   ; 40 Acres - As Per Mpac|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22885590",
     "MlsNumber": "H4099367",
     "Property": {
@@ -517,53 +617,6 @@
     }
   },
   {
-    "Id": "22864108",
-    "MlsNumber": "N5130347",
-    "Property": {
-      "Price": "$1,349,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7102 9TH LINE|New Tecumseth, Ontario L0G1A0",
-        "Longitude": "-79.8461292994751",
-        "Latitude": "44.0789468675566",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637501181285270000/reb82/highres/7/n5130347_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637501181285270000/reb82/medres/7/n5130347_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637501181285270000/reb82/lowres/7/n5130347_1.jpg",
-          "LastUpdated": "2021-02-28 2:08:48 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,349,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1349000"
-    },
-    "Land": {
-      "SizeTotal": "205 x 2130 FT   ; 10.03 Acres (Per Mpac)|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22866033",
     "MlsNumber": "N5131252",
     "Property": {
@@ -649,53 +702,6 @@
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22898371",
-    "MlsNumber": "N5141928",
-    "Property": {
-      "Price": "$1,099,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1198 CONCESSION RD 8 RD|Adjala-Tosorontio, Ontario L0G1W0",
-        "Longitude": "-79.8406226",
-        "Latitude": "43.9846647",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637509745349230000/reb82/highres/8/n5141928_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637509745349230000/reb82/medres/8/n5141928_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637509745349230000/reb82/lowres/8/n5141928_1.jpg",
-          "LastUpdated": "2021-03-10 12:02:14 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "7",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,099,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1099000"
-    },
-    "Land": {
-      "SizeTotal": "199.6 x 2199.6 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "2 + 1",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -978,6 +984,52 @@
       "BathroomTotal": "2",
       "Bedrooms": "4 + 0",
       "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22949851",
+    "MlsNumber": "N5157949",
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "3045 CONCESSION ROAD 4 RD|Adjala-Tosorontio, Ontario L0G1L0",
+        "Longitude": "-79.9222335",
+        "Latitude": "44.0529163",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637517518184200000/reb82/highres/9/n5157949_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637517518184200000/reb82/medres/9/n5157949_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637517518184200000/reb82/lowres/9/n5157949_1.jpg",
+          "LastUpdated": "2021-03-19 11:56:58 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Land": {
+      "SizeTotal": "10.12 Acre   ; M/L Irregular|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "5",
       "Type": "House"
     }
   },
@@ -1452,6 +1504,53 @@
       "BathroomTotal": "3",
       "Bedrooms": "4",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22948579",
+    "MlsNumber": "X5157323",
+    "Property": {
+      "Price": "$1,489,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "473519 COUNTY ROAD 11|Amaranth, Ontario L9W0R3",
+        "Longitude": "-80.1731902",
+        "Latitude": "43.9501689",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637516779323800000/reb82/highres/3/x5157323_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637516779323800000/reb82/medres/3/x5157323_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637516779323800000/reb82/lowres/3/x5157323_1.jpg",
+          "LastUpdated": "2021-03-18 3:25:32 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,489,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1489000"
+    },
+    "Land": {
+      "SizeTotal": "216.01 x 2021.74 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
