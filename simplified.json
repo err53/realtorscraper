@@ -375,8 +375,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "7039 CONCESSION ROAD 2|Lisle, Ontario L0M1M0",
-        "Longitude": "-79.99745174",
-        "Latitude": "44.22220969",
+        "Longitude": "-79.99760194",
+        "Latitude": "44.22217894",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -410,7 +410,7 @@
     },
     "Land": {
       "SizeTotal": "25 ac|25 - 50 acres",
-      "SizeFrontage": "52 ft"
+      "SizeFrontage": "512 ft"
     },
     "Building": {
       "BathroomTotal": "4",
@@ -1030,6 +1030,149 @@
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "5",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22954144",
+    "MlsNumber": "N5159250",
+    "Property": {
+      "Price": "$1,849,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "18436 CENTRE ST|East Gwillimbury, Ontario L0G1M0",
+        "Longitude": "-79.3041086",
+        "Latitude": "44.1187218",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637517636847970000/reb82/highres/0/n5159250_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637517636847970000/reb82/medres/0/n5159250_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637517636847970000/reb82/lowres/0/n5159250_1.jpg",
+          "LastUpdated": "2021-03-19 3:14:44 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "24",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,849,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1849900"
+    },
+    "Land": {
+      "SizeTotal": "665.12 x 519.53 FT   ; South 533.63 Ft & Rear 665.25 Ft|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22955572",
+    "MlsNumber": "N5159740",
+    "Property": {
+      "Price": "$1,950,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7039 CONCESSION RD 2|Adjala-Tosorontio, Ontario L0M1M0",
+        "Longitude": "-79.9976636372955",
+        "Latitude": "44.2222268613423",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637517734707970000/reb82/highres/0/n5159740_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637517734707970000/reb82/medres/0/n5159740_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637517734707970000/reb82/lowres/0/n5159740_1.jpg",
+          "LastUpdated": "2021-03-19 5:57:50 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,950,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1950000"
+    },
+    "Land": {
+      "SizeTotal": "511.72 x 2284.32 FT   ; 25 Acres|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22957736",
+    "MlsNumber": "N5160512",
+    "Property": {
+      "Price": "$1,349,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7102 9TH LINE|New Tecumseth, Ontario L0G1A0",
+        "Longitude": "-79.8461561215653",
+        "Latitude": "44.0789738434584",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637518453372700000/reb82/highres/2/n5160512_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637518453372700000/reb82/medres/2/n5160512_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637518453372700000/reb82/lowres/2/n5160512_1.jpg",
+          "LastUpdated": "2021-03-20 1:55:37 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Hospital",
+      "ConvertedPrice": "$1,349,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1349000"
+    },
+    "Land": {
+      "SizeTotal": "205 x 2130 FT   ; 10.03 Acres (Per Mpac)|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
