@@ -1003,10 +1003,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637517518184200000/reb82/highres/9/n5157949_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637517518184200000/reb82/medres/9/n5157949_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637517518184200000/reb82/lowres/9/n5157949_1.jpg",
-          "LastUpdated": "2021-03-19 11:56:58 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637519106376200000/reb82/highres/9/n5157949_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637519106376200000/reb82/medres/9/n5157949_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637519106376200000/reb82/lowres/9/n5157949_1.jpg",
+          "LastUpdated": "2021-03-21 8:03:57 AM"
         }
       ],
       "Parking": [
@@ -1647,53 +1647,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "4",
       "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22948579",
-    "MlsNumber": "X5157323",
-    "Property": {
-      "Price": "$1,489,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "473519 COUNTY ROAD 11|Amaranth, Ontario L9W0R3",
-        "Longitude": "-80.1731902",
-        "Latitude": "43.9501689",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637516779323800000/reb82/highres/3/x5157323_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637516779323800000/reb82/medres/3/x5157323_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637516779323800000/reb82/lowres/3/x5157323_1.jpg",
-          "LastUpdated": "2021-03-18 3:25:32 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "14",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,489,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1489000"
-    },
-    "Land": {
-      "SizeTotal": "216.01 x 2021.74 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "1",
       "Type": "House"
     }
   },
