@@ -610,208 +610,6 @@
     "RelativeURLFr": "/immobilier/22606085/7-wyldewood-court-scugog"
   },
   {
-    "Id": "22678669",
-    "MlsNumber": "40052764",
-    "PublicRemarks": "With this secluded haven, who needs to vacation elsewhere, when you can hike along the beautiful stone-lined meandering paths traversing the woods around this gorgeous country setting! With its outstanding construction and striking Craftsman design, nestled in a private retreat, just minutes from Erin and Orangeville, this home awaits your interior design to finish it in style. Come live the country life you've been dreaming of! Live in the finished 1-bed apartment above the garage while completing the interior. ln-floor heating throughout. R44 insulated walls, plumbed for 2 ensuites on 2nd floor & powder room on main level, and ready for centre island. (62731433)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "483.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "0"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1981516,
-        "Name": "Kevin Latam",
-        "Organization": {
-          "OrganizationID": 114628,
-          "Name": "Royal LePage Meadowtowne Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502234860000000/lowres/default/royallepage.gif",
-          "Address": {
-            "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "877-8262",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "465572264"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.meadowtowne.com/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-03-01 7:24:46 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "362-8455",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.latamandlatam.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455148795"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1280875.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Kevin",
-        "LastName": "Latam",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1981516/kevin-latam-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1280875.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 2074689,
-        "Name": "Mark Latam",
-        "Organization": {
-          "OrganizationID": 114628,
-          "Name": "Royal LePage Meadowtowne Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637502234860000000/lowres/default/royallepage.gif",
-          "Address": {
-            "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "877-8262",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "465572264"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.meadowtowne.com/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-03-01 7:24:46 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "400-9812",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://latamandlatam.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455148610"
-          }
-        ],
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Mark",
-        "LastName": "Latam",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2074689/mark-latam-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,750,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "18627 SHAWS CREEK Road|Caledon, Ontario L7K1L3",
-        "Longitude": "-80.05585339",
-        "Latitude": "43.81580896",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/highres/4/40052764_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/medres/4/40052764_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/lowres/4/40052764_1.jpg",
-          "LastUpdated": "2020-12-21 2:10:59 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Place of Worship, Schools",
-      "ConvertedPrice": "$1,750,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1750000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "6.93 ac|5 - 9.99 acres",
-      "SizeFrontage": "300 ft",
-      "AccessType": "Road access"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youriguide.com/18627_shaws_creek_rd_caledon_on"
-    },
-    "PostalCode": "L7K1L3",
-    "RelativeDetailsURL": "/real-estate/22678669/18627-shaws-creek-road-caledon",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2020-12-21 7:11:06 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22678669/18627-shaws-creek-road-caledon",
-    "RelativeURLFr": "/immobilier/22678669/18627-shaws-creek-road-caledon"
-  },
-  {
     "Id": "22799387",
     "MlsNumber": "40064051",
     "PublicRemarks": "Highly sought-after and extremely hard to find, this bungalow is guaranteed to impress any buyer who appreciates spacious and peaceful living. There are 7 picturesque acres to enjoy along with glorious views over the neighbouring forest. The layout is spread over 1,834sqft and offers three large bedrooms, a formal dining room with built-ins plus a lower level with a unique wine cellar, a games room and a spacious family room with a gas stove. In the heart of the home sits the open-plan kitchen and family room. Prepare delicious meals in this gourmet space complete with gorgeous cabinetry and an island while relaxing in the family room will be a pleasure thanks to the gas fireplace and soaring vaulted ceiling. Love to host guests? You will adore the sun-soaked raised deck along with the two-tiered patio that looks over the glistening Malibu in-ground pool and picturesque property. Extra features include a master bedroom ensuite and fireplace, a lower-level laundry plus theres also a two-car garage. This idyllic home is in a family-friendly community within Niagara-On-The-Lake and is less than 10 minutes from the centre of town. (62863438)",
@@ -1147,197 +945,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22899797/5654-hwy-7-acton",
     "RelativeURLFr": "/immobilier/22899797/5654-hwy-7-acton"
-  },
-  {
-    "Id": "22926246",
-    "MlsNumber": "40076134",
-    "PublicRemarks": "Fantastic country home and hobby farm just east of beautiful Rockwood, Ontario. Set on 8.75 rolling acres, a 5-minute drive to downtown, this convenient location cannot be beat. Set up as an equestrian facility, this property features multiple paddocks, 5 outdoor run-in sheds, a 20 x 40 sand dressage ring and 40 x 50 barn with 5 bay box stalls, tack room, hay storage plus hydro & water. The house, a 1,500 sq. ft. bungalow, is bright and cheery with vaulted ceilings and floor to ceiling propane fireplace in the living-dining area, multiple walkouts, 3-bedrooms and 2 baths all upstairs. The walkout basement is the perfect in-law or rental suite with its large windows, kitchen and living area with second propane fireplace, 2-bedrooms, full bath, and sauna. Notable updates include new French doors in kitchen, newer vinyl siding & windows, 200 amp electrical service, upgraded insulation, composite deck and new septic system installed in 2010. Attached two car garage and lots of parking for a dozen or more automobiles. Generous backyard with southwest exposure would be the perfect spot for a future pool. Call your REALTOR now to arrange a visit to this fabulous rural property. (63002380)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 2",
-      "SizeInterior": "1500.0000",
-      "StoriesTotal": "1",
-      "Type": "House",
-      "UnitTotal": "1"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1750539,
-        "Name": "KRISTEN DYER",
-        "Organization": {
-          "OrganizationID": 156357,
-          "Name": "R.W. Dyer Realty Inc., Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637520199000000000/lowres/78973.jpg",
-          "Address": {
-            "AddressText": "29 Blair Rd.|Cambridge, Ontario N1S2H7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "653-5353",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463978741"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/156357/rw-dyer-realty-inc-brokerage-29-blair-rd-cambridge-ontario-n1s2h7",
-          "PhotoLastupdate": "2021-03-22 2:25:00 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "465-5353",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "458965971"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636879061800000000/lowres/1066106.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "KRISTEN",
-        "LastName": "DYER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1750539/kristen-dyer-29-blair-rd-cambridge-ontario-n1s2h7",
-        "AgentPhotoLastUpdated": "2019-03-11 13:03:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636879061800000000/highres/1066106.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1520451,
-        "Name": "Jack Dyer",
-        "Organization": {
-          "OrganizationID": 156357,
-          "Name": "R.W. Dyer Realty Inc., Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637520199000000000/lowres/78973.jpg",
-          "Address": {
-            "AddressText": "29 Blair Rd.|Cambridge, Ontario N1S2H7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "653-5353",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463978741"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/156357/rw-dyer-realty-inc-brokerage-29-blair-rd-cambridge-ontario-n1s2h7",
-          "PhotoLastupdate": "2021-03-22 2:25:00 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "658-0788",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.jackdyer.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "458965978"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636879045000000000/lowres/1066107.jpg",
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "Jack",
-        "LastName": "Dyer",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1520451/jack-dyer-29-blair-rd-cambridge-ontario-n1s2h7",
-        "AgentPhotoLastUpdated": "2019-03-11 12:35:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636879045000000000/highres/1066107.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,195,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5058 6TH LINE, RR 2|Rockwood, Ontario N0B2K0",
-        "Longitude": "-80.12929422",
-        "Latitude": "43.62464324",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/highres/4/40076134_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/medres/4/40076134_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/lowres/4/40076134_1.jpg",
-          "LastUpdated": "2021-03-13 6:44:43 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "ParkingSpaceTotal": "14",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Airport, Place of Worship, Shopping",
-      "ConvertedPrice": "$1,195,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Gravel",
-      "PriceUnformattedValue": "1195000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "8.75 ac|5 - 9.99 acres",
-      "SizeFrontage": "481 ft",
-      "AccessType": "Road access"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youriguide.com/5058_6_line_rockwood_on/"
-    },
-    "PostalCode": "N0B2K0",
-    "RelativeDetailsURL": "/real-estate/22926246/5058-6th-line-rr-2-rockwood",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-13 11:44:43 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22926246/5058-6th-line-rr-2-rockwood",
-    "RelativeURLFr": "/immobilier/22926246/5058-6th-line-rr-2-rockwood"
   },
   {
     "Id": "22953460",
@@ -3387,149 +2994,6 @@
     "RelativeURLFr": "/immobilier/22941870/10650-concession-6-rd-uxbridge"
   },
   {
-    "Id": "22949851",
-    "MlsNumber": "N5157949",
-    "PublicRemarks": "10 Acre Secluded Country Property With Sunset Views Overlooking Beautiful Hockley Valley. Unique Mcm-Style Home With Multiple Walkouts To Backyard Oasis Featuring Inground Pool, Hot Tub & Fire Pit. Sprawling 4 Level Backsplit With 2 Home Office Spaces. In-Law Suite With Accessible Bathroom. Enjoy 10-Acre Grounds For Gardening, Private Jogging/Hiking, Practice Your Golf Swing, Snowshoe & Cross-Country Ski In The Winter. Detached Garage & Workshop & Large Shed.**** EXTRAS **** Lots Of Extras Including Wood-Burning F/Place, Gas F/Place, Hot Tub, Sauna, Chicken Coop,  Maple Syrup Evaporator, Wine Fridge, Propane Gas Bbq, Upgrade Water Filtration Including Ro System In Kitchen. 200 Amp Service With Generator.. (28107800)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "5",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1860847,
-        "Name": "KURT DIENER",
-        "Organization": {
-          "OrganizationID": 50719,
-          "Name": "RE/MAX WEST REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637519971240000000/lowres/1002321.jpg",
-          "Address": {
-            "AddressText": "9-1 QUEENSGATE BOULEVARD|BOLTON, Ontario L7E2X7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "857-7653",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "857-7671",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.remaxwest.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/50719/remax-west-realty-inc-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
-          "PhotoLastupdate": "2021-03-22 8:05:24 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "234-5878",
-            "AreaCode": "647",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.thedienerteam.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/rurbanliving",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "http://twitter.com/kurtdiener",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "http://www.linkedin.com/company/the-diener-team",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "457446590"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1860847.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "KURT",
-        "LastName": "DIENER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1860847/kurt-diener-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1860847.jpg",
-        "RankMyAgentKey": "32115",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,600,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "3045 CONCESSION ROAD 4 RD|Adjala-Tosorontio, Ontario L0G1L0",
-        "Longitude": "-79.9222335",
-        "Latitude": "44.0529163",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637519106376200000/reb82/highres/9/n5157949_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637519106376200000/reb82/medres/9/n5157949_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637519106376200000/reb82/lowres/9/n5157949_1.jpg",
-          "LastUpdated": "2021-03-21 8:03:57 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,600,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1600000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "10.12 Acre   ; M/L Irregular|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://wylieford.homelistingtours.com/listing2/3045-concession-road-4-"
-    },
-    "PostalCode": "L0G1L0",
-    "RelativeDetailsURL": "/real-estate/22949851/3045-concession-road-4-rd-adjala-tosorontio-rural-adjala-tosorontio",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-21 12:03:57 PM",
-    "HasNewImageUpdate": true,
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22949851/3045-concession-road-4-rd-adjala-tosorontio-rural-adjala-tosorontio",
-    "RelativeURLFr": "/immobilier/22949851/3045-concession-road-4-rd-adjala-tosorontio"
-  },
-  {
     "Id": "22954144",
     "MlsNumber": "N5159250",
     "PublicRemarks": "Country Living Calling Your Name? Imagine Sitting On The Covered Porch Sipping Coffee Surrounded By Nature W/Out A Neighbour In Sight On This 8 Acre Parcel. Every Inch Of This Charming Century Home Has Been Lovingly Restored & Updated. Featuring Custom Trim Work, Ceiling Details, Large Principal Rms, 2-Storey Rec Rm W/Huge West-Facing Windows To Enjoy Sunsets. Limitless Opportunity W/Multiple Outbuildings & Detached 4 Car Garage W/Loft, Sep Heated Gym***** EXTRAS **** *Lrg 3 Level Barn W/2 Stalls & Space For 2 More. Custom Saltwater Pond W/Cabana. Leave Your Stress Behind The Moment You Pull In The Driveway, You Will Know This Is 'The One'. Prime Location Mins To Mt Albert, 404 & & All Amenities. (28113394)",
@@ -3979,444 +3443,6 @@
     "RelativeURLFr": "/immobilier/22955572/7039-concession-rd-2-adjala-tosorontio"
   },
   {
-    "Id": "22957736",
-    "MlsNumber": "N5160512",
-    "PublicRemarks": "The Best Of Both Worlds! The Space, Peace, & Tranquility That You've Always Wanted In A 10 Acre Property & Conveniently Located Close To All In-Town Amenities. In Just Minutes You Can Go From Hiking Your Own Trails Or Relaxing Poolside To Dining At Amazing Local Restaurants Or Working Out At The Gym! It's No Wonder People Are Falling In Love With New Tecumseth Countryside. Extremely Well Kept Bungalow Offers The Perfect Setting To Raise A Family.**** EXTRAS **** Detached Workshop W/ Hydro Perfect For The Hobbyist. Heated Double Garage. Lots Of Room To Park Your Boat, Trailer,Etc. Inground Pool Perfect For Those Summer Days! Lots Of Room For The Kids To Play And For The Dogs To Run! (28118248)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1993102,
-        "Name": "KYLE BUTCHER",
-        "Organization": {
-          "OrganizationID": 208084,
-          "Name": "RE/MAX HALLMARK CHAY REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637518453370000000/lowres/1201590.jpg",
-          "Address": {
-            "AddressText": "22 QUEEN ST SOUTH|TOTTENHAM, Ontario L0G1W0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "936-3500",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "936-5356",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "425315346"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "HTTP://www.remaxchay.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/208084/remax-hallmark-chay-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-03-20 1:55:37 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "936-3500",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "936-3500",
-            "AreaCode": "905",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.butcherteam.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/butcherteam",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/TheButcherTeam",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://www.linkedin.com/profile/view?id=434830929&trk=nav_responsive_tab_profile",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459395975"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1993102.jpg",
-        "Position": "Salesperson",
-        "DesignationCodes": "RENE SRS",
-        "PermitFreetextEmail": true,
-        "FirstName": "KYLE",
-        "LastName": "BUTCHER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1993102/kyle-butcher-22-queen-st-south-tottenham-ontario-l0g1w0",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1993102.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1406335,
-        "Name": "CRAIG BUTCHER",
-        "Organization": {
-          "OrganizationID": 208084,
-          "Name": "RE/MAX HALLMARK CHAY REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637518453370000000/lowres/1201590.jpg",
-          "Address": {
-            "PermitShowAddress": false,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "936-3500",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "936-5356",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "425315346"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "HTTP://www.remaxchay.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/208084/remax-hallmark-chay-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-03-20 1:55:37 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "936-2500",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "936-2500",
-            "AreaCode": "905",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.butcherteam.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "http://www.facebook.com/butcherteam",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://www.linkedin.com/pub/craig-butcher/7/187/229",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455709158"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1406335.jpg",
-        "Position": "Broker",
-        "DesignationCodes": "CNE CLHMS MCNE SRS",
-        "PermitFreetextEmail": true,
-        "FirstName": "CRAIG",
-        "LastName": "BUTCHER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1406335/craig-butcher",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1406335.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,349,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7102 9TH LINE|New Tecumseth, Ontario L0G1A0",
-        "Longitude": "-79.8461561215653",
-        "Latitude": "44.0789738434584",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637518453372700000/reb82/highres/2/n5160512_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637518453372700000/reb82/medres/2/n5160512_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637518453372700000/reb82/lowres/2/n5160512_1.jpg",
-          "LastUpdated": "2021-03-20 1:55:37 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Hospital",
-      "ConvertedPrice": "$1,349,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1349000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "205 x 2130 FT   ; 10.03 Acres (Per Mpac)|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "PhotoLink": "https://spark.adobe.com/page/ySRZlZp9IXFmY/",
-      "VideoLink": "https://vendoit.com/Property/PropertyDetails?id=690&qrCode=false"
-    },
-    "PostalCode": "L0G1A0",
-    "RelativeDetailsURL": "/real-estate/22957736/7102-9th-line-new-tecumseth-rural-new-tecumseth",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-20 5:55:37 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22957736/7102-9th-line-new-tecumseth-rural-new-tecumseth",
-    "RelativeURLFr": "/immobilier/22957736/7102-9th-line-new-tecumseth"
-  },
-  {
-    "Id": "22678805",
-    "MlsNumber": "W5069151",
-    "PublicRemarks": "With This Secluded Haven, Who Needs To Vacation Elsewhere, When You Can Hike Along The Beautiful Stone-Lined Meandering Paths Traversing The Woods Around This Gorgeous Country Setting! With Its Outstanding Construction And Striking Craftsman Design, Nestled In A Private Retreat, Just Minutes From Erin And Orangeville, This Home Awaits Your Interior Design To Finish It In Style. Come Live The Country Life You've Been Dreaming Of!**** EXTRAS **** Live In The Finished 1-Bed Apartment Above The Garage While Completing The Interior. In-Floor Heating Throughout. R44 Insulated Walls, Plumbed For 2 Ensuites On 2nd Floor & Powder Room On Main, And Ready For A Center Island. (27747956)",
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "2 + 1",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1686008,
-        "Name": "KEVIN LATAM",
-        "Organization": {
-          "OrganizationID": 51483,
-          "Name": "ROYAL LEPAGE MEADOWTOWNE REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637441691170000000/lowres/51483.jpg",
-          "Address": {
-            "AddressText": "324 GUELPH STREET SUITE 12|GEORGETOWN, Ontario L7G4B5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "877-8262",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/51483/royal-lepage-meadowtowne-realty-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2020-12-21 5:38:37 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "887-1822",
-            "AreaCode": "226",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://latamandlatam.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "460358507"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1686008.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "KEVIN",
-        "LastName": "LATAM",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1686008/kevin-latam-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1686008.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1908343,
-        "Name": "MARK LATAM",
-        "Organization": {
-          "OrganizationID": 51483,
-          "Name": "ROYAL LEPAGE MEADOWTOWNE REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637441691170000000/lowres/51483.jpg",
-          "Address": {
-            "AddressText": "324 GUELPH STREET SUITE 12|GEORGETOWN, Ontario L7G4B5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "877-8262",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/51483/royal-lepage-meadowtowne-realty-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2020-12-21 5:38:37 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "887-1822",
-            "AreaCode": "226",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.latamandlatam.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/latamandlatam/",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/LatamandLatam",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://www.linkedin.com/in/marklatam/?ppe=1",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "460358515"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1908343.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "MARK",
-        "LastName": "LATAM",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1908343/mark-latam-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1908343.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,750,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "18627 SHAWS CREEK RD|Caledon, Ontario L7K1L3",
-        "Longitude": "-80.0558491",
-        "Latitude": "43.8154923",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/highres/1/w5069151_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/medres/1/w5069151_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/lowres/1/w5069151_1.jpg",
-          "LastUpdated": "2021-03-07 7:38:18 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools",
-      "ConvertedPrice": "$1,750,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1750000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "300.09 x 1006.1 FT|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://unbranded.youriguide.com/18627_shaws_creek_rd_caledon_on"
-    },
-    "PostalCode": "L7K1L3",
-    "RelativeDetailsURL": "/real-estate/22678805/18627-shaws-creek-rd-caledon-rural-caledon",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-07 12:38:18 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22678805/18627-shaws-creek-rd-caledon-rural-caledon",
-    "RelativeURLFr": "/immobilier/22678805/18627-shaws-creek-rd-caledon"
-  },
-  {
     "Id": "22826489",
     "MlsNumber": "W5117742",
     "PublicRemarks": "5 Acres As Per Mpac. Fantastic Offering Spacious Bungalow, 3 Generous Bedrooms, Renovated 4 Pc Washrooms, 2 Fireplaces On Main Level, Private Lot, Very Large Unfinished Basement With Walkup Separate Entrance, 34X14 Workshop With Power + Double Car Garage. ** Legal Desc Cont'd: Exprop.Pl Pr637842 ; Caledon** Please Attach Schedule B & 801**** EXTRAS **** New Windows 2020, New Uv Filter,Great Opportunity For Investment Or Personal Use ! Great Tenants Of 3 Years Are Willing To Stay Or Leave As Per Seller.Beautiful Property ,Treed Lot,Workshop Allows Many Options,Super Sized Basement.With A (27944231)",
@@ -4541,118 +3567,126 @@
     "RelativeURLFr": "/immobilier/22826489/20030-hurontario-st-caledon"
   },
   {
-    "Id": "22892353",
-    "MlsNumber": "W5139381",
-    "PublicRemarks": "46.5 Acres Vacant Rural Residential/Farm Land.Breathtaking Dog Leg Shaped Lot.Open In The Rear Suitable To Build Your Custom Dream Home,Treed At Front Road Side To Give You Privacy.Very Prestigious Area Of Halton Hills.Building Appl Has Been Submitted For A Custom-Built Home Designed By Antonio Giovinazzo Of Ag Designs Approx. 5000Sf Home & A 3000Sf Separate Garage.In Circulation W/ Niagara Escarpment Commissions, Halton Conservation.**** EXTRAS **** Purchaser To Take Over Permit Process And Responsible For Development Charges. Buyer To Do Their Own Due Diligence! Don't Miss This Opportunity. (28031734)",
+    "Id": "22911643",
+    "MlsNumber": "W5145738",
+    "PublicRemarks": "Turn-Key Home Situated On Just Under 1/2 Acre Lot At The End Of A Cul-De-Sac. Approximately 3200 Square Ft W/Open Concept Main Floor Takes You Into Custom Solarium W/Double Access To Backyard Oasis Featuring Hot Tub And Stone Fireplace. Upstairs Has 5 Bedrooms With 2 Bathrooms + Laundry. Lower Level Full Basement With Separate Entrance Boasts 4 Bedrooms! The 2-Storey Backyard Shed Is Equipped With Electricity. Extensive Exterior Updating Done The Past 2 Yrs. (28057381)",
     "Building": {
-      "BathroomTotal": "6",
-      "Bedrooms": "5",
-      "StoriesTotal": "1",
+      "BathroomTotal": "5",
+      "Bedrooms": "5 + 4",
+      "StoriesTotal": "2",
       "Type": "House"
     },
     "Individual": [
       {
-        "IndividualID": 1976142,
-        "Name": "NICK KRAWCZYK",
+        "IndividualID": 2107963,
+        "Name": "TANYA ELENA KERST CASTRICHINI",
         "Organization": {
-          "OrganizationID": 50418,
-          "Name": "RE/MAX ABOUTOWNE REALTY CORP.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637505646330000000/lowres/50418.jpg",
+          "OrganizationID": 280858,
+          "Name": "ENGEL & VOLKERS OAKVILLE",
           "Address": {
-            "AddressText": "1235 NORTH SERVICE RD W #100|OAKVILLE, Ontario L6M2W2",
+            "AddressText": "226 LAKESHORE ROAD EAST|OAKVILLE, Ontario L6J1H8",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
           "Phones": [
             {
               "PhoneType": "Telephone",
-              "PhoneNumber": "842-7000",
+              "PhoneNumber": "815-8788",
               "AreaCode": "905",
               "PhoneTypeId": "1"
-            },
+            }
+          ],
+          "Emails": [
             {
-              "PhoneType": "Fax",
-              "PhoneNumber": "842-7010",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
+              "ContactId": "458295714"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "HTTP://www.oakville.evcanada.com",
+              "WebsiteTypeId": "1"
             }
           ],
           "OrganizationType": "Firm",
           "Designation": "Brokerage",
+          "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/50418/remax-aboutowne-realty-corp-1235-north-service-rd-w-100-oakville-ontario-l6m2w2",
-          "PhotoLastupdate": "2021-03-05 6:10:33 PM"
+          "RelativeDetailsURL": "/office/firm/280858/engel-volkers-oakville-226-lakeshore-road-east-oakville-ontario-l6j1h8",
+          "PhotoLastupdate": "2021-03-23 8:15:15 AM"
         },
         "Phones": [
           {
             "PhoneType": "Telephone",
-            "PhoneNumber": "842-7000",
+            "PhoneNumber": "815-8788",
             "AreaCode": "905",
             "PhoneTypeId": "1"
           }
         ],
         "Emails": [
           {
-            "ContactId": "455763776"
+            "ContactId": "462269547"
           }
         ],
         "Position": "Salesperson",
         "PermitFreetextEmail": true,
-        "FirstName": "NICK",
-        "LastName": "KRAWCZYK",
+        "FirstName": "TANYA ELENA KERST",
+        "LastName": "CASTRICHINI",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1976142/nick-krawczyk-1235-north-service-rd-w-100-oakville-ontario-l6m2w2",
+        "RelativeDetailsURL": "/agent/2107963/tanya-elena-kerst-castrichini-226-lakeshore-road-east-oakville-ontario-l6j1h8",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       }
     ],
     "Property": {
-      "Price": "$1,499,000",
+      "Price": "$1,799,888",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "15 15 SIDE RD|Halton Hills, Ontario L9T2X7",
-        "Longitude": "-79.9746974260654",
-        "Latitude": "43.5808277424419",
+        "AddressText": "96 GERMORDA DR|Oakville, Ontario L6H2R1",
+        "Longitude": "-79.6959557",
+        "Latitude": "43.4574669",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637505660303070000/reb82/highres/1/w5139381_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637505660303070000/reb82/medres/1/w5139381_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637505660303070000/reb82/lowres/1/w5139381_1.jpg",
-          "LastUpdated": "2021-03-05 6:33:50 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637509974382700000/reb82/highres/8/w5145738_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637509974382700000/reb82/medres/8/w5145738_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637509974382700000/reb82/lowres/8/w5145738_1.jpg",
+          "LastUpdated": "2021-03-10 6:23:58 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Detached Garage"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "6",
+      "ParkingSpaceTotal": "8",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
+      "AmmenitiesNearBy": "Public Transit",
+      "ConvertedPrice": "$1,799,888 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1499000"
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799888"
     },
     "Business": {},
     "Land": {
-      "SizeTotal": "751.1 x 1988.44 FT   ; Irregualr|25 - 50 acres"
+      "SizeTotal": "52.23 x 187.97 FT   ; 94.94Ftx129.09Ftx158.05Ftx10.45X156|25 - 50 acres"
     },
-    "PostalCode": "L9T2X7",
-    "RelativeDetailsURL": "/real-estate/22892353/15-15-side-rd-halton-hills-rural-halton-hills",
+    "PostalCode": "L6H2R1",
+    "RelativeDetailsURL": "/real-estate/22911643/96-germorda-dr-oakville-college-park",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-05 11:33:50 PM",
+    "PriceChangeDateUTC": "2021-03-23 12:21:01 PM",
+    "HasPriceUpdate": true,
+    "PhotoChangeDateUTC": "2021-03-10 11:23:58 PM",
     "Distance": "",
-    "RelativeURLEn": "/real-estate/22892353/15-15-side-rd-halton-hills-rural-halton-hills",
-    "RelativeURLFr": "/immobilier/22892353/15-15-side-rd-halton-hills"
+    "RelativeURLEn": "/real-estate/22911643/96-germorda-dr-oakville-college-park",
+    "RelativeURLFr": "/immobilier/22911643/96-germorda-dr-oakville"
   },
   {
     "Id": "22921117",
@@ -4824,6 +3858,150 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22921117/12354-fifth-line-halton-hills-limehouse",
     "RelativeURLFr": "/immobilier/22921117/12354-fifth-line-halton-hills"
+  },
+  {
+    "Id": "22967197",
+    "MlsNumber": "W5163069",
+    "PublicRemarks": "See Multimedia For Video Tour! Prepare To Be Wowed Impeccably Updated Log Home On Almost 8 Ac. 4500+ Sq Ft Tot Living Space, Multiple Decks 3+2 Beds & 4 Baths. Perfect Family Home/Multi-Generation Living/Yoga Studio/Retreat. Lg Windows Throughout. Open Dining Rm/Kit W/ Quartz Counters, S/S Appliances, Under Counter Lighting & W/O To Deck. Living Rm W/ Fireplace & W/O To Front Deck. Massive Fam Rm W/ Bar, Fireplace, Lg Windows, Powder Rm & W/O.**** EXTRAS **** 2nd Fl W/ Master Suite Ft Balcony, W/I Closet & 3 Pc Ensuite, 2 More Good Sized Beds & Updated 5 Pc Bath. Fin Lower Lvl Has Living Space W/ Fireplace, Kit & W/O, 2 Additional Beds, Infrared Sauna '20 & Mudroom. Property Under Cvc. (28130266)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1748204,
+        "Name": "ROSS HUGHES",
+        "Organization": {
+          "OrganizationID": 279258,
+          "Name": "ROYAL LEPAGE RCR REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637521059000000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "941-5151",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "941-5432",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881119"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royallepagercr.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
+          "PhotoLastupdate": "2021-03-23 2:18:20 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "938-2225",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://rosshughes.ca/",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/rosshughesorangeville",
+            "WebsiteTypeId": "2"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "460408404"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637425400200000000/lowres/1180792.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "ROSS",
+        "LastName": "HUGHES",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1748204/ross-hughes-14---75-first-street-orangeville-ontario-l9w2e7",
+        "AgentPhotoLastUpdated": "2020-12-02 21:07:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637425400200000000/highres/1180792.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,999,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2654 FORKS OF THE CREDIT RD|Caledon, Ontario L7K2H5",
+        "Longitude": "-79.9656242",
+        "Latitude": "43.8263351",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637521059002930000/reb82/highres/9/w5163069_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637521059002930000/reb82/medres/9/w5163069_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637521059002930000/reb82/lowres/9/w5163069_1.jpg",
+          "LastUpdated": "2021-03-23 2:18:20 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1999900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "685.8 x 478.45 FT   ; 7.86 Ac|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "PhotoLink": "https://www.rosshughes.ca/mls/video-tour.php?id=14717",
+      "VideoLink": "https://www.rosshughes.ca/mls/?id=14717"
+    },
+    "PostalCode": "L7K2H5",
+    "RelativeDetailsURL": "/real-estate/22967197/2654-forks-of-the-credit-rd-caledon-rural-caledon",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-23 6:18:20 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22967197/2654-forks-of-the-credit-rd-caledon-rural-caledon",
+    "RelativeURLFr": "/immobilier/22967197/2654-forks-of-the-credit-rd-caledon"
   },
   {
     "Id": "22782576",

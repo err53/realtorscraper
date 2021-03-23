@@ -159,58 +159,6 @@
     }
   },
   {
-    "Id": "22678669",
-    "MlsNumber": "40052764",
-    "Property": {
-      "Price": "$1,750,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "18627 SHAWS CREEK Road|Caledon, Ontario L7K1L3",
-        "Longitude": "-80.05585339",
-        "Latitude": "43.81580896",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/highres/4/40052764_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/medres/4/40052764_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637441566596200000/reb44/lowres/4/40052764_1.jpg",
-          "LastUpdated": "2020-12-21 2:10:59 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Place of Worship, Schools",
-      "ConvertedPrice": "$1,750,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1750000"
-    },
-    "Land": {
-      "SizeTotal": "6.93 ac|5 - 9.99 acres",
-      "SizeFrontage": "300 ft",
-      "AccessType": "Road access"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "483.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
     "Id": "22799387",
     "MlsNumber": "40064051",
     "Property": {
@@ -308,61 +256,6 @@
       "Bedrooms": "3 + 0",
       "SizeInterior": "1500.0000",
       "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "1"
-    }
-  },
-  {
-    "Id": "22926246",
-    "MlsNumber": "40076134",
-    "Property": {
-      "Price": "$1,195,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5058 6TH LINE, RR 2|Rockwood, Ontario N0B2K0",
-        "Longitude": "-80.12929422",
-        "Latitude": "43.62464324",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/highres/4/40076134_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/medres/4/40076134_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637512578832070000/reb20/lowres/4/40076134_1.jpg",
-          "LastUpdated": "2021-03-13 6:44:43 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "ParkingSpaceTotal": "14",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Airport, Place of Worship, Shopping",
-      "ConvertedPrice": "$1,195,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Gravel",
-      "PriceUnformattedValue": "1195000"
-    },
-    "Land": {
-      "SizeTotal": "8.75 ac|5 - 9.99 acres",
-      "SizeFrontage": "481 ft",
-      "AccessType": "Road access"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 2",
-      "SizeInterior": "1500.0000",
-      "StoriesTotal": "1",
       "Type": "House",
       "UnitTotal": "1"
     }
@@ -988,52 +881,6 @@
     }
   },
   {
-    "Id": "22949851",
-    "MlsNumber": "N5157949",
-    "Property": {
-      "Price": "$1,600,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "3045 CONCESSION ROAD 4 RD|Adjala-Tosorontio, Ontario L0G1L0",
-        "Longitude": "-79.9222335",
-        "Latitude": "44.0529163",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637519106376200000/reb82/highres/9/n5157949_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637519106376200000/reb82/medres/9/n5157949_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637519106376200000/reb82/lowres/9/n5157949_1.jpg",
-          "LastUpdated": "2021-03-21 8:03:57 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,600,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1600000"
-    },
-    "Land": {
-      "SizeTotal": "10.12 Acre   ; M/L Irregular|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "5",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22954144",
     "MlsNumber": "N5159250",
     "Property": {
@@ -1129,102 +976,6 @@
     }
   },
   {
-    "Id": "22957736",
-    "MlsNumber": "N5160512",
-    "Property": {
-      "Price": "$1,349,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7102 9TH LINE|New Tecumseth, Ontario L0G1A0",
-        "Longitude": "-79.8461561215653",
-        "Latitude": "44.0789738434584",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637518453372700000/reb82/highres/2/n5160512_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637518453372700000/reb82/medres/2/n5160512_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637518453372700000/reb82/lowres/2/n5160512_1.jpg",
-          "LastUpdated": "2021-03-20 1:55:37 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Hospital",
-      "ConvertedPrice": "$1,349,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1349000"
-    },
-    "Land": {
-      "SizeTotal": "205 x 2130 FT   ; 10.03 Acres (Per Mpac)|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22678805",
-    "MlsNumber": "W5069151",
-    "Property": {
-      "Price": "$1,750,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "18627 SHAWS CREEK RD|Caledon, Ontario L7K1L3",
-        "Longitude": "-80.0558491",
-        "Latitude": "43.8154923",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/highres/1/w5069151_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/medres/1/w5069151_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637506994980530000/reb86/lowres/1/w5069151_1.jpg",
-          "LastUpdated": "2021-03-07 7:38:18 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools",
-      "ConvertedPrice": "$1,750,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1750000"
-    },
-    "Land": {
-      "SizeTotal": "300.09 x 1006.1 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "2 + 1",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22826489",
     "MlsNumber": "W5117742",
     "Property": {
@@ -1273,49 +1024,50 @@
     }
   },
   {
-    "Id": "22892353",
-    "MlsNumber": "W5139381",
+    "Id": "22911643",
+    "MlsNumber": "W5145738",
     "Property": {
-      "Price": "$1,499,000",
+      "Price": "$1,799,888",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "15 15 SIDE RD|Halton Hills, Ontario L9T2X7",
-        "Longitude": "-79.9746974260654",
-        "Latitude": "43.5808277424419",
+        "AddressText": "96 GERMORDA DR|Oakville, Ontario L6H2R1",
+        "Longitude": "-79.6959557",
+        "Latitude": "43.4574669",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637505660303070000/reb82/highres/1/w5139381_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637505660303070000/reb82/medres/1/w5139381_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637505660303070000/reb82/lowres/1/w5139381_1.jpg",
-          "LastUpdated": "2021-03-05 6:33:50 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637509974382700000/reb82/highres/8/w5145738_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637509974382700000/reb82/medres/8/w5145738_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637509974382700000/reb82/lowres/8/w5145738_1.jpg",
+          "LastUpdated": "2021-03-10 6:23:58 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Detached Garage"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "6",
+      "ParkingSpaceTotal": "8",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
+      "AmmenitiesNearBy": "Public Transit",
+      "ConvertedPrice": "$1,799,888 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1499000"
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799888"
     },
     "Land": {
-      "SizeTotal": "751.1 x 1988.44 FT   ; Irregualr|25 - 50 acres"
+      "SizeTotal": "52.23 x 187.97 FT   ; 94.94Ftx129.09Ftx158.05Ftx10.45X156|25 - 50 acres"
     },
     "Building": {
-      "BathroomTotal": "6",
-      "Bedrooms": "5",
-      "StoriesTotal": "1",
+      "BathroomTotal": "5",
+      "Bedrooms": "5 + 4",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -1363,6 +1115,53 @@
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22967197",
+    "MlsNumber": "W5163069",
+    "Property": {
+      "Price": "$1,999,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2654 FORKS OF THE CREDIT RD|Caledon, Ontario L7K2H5",
+        "Longitude": "-79.9656242",
+        "Latitude": "43.8263351",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637521059002930000/reb82/highres/9/w5163069_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637521059002930000/reb82/medres/9/w5163069_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637521059002930000/reb82/lowres/9/w5163069_1.jpg",
+          "LastUpdated": "2021-03-23 2:18:20 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1999900"
+    },
+    "Land": {
+      "SizeTotal": "685.8 x 478.45 FT   ; 7.86 Ac|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
