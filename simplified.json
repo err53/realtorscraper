@@ -314,6 +314,216 @@
     }
   },
   {
+    "Id": "22971305",
+    "MlsNumber": "40084196",
+    "Property": {
+      "Price": "$1,099,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2076 KEVIN Crescent|Burlington, Ontario L7M4E3",
+        "Longitude": "-79.82062504",
+        "Latitude": "43.38095079",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637521818380070000/reb15/highres/6/40084196_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637521818380070000/reb15/medres/6/40084196_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637521818380070000/reb15/lowres/6/40084196_1.jpg",
+          "LastUpdated": "2021-03-24 11:23:58 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Inside Entry"
+        },
+        {
+          "Name": "Interlocked"
+        }
+      ],
+      "ParkingSpaceTotal": "7",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park, Public Transit, Schools",
+      "ConvertedPrice": "$1,099,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Inside Entry, Interlocked",
+      "PriceUnformattedValue": "1099000"
+    },
+    "Land": {
+      "SizeTotal": "25 - 50 acres",
+      "SizeFrontage": "52 ft"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "1"
+    }
+  },
+  {
+    "Id": "22970676",
+    "MlsNumber": "40085373",
+    "Property": {
+      "Price": "$1,699,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5903 FOURTH Line|Erin, Ontario N0B1Z0",
+        "Longitude": "-80.17955265",
+        "Latitude": "43.7635597",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637521735057600000/reb44/highres/3/40085373_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637521735057600000/reb44/medres/3/40085373_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637521735057600000/reb44/lowres/3/40085373_1.jpg",
+          "LastUpdated": "2021-03-24 9:05:05 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,699,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1699000"
+    },
+    "Land": {
+      "SizeTotal": "12.1 ac|10 - 24.99 acres",
+      "SizeFrontage": "242 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22972357",
+    "MlsNumber": "40085984",
+    "Property": {
+      "Price": "$1,300,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "715259 1ST LINE EHS|Mono, Ontario L9W5T7",
+        "Longitude": "-80.097136",
+        "Latitude": "44.057325",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637521914210600000/reb43/highres/4/40085984_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637521914210600000/reb43/medres/4/40085984_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637521914210600000/reb43/lowres/4/40085984_1.jpg",
+          "LastUpdated": "2021-03-24 2:03:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Other"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Park",
+      "ConvertedPrice": "$1,300,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Other",
+      "PriceUnformattedValue": "1300000"
+    },
+    "Land": {
+      "SizeTotal": "10.05 ac|10 - 24.99 acres",
+      "SizeFrontage": "378 ft"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "2 + 2",
+      "SizeInterior": "1400.0000",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "22969756",
+    "MlsNumber": "40086184",
+    "Property": {
+      "Price": "$1,575,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1058 BROCK Road|Dundas, Ontario L9H5E4",
+        "Longitude": "-80.02130457",
+        "Latitude": "43.34065183",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637521314444630000/reb15/highres/4/40086184_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637521314444630000/reb15/medres/4/40086184_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637521314444630000/reb15/lowres/4/40086184_1.jpg",
+          "LastUpdated": "2021-03-23 9:24:04 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,575,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage, Gravel",
+      "PriceUnformattedValue": "1575000"
+    },
+    "Land": {
+      "SizeTotal": "5.54 ac|5 - 9.99 acres",
+      "SizeFrontage": "900 ft",
+      "AccessType": "Road access, Highway Nearby"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "1683.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "2"
+    }
+  },
+  {
     "Id": "22951397",
     "MlsNumber": "E5158765",
     "Property": {
@@ -596,52 +806,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "3",
       "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22915492",
-    "MlsNumber": "N5147046",
-    "Property": {
-      "Price": "$1,999,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "4244 DOANE RD|East Gwillimbury, Ontario L0G1V0",
-        "Longitude": "-79.3583285",
-        "Latitude": "44.1420252",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511027731600000/reb82/highres/6/n5147046_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511027731600000/reb82/medres/6/n5147046_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511027731600000/reb82/lowres/6/n5147046_1.jpg",
-          "LastUpdated": "2021-03-11 11:39:33 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "14",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,999,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1999000"
-    },
-    "Land": {
-      "SizeTotal": "542 x 1351 FT   ; 25 Acres 542X1351X1134X586X594.|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
       "Type": "House"
     }
   },
@@ -1181,10 +1345,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637515092152900000/reb82/highres/1/x5103431_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637515092152900000/reb82/medres/1/x5103431_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637515092152900000/reb82/lowres/1/x5103431_1.jpg",
-          "LastUpdated": "2021-03-16 4:33:35 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637521814684370000/reb82/highres/1/x5103431_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637521814684370000/reb82/medres/1/x5103431_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637521814684370000/reb82/lowres/1/x5103431_1.jpg",
+          "LastUpdated": "2021-03-24 11:17:48 AM"
         }
       ],
       "Parking": [
@@ -1402,25 +1566,25 @@
     }
   },
   {
-    "Id": "22946978",
-    "MlsNumber": "X5157563",
+    "Id": "22972165",
+    "MlsNumber": "X5164559",
     "Property": {
-      "Price": "$1,499,900",
+      "Price": "$1,699,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "555345 MONO-AMARANTH TL|Mono, Ontario L9V0Z1",
-        "Longitude": "-80.154806",
-        "Latitude": "44.0126221",
+        "AddressText": "5903 FOURTH LINE|Erin, Ontario N0B1Z0",
+        "Longitude": "-80.1795612075446",
+        "Latitude": "43.7635946362744",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637516715224100000/reb86/highres/3/x5157563_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637516715224100000/reb86/medres/3/x5157563_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637516715224100000/reb86/lowres/3/x5157563_1.jpg",
-          "LastUpdated": "2021-03-18 1:38:42 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637521900149700000/reb86/highres/9/x5164559_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637521900149700000/reb86/medres/9/x5164559_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637521900149700000/reb86/lowres/9/x5164559_1.jpg",
+          "LastUpdated": "2021-03-24 1:40:14 PM"
         }
       ],
       "Parking": [
@@ -1428,18 +1592,22 @@
           "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "11",
+      "ParkingSpaceTotal": "8",
       "TypeId": "300",
-      "ConvertedPrice": "$1,499,900 ",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,699,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1499900"
+      "PriceUnformattedValue": "1699000"
     },
     "Land": {
-      "SizeTotal": "1716.74 x 1026.7 FT|25 - 50 acres"
+      "SizeTotal": "241.58 x 2208.48 FT   ; 12.1 Acres Per Geowarehouse|10 - 24.99 acres"
     },
     "Building": {
       "BathroomTotal": "2",
-      "Bedrooms": "3",
+      "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
       "Type": "House"
     }
