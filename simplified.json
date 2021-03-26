@@ -465,6 +465,55 @@
     }
   },
   {
+    "Id": "22986278",
+    "MlsNumber": "40088077",
+    "Property": {
+      "Price": "$1,500,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6602 GORE Road|Puslinch, Ontario N0B2J0",
+        "Longitude": "-80.24785887",
+        "Latitude": "43.39072355",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637523732952500000/reb20/highres/7/40088077_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637523732952500000/reb20/medres/7/40088077_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637523732952500000/reb20/lowres/7/40088077_1.jpg",
+          "LastUpdated": "2021-03-26 4:34:55 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "5",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,500,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1500000"
+    },
+    "Land": {
+      "SizeTotal": "42.93 ac|25 - 50 acres",
+      "SizeFrontage": "996 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "22981154",
     "MlsNumber": "E5167486",
     "Property": {
@@ -1549,53 +1598,6 @@
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22927536",
-    "MlsNumber": "X5151197",
-    "Property": {
-      "Price": "$1,799,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "3918 MADDAUGH RD|Hamilton, Ontario N0B2J0",
-        "Longitude": "-80.079839",
-        "Latitude": "43.419844",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637513907338400000/reb86/highres/7/x5151197_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637513907338400000/reb86/medres/7/x5151197_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637513907338400000/reb86/lowres/7/x5151197_1.jpg",
-          "LastUpdated": "2021-03-15 7:38:53 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1799000"
-    },
-    "Land": {
-      "SizeTotal": "982 x 416 FT   ; 222.44 Ft X 982.01 Ft X 416.74 Ft X 740|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
       "Type": "House"
     }
   },

@@ -880,7 +880,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465770578"
+              "ContactId": "465794757"
             }
           ],
           "Websites": [
@@ -949,7 +949,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465770578"
+              "ContactId": "465794757"
             }
           ],
           "Websites": [
@@ -1543,6 +1543,148 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22980561/704-old-dundas-road-ancaster",
     "RelativeURLFr": "/immobilier/22980561/704-old-dundas-road-ancaster"
+  },
+  {
+    "Id": "22986278",
+    "MlsNumber": "40088077",
+    "PublicRemarks": "ESTATE LOT IN PUSLINCH! Build your dream rural oasis on this 42acre redevelopment site with the potential for a lot severance. Currently with a 2-storey home on the property in as is condition. The home is rented with 4 bedrooms and 2 bathrooms. Ideal for a buyer wishing to build. There is a heated detached shop with double doors (22x31ft) (propane radiant heater) for storage with a steel roof! This picturesque future rural retreat is located within 15 minutes of Guelph and Cambridge for all your amenities. Minutes from the Highway 401. Earn $2,100 per month rental income while you plan your development! (63074355)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1750694,
+        "Name": "FAISAL SUSIWALA",
+        "Organization": {
+          "OrganizationID": 285293,
+          "Name": "RE/MAX TWIN CITY FAISAL SUSIWALA REALTY",
+          "Address": {
+            "AddressText": "30 GRANDY LANE|CAMBRIDGE, Ontario N1R8K2",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "740-3690",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460119139"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.homeshack.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/285293/remax-twin-city-faisal-susiwala-realty-30-grandy-lane-cambridge-ontario-n1r8k2",
+          "PhotoLastupdate": "2021-03-26 4:34:55 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "740-3690",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.homeshack.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "http://www.facebook.com/faisalsusiwalaremax",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "http://www.linkedin.com/profile/view?id=92389546&trk=tab_pro",
+            "WebsiteTypeId": "3"
+          },
+          {
+            "Website": "http://twitter.com/#!/FaisalSusiwala",
+            "WebsiteTypeId": "4"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "464228974"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637096776000000000/lowres/1066261.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "FAISAL",
+        "LastName": "SUSIWALA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1750694/faisal-susiwala-30-grandy-lane-cambridge-ontario-n1r8k2",
+        "AgentPhotoLastUpdated": "2019-11-18 12:40:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637096776000000000/highres/1066261.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,500,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6602 GORE Road|Puslinch, Ontario N0B2J0",
+        "Longitude": "-80.24785887",
+        "Latitude": "43.39072355",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637523732952500000/reb20/highres/7/40088077_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637523732952500000/reb20/medres/7/40088077_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637523732952500000/reb20/lowres/7/40088077_1.jpg",
+          "LastUpdated": "2021-03-26 4:34:55 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "5",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,500,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1500000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "42.93 ac|25 - 50 acres",
+      "SizeFrontage": "996 ft"
+    },
+    "PostalCode": "N0B2J0",
+    "RelativeDetailsURL": "/real-estate/22986278/6602-gore-road-puslinch",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-26 8:34:55 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22986278/6602-gore-road-puslinch",
+    "RelativeURLFr": "/immobilier/22986278/6602-gore-road-puslinch"
   },
   {
     "Id": "22981154",
@@ -3647,7 +3789,7 @@
         "Organization": {
           "OrganizationID": 259506,
           "Name": "CENTURY 21 HERITAGE GROUP LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637522932880000000/lowres/1218063.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637523783120000000/lowres/1218063.jpg",
           "Address": {
             "AddressText": "1 QUEEN ST NORTH #1 BOX 711|TOTTENHAM, Ontario L0G1W0",
             "PermitShowAddress": true,
@@ -3678,7 +3820,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/259506/century-21-heritage-group-ltd-1-queen-st-north-1-box-711-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-03-25 6:21:28 PM"
+          "PhotoLastupdate": "2021-03-26 5:58:32 PM"
         },
         "Phones": [
           {
@@ -5245,205 +5387,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22875475/636391-prince-of-wales-rd-mulmur-rural-mulmur",
     "RelativeURLFr": "/immobilier/22875475/636391-prince-of-wales-rd-mulmur"
-  },
-  {
-    "Id": "22927536",
-    "MlsNumber": "X5151197",
-    "PublicRemarks": "This House Will Not Disappoint. Over 3500 Sf Of The Finest Finishes On All 3 Levels. Ideal For Raising A Family And Entertaining Guests All Year Round. This Home Offers 4 Spacious Bdrms, 3 Bthrms, Lounge Room With A Wood Burning F/P & A Walk Out To An Immense Backyard Which Includes A 25X50 Ft In-Ground Pool. Beautifully Designed Kitchen With S/S Appls. & Oversize Island.**** EXTRAS **** The Solarium Overlooks The Pond W/Direct Patio Access. Heated Floors In Kitchen, Ensuite & Powder Room & Ash-Silk Oil Finished Hardwood Throughout. New: Pool Heater & Cover, Furnace & Ac, Eavestrough, Imported Euro Windows & Doors. (28078733)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2064730,
-        "Name": "ALEXANDER VERBITSKY",
-        "Organization": {
-          "OrganizationID": 273408,
-          "Name": "ICI SOURCE REAL ASSET SERVICES INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637514771390000000/lowres/273408.jpg",
-          "Address": {
-            "AddressText": "2 ROBERT SPECK PKWY #750|MISSISSAUGA, Ontario L4Z1H8",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "517-6424",
-              "AreaCode": "888",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "517-6424",
-              "AreaCode": "888",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "464122046"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.icisource.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/273408/ici-source-real-asset-services-inc-2-robert-speck-pkwy-750-mississauga-ontario-l4z1h8",
-          "PhotoLastupdate": "2021-03-16 7:38:59 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "517-6424",
-            "AreaCode": "888",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459310677"
-          }
-        ],
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "ALEXANDER",
-        "LastName": "VERBITSKY",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2064730/alexander-verbitsky-2-robert-speck-pkwy-750-mississauga-ontario-l4z1h8",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1410254,
-        "Name": "ANDREY VERBITSKY",
-        "Organization": {
-          "OrganizationID": 273408,
-          "Name": "ICI SOURCE REAL ASSET SERVICES INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637514771390000000/lowres/273408.jpg",
-          "Address": {
-            "AddressText": "2 ROBERT SPECK PKWY #750|MISSISSAUGA, Ontario L4Z1H8",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "517-6424",
-              "AreaCode": "888",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "517-6424",
-              "AreaCode": "888",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "464122046"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.icisource.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/273408/ici-source-real-asset-services-inc-2-robert-speck-pkwy-750-mississauga-ontario-l4z1h8",
-          "PhotoLastupdate": "2021-03-16 7:38:59 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "517-6424",
-            "AreaCode": "888",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459306700"
-          }
-        ],
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "ANDREY",
-        "LastName": "VERBITSKY",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1410254/andrey-verbitsky-2-robert-speck-pkwy-750-mississauga-ontario-l4z1h8",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,799,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "3918 MADDAUGH RD|Hamilton, Ontario N0B2J0",
-        "Longitude": "-80.079839",
-        "Latitude": "43.419844",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637513907338400000/reb86/highres/7/x5151197_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637513907338400000/reb86/medres/7/x5151197_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637513907338400000/reb86/lowres/7/x5151197_1.jpg",
-          "LastUpdated": "2021-03-15 7:38:53 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1799000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "982 x 416 FT   ; 222.44 Ft X 982.01 Ft X 416.74 Ft X 740|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "DetailsLink": "https://www.lartdesmaisons.com/3918-maddaugh-rd-puslinch",
-      "MapLink": "https://www.google.com/maps/place/3918+Maddaugh+Rd,+Puslinch,+ON+N0B+2J0/data=!4m2!3m1!1s0x882b7f410c7f47d1:0xb8658c35d97ae1ed?sa=X&ved=2ahUKEwjzhaPnzrDvAhUM7awKHSXeDicQ8gEwAHoECAUQAQ",
-      "VideoLink": "https://my.matterport.com/show/?m=c3j3PvRMUhu&cloudEdit=1"
-    },
-    "PostalCode": "N0B2J0",
-    "RelativeDetailsURL": "/real-estate/22927536/3918-maddaugh-rd-hamilton-rural-flamborough",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-15 11:38:54 AM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22927536/3918-maddaugh-rd-hamilton-rural-flamborough",
-    "RelativeURLFr": "/immobilier/22927536/3918-maddaugh-rd-hamilton"
   },
   {
     "Id": "22972165",
