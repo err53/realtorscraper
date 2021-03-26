@@ -1129,6 +1129,52 @@
     }
   },
   {
+    "Id": "22982783",
+    "MlsNumber": "N5168333",
+    "Property": {
+      "Price": "$1,649,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "389 HIGHWAY 47 RD|Uxbridge, Ontario L9P1R1",
+        "Longitude": "-79.1757355015858",
+        "Latitude": "44.0481335349381",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/highres/3/n5168333_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/medres/3/n5168333_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/lowres/3/n5168333_1.jpg",
+          "LastUpdated": "2021-03-26 8:16:49 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,649,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1649000"
+    },
+    "Land": {
+      "SizeTotal": "1101 x 10.65 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22911643",
     "MlsNumber": "W5145738",
     "Property": {

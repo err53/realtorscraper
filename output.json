@@ -880,7 +880,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465760440"
+              "ContactId": "465770578"
             }
           ],
           "Websites": [
@@ -949,7 +949,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "465760440"
+              "ContactId": "465770578"
             }
           ],
           "Websites": [
@@ -3758,6 +3758,151 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22981262/7254-9th-line-new-tecumseth-beeton",
     "RelativeURLFr": "/immobilier/22981262/7254-9th-line-new-tecumseth"
+  },
+  {
+    "Id": "22982783",
+    "MlsNumber": "N5168333",
+    "PublicRemarks": "Beautiful 1979 Custom Built 4 Bedroom Home On 10.66 Fertile Acres. Two Road Frontages. Boasts A 52X32 Barn With Water And Electricity. Vineyard. Hardwood And High Ceilings Throughout. Four Season Sun Room, Heated, Insulated And Water Supply. Drilled Well 319 Ft. Whole Home Water Filter Changed Yearly. Furnace And A/C 2014. Septic Pumped 2018. Roof 2013. Windows 2004.**** EXTRAS **** Fridge, Stove, Washer + Dryer, Central Vac. Stove 2, Washer 2 And Wood Stove In Basement All \"\"As Is\"\" Hwt Owned. (28151116)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1685987,
+        "Name": "MINAS HATZIGIANNATZOGLOU",
+        "Organization": {
+          "OrganizationID": 51259,
+          "Name": "RE/MAX WEST REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637523432350000000/lowres/1123257.jpg",
+          "Address": {
+            "AddressText": "6074 KINGSTON ROAD|TORONTO, Ontario M1C1K4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "281-0027",
+              "AreaCode": "416",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "281-0034",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxwest.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51259/remax-west-realty-inc-6074-kingston-road-toronto-ontario-m1c1k4",
+          "PhotoLastupdate": "2021-03-26 8:13:55 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "346-9889",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "346-9889",
+            "AreaCode": "416",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.minashomes.ca",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/minas.hatzigiannatzoglourealtor",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "https://www.linkedin.com/profile/view?id=AAIAAAYUWlUB-enYooPRQ0alBu76q32DBwxt0qo&trk=nav_responsive_",
+            "WebsiteTypeId": "3"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463579372"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1685987.JPG",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "MINAS",
+        "LastName": "HATZIGIANNATZOGLOU",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1685987/minas-hatzigiannatzoglou-6074-kingston-road-toronto-ontario-m1c1k4",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1685987.JPG",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,649,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "389 HIGHWAY 47 RD|Uxbridge, Ontario L9P1R1",
+        "Longitude": "-79.1757355015858",
+        "Latitude": "44.0481335349381",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/highres/3/n5168333_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/medres/3/n5168333_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/lowres/3/n5168333_1.jpg",
+          "LastUpdated": "2021-03-26 8:16:49 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,649,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1649000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "1101 x 10.65 FT|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youriguide.com/389_durham_regional_hwy_47_goodwood_on/"
+    },
+    "PostalCode": "L9P1R1",
+    "RelativeDetailsURL": "/real-estate/22982783/389-highway-47-rd-uxbridge-rural-uxbridge",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-26 12:16:49 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/22982783/389-highway-47-rd-uxbridge-rural-uxbridge",
+    "RelativeURLFr": "/immobilier/22982783/389-highway-47-rd-uxbridge"
   },
   {
     "Id": "22911643",
