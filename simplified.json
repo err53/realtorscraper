@@ -310,56 +310,6 @@
     }
   },
   {
-    "Id": "22976191",
-    "MlsNumber": "40085768",
-    "Property": {
-      "Price": "$1,299,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "704 OLD DUNDAS Road|Ancaster, Ontario L9H5E3",
-        "Longitude": "-79.97080789",
-        "Latitude": "43.24123671",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637522339765570000/reb15/highres/8/40085768_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637522339765570000/reb15/medres/8/40085768_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637522339765570000/reb15/lowres/8/40085768_1.jpg",
-          "LastUpdated": "2021-03-25 1:52:56 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,299,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Gravel",
-      "PriceUnformattedValue": "1299900"
-    },
-    "Land": {
-      "SizeTotal": "7.33 ac|5 - 9.99 acres",
-      "SizeFrontage": "123 ft",
-      "AccessType": "Road access"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "2045.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
     "Id": "22972357",
     "MlsNumber": "40085984",
     "Property": {
@@ -462,6 +412,103 @@
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "2"
+    }
+  },
+  {
+    "Id": "22980561",
+    "MlsNumber": "40087302",
+    "Property": {
+      "Price": "$1,999,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "704 OLD DUNDAS Road|Ancaster, Ontario L9H5E3",
+        "Longitude": "-79.97080789",
+        "Latitude": "43.24123671",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637522885874800000/reb15/highres/2/40087302_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637522885874800000/reb15/medres/2/40087302_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637522885874800000/reb15/lowres/2/40087302_1.jpg",
+          "LastUpdated": "2021-03-25 5:03:07 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Gravel",
+      "PriceUnformattedValue": "1999999"
+    },
+    "Land": {
+      "SizeTotal": "7.33 ac|5 - 9.99 acres",
+      "SizeFrontage": "123 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "2045.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "22981154",
+    "MlsNumber": "E5167486",
+    "Property": {
+      "Price": "$1,900,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "125 MYRTLE E RD|Whitby, Ontario L0B1A0",
+        "Longitude": "-78.9585871",
+        "Latitude": "44.0088298",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637522931881400000/reb82/highres/6/e5167486_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637522931881400000/reb82/medres/6/e5167486_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637522931881400000/reb82/lowres/6/e5167486_1.jpg",
+          "LastUpdated": "2021-03-25 6:19:48 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "33",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,900,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1900000"
+    },
+    "Land": {
+      "SizeTotal": "350 x 1200 FT|50 - 100 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
     }
   },
   {
@@ -845,53 +892,6 @@
     }
   },
   {
-    "Id": "22941870",
-    "MlsNumber": "N5155392",
-    "Property": {
-      "Price": "$1,450,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "10650 CONCESSION 6 RD|Uxbridge, Ontario L9P1R2",
-        "Longitude": "-79.1766554636931",
-        "Latitude": "44.1739498305702",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637515927127100000/reb82/highres/2/n5155392_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637515927127100000/reb82/medres/2/n5155392_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637515927127100000/reb82/lowres/2/n5155392_1.jpg",
-          "LastUpdated": "2021-03-17 3:45:12 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,450,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1450000"
-    },
-    "Land": {
-      "SizeTotal": "327.09 x 1846.1 FT   ; Irregular 15.56 Acres|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "4 + 0",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22954144",
     "MlsNumber": "N5159250",
     "Property": {
@@ -1076,6 +1076,54 @@
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "5",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22981262",
+    "MlsNumber": "N5167869",
+    "Property": {
+      "Price": "$949,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7254 9TH LINE|New Tecumseth, Ontario L0G1A0",
+        "Longitude": "-79.8555048",
+        "Latitude": "44.0768859",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637522932889170000/reb82/highres/9/n5167869_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637522932889170000/reb82/medres/9/n5167869_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637522932889170000/reb82/lowres/9/n5167869_1.jpg",
+          "LastUpdated": "2021-03-25 6:21:28 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$949,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "949000"
+    },
+    "Land": {
+      "SizeTotal": "217 x 2158 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "7",
       "StoriesTotal": "2",
       "Type": "House"
     }
