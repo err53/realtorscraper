@@ -800,53 +800,6 @@
     }
   },
   {
-    "Id": "22921844",
-    "MlsNumber": "N5148649",
-    "Property": {
-      "Price": "$1,795,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1191 COUNTY RD 50|Adjala-Tosorontio, Ontario L0N1P0",
-        "Longitude": "-79.8676970512256",
-        "Latitude": "43.976877413387",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511570754500000/reb82/highres/9/n5148649_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511570754500000/reb82/medres/9/n5148649_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511570754500000/reb82/lowres/9/n5148649_1.jpg",
-          "LastUpdated": "2021-03-12 2:44:35 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,795,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1795000"
-    },
-    "Land": {
-      "SizeTotal": "253.5 x 1960 FT   ; 11.73 Acres As Per Mpac|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "4",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22921924",
     "MlsNumber": "N5149054",
     "Property": {
@@ -1220,6 +1173,52 @@
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "4",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22989080",
+    "MlsNumber": "N5170195",
+    "Property": {
+      "Price": "$1,499,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7079 CONCESSION ROAD 2|Adjala-Tosorontio, Ontario L0M1M0",
+        "Longitude": "-79.998979",
+        "Latitude": "44.224744",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637524502424500000/reb82/highres/5/n5170195_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637524502424500000/reb82/medres/5/n5170195_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637524502424500000/reb82/lowres/5/n5170195_1.jpg",
+          "LastUpdated": "2021-03-27 1:57:22 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1499000"
+    },
+    "Land": {
+      "SizeTotal": "182.9 x 228.6 M   ; M/L As Per M.P.A.C.|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
       "Type": "House"
     }
   },
