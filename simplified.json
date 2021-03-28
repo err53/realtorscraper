@@ -430,10 +430,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637522885874800000/reb15/highres/2/40087302_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637522885874800000/reb15/medres/2/40087302_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637522885874800000/reb15/lowres/2/40087302_1.jpg",
-          "LastUpdated": "2021-03-25 5:03:07 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637524822294130000/reb15/highres/2/40087302_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637524822294130000/reb15/medres/2/40087302_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637524822294130000/reb15/lowres/2/40087302_1.jpg",
+          "LastUpdated": "2021-03-27 10:50:29 PM"
         }
       ],
       "Parking": [
@@ -1219,54 +1219,6 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22911643",
-    "MlsNumber": "W5145738",
-    "Property": {
-      "Price": "$1,799,888",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "96 GERMORDA DR|Oakville, Ontario L6H2R1",
-        "Longitude": "-79.6959557",
-        "Latitude": "43.4574669",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637509974382700000/reb82/highres/8/w5145738_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637509974382700000/reb82/medres/8/w5145738_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637509974382700000/reb82/lowres/8/w5145738_1.jpg",
-          "LastUpdated": "2021-03-10 6:23:58 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Public Transit",
-      "ConvertedPrice": "$1,799,888 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1799888"
-    },
-    "Land": {
-      "SizeTotal": "52.23 x 187.97 FT   ; 94.94Ftx129.09Ftx158.05Ftx10.45X156|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "5 + 4",
-      "StoriesTotal": "2",
       "Type": "House"
     }
   },
