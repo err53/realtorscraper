@@ -1192,10 +1192,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637524502424500000/reb82/highres/5/n5170195_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637524502424500000/reb82/medres/5/n5170195_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637524502424500000/reb82/lowres/5/n5170195_1.jpg",
-          "LastUpdated": "2021-03-27 1:57:22 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637526075549770000/reb82/highres/5/n5170195_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637526075549770000/reb82/medres/5/n5170195_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637526075549770000/reb82/lowres/5/n5170195_1.jpg",
+          "LastUpdated": "2021-03-29 9:39:14 AM"
         }
       ],
       "Parking": [
@@ -1367,7 +1367,7 @@
     "Id": "22782576",
     "MlsNumber": "X5103431",
     "Property": {
-      "Price": "$1,849,000",
+      "Price": "$1,775,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "386106 20 SDRD|Mono, Ontario L9W6V2",
@@ -1393,12 +1393,12 @@
       "ParkingSpaceTotal": "12",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,000 ",
+      "ConvertedPrice": "$1,775,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1849000"
+      "PriceUnformattedValue": "1775000"
     },
     "Land": {
       "SizeTotal": "412.5 x 1064.4 FT   ; 10 Acres, Wooded, Big Building Envelope.|10 - 24.99 acres"
@@ -1406,54 +1406,6 @@
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22868535",
-    "MlsNumber": "X5131904",
-    "Property": {
-      "Price": "$1,699,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "754177 2ND LINE EHS|Mono, Ontario L9W5W8",
-        "Longitude": "-80.0671748340923",
-        "Latitude": "44.0060434948441",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637502063859600000/reb82/highres/4/x5131904_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637502063859600000/reb82/medres/4/x5131904_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637502063859600000/reb82/lowres/4/x5131904_1.jpg",
-          "LastUpdated": "2021-03-01 2:39:45 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "23",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,699,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1699000"
-    },
-    "Land": {
-      "SizeTotal": "13.7 Acre|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "4 + 0",
       "StoriesTotal": "2",
       "Type": "House"
     }
