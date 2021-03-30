@@ -430,10 +430,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637524822294130000/reb15/highres/2/40087302_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637524822294130000/reb15/medres/2/40087302_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637524822294130000/reb15/lowres/2/40087302_1.jpg",
-          "LastUpdated": "2021-03-27 10:50:29 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637527012413800000/reb15/highres/2/40087302_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637527012413800000/reb15/medres/2/40087302_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637527012413800000/reb15/lowres/2/40087302_1.jpg",
+          "LastUpdated": "2021-03-30 11:40:41 AM"
         }
       ],
       "Parking": [
@@ -511,108 +511,6 @@
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "0"
-    }
-  },
-  {
-    "Id": "22981154",
-    "MlsNumber": "E5167486",
-    "Property": {
-      "Price": "$1,900,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "125 MYRTLE E RD|Whitby, Ontario L0B1A0",
-        "Longitude": "-78.9585871",
-        "Latitude": "44.0088298",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637522931881400000/reb82/highres/6/e5167486_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637522931881400000/reb82/medres/6/e5167486_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637522931881400000/reb82/lowres/6/e5167486_1.jpg",
-          "LastUpdated": "2021-03-25 6:19:48 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "33",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,900,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1900000"
-    },
-    "Land": {
-      "SizeTotal": "350 x 1200 FT|50 - 100 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "4 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22885590",
-    "MlsNumber": "H4099367",
-    "Property": {
-      "Price": "$1,999,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "997 Garden Lane|Millgrove, Ontario L8B1P2",
-        "Longitude": "-79.943615",
-        "Latitude": "43.360636",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637504673105270000/reb14/highres/7/h4099367_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637504673105270000/reb14/medres/7/h4099367_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637504673105270000/reb14/lowres/7/h4099367_1.jpg",
-          "LastUpdated": "2021-03-04 3:08:30 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Inside Entry"
-        },
-        {
-          "Name": "Interlocked"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,999,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Inside Entry, Interlocked",
-      "PriceUnformattedValue": "1999000"
-    },
-    "Land": {
-      "SizeTotal": "213.23 x 0|10 - 24.99 acres",
-      "SizeFrontage": "213 ft"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "4",
-      "SizeInterior": "2221.0000",
-      "StoriesTotal": "2",
-      "Type": "House"
     }
   },
   {
@@ -1223,6 +1121,100 @@
     }
   },
   {
+    "Id": "22997818",
+    "MlsNumber": "N5172751",
+    "Property": {
+      "Price": "$1,390,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "3688 BOAG RD|East Gwillimbury, Ontario L0G1R0",
+        "Longitude": "-79.3880527940246",
+        "Latitude": "44.1916041249244",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637527099481530000/reb82/highres/1/n5172751_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637527099481530000/reb82/medres/1/n5172751_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637527099481530000/reb82/lowres/1/n5172751_1.jpg",
+          "LastUpdated": "2021-03-30 2:05:48 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,390,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1390000"
+    },
+    "Land": {
+      "SizeTotal": "98.76 x 414.59 M   ; 10.10 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "22999288",
+    "MlsNumber": "N5173386",
+    "Property": {
+      "Price": "$1,425,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8481 ADJALA SIDEROAD 10 SDRD|Adjala-Tosorontio, Ontario L0G1L0",
+        "Longitude": "-79.9165173411812",
+        "Latitude": "44.0157815785045",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637527226824400000/reb86/highres/6/n5173386_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637527226824400000/reb86/medres/6/n5173386_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637527226824400000/reb86/lowres/6/n5173386_1.jpg",
+          "LastUpdated": "2021-03-30 5:38:02 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,425,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1425000"
+    },
+    "Land": {
+      "SizeTotal": "533.23 x 580 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22921117",
     "MlsNumber": "W5149303",
     "Property": {
@@ -1266,53 +1258,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22967197",
-    "MlsNumber": "W5163069",
-    "Property": {
-      "Price": "$1,999,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "2654 FORKS OF THE CREDIT RD|Caledon, Ontario L7K2H5",
-        "Longitude": "-79.9656242",
-        "Latitude": "43.8263351",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637521059002930000/reb82/highres/9/w5163069_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637521059002930000/reb82/medres/9/w5163069_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637521059002930000/reb82/lowres/9/w5163069_1.jpg",
-          "LastUpdated": "2021-03-23 2:18:20 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,999,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Garage",
-      "PriceUnformattedValue": "1999900"
-    },
-    "Land": {
-      "SizeTotal": "685.8 x 478.45 FT   ; 7.86 Ac|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 2",
-      "StoriesTotal": "2",
       "Type": "House"
     }
   },
