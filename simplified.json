@@ -306,7 +306,8 @@
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
-      "Type": "House"
+      "Type": "House",
+      "UnitTotal": "0"
     }
   },
   {
@@ -698,53 +699,6 @@
     }
   },
   {
-    "Id": "22921924",
-    "MlsNumber": "N5149054",
-    "Property": {
-      "Price": "$1,895,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6400 7TH LINE|New Tecumseth, Ontario L0G1A0",
-        "Longitude": "-79.799265267984",
-        "Latitude": "44.0640119102596",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/highres/4/n5149054_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/medres/4/n5149054_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/lowres/4/n5149054_1.jpg",
-          "LastUpdated": "2021-03-12 2:44:57 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,895,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1895000"
-    },
-    "Land": {
-      "SizeTotal": "35.32 x 35.32 Acre   ; 35.32 Acres As Per Mpac|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22929594",
     "MlsNumber": "N5151366",
     "Property": {
@@ -1029,52 +983,6 @@
     }
   },
   {
-    "Id": "22982783",
-    "MlsNumber": "N5168333",
-    "Property": {
-      "Price": "$1,649,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "389 HIGHWAY 47 RD|Uxbridge, Ontario L9P1R1",
-        "Longitude": "-79.1757355015858",
-        "Latitude": "44.0481335349381",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/highres/3/n5168333_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/medres/3/n5168333_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/lowres/3/n5168333_1.jpg",
-          "LastUpdated": "2021-03-26 8:16:49 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,649,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1649000"
-    },
-    "Land": {
-      "SizeTotal": "1101 x 10.65 FT|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22989080",
     "MlsNumber": "N5170195",
     "Property": {
@@ -1211,6 +1119,53 @@
       "BathroomTotal": "3",
       "Bedrooms": "3",
       "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23003270",
+    "MlsNumber": "N5173837",
+    "Property": {
+      "Price": "$1,849,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2481 COUNTY RD 50 RD|Adjala-Tosorontio, Ontario L0G1W0",
+        "Longitude": "-79.8864010620117",
+        "Latitude": "44.032461460469",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637527970798600000/reb82/highres/7/n5173837_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637527970798600000/reb82/medres/7/n5173837_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637527970798600000/reb82/lowres/7/n5173837_1.jpg",
+          "LastUpdated": "2021-03-31 2:17:59 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "23",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,849,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1849000"
+    },
+    "Land": {
+      "SizeTotal": "547 x 1600 FT   ; 20 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },

@@ -855,7 +855,8 @@
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
-      "Type": "House"
+      "Type": "House",
+      "UnitTotal": "0"
     },
     "Individual": [
       {
@@ -864,7 +865,7 @@
         "Organization": {
           "OrganizationID": 114628,
           "Name": "Royal LePage Meadowtowne Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637521770550000000/lowres/default/royallepage.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527309170000000/lowres/default/royallepage.gif",
           "Address": {
             "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
             "PermitShowAddress": true,
@@ -880,7 +881,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "466002664"
+              "ContactId": "466057520"
             }
           ],
           "Websites": [
@@ -894,7 +895,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-03-24 10:04:15 AM"
+          "PhotoLastupdate": "2021-03-30 7:55:17 PM"
         },
         "Phones": [
           {
@@ -933,7 +934,7 @@
         "Organization": {
           "OrganizationID": 114628,
           "Name": "Royal LePage Meadowtowne Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637521770550000000/lowres/default/royallepage.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527309170000000/lowres/default/royallepage.gif",
           "Address": {
             "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
             "PermitShowAddress": true,
@@ -949,7 +950,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "466002664"
+              "ContactId": "466057520"
             }
           ],
           "Websites": [
@@ -963,7 +964,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-03-24 10:04:15 AM"
+          "PhotoLastupdate": "2021-03-30 7:55:17 PM"
         },
         "Phones": [
           {
@@ -2303,130 +2304,6 @@
     "RelativeURLFr": "/immobilier/22898312/5-linton-lane-king"
   },
   {
-    "Id": "22921924",
-    "MlsNumber": "N5149054",
-    "PublicRemarks": "Where Can You Find Such An Expansive Parcel Of Land At Over 35 Acres Complimented With A Large Open Concept Vaulted Ceiling Country Home, Equestrian Barn/Shop, 3 Paddocks And A Full Compliment Of Installed Solar Panels Yielding Over $7,000 A Year In Free Money!! Whether You Are Inside Or Outside The Vast Property Is Yours To Enjoy From The Wrap Around Porch With Outdoor Natural Gas Fireplace To The Riverside Cabin Where You Can Fish, Swim, Or Just Sit Back.**** EXTRAS **** Nearby Tracks Are For Steam Train Only, Natural Gas, Solar Panels 10Mw Microfit Program. Steel Structure Allows Any Wall To Be Removed,Barn/Shop, 3 Paddocks, D/S Indoor/Outdoor Fireplace, Hot Tub, Riverside Cabin, Walkout Lower Level. (28070978)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1923039,
-        "Name": "ROB MCDONOUGH",
-        "Organization": {
-          "OrganizationID": 286639,
-          "Name": "RE/MAX HALLMARK MCDONOUGH GROUP REALTY",
-          "Address": {
-            "AddressText": "22 QUEEN ST SOUTH|TOTTENHAM, Ontario L0G1W0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "936-3500",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "454711835"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/286639/remax-hallmark-mcdonough-group-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-03-14 8:00:34 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "294-3157",
-            "AreaCode": "416",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.robmcdonough.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456927334"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1923039.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "ROB",
-        "LastName": "MCDONOUGH",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1923039/rob-mcdonough-22-queen-st-south-tottenham-ontario-l0g1w0",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1923039.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,895,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6400 7TH LINE|New Tecumseth, Ontario L0G1A0",
-        "Longitude": "-79.799265267984",
-        "Latitude": "44.0640119102596",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/highres/4/n5149054_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/medres/4/n5149054_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637511570979000000/reb82/lowres/4/n5149054_1.jpg",
-          "LastUpdated": "2021-03-12 2:44:57 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,895,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1895000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "35.32 x 35.32 Acre   ; 35.32 Acres As Per Mpac|25 - 50 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://wylieford.homelistingtours.com/listing2/6400-7th-line"
-    },
-    "PostalCode": "L0G1A0",
-    "RelativeDetailsURL": "/real-estate/22921924/6400-7th-line-new-tecumseth-rural-new-tecumseth",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-12 7:44:57 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22921924/6400-7th-line-new-tecumseth-rural-new-tecumseth",
-    "RelativeURLFr": "/immobilier/22921924/6400-7th-line-new-tecumseth"
-  },
-  {
     "Id": "22929594",
     "MlsNumber": "N5151366",
     "PublicRemarks": "This Viceroy Style Home Offers A Modern Design Concept Sitting On Picturesque 9.75 Acre(Aprx) Mature Lot! Offering A Spring Feed Pond, Views From Every Room. This Stunning Two Story Exemplifies Exceptional Detail & Craftmanship From Its 23' Vaulted Ceilings To A Showpiece Kitchen, This Rare Offering Will Turn Heads In Every Rm Boasting Granite Counters, Centre Island, Two Built In Ovens, Induction Stove-Top, Large Hot Tub And More. Minutes From The 404**** EXTRAS **** Stainless Steel Fridge, Double Full Size Ovens, Induction Stove-Top, Garburator, Built In Dishwasher, Hot Tub (28080960)",
@@ -3334,7 +3211,7 @@
   {
     "Id": "22981262",
     "MlsNumber": "N5167869",
-    "PublicRemarks": "Massive Investment Opportunity. Adventure Awaits On This Private 10 Acre Lot With Bailey's Creek Running Through. Sit Back & Enjoy A Private Bonfire Creek-Side, Watch Turkey And Deer Meander About. Atv Your Way Over Your Private Bridge And Get Lost In The Trails. Redesign, Renovate Or Rebuild Your Dream Home. With 7 Bedrooms, 4 Bathrooms, 2824 Sq Ft (As Per Mpac) This Home Has Endless Possibilities. Metal Roof - Transferable Warranty. 2 Separate Garages.**** EXTRAS **** Pond, Stream With Bridge Over Bailey's Creek. Perfect For Handyman/Handylady! Needs Tlc. Original Part Of The Home Is A Viceroy. Septic Pumped & Inspected- 2020, Well Inspected 2020. New Propane Furnace - 2020. Wett Inspected - 2020. (28149131)",
+    "PublicRemarks": "Massive Investment Opportunity. Adventure Awaits On This Private 10 Acre Lot With Bailey's Creek Running Through. Sit Back & Enjoy A Private Bonfire Creek-Side, Watch Turkey And Deer Meander About. Atv Your Way Over Your Private Bridge And Get Lost In The Trails. Redesign, Renovate Or Rebuild Your Dream Home. With 7 Bedrooms, 4 Bathrooms, 2824 Sq Ft (As Per Mpac) This Home Has Endless Possibilities. Metal Roof - Transferable Warranty. 2 Separate Garages.**** EXTRAS **** Pond, Stream With Bridge Over Bailey's Creek. Original Part Of The Home Is A Viceroy. Septic Pumped & Inspected- 2020, Well Inspected 2020. New Propane Furnace - 2020. Wett Inspected - 2020. (28149131)",
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "7",
@@ -3348,7 +3225,7 @@
         "Organization": {
           "OrganizationID": 259506,
           "Name": "CENTURY 21 HERITAGE GROUP LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527098780000000/lowres/1218063.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527750820000000/lowres/1218063.jpg",
           "Address": {
             "AddressText": "1 QUEEN ST NORTH #1 BOX 711|TOTTENHAM, Ontario L0G1W0",
             "PermitShowAddress": true,
@@ -3379,7 +3256,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/259506/century-21-heritage-group-ltd-1-queen-st-north-1-box-711-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-03-30 2:04:38 PM"
+          "PhotoLastupdate": "2021-03-31 8:11:22 AM"
         },
         "Phones": [
           {
@@ -3459,150 +3336,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22981262/7254-9th-line-new-tecumseth-beeton",
     "RelativeURLFr": "/immobilier/22981262/7254-9th-line-new-tecumseth"
-  },
-  {
-    "Id": "22982783",
-    "MlsNumber": "N5168333",
-    "PublicRemarks": "Beautiful 1979 Custom Built 4 Bedroom Home On 10.66 Fertile Acres. Two Road Frontages. Boasts A 52X32 Barn With Water And Electricity. Vineyard. Hardwood And High Ceilings Throughout. Four Season Sun Room, Heated, Insulated And Water Supply. Drilled Well 319 Ft. Whole Home Water Filter Changed Yearly. Furnace And A/C 2014. Septic Pumped 2018. Roof 2013. Windows 2004.**** EXTRAS **** Fridge, Stove, Washer + Dryer, Central Vac. Stove 2, Washer 2, 2021 Propane Fireplace And Wood Stove In Basement All \"\"As Is\"\" Hwt Owned. Propane Tank Is A Rental. (28151116)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1685987,
-        "Name": "MINAS HATZIGIANNATZOGLOU",
-        "Organization": {
-          "OrganizationID": 51259,
-          "Name": "RE/MAX WEST REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637526018970000000/lowres/1123257.jpg",
-          "Address": {
-            "AddressText": "6074 KINGSTON ROAD|TORONTO, Ontario M1C1K4",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "281-0027",
-              "AreaCode": "416",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "281-0034",
-              "AreaCode": "416",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.remaxwest.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/51259/remax-west-realty-inc-6074-kingston-road-toronto-ontario-m1c1k4",
-          "PhotoLastupdate": "2021-03-29 8:04:57 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "346-9889",
-            "AreaCode": "416",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "346-9889",
-            "AreaCode": "416",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.minashomes.ca",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/minas.hatzigiannatzoglourealtor",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://www.linkedin.com/profile/view?id=AAIAAAYUWlUB-enYooPRQ0alBu76q32DBwxt0qo&trk=nav_responsive_",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "463579372"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1685987.JPG",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "MINAS",
-        "LastName": "HATZIGIANNATZOGLOU",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1685987/minas-hatzigiannatzoglou-6074-kingston-road-toronto-ontario-m1c1k4",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1685987.JPG",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,649,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "389 HIGHWAY 47 RD|Uxbridge, Ontario L9P1R1",
-        "Longitude": "-79.1757355015858",
-        "Latitude": "44.0481335349381",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/highres/3/n5168333_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/medres/3/n5168333_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637523434093630000/reb82/lowres/3/n5168333_1.jpg",
-          "LastUpdated": "2021-03-26 8:16:49 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,649,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1649000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "1101 x 10.65 FT|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youriguide.com/389_durham_regional_hwy_47_goodwood_on/"
-    },
-    "PostalCode": "L9P1R1",
-    "RelativeDetailsURL": "/real-estate/22982783/389-highway-47-rd-uxbridge-rural-uxbridge",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-26 12:16:49 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22982783/389-highway-47-rd-uxbridge-rural-uxbridge",
-    "RelativeURLFr": "/immobilier/22982783/389-highway-47-rd-uxbridge"
   },
   {
     "Id": "22989080",
@@ -3741,7 +3474,6 @@
     "RelativeDetailsURL": "/real-estate/22989080/7079-concession-road-2-adjala-tosorontio-lisle",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-29 1:39:15 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22989080/7079-concession-road-2-adjala-tosorontio-lisle",
     "RelativeURLFr": "/immobilier/22989080/7079-concession-road-2-adjala-tosorontio"
@@ -3762,7 +3494,7 @@
         "Organization": {
           "OrganizationID": 50211,
           "Name": "HOMELIFE NEW WORLD REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527099480000000/lowres/50211.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527970720000000/lowres/50211.jpg",
           "Address": {
             "AddressText": "201 CONSUMERS RD., STE. 205|TORONTO, Ontario M2J4G8",
             "PermitShowAddress": true,
@@ -3799,7 +3531,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/50211/homelife-new-world-realty-inc-201-consumers-rd-ste-205-toronto-ontario-m2j4g8",
-          "PhotoLastupdate": "2021-03-30 2:05:48 PM"
+          "PhotoLastupdate": "2021-03-31 2:17:52 PM"
         },
         "Phones": [
           {
@@ -3928,7 +3660,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/275934/modern-solution-realty-inc-3095-wolfedale-rd-b-2-mississauga-ontario-l5c1v8",
-          "PhotoLastupdate": "2021-03-30 5:38:02 PM"
+          "PhotoLastupdate": "2021-03-31 1:38:37 PM"
         },
         "Phones": [
           {
@@ -4017,6 +3749,123 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio-rural-adjala-tosorontio",
     "RelativeURLFr": "/immobilier/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio"
+  },
+  {
+    "Id": "23003270",
+    "MlsNumber": "N5173837",
+    "PublicRemarks": "Privacy At Its Finest, Over 20 Private Acres In The Rolling Hills Of Adjala, This Brick 3 Bedroom, 2 Bath Bungalow Needs Some Updating But Has Solid Bones And Amazing Private Location, Stunning Views Of The County Side Overlooking The Forest With Wild Deer Running Around At Your Door Step! This Home Has Large Eat-In Kitchen With Multiple W/O's, Large Master With Ensuite, Finished Lower Level With W/O, Tucked Far Away From The Busy World**** EXTRAS **** Fridge, Cook Top Stove, Dishwasher,B/I Oven, Microwave, Washer,Dryer,All Light Fixtures,Hot Water Heater (Owned),Central Air,Roof 2010, Triple Car Garage With Large Driveway For Parking Trucks, Trailers, Or Toys, Detached Shop For Storage (28177107)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2042497,
+        "Name": "MARIO ZENELI",
+        "Organization": {
+          "OrganizationID": 279050,
+          "Name": "RIGHT AT HOME REALTY INC.",
+          "Address": {
+            "AddressText": "16850 YONGE STREET #6B|NEWMARKET, Ontario L3Y0A3",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "953-0550",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279050/right-at-home-realty-inc-16850-yonge-street-6b-newmarket-ontario-l3y0a3",
+          "PhotoLastupdate": "2021-03-31 2:17:59 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "953-0550",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://zeneliteam.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "464497240"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637454746200000000/lowres/1318384.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "MARIO",
+        "LastName": "ZENELI",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2042497/mario-zeneli-16850-yonge-street-6b-newmarket-ontario-l3y0a3",
+        "AgentPhotoLastUpdated": "2021-01-05 20:17:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637454746200000000/highres/1318384.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,849,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2481 COUNTY RD 50 RD|Adjala-Tosorontio, Ontario L0G1W0",
+        "Longitude": "-79.8864010620117",
+        "Latitude": "44.032461460469",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637527970798600000/reb82/highres/7/n5173837_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637527970798600000/reb82/medres/7/n5173837_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637527970798600000/reb82/lowres/7/n5173837_1.jpg",
+          "LastUpdated": "2021-03-31 2:17:59 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "23",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,849,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1849000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "547 x 1600 FT   ; 20 Acres|10 - 24.99 acres"
+    },
+    "PostalCode": "L0G1W0",
+    "RelativeDetailsURL": "/real-estate/23003270/2481-county-rd-50-rd-adjala-tosorontio-loretto",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-03-31 6:17:59 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23003270/2481-county-rd-50-rd-adjala-tosorontio-loretto",
+    "RelativeURLFr": "/immobilier/23003270/2481-county-rd-50-rd-adjala-tosorontio"
   },
   {
     "Id": "22921117",
@@ -4601,7 +4450,6 @@
     "RelativeDetailsURL": "/real-estate/22782576/386106-20-sdrd-mono-rural-mono",
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-03-29 6:10:16 PM",
-    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-03-24 3:17:48 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/22782576/386106-20-sdrd-mono-rural-mono",
@@ -4880,7 +4728,7 @@
         "Organization": {
           "OrganizationID": 51483,
           "Name": "ROYAL LEPAGE MEADOWTOWNE REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637521900140000000/lowres/51483.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527731060000000/lowres/51483.jpg",
           "Address": {
             "AddressText": "324 GUELPH STREET SUITE 12|GEORGETOWN, Ontario L7G4B5",
             "PermitShowAddress": true,
@@ -4899,7 +4747,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/51483/royal-lepage-meadowtowne-realty-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-03-24 1:40:14 PM"
+          "PhotoLastupdate": "2021-03-31 7:38:26 AM"
         },
         "Phones": [
           {
@@ -4938,7 +4786,7 @@
         "Organization": {
           "OrganizationID": 51483,
           "Name": "ROYAL LEPAGE MEADOWTOWNE REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637521900140000000/lowres/51483.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527731060000000/lowres/51483.jpg",
           "Address": {
             "AddressText": "324 GUELPH STREET SUITE 12|GEORGETOWN, Ontario L7G4B5",
             "PermitShowAddress": true,
@@ -4957,7 +4805,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/51483/royal-lepage-meadowtowne-realty-324-guelph-street-suite-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-03-24 1:40:14 PM"
+          "PhotoLastupdate": "2021-03-31 7:38:26 AM"
         },
         "Phones": [
           {
