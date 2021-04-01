@@ -881,7 +881,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "466057520"
+              "ContactId": "466109863"
             }
           ],
           "Websites": [
@@ -950,7 +950,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "466057520"
+              "ContactId": "466109863"
             }
           ],
           "Websites": [
@@ -1211,204 +1211,6 @@
     "RelativeURLFr": "/immobilier/22972357/715259-1st-line-ehs-mono"
   },
   {
-    "Id": "22969756",
-    "MlsNumber": "40086184",
-    "PublicRemarks": "What an opportunity to reside and work in the country near major roadways and all the amenities. This 5.5-Acre poultry farm with 900-foot frontage and A2 zoning, has a nicely maintained 1683sf, 2-storey, 3-bedroom farmhouse, 2 large, detached single car garages (16 x 24 & 15 x 30), 3 very large, multi-floored, mostly insulated, barns that were recently used to house poultry (2-storey 40x185, 44x70, 16x61 and 3-storey 34x50) an open-end entry (manure) shed built in 2009 (40x46) and 3 circular bulk feed tanks. Taxes are currently only $1469 per year. There are 2 drilled Wells and a high-powered backup generator serving all of the main structures. The residence has an updated kitchen and a newly carpeted large dining room and great room. (63055940)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "1683.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "2"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1941348,
-        "Name": "Dan Bednis",
-        "Organization": {
-          "OrganizationID": 205333,
-          "Name": "Royal LePage Meadowtowne Realty Inc., Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637521997880000000/lowres/default/royallepage.gif",
-          "Address": {
-            "AddressText": "475 Main St.|Milton, Ontario L9T1R1",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "878-8101",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "460122196"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.meadowtowne.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/205333/royal-lepage-meadowtowne-realty-inc-brokerage-475-main-st-milton-ontario-l9t1r1",
-          "PhotoLastupdate": "2021-03-24 4:23:08 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "302-2887",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.danbednis.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "464874936"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636225849600000000/lowres/1241950.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Dan",
-        "LastName": "Bednis",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1941348/dan-bednis-475-main-st-milton-ontario-l9t1r1",
-        "AgentPhotoLastUpdated": "2017-02-13 12:16:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636225849600000000/highres/1241950.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1946377,
-        "Name": "Joy Nolan",
-        "Organization": {
-          "OrganizationID": 283777,
-          "Name": "Royal LePage Meadowtowne Realty Inc., Brokerage",
-          "Address": {
-            "AddressText": "459 Main Street East 2nd Floor|Milton, Ontario L9T1R1",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "878-8101",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.meadowtowne.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/283777/royal-lepage-meadowtowne-realty-inc-brokerage-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
-          "PhotoLastupdate": "2021-03-24 4:23:08 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "878-8101",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.meadowtowne.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455804743"
-          }
-        ],
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Joy",
-        "LastName": "Nolan",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1946377/joy-nolan-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,575,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1058 BROCK Road|Dundas, Ontario L9H5E4",
-        "Longitude": "-80.02130457",
-        "Latitude": "43.34065183",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637521314444630000/reb15/highres/4/40086184_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637521314444630000/reb15/medres/4/40086184_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637521314444630000/reb15/lowres/4/40086184_1.jpg",
-          "LastUpdated": "2021-03-23 9:24:04 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        },
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,575,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage, Gravel",
-      "PriceUnformattedValue": "1575000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "5.54 ac|5 - 9.99 acres",
-      "SizeFrontage": "900 ft",
-      "AccessType": "Road access, Highway Nearby"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youriguide.com/1058_brock_rd_dundas_on/"
-    },
-    "PostalCode": "L9H5E4",
-    "RelativeDetailsURL": "/real-estate/22969756/1058-brock-road-dundas",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-24 1:24:04 AM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22969756/1058-brock-road-dundas",
-    "RelativeURLFr": "/immobilier/22969756/1058-brock-road-dundas"
-  },
-  {
     "Id": "22980561",
     "MlsNumber": "40087302",
     "PublicRemarks": "Stunning Muskoka-In-The-City property of over 7 Acres  in a  prime Ancaster enclave of distinct and quaint homes alike.  Wooded treed lot with gorgeous panorama views from the rear deck.  Running stream with wooden foot bridge and peaceful nature abound. A 3 bedroom charming classic home sits on this property with a massive addition with the exceptional views.  Large floor to to ceiling  windows and spacious principal living rooms on the main floor. Large fenced-in. Inground pool. Why go away to the country when the country comes to you!  Close to all major amenities between Ancaster and Dundas. (63067863)",
@@ -1540,7 +1342,6 @@
     "RelativeDetailsURL": "/real-estate/22980561/704-old-dundas-road-ancaster",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-30 3:40:46 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22980561/704-old-dundas-road-ancaster",
     "RelativeURLFr": "/immobilier/22980561/704-old-dundas-road-ancaster"
@@ -1685,6 +1486,153 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22986278/6602-gore-road-puslinch",
     "RelativeURLFr": "/immobilier/22986278/6602-gore-road-puslinch"
+  },
+  {
+    "Id": "23009475",
+    "MlsNumber": "40091121",
+    "PublicRemarks": "COUNTRY LIVING WITH SO MUCH TO OFFER! This bungalow boasts over 4800sqft of living space tucked away on 6.25 acres. You will not need to book a vacation when everything you desire is in your own backyard. An inground Pool, tennis court, volleyball court, trails, a massive pavilion to host your outdoor events and so much more. Located on Cambridge town line. Every amenity is just minutes away including the 401. This sprawling bungalow features 3 bedrooms on the main floor a full 3-bedroom in-law suite with a separate entrance. 6 bathrooms and 2 kitchens in total! Completely carpet free! A double garage and ample parking! Geothermal heating and cooling system, heated bathroom floors, beautiful stone, and hardwood floors, roof (2011), garage door openers and central vac. Stunning views from every window! A convenient location for commuters yet nestled in nature. (63100596)",
+    "Building": {
+      "BathroomTotal": "6",
+      "Bedrooms": "3 + 3",
+      "SizeInterior": "2603.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1750694,
+        "Name": "FAISAL SUSIWALA",
+        "Organization": {
+          "OrganizationID": 285293,
+          "Name": "RE/MAX TWIN CITY FAISAL SUSIWALA REALTY",
+          "Address": {
+            "AddressText": "30 GRANDY LANE|CAMBRIDGE, Ontario N1R8K2",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "740-3690",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460119139"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.homeshack.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/285293/remax-twin-city-faisal-susiwala-realty-30-grandy-lane-cambridge-ontario-n1r8k2",
+          "PhotoLastupdate": "2021-04-01 6:34:45 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "740-3690",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.homeshack.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "http://www.facebook.com/faisalsusiwalaremax",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "http://www.linkedin.com/profile/view?id=92389546&trk=tab_pro",
+            "WebsiteTypeId": "3"
+          },
+          {
+            "Website": "http://twitter.com/#!/FaisalSusiwala",
+            "WebsiteTypeId": "4"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "464228974"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637096776000000000/lowres/1066261.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "FAISAL",
+        "LastName": "SUSIWALA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1750694/faisal-susiwala-30-grandy-lane-cambridge-ontario-n1r8k2",
+        "AgentPhotoLastUpdated": "2019-11-18 12:40:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637096776000000000/highres/1066261.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,950,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "485 TOWNLINE Road|Cambridge, Ontario N0B2J0",
+        "Longitude": "-80.271774",
+        "Latitude": "43.393732",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637528848574000000/reb20/highres/1/40091121_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637528848574000000/reb20/medres/1/40091121_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637528848574000000/reb20/lowres/1/40091121_1.jpg",
+          "LastUpdated": "2021-04-01 2:40:57 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park, Place of Worship, Schools",
+      "ConvertedPrice": "$1,950,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1950000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "6.29 ac|5 - 9.99 acres",
+      "SizeFrontage": "579 ft",
+      "AccessType": "Highway Nearby"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youriguide.com/p6ght_485_townline_rd_puslinch_on/"
+    },
+    "PostalCode": "N0B2J0",
+    "RelativeDetailsURL": "/real-estate/23009475/485-townline-road-cambridge",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-01 6:40:59 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23009475/485-townline-road-cambridge",
+    "RelativeURLFr": "/immobilier/23009475/485-townline-road-cambridge"
   },
   {
     "Id": "22765943",
@@ -2430,248 +2378,6 @@
     "RelativeURLFr": "/immobilier/22929594/6930-ravenshoe-rd-georgina"
   },
   {
-    "Id": "22954144",
-    "MlsNumber": "N5159250",
-    "PublicRemarks": "Country Living Calling Your Name? Imagine Sitting On The Covered Porch Sipping Coffee Surrounded By Nature W/Out A Neighbour In Sight On This 8 Acre Parcel. Every Inch Of This Charming Century Home Has Been Lovingly Restored & Updated. Featuring Custom Trim Work, Ceiling Details, Large Principal Rms, 2-Storey Rec Rm W/Huge West-Facing Windows To Enjoy Sunsets. Limitless Opportunity W/Multiple Outbuildings & Detached 3 Car Garage W/Loft, Sep Heated Gym***** EXTRAS **** *Lrg 3 Level Barn W/2 Stalls & Space For 2 More. Custom Saltwater Pond W/Cabana. Leave Your Stress Behind The Moment You Pull In The Driveway, You Will Know This Is 'The One'. Prime Location Mins To Mt Albert, 404 & & All Amenities. (28113394)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1721970,
-        "Name": "LEE LANDER",
-        "Organization": {
-          "OrganizationID": 277400,
-          "Name": "LANDER REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637526018800000000/lowres/1282816.jpg",
-          "Address": {
-            "AddressText": "110 PONY DR #4|NEWMARKET, Ontario L3Y7B6",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "218-3677",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "784-1111",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "465203663"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "HTTP://www.landerrealty.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/277400/lander-realty-inc-110-pony-dr-4-newmarket-ontario-l3y7b6",
-          "PhotoLastupdate": "2021-03-29 8:04:40 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "231-0937",
-            "AreaCode": "289",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.LeeLander.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/LeeLander.ShaiLander/",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/Lee_Shai_Lander",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://www.linkedin.com/in/lee-lander-58695614/",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456437792"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636719307600000000/lowres/1175144.jpg",
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "LEE",
-        "LastName": "LANDER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1721970/lee-lander-110-pony-dr-4-newmarket-ontario-l3y7b6",
-        "AgentPhotoLastUpdated": "2018-09-07 15:26:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636719307600000000/highres/1175144.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1953167,
-        "Name": "SHAI LANDER",
-        "Organization": {
-          "OrganizationID": 277400,
-          "Name": "LANDER REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637526018800000000/lowres/1282816.jpg",
-          "Address": {
-            "AddressText": "110 PONY DR #4|NEWMARKET, Ontario L3Y7B6",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "218-3677",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "784-1111",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "465203663"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "HTTP://www.landerrealty.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/277400/lander-realty-inc-110-pony-dr-4-newmarket-ontario-l3y7b6",
-          "PhotoLastupdate": "2021-03-29 8:04:40 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "252-7424",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.leelander.com/",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/LeeLander.ShaiLander/",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/Lee_Shai_Lander",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://www.linkedin.com/in/shai-lander-a77b5999/",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459362264"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636719308200000000/lowres/1246562.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "SHAI",
-        "LastName": "LANDER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1953167/shai-lander-110-pony-dr-4-newmarket-ontario-l3y7b6",
-        "AgentPhotoLastUpdated": "2018-09-07 15:27:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636719308200000000/highres/1246562.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,849,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "18436 CENTRE ST|East Gwillimbury, Ontario L0G1M0",
-        "Longitude": "-79.3041086",
-        "Latitude": "44.1187218",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637517636847970000/reb82/highres/0/n5159250_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637517636847970000/reb82/medres/0/n5159250_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637517636847970000/reb82/lowres/0/n5159250_1.jpg",
-          "LastUpdated": "2021-03-19 3:14:44 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "24",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1849900"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "665.12 x 519.53 FT   ; South 533.63 Ft & Rear 665.25 Ft|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "BrochureLink": "http://leelander.com/detail.cfm?id=2731537",
-      "DetailsLink": "http://leelander.com/detail.cfm?id=2731537",
-      "PhotoLink": "http://leelander.com/detail.cfm?id=2731537",
-      "VideoLink": "https://www.youtube.com/embed/wxsylHTacV4"
-    },
-    "PostalCode": "L0G1M0",
-    "RelativeDetailsURL": "/real-estate/22954144/18436-centre-st-east-gwillimbury-mt-albert",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-19 7:14:44 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22954144/18436-centre-st-east-gwillimbury-mt-albert",
-    "RelativeURLFr": "/immobilier/22954144/18436-centre-st-east-gwillimbury"
-  },
-  {
     "Id": "22955572",
     "MlsNumber": "N5159740",
     "PublicRemarks": "Top 5 Reasons You Will Love This Home: 1) Custom Bungalow With Views From Every Room And A Master Suite With An Open-Concept Ensuite 2) Finished Walk-Out Basement With A Rec Room, A Custom Bar And A Wood Stove, A Games Room, And A Den 3) Backyard With A Pool House With A Tiki Bar, Stamped Concrete Patio, Custom Iron Gates, And A Saltwater Pool 4) 40'X60' Workshop With Endless Features 5) 25 Acres Of Land Exuding A Pride Of Ownership And A True Love For Nature**** EXTRAS **** Inclusions: Fridge, Stove, Dishwasher, Washer, Dryer, Pool Equipment, Wood Stove, Uv Light Water Treatment System, Air Purification System. (28115312)",
@@ -3225,7 +2931,7 @@
         "Organization": {
           "OrganizationID": 259506,
           "Name": "CENTURY 21 HERITAGE GROUP LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527750820000000/lowres/1218063.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637528850060000000/lowres/1218063.jpg",
           "Address": {
             "AddressText": "1 QUEEN ST NORTH #1 BOX 711|TOTTENHAM, Ontario L0G1W0",
             "PermitShowAddress": true,
@@ -3256,7 +2962,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/259506/century-21-heritage-group-ltd-1-queen-st-north-1-box-711-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-03-31 8:11:22 AM"
+          "PhotoLastupdate": "2021-04-01 2:43:26 PM"
         },
         "Phones": [
           {
@@ -3602,7 +3308,6 @@
     "RelativeDetailsURL": "/real-estate/22997818/3688-boag-rd-east-gwillimbury-queensville",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-30 6:05:48 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22997818/3688-boag-rd-east-gwillimbury-queensville",
     "RelativeURLFr": "/immobilier/22997818/3688-boag-rd-east-gwillimbury"
@@ -3745,7 +3450,6 @@
     "RelativeDetailsURL": "/real-estate/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio-rural-adjala-tosorontio",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-03-30 9:38:02 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio-rural-adjala-tosorontio",
     "RelativeURLFr": "/immobilier/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio"
