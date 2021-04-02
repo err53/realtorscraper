@@ -791,100 +791,6 @@
     }
   },
   {
-    "Id": "22973408",
-    "MlsNumber": "N5165258",
-    "Property": {
-      "Price": "$1,350,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "377 FEASBY RD|Uxbridge, Ontario L9P1R1",
-        "Longitude": "-79.206615",
-        "Latitude": "44.1074069",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637521970943430000/reb82/highres/8/n5165258_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637521970943430000/reb82/medres/8/n5165258_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637521970943430000/reb82/lowres/8/n5165258_1.jpg",
-          "LastUpdated": "2021-03-24 3:38:14 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "18",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,350,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1350000"
-    },
-    "Land": {
-      "SizeTotal": "336 x 1339.8 Acre   ; Irreg: R 316|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "4",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22974871",
-    "MlsNumber": "N5165782",
-    "Property": {
-      "Price": "$1,750,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "15525 CONCESSION 11 RD|King, Ontario L0G1T0",
-        "Longitude": "-79.7141804185727",
-        "Latitude": "43.953279639377",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637522065270470000/reb82/highres/2/n5165782_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637522065270470000/reb82/medres/2/n5165782_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637522065270470000/reb82/lowres/2/n5165782_1.jpg",
-          "LastUpdated": "2021-03-24 6:15:27 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,750,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1750000"
-    },
-    "Land": {
-      "SizeTotal": "400.15 x 1648.4 FT   ; 15.41 Acres As Per Mpac.|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "5",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "22981262",
     "MlsNumber": "N5167869",
     "Property": {
@@ -1396,6 +1302,54 @@
     },
     "Building": {
       "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23014432",
+    "MlsNumber": "X5176660",
+    "Property": {
+      "Price": "$1,649,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "833180 4TH LINE EHS|Mono, Ontario L9W2Z2",
+        "Longitude": "-80.0207712",
+        "Latitude": "43.9538509",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637529483849000000/reb82/highres/0/x5176660_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637529483849000000/reb82/medres/0/x5176660_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637529483849000000/reb82/lowres/0/x5176660_1.jpg",
+          "LastUpdated": "2021-04-02 8:19:44 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "26",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,649,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1649000"
+    },
+    "Land": {
+      "SizeTotal": "400 x 676.6 FT   ; 5.64 Acres With Pond|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
       "Type": "House"
