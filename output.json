@@ -881,7 +881,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "466163286"
+              "ContactId": "466216389"
             }
           ],
           "Websites": [
@@ -950,7 +950,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "466163286"
+              "ContactId": "466216389"
             }
           ],
           "Websites": [
@@ -1046,169 +1046,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22970676/5903-fourth-line-erin",
     "RelativeURLFr": "/immobilier/22970676/5903-fourth-line-erin"
-  },
-  {
-    "Id": "22972357",
-    "MlsNumber": "40085984",
-    "PublicRemarks": "Magnificent Log & Stone Home In Beautiful Mono On 10 Picturesque Acres. 4 Bed 3 Bath. Stunning Open Concept Modern Kitchen w/ Granite Counters, Back Splash, Ss Appliances & Under Counter Lighting. W/O From Dining Area To Lg Deck. Gorgeous Great Room Overlooking Stunning Mono Hills Views. Cathedral Tongue And Groove Pine Ceiling W Skylights. Separate Fam Rm Features Wood Burning Fireplace. Main Floor plus 2Pc Powder Rm w/ Combined Laundry. Master Bedrm & 3Pc Ensuite With Jacuzzi Tub In Upper Level Loft. Ll 3rd & 4th Beds, W/O Entrance, Rec Rm, 3Pc Bath, 4 Person Cedar Sauna. 2-Tiered Back Deck, Fire Pit, Beautiful Landscaping & Garden Shed. (63058341)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "2 + 2",
-      "SizeInterior": "1400.0000",
-      "StoriesTotal": "1.5000",
-      "Type": "House",
-      "UnitTotal": "0"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1991320,
-        "Name": "MARG MCCARTHY",
-        "Organization": {
-          "OrganizationID": 283434,
-          "Name": "Marg McCarthy Professional Real Estate Services Inc. Brokerage",
-          "Address": {
-            "AddressText": "110 Centennial Road|Shelburne, Ontario L9V2Z4",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "925-6948",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "925-5782",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463978116"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.margmccarthy.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/283434/marg-mccarthy-professional-real-estate-services-inc-brokerage-110-centennial-road-shelburne-ontario-l9v2z4",
-          "PhotoLastupdate": "2021-03-24 2:03:41 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "216-1756",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "925-5782",
-            "AreaCode": "519",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.mccarthyrealty.ca",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/MargMcCarthyRealty/",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://ca.linkedin.com/in/marg-mccarthy-6281941b",
-            "WebsiteTypeId": "3"
-          },
-          {
-            "Website": "https://twitter.com/McCarthy_Realty",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://www.instagram.com/margmccarthyrealty/",
-            "WebsiteTypeId": "5"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "458682226"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637305885600000000/lowres/1274939.jpg",
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "MARG",
-        "LastName": "MCCARTHY",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1991320/marg-mccarthy-110-centennial-road-shelburne-ontario-l9v2z4",
-        "AgentPhotoLastUpdated": "2020-07-17 13:16:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637305885600000000/highres/1274939.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,300,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "715259 1ST LINE EHS|Mono, Ontario L9W5T7",
-        "Longitude": "-80.097136",
-        "Latitude": "44.057325",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637521914210600000/reb43/highres/4/40085984_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637521914210600000/reb43/medres/4/40085984_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637521914210600000/reb43/lowres/4/40085984_1.jpg",
-          "LastUpdated": "2021-03-24 2:03:41 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Other"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby, Park",
-      "ConvertedPrice": "$1,300,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Other",
-      "PriceUnformattedValue": "1300000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "10.05 ac|10 - 24.99 acres",
-      "SizeFrontage": "378 ft"
-    },
-    "AlternateURL": {
-      "PhotoLink": "http://wylieford.homelistingtours.com/listing2/715259-1st-line-ehs",
-      "VideoLink": "http://wylieford.homelistingtours.com/listing2/715259-1st-line-ehs"
-    },
-    "PostalCode": "L9W5T7",
-    "RelativeDetailsURL": "/real-estate/22972357/715259-1st-line-ehs-mono",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-24 6:03:41 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22972357/715259-1st-line-ehs-mono",
-    "RelativeURLFr": "/immobilier/22972357/715259-1st-line-ehs-mono"
   },
   {
     "Id": "22980561",
@@ -1629,10 +1466,146 @@
     "RelativeDetailsURL": "/real-estate/23009475/485-townline-road-cambridge",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-01 6:40:59 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23009475/485-townline-road-cambridge",
     "RelativeURLFr": "/immobilier/23009475/485-townline-road-cambridge"
+  },
+  {
+    "Id": "23017321",
+    "MlsNumber": "H4102345",
+    "PublicRemarks": "Imagine all the stress leaving your body as you follow gentle winding lane past beautiful horse meadows to a real life Hallmark Setting. Positioned proudly on beautiful 11 rural ac property is impressive Tudor-style 2-family home showcasing 600sf of covered wrap-around decking + desired lower level walk-out. Family friendly main floor introduces inviting front foyer leads to Super-sized kitchen ftrs ample cabinetry, comfortable living room sporting p/g fireplace, ultra-spacious master incs 3pc en-suite w/laundry station, 3 roomy bedrooms + 4pc primary bath. Open concept lower level family room enjoys walk-out to 225sf conc. entertainment patio overlooking rolling grounds, tranquil pond + engaging fire-pit. Continues to separate 2 bedroom in-law unit boasts updated 3pc bath, living room + dining room w/patio door walk-out to 210sf priv. deck. Desired bachelor style 3rd unit offers large common area, 4pc bath + direct access to 425sf att. garage. The horse lover, hobbyist or naturalist will appreciate rustic 30x46 bank barn + 24x36 multi-purp. building incs workshop, hydro, insulated well room incs purification system + att. lean-to. Extras inc livestock paddock, aprx. 5 ac workable land, p/g furnace/AC-2020, mini-split heat/cool system (in-law)-2020, pot lights-2020, MF washer/dryer-2020, vinyl flooring/carpeting-20/21, freshly painted decor-2020 + 16x24 AG pool. Imagine Upscale Flamborough Country Living...just minutes to Hamilton, Ancaster, Dundas, Waterdown + 403. AIA (27119666)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "6 + 1",
+      "SizeInterior": "2672.0000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1524319,
+        "Name": "Peter R. Hogeterp",
+        "Organization": {
+          "OrganizationID": 262664,
+          "Name": "RE/MAX Escarpment Realty Inc",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637530735620000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "#101-325 Winterberry Drive|Stoney Creek, Ontario L8J0B6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "573-1188",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "573-1189",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463978945"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/262664/remax-escarpment-realty-inc-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
+          "PhotoLastupdate": "2021-04-03 7:06:02 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "573-1188",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "573-1189",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463180619"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636437080200000000/lowres/1111114.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Peter",
+        "LastName": "Hogeterp",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1524319/peter-hogeterp-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
+        "AgentPhotoLastUpdated": "2017-10-15 23:47:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636437080200000000/highres/1111114.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,699,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "536 #8 Highway|Dundas, Ontario L9H5E1",
+        "Longitude": "-80.080077",
+        "Latitude": "43.285904",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637530448700630000/reb14/highres/5/h4102345_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637530448700630000/reb14/medres/5/h4102345_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637530448700630000/reb14/lowres/5/h4102345_1.jpg",
+          "LastUpdated": "2021-04-03 11:07:50 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Course, Schools",
+      "ConvertedPrice": "$1,699,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel",
+      "PriceUnformattedValue": "1699900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "11 ACRES|10 - 24.99 acres",
+      "SizeFrontage": "253 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://www.myvisuallistings.com/vtnb/308747"
+    },
+    "PostalCode": "L9H5E1",
+    "RelativeDetailsURL": "/real-estate/23017321/536-8-highway-dundas",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-03 3:07:50 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23017321/536-8-highway-dundas",
+    "RelativeURLFr": "/immobilier/23017321/536-8-highway-dundas"
   },
   {
     "Id": "22765943",
@@ -4274,50 +4247,49 @@
     "RelativeURLFr": "/immobilier/22972165/5903-fourth-line-erin"
   },
   {
-    "Id": "23014432",
-    "MlsNumber": "X5176660",
-    "PublicRemarks": "Nestled On A Spectacular 5.63 Acre Property Is This Totally Updated 3+1 Bedroom, 3 Bath Brick Bungalow With Fully Finished Lower Level With W/O To Detached Building/Garage That Can Be Used For So Many Possibilities. Office Space, Art Studio, Yoga Studio, Living Space, Bed & Breakfast? Spectacular Space With Spectacular Views Of The Landscape & Nature. There Is Approx 1600 Sf Of Garage With 2X10' Doors & Parking For 6 + 1700 Sf Of Fin Space Inc Kitchenet  In**** EXTRAS **** Detached Building. The Home Shows 10+ With Open Concept New Kitchen/Dining/Living And W/O To Stamped Concrete Patio Around The Heated In-Ground Pool With Views Of The Pond. Landscaped ++  Childrens Play Centre, Garden Shed Spectacular Prop (28191092)",
+    "Id": "23018110",
+    "MlsNumber": "X5178922",
+    "PublicRemarks": "Country Living With So Much To Offer! This Bungalow Boasts Over 4800Sqft Of Living Space Tucked Away On 6.25 Acres. You Will Not Need To Book A Vacation When Everything You Desire Is In Your Own Backyard. An Inground Pool, Tennis Court, Volleyball Court, Trails, A Massive Pavilion To Host Your Outdoor Events & So Much More. Located On Cambridge Town Line. Every Amenity Is Just Minutes Away Including The 401. This Sprawling Bungalow Features 3 Bedrms...**** EXTRAS **** On The Main Floor A Full 3-Bedrm In-Law Suite W/A Separate Entrance. 6 Bathrms & 2 Kitchens In Total! Completely Carpet Free! A Dbl Garage & Ample Parking! Geothermal Heating & Cooling System, Heated Bathrm Floors & Beautiful Stone. (28197032)",
     "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 1",
+      "BathroomTotal": "6",
+      "Bedrooms": "3 + 3",
       "StoriesTotal": "1",
       "Type": "House"
     },
     "Individual": [
       {
-        "IndividualID": 1663596,
-        "Name": "MIKE MULLIN",
+        "IndividualID": 2087384,
+        "Name": "FAISAL SIKANDER SUSIWALA",
         "Organization": {
-          "OrganizationID": 279258,
-          "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637529483840000000/lowres/default/royallepage.gif",
+          "OrganizationID": 286405,
+          "Name": "RE/MAX TWIN CITY FAISAL SUSIWALA REALTY",
           "Address": {
-            "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
+            "AddressText": "30 GRANDY LANE|CAMBRIDGE, Ontario N1R8K2",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
           "Phones": [
             {
               "PhoneType": "Telephone",
-              "PhoneNumber": "941-5151",
+              "PhoneNumber": "624-5555",
               "AreaCode": "519",
               "PhoneTypeId": "1"
             },
             {
               "PhoneType": "Fax",
-              "PhoneNumber": "941-5432",
+              "PhoneNumber": "740-7230",
               "AreaCode": "519",
               "PhoneTypeId": "4"
             }
           ],
           "Emails": [
             {
-              "ContactId": "414881119"
+              "ContactId": "439831692"
             }
           ],
           "Websites": [
             {
-              "Website": "http://www.royallepagercr.com",
+              "Website": "HTTP://www.homeshack.com",
               "WebsiteTypeId": "1"
             }
           ],
@@ -4326,186 +4298,81 @@
           "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
-          "PhotoLastupdate": "2021-04-02 8:19:44 AM"
+          "RelativeDetailsURL": "/office/firm/286405/remax-twin-city-faisal-susiwala-realty-30-grandy-lane-cambridge-ontario-n1r8k2",
+          "PhotoLastupdate": "2021-04-03 5:38:30 PM"
         },
         "Phones": [
           {
             "PhoneType": "Telephone",
-            "PhoneNumber": "941-5151",
+            "PhoneNumber": "624-5555",
             "AreaCode": "519",
             "PhoneTypeId": "1"
           }
         ],
-        "Websites": [
-          {
-            "Website": "http://www.MullinGroup.ca/",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/MullinGroup",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/TheMullinGroup",
-            "WebsiteTypeId": "4"
-          }
-        ],
         "Emails": [
           {
-            "ContactId": "463716692"
+            "ContactId": "459312744"
           }
         ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637345876800000000/lowres/1168456.jpg",
-        "Position": "Broker",
+        "Position": "Broker of Record",
         "PermitFreetextEmail": true,
-        "FirstName": "MIKE",
-        "LastName": "MULLIN",
+        "FirstName": "FAISAL SIKANDER",
+        "LastName": "SUSIWALA",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1663596/mike-mullin-14---75-first-street-orangeville-ontario-l9w2e7",
-        "AgentPhotoLastUpdated": "2020-09-01 20:08:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637345876800000000/highres/1168456.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1623098,
-        "Name": "SHEILA ANN MULLIN",
-        "Organization": {
-          "OrganizationID": 279258,
-          "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637529483840000000/lowres/default/royallepage.gif",
-          "Address": {
-            "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "941-5151",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "941-5432",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414881119"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.royallepagercr.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
-          "PhotoLastupdate": "2021-04-02 8:19:44 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "941-5151",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.MullinGroup.ca",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/MullinGroup",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/TheMullinGroup",
-            "WebsiteTypeId": "4"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "463716681"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637345876800000000/lowres/1161066.jpg",
-        "Position": "Broker",
-        "DesignationCodes": "SRES SRS",
-        "PermitFreetextEmail": true,
-        "FirstName": "SHEILA ANN",
-        "LastName": "MULLIN",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1623098/sheila-ann-mullin-14---75-first-street-orangeville-ontario-l9w2e7",
-        "AgentPhotoLastUpdated": "2020-09-01 20:08:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637345876800000000/highres/1161066.jpg",
+        "RelativeDetailsURL": "/agent/2087384/faisal-sikander-susiwala-30-grandy-lane-cambridge-ontario-n1r8k2",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       }
     ],
     "Property": {
-      "Price": "$1,649,000",
+      "Price": "$1,950,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "833180 4TH LINE EHS|Mono, Ontario L9W2Z2",
-        "Longitude": "-80.0207712",
-        "Latitude": "43.9538509",
+        "AddressText": "485 TOWNLINE RD|Puslinch, Ontario N0B2J0",
+        "Longitude": "-80.270394",
+        "Latitude": "43.394021",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637529483849000000/reb82/highres/0/x5176660_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637529483849000000/reb82/medres/0/x5176660_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637529483849000000/reb82/lowres/0/x5176660_1.jpg",
-          "LastUpdated": "2021-04-02 8:19:44 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/highres/2/x5178922_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/medres/2/x5178922_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/lowres/2/x5178922_1.jpg",
+          "LastUpdated": "2021-04-03 5:38:30 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Detached Garage"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "26",
+      "ParkingSpaceTotal": "22",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,649,000 ",
+      "ConvertedPrice": "$1,950,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1649000"
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1950000"
     },
     "Business": {},
     "Land": {
-      "SizeTotal": "400 x 676.6 FT   ; 5.64 Acres With Pond|5 - 9.99 acres"
+      "SizeTotal": "579.21 x 743.14 Acre   ; 6.25 Acres|5 - 9.99 acres"
     },
     "AlternateURL": {
-      "DetailsLink": "https://www.mullingroup.ca/property/833180-4th-line-ehs-mono/",
-      "VideoLink": "https://www.aryeo.com/v2/259dabf0-898f-44e4-9f94-d3f1ea220fc8/videos/25757"
+      "VideoLink": "https://unbranded.youriguide.com/p6ght_485_townline_rd_puslinch_on/"
     },
-    "PostalCode": "L9W2Z2",
-    "RelativeDetailsURL": "/real-estate/23014432/833180-4th-line-ehs-mono-rural-mono",
+    "PostalCode": "N0B2J0",
+    "RelativeDetailsURL": "/real-estate/23018110/485-townline-rd-puslinch-aberfoyle",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-02 12:19:44 PM",
+    "PhotoChangeDateUTC": "2021-04-03 9:38:30 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23014432/833180-4th-line-ehs-mono-rural-mono",
-    "RelativeURLFr": "/immobilier/23014432/833180-4th-line-ehs-mono"
+    "RelativeURLEn": "/real-estate/23018110/485-townline-rd-puslinch-aberfoyle",
+    "RelativeURLFr": "/immobilier/23018110/485-townline-rd-puslinch"
   }
 ]

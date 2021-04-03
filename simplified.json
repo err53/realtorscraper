@@ -311,57 +311,6 @@
     }
   },
   {
-    "Id": "22972357",
-    "MlsNumber": "40085984",
-    "Property": {
-      "Price": "$1,300,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "715259 1ST LINE EHS|Mono, Ontario L9W5T7",
-        "Longitude": "-80.097136",
-        "Latitude": "44.057325",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637521914210600000/reb43/highres/4/40085984_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637521914210600000/reb43/medres/4/40085984_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637521914210600000/reb43/lowres/4/40085984_1.jpg",
-          "LastUpdated": "2021-03-24 2:03:41 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Other"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby, Park",
-      "ConvertedPrice": "$1,300,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Other",
-      "PriceUnformattedValue": "1300000"
-    },
-    "Land": {
-      "SizeTotal": "10.05 ac|10 - 24.99 acres",
-      "SizeFrontage": "378 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "2 + 2",
-      "SizeInterior": "1400.0000",
-      "StoriesTotal": "1.5000",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
     "Id": "22980561",
     "MlsNumber": "40087302",
     "Property": {
@@ -508,6 +457,58 @@
       "Bedrooms": "3 + 3",
       "SizeInterior": "2603.0000",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23017321",
+    "MlsNumber": "H4102345",
+    "Property": {
+      "Price": "$1,699,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "536 #8 Highway|Dundas, Ontario L9H5E1",
+        "Longitude": "-80.080077",
+        "Latitude": "43.285904",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637530448700630000/reb14/highres/5/h4102345_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637530448700630000/reb14/medres/5/h4102345_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637530448700630000/reb14/lowres/5/h4102345_1.jpg",
+          "LastUpdated": "2021-04-03 11:07:50 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Course, Schools",
+      "ConvertedPrice": "$1,699,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel",
+      "PriceUnformattedValue": "1699900"
+    },
+    "Land": {
+      "SizeTotal": "11 ACRES|10 - 24.99 acres",
+      "SizeFrontage": "253 ft"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "6 + 1",
+      "SizeInterior": "2672.0000",
       "Type": "House"
     }
   },
@@ -1308,49 +1309,48 @@
     }
   },
   {
-    "Id": "23014432",
-    "MlsNumber": "X5176660",
+    "Id": "23018110",
+    "MlsNumber": "X5178922",
     "Property": {
-      "Price": "$1,649,000",
+      "Price": "$1,950,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "833180 4TH LINE EHS|Mono, Ontario L9W2Z2",
-        "Longitude": "-80.0207712",
-        "Latitude": "43.9538509",
+        "AddressText": "485 TOWNLINE RD|Puslinch, Ontario N0B2J0",
+        "Longitude": "-80.270394",
+        "Latitude": "43.394021",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637529483849000000/reb82/highres/0/x5176660_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637529483849000000/reb82/medres/0/x5176660_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637529483849000000/reb82/lowres/0/x5176660_1.jpg",
-          "LastUpdated": "2021-04-02 8:19:44 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/highres/2/x5178922_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/medres/2/x5178922_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/lowres/2/x5178922_1.jpg",
+          "LastUpdated": "2021-04-03 5:38:30 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Detached Garage"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "26",
+      "ParkingSpaceTotal": "22",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,649,000 ",
+      "ConvertedPrice": "$1,950,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1649000"
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1950000"
     },
     "Land": {
-      "SizeTotal": "400 x 676.6 FT   ; 5.64 Acres With Pond|5 - 9.99 acres"
+      "SizeTotal": "579.21 x 743.14 Acre   ; 6.25 Acres|5 - 9.99 acres"
     },
     "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 1",
+      "BathroomTotal": "6",
+      "Bedrooms": "3 + 3",
       "StoriesTotal": "1",
       "Type": "House"
     }
