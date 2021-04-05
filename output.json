@@ -881,7 +881,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "466270027"
+              "ContactId": "466324910"
             }
           ],
           "Websites": [
@@ -950,7 +950,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "466270027"
+              "ContactId": "466324910"
             }
           ],
           "Websites": [
@@ -1325,6 +1325,196 @@
     "RelativeURLFr": "/immobilier/22986278/6602-gore-road-puslinch"
   },
   {
+    "Id": "23020461",
+    "MlsNumber": "40091022",
+    "PublicRemarks": "10 acres with a view is awaiting you, true privacy on the edge of town. Spectacular property with a meticulously maintained Raised Bungalow with separate entrance to the basement- only minutes drive to highways, parks, schools and shopping. Make this home your own or rebuild the home of your dreams! The driveway is lined with beautiful mature trees, the elevated wrap around porch is perfect for entertaining and taking in the views of Toronto Skyline. Parking will never be an issue as there is enough room for all your toys- jeep with snow plow is included in the sale. You will appreciate the high vaulted ceilings, sunny skylights, A chefs kitchen (lots of natural light!), refinished hardwood floors, all new SS appliances, Separate dining room and 2 wood burning fireplaces. The master bedroom includes ensuite with jacuzzi tub. Basement includes finished bedrooms and full bath. You CAN have both, peace of the country and convenience of town! (Water purification unit, roof (2014), front windows/slider (2018) energy savings with Geothermal heating). (63111483)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "SizeInterior": "1929.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1389779,
+        "Name": "Amy Flowers",
+        "Organization": {
+          "OrganizationID": 283777,
+          "Name": "Royal LePage Meadowtowne Realty Inc., Brokerage",
+          "Address": {
+            "AddressText": "459 Main Street East 2nd Floor|Milton, Ontario L9T1R1",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "878-8101",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.meadowtowne.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283777/royal-lepage-meadowtowne-realty-inc-brokerage-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
+          "PhotoLastupdate": "2021-04-05 3:53:56 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "878-6232",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "https://amyflowers.ca/?utm_source=realtor.ca&utm_medium=refe",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459752305"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636585376800000000/lowres/1112124.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "Amy",
+        "LastName": "Flowers",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1389779/amy-flowers-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
+        "AgentPhotoLastUpdated": "2018-04-05 15:08:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636585376800000000/highres/1112124.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1975601,
+        "Name": "Genevieve VanderBreggen",
+        "Organization": {
+          "OrganizationID": 283777,
+          "Name": "Royal LePage Meadowtowne Realty Inc., Brokerage",
+          "Address": {
+            "AddressText": "459 Main Street East 2nd Floor|Milton, Ontario L9T1R1",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "878-8101",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.meadowtowne.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283777/royal-lepage-meadowtowne-realty-inc-brokerage-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
+          "PhotoLastupdate": "2021-04-05 3:53:56 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "878-6232",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "https://amyflowers.ca/?utm_source=realtor.ca&utm_medium=refe",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "460477906"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637098778200000000/lowres/1265778.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Genevieve",
+        "LastName": "VanderBreggen",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1975601/genevieve-vanderbreggen-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
+        "AgentPhotoLastUpdated": "2019-11-20 20:17:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637098778200000000/highres/1265778.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,999,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "7582 OLD TREMAINE Road|Milton, Ontario L9T2Y1",
+        "Longitude": "-79.906853",
+        "Latitude": "43.495647",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637532258588270000/reb15/highres/2/40091022_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637532258588270000/reb15/medres/2/40091022_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637532258588270000/reb15/lowres/2/40091022_1.jpg",
+          "LastUpdated": "2021-04-05 1:24:18 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Gravel",
+      "PriceUnformattedValue": "1999900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10.07 ac|10 - 24.99 acres",
+      "SizeFrontage": "22 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youriguide.com/7582_old_tremaine_rd_milton_on"
+    },
+    "PostalCode": "L9T2Y1",
+    "RelativeDetailsURL": "/real-estate/23020461/7582-old-tremaine-road-milton",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-05 5:24:18 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23020461/7582-old-tremaine-road-milton",
+    "RelativeURLFr": "/immobilier/23020461/7582-old-tremaine-road-milton"
+  },
+  {
     "Id": "23009475",
     "MlsNumber": "40091121",
     "PublicRemarks": "COUNTRY LIVING WITH SO MUCH TO OFFER! This bungalow boasts over 4800sqft of living space tucked away on 6.25 acres. You will not need to book a vacation when everything you desire is in your own backyard. An inground Pool, tennis court, volleyball court, trails, a massive pavilion to host your outdoor events and so much more. Located on Cambridge town line. Every amenity is just minutes away including the 401. This sprawling bungalow features 3 bedrooms on the main floor a full 3-bedroom in-law suite with a separate entrance. 6 bathrooms and 2 kitchens in total! Completely carpet free! A double garage and ample parking! Geothermal heating and cooling system, heated bathroom floors, beautiful stone, and hardwood floors, roof (2011), garage door openers and central vac. Stunning views from every window! A convenient location for commuters yet nestled in nature. (63100596)",
@@ -1487,7 +1677,7 @@
         "Organization": {
           "OrganizationID": 262664,
           "Name": "RE/MAX Escarpment Realty Inc",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637530735620000000/lowres/default/remaxoa.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532211550000000/lowres/default/remaxoa.gif",
           "Address": {
             "AddressText": "#101-325 Winterberry Drive|Stoney Creek, Ontario L8J0B6",
             "PermitShowAddress": true,
@@ -1517,7 +1707,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/262664/remax-escarpment-realty-inc-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
-          "PhotoLastupdate": "2021-04-03 7:06:02 PM"
+          "PhotoLastupdate": "2021-04-05 12:05:55 PM"
         },
         "Phones": [
           {
@@ -1556,7 +1746,7 @@
       "Price": "$1,699,900",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "536 #8 Highway|Dundas, Ontario L9H5E1",
+        "AddressText": "536 #8 Highway|Flamborough, Ontario L9H5E1",
         "Longitude": "-80.080077",
         "Latitude": "43.285904",
         "PermitShowAddress": true,
@@ -1599,13 +1789,12 @@
       "VideoLink": "http://www.myvisuallistings.com/vtnb/308747"
     },
     "PostalCode": "L9H5E1",
-    "RelativeDetailsURL": "/real-estate/23017321/536-8-highway-dundas",
+    "RelativeDetailsURL": "/real-estate/23017321/536-8-highway-flamborough",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-03 3:07:50 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23017321/536-8-highway-dundas",
-    "RelativeURLFr": "/immobilier/23017321/536-8-highway-dundas"
+    "RelativeURLEn": "/real-estate/23017321/536-8-highway-flamborough",
+    "RelativeURLFr": "/immobilier/23017321/536-8-highway-flamborough"
   },
   {
     "Id": "23019215",
@@ -1625,7 +1814,7 @@
         "Organization": {
           "OrganizationID": 278035,
           "Name": "Purplebricks",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637531527200000000/lowres/1288469.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532319730000000/lowres/1288469.jpg",
           "Address": {
             "AddressText": "1250 South Service Road Unit A13|Stoney Creek, Ontario L8E5E9",
             "PermitShowAddress": true,
@@ -1655,7 +1844,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/278035/purplebricks-1250-south-service-road-unit-a13-stoney-creek-ontario-l8e5e9",
-          "PhotoLastupdate": "2021-04-04 5:05:20 PM"
+          "PhotoLastupdate": "2021-04-05 3:06:13 PM"
         },
         "Phones": [
           {
@@ -1688,7 +1877,7 @@
       "Price": "$1,999,999",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "868 Hwy 8|Stoney Creek, Ontario L8E5J2",
+        "AddressText": "868 #8 Highway|Stoney Creek, Ontario L8E5J2",
         "Longitude": "-79.684352",
         "Latitude": "43.209951",
         "PermitShowAddress": true,
@@ -1697,10 +1886,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637531527849770000/reb14/highres/5/h4102535_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637531527849770000/reb14/medres/5/h4102535_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637531527849770000/reb14/lowres/5/h4102535_1.jpg",
-          "LastUpdated": "2021-04-04 5:06:24 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637532320434100000/reb14/highres/5/h4102535_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637532320434100000/reb14/medres/5/h4102535_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637532320434100000/reb14/lowres/5/h4102535_1.jpg",
+          "LastUpdated": "2021-04-05 3:07:23 PM"
         }
       ],
       "Parking": [
@@ -1727,13 +1916,13 @@
       "DetailsLink": "https://purplebricks.ca/on/hamilton-burlington-niagara/stoney-creek/home-for-sale/hab-868-highway-8-957664"
     },
     "PostalCode": "L8E5J2",
-    "RelativeDetailsURL": "/real-estate/23019215/868-hwy-8-stoney-creek",
+    "RelativeDetailsURL": "/real-estate/23019215/868-8-highway-stoney-creek",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-04 9:06:25 PM",
+    "PhotoChangeDateUTC": "2021-04-05 7:07:23 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23019215/868-hwy-8-stoney-creek",
-    "RelativeURLFr": "/immobilier/23019215/868-hwy-8-stoney-creek"
+    "RelativeURLEn": "/real-estate/23019215/868-8-highway-stoney-creek",
+    "RelativeURLFr": "/immobilier/23019215/868-8-highway-stoney-creek"
   },
   {
     "Id": "22765943",
@@ -2027,194 +2216,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22846838/5352-st-johns-sdrd-whitchurch-stouffville-rural-whitchurch-stouffville",
     "RelativeURLFr": "/immobilier/22846838/5352-st-johns-sdrd-whitchurch-stouffville"
-  },
-  {
-    "Id": "22866033",
-    "MlsNumber": "N5131252",
-    "PublicRemarks": "Situated On 5 Private Forested Acres| Set Well Back From The Road| Enjoy Privacy And Scenic Forested Views| Open Concept Great Room/Kitchen| 9 Ft Ceilings, Hardwood Floors, Kitchen W/Centre Island/Eat-In Brkfst Area| Master W/Ensuite+Heated Marble Flr| Bedroom 2 + Br 3 W/Ensuite. Staircase To L L Expansive Open Concept Bright Rec Rm With Wet Bar And Walk-Out| 5 Minute Drive To Newmarket & Hwy 404!**** EXTRAS **** Fantastic Low Maintenance! Rural Property| Heated Ceramic Floor In Kitchen Area -  | Fenced-In Dog Run W/Synthetic Lawn| 2 Tiered Deck W/Gazebo, Hot Tub @ Back Overlooks Private Forest| Propane Tank (R) To Be Assumed. Gym In Bsmt. (27997285)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1408214,
-        "Name": "WALTER WEI",
-        "Organization": {
-          "OrganizationID": 256963,
-          "Name": "RIGHT AT HOME REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637513926780000000/lowres/256963.jpg",
-          "Address": {
-            "AddressText": "1550 16TH AVENUE BLDG B UNIT 3 & 4|RICHMOND HILL, Ontario L4B3K9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "695-7888",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "695-0900",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/256963/right-at-home-realty-inc-1550-16th-avenue-bldg-b-unit-3-4-richmond-hill-ontario-l4b3k9",
-          "PhotoLastupdate": "2021-03-15 8:11:18 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "695-7888",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455706977"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1408214.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "WALTER",
-        "LastName": "WEI",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1408214/walter-wei-1550-16th-avenue-bldg-b-unit-3-4-richmond-hill-ontario-l4b3k9",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1408214.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 2015358,
-        "Name": "SALLY TAO",
-        "Organization": {
-          "OrganizationID": 256963,
-          "Name": "RIGHT AT HOME REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637513926780000000/lowres/256963.jpg",
-          "Address": {
-            "AddressText": "1550 16TH AVENUE BLDG B UNIT 3 & 4|RICHMOND HILL, Ontario L4B3K9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "695-7888",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "695-0900",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/256963/right-at-home-realty-inc-1550-16th-avenue-bldg-b-unit-3-4-richmond-hill-ontario-l4b3k9",
-          "PhotoLastupdate": "2021-03-15 8:11:18 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "695-7888",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.ihomesteam.ca",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/ihomesteam",
-            "WebsiteTypeId": "2"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459413458"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636511105800000000/lowres/1296660.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "SALLY",
-        "LastName": "TAO",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2015358/sally-tao-1550-16th-avenue-bldg-b-unit-3-4-richmond-hill-ontario-l4b3k9",
-        "AgentPhotoLastUpdated": "2018-01-09 16:03:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636511105800000000/highres/1296660.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,490,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5149 DAVIS DR|Whitchurch-Stouffville, Ontario L0G1E0",
-        "Longitude": "-79.3140918",
-        "Latitude": "44.0924899",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637501919599200000/reb82/highres/2/n5131252_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637501919599200000/reb82/medres/2/n5131252_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637501919599200000/reb82/lowres/2/n5131252_1.jpg",
-          "LastUpdated": "2021-03-01 10:39:19 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,490,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1490000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "279.06 x 732.37 FT|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://www.winsold.com/tour/43418"
-    },
-    "PostalCode": "L0G1E0",
-    "RelativeDetailsURL": "/real-estate/22866033/5149-davis-dr-whitchurch-stouffville-rural-whitchurch-stouffville",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-01 3:39:20 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22866033/5149-davis-dr-whitchurch-stouffville-rural-whitchurch-stouffville",
-    "RelativeURLFr": "/immobilier/22866033/5149-davis-dr-whitchurch-stouffville"
   },
   {
     "Id": "22898312",
@@ -2686,135 +2687,6 @@
     "RelativeURLFr": "/immobilier/22955572/7039-concession-rd-2-adjala-tosorontio"
   },
   {
-    "Id": "22981262",
-    "MlsNumber": "N5167869",
-    "PublicRemarks": "Massive Investment Opportunity. Adventure Awaits On This Private 10 Acre Lot With Bailey's Creek Running Through. Sit Back & Enjoy A Private Bonfire Creek-Side, Watch Turkey And Deer Meander About. Atv Your Way Over Your Private Bridge And Get Lost In The Trails. Redesign, Renovate Or Rebuild Your Dream Home. With 7 Bedrooms, 4 Bathrooms, 2824 Sq Ft (As Per Mpac) This Home Has Endless Possibilities. Metal Roof - Transferable Warranty. 2 Separate Garages.**** EXTRAS **** Pond, Stream With Bridge Over Bailey's Creek. Original Part Of The Home Is A Viceroy. Septic Pumped & Inspected- 2020, Well Inspected 2020. New Propane Furnace - 2020. Wett Inspected - 2020. (28149131)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "7",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1975781,
-        "Name": "DARCI LOVEGROVE",
-        "Organization": {
-          "OrganizationID": 259506,
-          "Name": "CENTURY 21 HERITAGE GROUP LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637529481350000000/lowres/1218063.jpg",
-          "Address": {
-            "AddressText": "1 QUEEN ST NORTH #1 BOX 711|TOTTENHAM, Ontario L0G1W0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "936-2121",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "775-3022",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.homesbyheritage.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/259506/century-21-heritage-group-ltd-1-queen-st-north-1-box-711-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-04-02 8:15:35 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "775-5677",
-            "AreaCode": "905",
-            "Extension": "5340",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459382582"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636770478600000000/lowres/1262420.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "DARCI",
-        "LastName": "LOVEGROVE",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1975781/darci-lovegrove-1-queen-st-north-1-box-711-tottenham-ontario-l0g1w0",
-        "AgentPhotoLastUpdated": "2018-11-05 20:51:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636770478600000000/highres/1262420.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": "Darci-Lovegrove"
-      }
-    ],
-    "Property": {
-      "Price": "$949,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7254 9TH LINE|New Tecumseth, Ontario L0G1A0",
-        "Longitude": "-79.8555048",
-        "Latitude": "44.0768859",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637522932889170000/reb82/highres/9/n5167869_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637522932889170000/reb82/medres/9/n5167869_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637522932889170000/reb82/lowres/9/n5167869_1.jpg",
-          "LastUpdated": "2021-03-25 6:21:28 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools",
-      "ConvertedPrice": "$949,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "949000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "217 x 2158 FT|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "DetailsLink": "http://www.7254-9line.com/",
-      "VideoLink": "http://www.7254-9line.com/unbranded/"
-    },
-    "PostalCode": "L0G1A0",
-    "RelativeDetailsURL": "/real-estate/22981262/7254-9th-line-new-tecumseth-beeton",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-25 10:21:28 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22981262/7254-9th-line-new-tecumseth-beeton",
-    "RelativeURLFr": "/immobilier/22981262/7254-9th-line-new-tecumseth"
-  },
-  {
     "Id": "22989080",
     "MlsNumber": "N5170195",
     "PublicRemarks": "Looking For A Workshop Or Even Two?! Marvellous Opportunity To Have Your Own Hobby Farm With 2 Barns: One A Workshop And The Other A Stall Barn Converted To A Storage Shed And A Detached Garage Also With A Workshop. Every Building Is In Immaculate Condition! 4 -Level Side-Split Home Features Hardwood Throughout And Renovated Bathrooms And Kitchen. All New Windows And A Full-Length Sunroom At The Back Of The House Overlooking The Manicured 10 Ac.**** EXTRAS **** All Existing Appliances; All Window Coverings & Related Hardware; Separate Garage W/Workshop; 31' X 32' Workshop W/Winter Water Pump, Propane & Hydro; Stall/Storage Barn; Vegetable Garden Beds & Strawberry Patch. (28159275)",
@@ -2830,7 +2702,7 @@
         "Organization": {
           "OrganizationID": 118575,
           "Name": "HOMELIFE INTEGRITY REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637524646020000000/lowres/118575.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532065600000000/lowres/118575.jpg",
           "Address": {
             "AddressText": "169 VICTORIA ST. W., UNIT A|ALLISTON, Ontario L9R1H8",
             "PermitShowAddress": true,
@@ -2861,7 +2733,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/118575/homelife-integrity-realty-inc-169-victoria-st-w-unit-a-alliston-ontario-l9r1h8",
-          "PhotoLastupdate": "2021-03-27 5:56:42 PM"
+          "PhotoLastupdate": "2021-04-05 8:02:40 AM"
         },
         "Phones": [
           {
@@ -3594,214 +3466,6 @@
     "RelativeURLFr": "/immobilier/22975018/17810-centreville-creek-rd-caledon"
   },
   {
-    "Id": "22782576",
-    "MlsNumber": "X5103431",
-    "PublicRemarks": "Move To The Beautiful Mono Countryside To This 2 Storey  Home, Architecturally  Designed For The Present Owners , It Is A One Of A Kind Home With Open Concept Living On The Main Floor, Soaring Ceilings, A Massive Centre Island And A Kitchen That Any Cook Would Envy. Great For An Active Young Family Or Someone Downsizing. Attached Fact Sheet With Many Features. Space For The Kids To Run/Play. Just 10 Minutes To Orangeville And All Its Amenities!**** EXTRAS **** Tarion Warranty From March,2019! 2 Stoves, 2 Dishwashers, Oversized Fridge, Washer /Dryer, All Elf's ,Generator. Minutes North Of Orangeville And All Its Amenities. Close To Ski Hills/ Walking Trails. On A Paved Road. Just Move In, All Done (27886007)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1410382,
-        "Name": "LYNDA LACEBY",
-        "Organization": {
-          "OrganizationID": 62449,
-          "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527240020000000/lowres/62449.jpg",
-          "Address": {
-            "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "833-0033",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "833-3773",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.lacebyrealestate.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-03-30 6:00:02 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "833-0033",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "833-0033",
-            "AreaCode": "905",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.lacebyrealestate.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455686664"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1410382.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "LYNDA",
-        "LastName": "LACEBY",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1410382/lynda-laceby-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1410382.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1420732,
-        "Name": "JEFFREY W LACEBY",
-        "Organization": {
-          "OrganizationID": 62449,
-          "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527240020000000/lowres/62449.jpg",
-          "Address": {
-            "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "833-0033",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "833-3773",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.lacebyrealestate.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-03-30 6:00:02 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "833-0033",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.lacebyrealestate.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455686305"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1420732.jpg",
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "JEFFREY W",
-        "LastName": "LACEBY",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1420732/jeffrey-w-laceby-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1420732.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,775,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "386106 20 SDRD|Mono, Ontario L9W6V2",
-        "Longitude": "-80.146377047777",
-        "Latitude": "44.0228740184348",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637521814684370000/reb82/highres/1/x5103431_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637521814684370000/reb82/medres/1/x5103431_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637521814684370000/reb82/lowres/1/x5103431_1.jpg",
-          "LastUpdated": "2021-03-24 11:17:48 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,775,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1775000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "412.5 x 1064.4 FT   ; 10 Acres, Wooded, Big Building Envelope.|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youtu.be/2nwQbVwpwJM"
-    },
-    "PostalCode": "L9W6V2",
-    "RelativeDetailsURL": "/real-estate/22782576/386106-20-sdrd-mono-rural-mono",
-    "StatusId": "1",
-    "PriceChangeDateUTC": "2021-03-29 6:10:16 PM",
-    "PhotoChangeDateUTC": "2021-03-24 3:17:48 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22782576/386106-20-sdrd-mono-rural-mono",
-    "RelativeURLFr": "/immobilier/22782576/386106-20-sdrd-mono"
-  },
-  {
     "Id": "22872976",
     "MlsNumber": "X5133701",
     "PublicRemarks": "One Of A Kind Century Stone Home On Over 13 Acres, Just North Of Rockwood. The Main Floor Has Large Principle Rooms, A 3Pc Bathroom And An Expansive Great Room. Upstairs Are 3 Large Bedrooms, A 3Pc Bath, And A 2nd Floor Den. Continuing Up Is A Finished, Approx. 200 Square Foot Attic. The Home Is Heated By Geothermal Forced Air Furnace. Approximately 64'X54' Bank Barn With Attached 3-Car Garage, A Private Spring Fed Swimming Pond And Bordering Lutteral Creek.**** EXTRAS **** Offers Conditional On Severance With Twp. Of Gue/Era For 90 Days From Acceptance. Property Being Sold \"\"As Is\"\". Water Sample Showing 0.0 In Supplements. Closing Date And Taxes/Assess. Pending Severance Completion. Pins 711700240 & 711700197 (28006677)",
@@ -4299,7 +3963,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/286405/remax-twin-city-faisal-susiwala-realty-30-grandy-lane-cambridge-ontario-n1r8k2",
-          "PhotoLastupdate": "2021-04-03 5:38:30 PM"
+          "PhotoLastupdate": "2021-04-05 1:38:28 PM"
         },
         "Phones": [
           {
@@ -4370,9 +4034,435 @@
     "RelativeDetailsURL": "/real-estate/23018110/485-townline-rd-puslinch-aberfoyle",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-03 9:38:30 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23018110/485-townline-rd-puslinch-aberfoyle",
     "RelativeURLFr": "/immobilier/23018110/485-townline-rd-puslinch"
+  },
+  {
+    "Id": "23021126",
+    "MlsNumber": "X5179841",
+    "PublicRemarks": "10 Acre Property For Sale In Great Location. This Home Has Lots Of Living Space Throughout. 3 Total Bedrooms, Including One On The Main Floor. Large Family Room On The Upper Level. Master Bedroom W/ Walkout Balcony Facing Niagara Escarpment. Partially Finished Basement W/ Fireplace. 2 Car Detached Garage W/ Ample Parking. Backs Onto Greenspace. Large Detached Barn W/ Separate Entrance. Close To Schools, Parks, Trails, Major Amenities & Hwy Access (28200967)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1567339,
+        "Name": "RANDALL WEESE",
+        "Organization": {
+          "OrganizationID": 269094,
+          "Name": "PURPLEBRICKS",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532287290000000/lowres/1231661.jpg",
+          "Address": {
+            "PermitShowAddress": false,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "CountryCode": "1",
+              "PhoneNumber": "336-9637",
+              "AreaCode": "866",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "CountryCode": "1",
+              "PhoneNumber": "840-3848",
+              "AreaCode": "866",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "464119283"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://purplebricks.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/269094/purplebricks-1250-south-service-rd-a14-stoney-creek-ontario-l8e5r9",
+          "PhotoLastupdate": "2021-04-05 2:12:09 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "CountryCode": "1",
+            "PhoneNumber": "336-9637",
+            "AreaCode": "866",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "https://purplebricks.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "458083207"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637317111600000000/lowres/1149636.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "RANDALL",
+        "LastName": "WEESE",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1567339/randall-weese",
+        "AgentPhotoLastUpdated": "2020-07-30 13:06:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637317111600000000/highres/1149636.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2023978,
+        "Name": "ADRIAN DI PIETRO",
+        "Organization": {
+          "OrganizationID": 279949,
+          "Name": "PURPLEBRICKS",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532287290000000/lowres/1307666.jpg",
+          "Address": {
+            "AddressText": "1250 SOUTH SERVICE RD #A13|STONEY CREEK, Ontario L8E5R9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "CountryCode": "1",
+              "PhoneNumber": "336-9637",
+              "AreaCode": "866",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "CountryCode": "1",
+              "PhoneNumber": "840-3848",
+              "AreaCode": "886",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "464119289"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://purplebricks.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279949/purplebricks-1250-south-service-rd-a13-stoney-creek-ontario-l8e5r9",
+          "PhotoLastupdate": "2021-04-05 2:12:09 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "CountryCode": "1",
+            "PhoneNumber": "336-9637",
+            "AreaCode": "866",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://purplebricks.ca/",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "460715337"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636991647000000000/lowres/1303719.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "ADRIAN",
+        "LastName": "DI PIETRO",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2023978/adrian-di-pietro-1250-south-service-rd-a13-stoney-creek-ontario-l8e5r9",
+        "AgentPhotoLastUpdated": "2019-07-19 20:25:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636991647000000000/highres/1303719.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,999,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "868 HWY 8|Hamilton, Ontario L8E5J2",
+        "Longitude": "-79.6843775",
+        "Latitude": "43.2106167",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637532310727170000/reb82/highres/1/x5179841_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637532310727170000/reb82/medres/1/x5179841_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637532310727170000/reb82/lowres/1/x5179841_1.jpg",
+          "LastUpdated": "2021-04-05 2:51:12 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1999999"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "270.04 FT|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "BrochureLink": "https://purplebricks.ca/on/hamilton-burlington-niagara/stoney-creek/home-for-sale/hab-868-highway-8-957664",
+      "DetailsLink": "https://purplebricks.ca/on/hamilton-burlington-niagara/stoney-creek/home-for-sale/hab-868-highway-8-957664"
+    },
+    "PostalCode": "L8E5J2",
+    "RelativeDetailsURL": "/real-estate/23021126/868-hwy-8-hamilton-fruitland",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-05 6:51:13 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23021126/868-hwy-8-hamilton-fruitland",
+    "RelativeURLFr": "/immobilier/23021126/868-hwy-8-hamilton"
+  },
+  {
+    "Id": "23022148",
+    "MlsNumber": "X5180283",
+    "PublicRemarks": "Just 10 Minutes North Of Orangeville You Will Find This Almost New, Lovely , Custom Built Home Nestled On A Wooded 10 Acres. This One Of A Kind , Architecturally Designed 2 Storey Home Boasts A Kitchen That Any Cook Would Love! A Massive Centre Island With Seating For 5 Is Part Of The Main Floor Open Concept Dining Area And Great Room With A Wood Burning Fireplace. A Home Where The Whole Family Can Congregate . Dining Area Walks Out To A Deck. Huge W/I Pantry**** EXTRAS **** Tarion Warranty From March 2019. 2 Stoves, 2 Dishwashers, Oversized Fridge, Oversized Washer And Dryer. All Elf's, Wired In Generator, Huge Extra Main Floor Walk-In Closet For Sports Equipment Etc. Close To Mono Ski Hills, Walking Trails. (28202431)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1410382,
+        "Name": "LYNDA LACEBY",
+        "Organization": {
+          "OrganizationID": 62449,
+          "Name": "LACEBY REAL ESTATE LIMITED",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532423810000000/lowres/62449.jpg",
+          "Address": {
+            "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "833-0033",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "833-3773",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.lacebyrealestate.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
+          "PhotoLastupdate": "2021-04-05 5:59:41 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "833-0033",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "833-0033",
+            "AreaCode": "905",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.lacebyrealestate.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455686664"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1410382.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "LYNDA",
+        "LastName": "LACEBY",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1410382/lynda-laceby-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1410382.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1420732,
+        "Name": "JEFFREY W LACEBY",
+        "Organization": {
+          "OrganizationID": 62449,
+          "Name": "LACEBY REAL ESTATE LIMITED",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532423810000000/lowres/62449.jpg",
+          "Address": {
+            "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "833-0033",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "833-3773",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.lacebyrealestate.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
+          "PhotoLastupdate": "2021-04-05 5:59:41 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "833-0033",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.lacebyrealestate.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455686305"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1420732.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "JEFFREY W",
+        "LastName": "LACEBY",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1420732/jeffrey-w-laceby-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1420732.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,725,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "386106 20 SDRD|Mono, Ontario L9W6V2",
+        "Longitude": "-80.115211",
+        "Latitude": "44.2096861",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637532423811100000/reb82/highres/3/x5180283_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637532423811100000/reb82/medres/3/x5180283_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637532423811100000/reb82/lowres/3/x5180283_1.jpg",
+          "LastUpdated": "2021-04-05 5:59:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,725,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1725000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "412.5 x 1064.4 FT   ; 10 Acres, Wooded, Big Building Envelope.|10 - 24.99 acres"
+    },
+    "PostalCode": "L9W6V2",
+    "RelativeDetailsURL": "/real-estate/23022148/386106-20-sdrd-mono-rural-mono",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-05 9:59:41 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23022148/386106-20-sdrd-mono-rural-mono",
+    "RelativeURLFr": "/immobilier/23022148/386106-20-sdrd-mono"
   }
 ]
