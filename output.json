@@ -189,7 +189,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/284606/remax-impact-realty-158-unit-3-1413-king-st-east-courtice-ontario-l1e2j6",
-          "PhotoLastupdate": "2021-01-21 12:28:51 PM"
+          "PhotoLastupdate": "2021-04-07 1:56:50 PM"
         },
         "Phones": [
           {
@@ -848,206 +848,6 @@
     "RelativeURLFr": "/immobilier/22953460/7039-concession-road-2-lisle"
   },
   {
-    "Id": "22970676",
-    "MlsNumber": "40085373",
-    "PublicRemarks": "You've rarely seen such an impeccable home! This incredibly well-maintained bungalow is nestled on a beautifully manicured 12-acre lot with mowed trails and a wonderful fenced-in pond. You can tinker in the insulated & drywalled 2.5-car garage. The large above-grade window brightens the rec room. Previously hosting a nursery, the greenhouse with water & hydro can be extremely useful for many applications. Come see it today! (63056049)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House",
-      "UnitTotal": "0"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1981516,
-        "Name": "Kevin Latam",
-        "Organization": {
-          "OrganizationID": 114628,
-          "Name": "Royal LePage Meadowtowne Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527309170000000/lowres/default/royallepage.gif",
-          "Address": {
-            "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "877-8262",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "466381103"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.meadowtowne.com/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-03-30 7:55:17 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "362-8455",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.latamandlatam.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455148795"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1280875.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Kevin",
-        "LastName": "Latam",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1981516/kevin-latam-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1280875.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 2074689,
-        "Name": "Mark Latam",
-        "Organization": {
-          "OrganizationID": 114628,
-          "Name": "Royal LePage Meadowtowne Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527309170000000/lowres/default/royallepage.gif",
-          "Address": {
-            "AddressText": "324 Guelph Street Unit # 12|Georgetown, Ontario L7G4B5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "877-8262",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "466381103"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.meadowtowne.com/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/114628/royal-lepage-meadowtowne-realty-brokerage-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-          "PhotoLastupdate": "2021-03-30 7:55:17 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "400-9812",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://latamandlatam.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455148610"
-          }
-        ],
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Mark",
-        "LastName": "Latam",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2074689/mark-latam-324-guelph-street-unit-12-georgetown-ontario-l7g4b5",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,699,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5903 FOURTH Line|Erin, Ontario N0B1Z0",
-        "Longitude": "-80.17955265",
-        "Latitude": "43.7635597",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637522050722570000/reb44/highres/3/40085373_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637522050722570000/reb44/medres/3/40085373_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637522050722570000/reb44/lowres/3/40085373_1.jpg",
-          "LastUpdated": "2021-03-24 5:51:12 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,699,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1699000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "12.1 ac|10 - 24.99 acres",
-      "SizeFrontage": "242 ft",
-      "AccessType": "Road access"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youriguide.com/5903_fourth_line_erin_on/"
-    },
-    "PostalCode": "N0B1Z0",
-    "RelativeDetailsURL": "/real-estate/22970676/5903-fourth-line-erin",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-24 9:51:16 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22970676/5903-fourth-line-erin",
-    "RelativeURLFr": "/immobilier/22970676/5903-fourth-line-erin"
-  },
-  {
     "Id": "22980561",
     "MlsNumber": "40087302",
     "PublicRemarks": "Stunning Muskoka-In-The-City property of over 7 Acres  in a  prime Ancaster enclave of distinct and quaint homes alike.  Wooded treed lot with gorgeous panorama views from the rear deck.  Running stream with wooden foot bridge and peaceful nature abound. A 3 bedroom charming classic home sits on this property with a massive addition with the exceptional views.  Large floor to to ceiling  windows and spacious principal living rooms on the main floor. Large fenced-in. Inground pool. Why go away to the country when the country comes to you!  Close to all major amenities between Ancaster and Dundas. (63067863)",
@@ -1365,7 +1165,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/283777/royal-lepage-meadowtowne-realty-inc-brokerage-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
-          "PhotoLastupdate": "2021-04-05 3:53:56 PM"
+          "PhotoLastupdate": "2021-04-07 1:55:02 PM"
         },
         "Phones": [
           {
@@ -1428,7 +1228,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/283777/royal-lepage-meadowtowne-realty-inc-brokerage-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
-          "PhotoLastupdate": "2021-04-05 3:53:56 PM"
+          "PhotoLastupdate": "2021-04-07 1:55:02 PM"
         },
         "Phones": [
           {
@@ -1509,7 +1309,6 @@
     "RelativeDetailsURL": "/real-estate/23020461/7582-old-tremaine-road-milton",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-05 5:24:18 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23020461/7582-old-tremaine-road-milton",
     "RelativeURLFr": "/immobilier/23020461/7582-old-tremaine-road-milton"
@@ -1663,7 +1462,7 @@
   {
     "Id": "23023864",
     "MlsNumber": "40091569",
-    "PublicRemarks": "Welcome to Muskoka, without the drive! This home has been lovingly maintained with many upgrades. A full kitchen renovation and addition was completed in 2017, to add space for your family gatherings and entertaining. Adjacent, is a spacious living room, with large window, wood burning stove and original hardwood floors. The main floor has three bedrooms, a main floor laundry and a 4pc bath. The lower level is a brand new, addition in itself. New poured concrete foundation, with separate entry, to a living room, dining room, kitchenette, a large bedroom and a 3pc bath. Large windows and grade level entry for the lower level, make for the perfect inlaw suite. Upgrades galore include, New septic system 8 years ago, with new holding tank. Well and flushing system all inspected, wood burning fire place just cleaned, wiring & grading already done for your future pool should you choose, new ductwork, side porch & railings, water tank, furnace, water softener, ductwork throughout, roof in 2017, 2 awnings with remote, barn was rewired in 2019, survey done in 2020, 2.2 acres is part of the Halton Conservation Forestry Plan, keeping the taxes low, Seasonal pond, generator, compressor,  volleyball court and equipment and a huge barn/workshop for your collection or enjoyment. This property also has a dog kennel license which has been kept up for over 20 years and new owner's can renew. All of this is offered on 13+ acres, is waiting for you! Do not miss out! (63115433)",
+    "PublicRemarks": "Welcome to Muskoka, without the drive! This home has been lovingly maintained with many upgrades. A full kitchen renovation and addition was completed in 2017, to add space for your family gatherings and entertaining. Adjacent, is a spacious living room, with large window, wood burning stove and original hardwood floors. The main floor has three bedrooms, a main floor laundry and a 4pc bath. The lower level is a brand new, addition in itself. New poured concrete foundation, with separate entry, to a living room, dining room, kitchenette, a large bedroom and a 3pc bath. Large windows and grade level entry for the lower level, make for the perfect inlaw suite. Upgrades galore include, New septic system 8 years ago, with new holding tank. Well and flushing system all inspected, wood burning fire place just cleaned, wiring & grading already done for your future pool should you choose, newer ductwork, side porch & railings, water tank, furnace, water softener, roof in 2017, 2 awnings with remote, barn was rewired in 2019, survey done in 2020, 2.2 acres is part of the Halton Conservation Forestry Plan, keeping the taxes low, Seasonal pond, generator, compressor,  all eves have leaf protection, volleyball court and equipment and a huge barn/workshop for your collection or enjoyment. This property also has a dog kennel license which has been kept up for over 20 years and new owner's can renew. All of this is offered on 13+ acres, is waiting for you! Do not miss out! (63115433)",
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
@@ -1679,7 +1478,7 @@
         "Organization": {
           "OrganizationID": 205041,
           "Name": "Sotheby's International Realty Canada, Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637533038590000000/lowres/205041.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637533392670000000/lowres/205041.jpg",
           "Address": {
             "AddressText": "125 Lakeshore Rd. E Suite 200|Oakville, Ontario L6J1H3",
             "PermitShowAddress": true,
@@ -1703,7 +1502,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/205041/sothebys-international-realty-canada-brokerage-125-lakeshore-rd-e-suite-200-oakville-ontario-l6j1h3",
-          "PhotoLastupdate": "2021-04-06 11:04:19 AM"
+          "PhotoLastupdate": "2021-04-06 8:54:27 PM"
         },
         "Phones": [
           {
@@ -1748,7 +1547,7 @@
         "Organization": {
           "OrganizationID": 205041,
           "Name": "Sotheby's International Realty Canada, Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637533038590000000/lowres/205041.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637533392670000000/lowres/205041.jpg",
           "Address": {
             "AddressText": "125 Lakeshore Rd. E Suite 200|Oakville, Ontario L6J1H3",
             "PermitShowAddress": true,
@@ -1772,7 +1571,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/205041/sothebys-international-realty-canada-brokerage-125-lakeshore-rd-e-suite-200-oakville-ontario-l6j1h3",
-          "PhotoLastupdate": "2021-04-06 11:04:19 AM"
+          "PhotoLastupdate": "2021-04-06 8:54:27 PM"
         },
         "Phones": [
           {
@@ -2256,7 +2055,6 @@
     "RelativeDetailsURL": "/real-estate/23019215/868-8-highway-stoney-creek",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-05 7:07:23 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23019215/868-8-highway-stoney-creek",
     "RelativeURLFr": "/immobilier/23019215/868-8-highway-stoney-creek"
@@ -3341,7 +3139,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/279050/right-at-home-realty-inc-16850-yonge-street-6b-newmarket-ontario-l3y0a3",
-          "PhotoLastupdate": "2021-04-06 2:42:29 PM"
+          "PhotoLastupdate": "2021-04-07 8:14:11 AM"
         },
         "Phones": [
           {
@@ -3377,7 +3175,7 @@
       }
     ],
     "Property": {
-      "Price": "$1,849,000",
+      "Price": "$1,650,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "2481 COUNTY RD 50 RD|Adjala-Tosorontio, Ontario L0G1W0",
@@ -3403,12 +3201,12 @@
       "ParkingSpaceTotal": "23",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,000 ",
+      "ConvertedPrice": "$1,650,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1849000"
+      "PriceUnformattedValue": "1650000"
     },
     "Business": {},
     "Land": {
@@ -3417,6 +3215,8 @@
     "PostalCode": "L0G1W0",
     "RelativeDetailsURL": "/real-estate/23003270/2481-county-rd-50-rd-adjala-tosorontio-loretto",
     "StatusId": "1",
+    "PriceChangeDateUTC": "2021-04-07 12:15:40 PM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-03-31 6:17:59 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/23003270/2481-county-rd-50-rd-adjala-tosorontio-loretto",
@@ -3928,6 +3728,114 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22975018/17810-centreville-creek-rd-caledon-rural-caledon",
     "RelativeURLFr": "/immobilier/22975018/17810-centreville-creek-rd-caledon"
+  },
+  {
+    "Id": "23032691",
+    "MlsNumber": "X5112353",
+    "PublicRemarks": "This Bungalow Is Guaranteed To Impress Any Buyer Who Appreciates Spacious And Peaceful Living. There Are 7 Picturesque Acres To Enjoy Along With Glorious Views Over The Neighbouring Forest. The Layout Is Spread Over 1,834 Sqft & Offers Three Large Bedrooms, A Formal Dining Room With Built-Ins Plus A Lower Level With A Unique Wine Cellar, A Games Room And A Spacious Family Room W/ A Gas Stove. 273.09 Ft * 1,127.64 Ft * 125.26 Ft * 200.42 Ft * 147.79 * 1330.21**** EXTRAS **** In The Heart Of The Home Sits The Open-Plan Kitchen And Family Room. Prepare Delicious Meals In This Gourmet Space Complete With Gorgeous Cabinetry And An Island While Relaxing In The Family Room (28145044)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2129022,
+        "Name": "JENNIFER HUANG",
+        "Organization": {
+          "OrganizationID": 283865,
+          "Name": "ROYAL LEPAGE NRC REALTY",
+          "Address": {
+            "AddressText": "35 MAYWOOD AVE|ST. CATHARINES, Ontario L2R1C5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "688-4561",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283865/royal-lepage-nrc-realty-35-maywood-ave-st-catharines-ontario-l2r1c5",
+          "PhotoLastupdate": "2021-04-07 6:05:42 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "688-4561",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "465624709"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "JENNIFER",
+        "LastName": "HUANG",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2129022/jennifer-huang-35-maywood-ave-st-catharines-ontario-l2r1c5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,390,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1288 LINE 3 RD|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.0787115",
+        "Latitude": "43.2115245",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637534034564570000/reb82/highres/3/x5112353_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637534034564570000/reb82/medres/3/x5112353_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637534034564570000/reb82/lowres/3/x5112353_1.jpg",
+          "LastUpdated": "2021-04-07 2:44:16 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "4",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,390,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1390000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "273 x 1127 FT   ; Irregular|5 - 9.99 acres"
+    },
+    "PostalCode": "L0S1J0",
+    "RelativeDetailsURL": "/real-estate/23032691/1288-line-3-rd-niagara-on-the-lake",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-07 6:44:16 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23032691/1288-line-3-rd-niagara-on-the-lake",
+    "RelativeURLFr": "/immobilier/23032691/1288-line-3-rd-niagara-on-the-lake"
   },
   {
     "Id": "22872976",
@@ -4719,7 +4627,6 @@
     "RelativeDetailsURL": "/real-estate/23021126/868-hwy-8-hamilton-fruitland",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-05 6:51:13 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23021126/868-hwy-8-hamilton-fruitland",
     "RelativeURLFr": "/immobilier/23021126/868-hwy-8-hamilton"
@@ -4924,7 +4831,6 @@
     "RelativeDetailsURL": "/real-estate/23022148/386106-20-sdrd-mono-rural-mono",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-05 9:59:41 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23022148/386106-20-sdrd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23022148/386106-20-sdrd-mono"

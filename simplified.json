@@ -261,56 +261,6 @@
     }
   },
   {
-    "Id": "22970676",
-    "MlsNumber": "40085373",
-    "Property": {
-      "Price": "$1,699,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5903 FOURTH Line|Erin, Ontario N0B1Z0",
-        "Longitude": "-80.17955265",
-        "Latitude": "43.7635597",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637522050722570000/reb44/highres/3/40085373_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637522050722570000/reb44/medres/3/40085373_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637522050722570000/reb44/lowres/3/40085373_1.jpg",
-          "LastUpdated": "2021-03-24 5:51:12 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,699,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1699000"
-    },
-    "Land": {
-      "SizeTotal": "12.1 ac|10 - 24.99 acres",
-      "SizeFrontage": "242 ft",
-      "AccessType": "Road access"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
     "Id": "22980561",
     "MlsNumber": "40087302",
     "Property": {
@@ -1042,7 +992,7 @@
     "Id": "23003270",
     "MlsNumber": "N5173837",
     "Property": {
-      "Price": "$1,849,000",
+      "Price": "$1,650,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "2481 COUNTY RD 50 RD|Adjala-Tosorontio, Ontario L0G1W0",
@@ -1068,12 +1018,12 @@
       "ParkingSpaceTotal": "23",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,000 ",
+      "ConvertedPrice": "$1,650,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1849000"
+      "PriceUnformattedValue": "1650000"
     },
     "Land": {
       "SizeTotal": "547 x 1600 FT   ; 20 Acres|10 - 24.99 acres"
@@ -1223,6 +1173,53 @@
       "BathroomTotal": "4",
       "Bedrooms": "3",
       "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23032691",
+    "MlsNumber": "X5112353",
+    "Property": {
+      "Price": "$1,390,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1288 LINE 3 RD|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.0787115",
+        "Latitude": "43.2115245",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637534034564570000/reb82/highres/3/x5112353_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637534034564570000/reb82/medres/3/x5112353_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637534034564570000/reb82/lowres/3/x5112353_1.jpg",
+          "LastUpdated": "2021-04-07 2:44:16 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "4",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,390,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1390000"
+    },
+    "Land": {
+      "SizeTotal": "273 x 1127 FT   ; Irregular|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
