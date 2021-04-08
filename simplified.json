@@ -512,56 +512,6 @@
     }
   },
   {
-    "Id": "23022752",
-    "MlsNumber": "40092595",
-    "Property": {
-      "Price": "$1,499,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1319 HEATHFIELD Crescent|Oakville, Ontario L6M1T2",
-        "Longitude": "-79.732162",
-        "Latitude": "43.440673",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637532912233900000/reb15/highres/5/40092595_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637532912233900000/reb15/medres/5/40092595_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637532912233900000/reb15/lowres/5/40092595_1.jpg",
-          "LastUpdated": "2021-04-06 7:33:43 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "4",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby, Hospital, Public Transit, Schools",
-      "ConvertedPrice": "$1,499,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1499000"
-    },
-    "Land": {
-      "SizeTotal": "6000 ac|under 1/2 acre",
-      "SizeFrontage": "50 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4 + 0",
-      "SizeInterior": "2950.0000",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23017321",
     "MlsNumber": "H4102345",
     "Property": {
@@ -1318,53 +1268,6 @@
     }
   },
   {
-    "Id": "22972165",
-    "MlsNumber": "X5164559",
-    "Property": {
-      "Price": "$1,699,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5903 FOURTH LINE|Erin, Ontario N0B1Z0",
-        "Longitude": "-80.1795612075446",
-        "Latitude": "43.7635946362744",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637522054666100000/reb86/highres/9/x5164559_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637522054666100000/reb86/medres/9/x5164559_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637522054666100000/reb86/lowres/9/x5164559_1.jpg",
-          "LastUpdated": "2021-03-24 5:57:46 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,699,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1699000"
-    },
-    "Land": {
-      "SizeTotal": "241.58 x 2208.48 FT   ; 12.1 Acres Per Geowarehouse|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23018110",
     "MlsNumber": "X5178922",
     "Property": {
@@ -1548,6 +1451,53 @@
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "6 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23040175",
+    "MlsNumber": "X5185166",
+    "Property": {
+      "Price": "$1,649,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "103074 10 SDRD|East Garafraxa, Ontario L9W7K2",
+        "Longitude": "-80.2462931306379",
+        "Latitude": "43.8523810808861",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637534934932970000/reb82/highres/6/x5185166_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637534934932970000/reb82/medres/6/x5185166_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637534934932970000/reb82/lowres/6/x5185166_1.jpg",
+          "LastUpdated": "2021-04-08 3:44:53 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,649,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1649000"
+    },
+    "Land": {
+      "SizeTotal": "219.39 x 10.04 Acre|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
       "StoriesTotal": "1",
       "Type": "House"
     }
