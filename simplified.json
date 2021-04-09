@@ -1,5 +1,58 @@
 [
   {
+    "Id": "20185869",
+    "MlsNumber": "30703385",
+    "Property": {
+      "Price": "$1,700,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5826 FIRST Line|Erin, Ontario L0N1Z0",
+        "Longitude": "-80.202309",
+        "Latitude": "43.727796",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637535244697230000/reb44/highres/5/30703385_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637535244697230000/reb44/medres/5/30703385_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637535244697230000/reb44/lowres/5/30703385_1.jpg",
+          "LastUpdated": "2021-04-09 12:21:09 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "None"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,700,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Gravel, None",
+      "PriceUnformattedValue": "1700000"
+    },
+    "Land": {
+      "SizeTotal": "24.89 ac|10 - 24.99 acres",
+      "SizeFrontage": "992 ft"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "13 + 0",
+      "SizeInterior": "5360.0000",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "22434234",
     "MlsNumber": "40028565",
     "Property": {
@@ -613,6 +666,57 @@
     }
   },
   {
+    "Id": "23043720",
+    "MlsNumber": "H4103191",
+    "Property": {
+      "Price": "$1,680,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "755699 Second Line|Mono, Ontario L9V1B3",
+        "Longitude": "-80.090094",
+        "Latitude": "44.098813",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637535920510500000/reb14/highres/1/h4103191_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637535920510500000/reb14/medres/1/h4103191_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637535920510500000/reb14/lowres/1/h4103191_1.jpg",
+          "LastUpdated": "2021-04-09 7:07:31 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,680,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage, Gravel",
+      "PriceUnformattedValue": "1680000"
+    },
+    "Land": {
+      "SizeTotal": "230.13 x 75.34 x 1534.30 x 280.38 x 1583.36 ft|10 - 24.99 acres",
+      "SizeFrontage": "1543 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "SizeInterior": "2660.0000",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22765943",
     "MlsNumber": "N5097826",
     "Property": {
@@ -939,53 +1043,6 @@
     }
   },
   {
-    "Id": "23003270",
-    "MlsNumber": "N5173837",
-    "Property": {
-      "Price": "$1,650,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "2481 COUNTY RD 50 RD|Adjala-Tosorontio, Ontario L0G1W0",
-        "Longitude": "-79.8864010620117",
-        "Latitude": "44.032461460469",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637527970798600000/reb82/highres/7/n5173837_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637527970798600000/reb82/medres/7/n5173837_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637527970798600000/reb82/lowres/7/n5173837_1.jpg",
-          "LastUpdated": "2021-03-31 2:17:59 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "23",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,650,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1650000"
-    },
-    "Land": {
-      "SizeTotal": "547 x 1600 FT   ; 20 Acres|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23025785",
     "MlsNumber": "N5181312",
     "Property": {
@@ -1028,6 +1085,53 @@
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23048047",
+    "MlsNumber": "N5188213",
+    "Property": {
+      "Price": "$1,650,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1634 CONCESSION RD 8|Adjala-Tosorontio, Ontario L0G1W0",
+        "Longitude": "-79.8442279",
+        "Latitude": "44.0025373",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637535893479400000/reb82/highres/3/n5188213_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637535893479400000/reb82/medres/3/n5188213_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637535893479400000/reb82/lowres/3/n5188213_1.jpg",
+          "LastUpdated": "2021-04-09 6:22:27 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,650,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1650000"
+    },
+    "Land": {
+      "SizeTotal": "775.64 x 542.84 FT   ; As Per Geo|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4 + 1",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -1080,49 +1184,36 @@
     }
   },
   {
-    "Id": "22975018",
-    "MlsNumber": "W5165708",
+    "Id": "23048193",
+    "MlsNumber": "W5187985",
     "Property": {
-      "Price": "$1,599,000",
+      "Price": "$1,750,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "17810 CENTREVILLE CREEK RD|Caledon, Ontario L7K2L6",
-        "Longitude": "-79.8934215",
-        "Latitude": "43.9237741",
+        "AddressText": "11343 REGIONAL ROAD 25|Halton Hills, Ontario L7J2M1",
+        "Longitude": "-79.9843618",
+        "Latitude": "43.5866215",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637522066356130000/reb82/highres/8/w5165708_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637522066356130000/reb82/medres/8/w5165708_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637522066356130000/reb82/lowres/8/w5165708_1.jpg",
-          "LastUpdated": "2021-03-24 6:17:15 PM"
-        }
-      ],
       "Parking": [
         {
-          "Name": "Attached Garage"
+          "Name": "Detached Garage"
         }
       ],
-      "ParkingSpaceTotal": "12",
+      "ParkingSpaceTotal": "22",
       "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1599000"
+      "ConvertedPrice": "$1,750,000 ",
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1750000"
     },
     "Land": {
-      "SizeTotal": "10 Acre   ; Lot Size Per Mpac|10 - 24.99 acres"
+      "SizeTotal": "197.42 x 592 FT   ; 118.28,9.08,375.44,197.43,592.99|5 - 9.99 acres"
     },
     "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3",
-      "StoriesTotal": "1.5000",
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -1451,53 +1542,6 @@
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "6 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23040175",
-    "MlsNumber": "X5185166",
-    "Property": {
-      "Price": "$1,649,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "103074 10 SDRD|East Garafraxa, Ontario L9W7K2",
-        "Longitude": "-80.2462931306379",
-        "Latitude": "43.8523810808861",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637534934932970000/reb82/highres/6/x5185166_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637534934932970000/reb82/medres/6/x5185166_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637534934932970000/reb82/lowres/6/x5185166_1.jpg",
-          "LastUpdated": "2021-04-08 3:44:53 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,649,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1649000"
-    },
-    "Land": {
-      "SizeTotal": "219.39 x 10.04 Acre|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
       "StoriesTotal": "1",
       "Type": "House"
     }
