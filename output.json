@@ -329,7 +329,6 @@
     "RelativeDetailsURL": "/real-estate/20185869/5826-first-line-erin",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-09 4:21:15 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/20185869/5826-first-line-erin",
     "RelativeURLFr": "/immobilier/20185869/5826-first-line-erin"
@@ -1201,7 +1200,7 @@
         "Organization": {
           "OrganizationID": 205188,
           "Name": "RE/MAX Aboutowne Realty Corp., Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637527020710000000/lowres/47653.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536668490000000/lowres/47653.jpg",
           "Address": {
             "AddressText": "1235 North Service Road West #100|Oakville, Ontario L6M2W2",
             "PermitShowAddress": true,
@@ -1237,7 +1236,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/205188/remax-aboutowne-realty-corp-brokerage-1235-north-service-road-west-100-oakville-ontario-l6m2w2",
-          "PhotoLastupdate": "2021-03-30 11:54:31 AM"
+          "PhotoLastupdate": "2021-04-10 3:54:09 PM"
         },
         "Phones": [
           {
@@ -1272,7 +1271,7 @@
       }
     ],
     "Property": {
-      "Price": "$1,999,999",
+      "Price": "$1,799,999",
       "Type": "Single Family",
       "Address": {
         "AddressText": "704 OLD DUNDAS Road|Ancaster, Ontario L9H5E3",
@@ -1297,12 +1296,12 @@
       ],
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,999,999 ",
+      "ConvertedPrice": "$1,799,999 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Gravel",
-      "PriceUnformattedValue": "1999999"
+      "PriceUnformattedValue": "1799999"
     },
     "Business": {},
     "Land": {
@@ -1313,6 +1312,8 @@
     "PostalCode": "L9H5E3",
     "RelativeDetailsURL": "/real-estate/22980561/704-old-dundas-road-ancaster",
     "StatusId": "1",
+    "PriceChangeDateUTC": "2021-04-10 7:55:24 PM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-03-30 3:40:46 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/22980561/704-old-dundas-road-ancaster",
@@ -2016,7 +2017,7 @@
         "Organization": {
           "OrganizationID": 262664,
           "Name": "RE/MAX Escarpment Realty Inc",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637535748210000000/lowres/default/remaxoa.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536460030000000/lowres/default/remaxoa.gif",
           "Address": {
             "AddressText": "#101-325 Winterberry Drive|Stoney Creek, Ontario L8J0B6",
             "PermitShowAddress": true,
@@ -2046,7 +2047,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/262664/remax-escarpment-realty-inc-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
-          "PhotoLastupdate": "2021-04-09 2:20:21 PM"
+          "PhotoLastupdate": "2021-04-10 10:06:43 AM"
         },
         "Phones": [
           {
@@ -2123,6 +2124,9 @@
     "Land": {
       "SizeTotal": "11 ACRES|10 - 24.99 acres",
       "SizeFrontage": "253 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://www.myvisuallistings.com/vtnb/308747"
     },
     "PostalCode": "L9H5E1",
     "RelativeDetailsURL": "/real-estate/23017321/536-8-highway-flamborough",
@@ -2293,7 +2297,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/284639/remax-escarpment-realty-inc-502-brant-street-unit-1a-burlington-ontario-l7r2g4",
-          "PhotoLastupdate": "2021-04-09 7:06:02 PM"
+          "PhotoLastupdate": "2021-04-10 12:05:54 PM"
         },
         "Phones": [
           {
@@ -2332,10 +2336,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637535920510500000/reb14/highres/1/h4103191_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637535920510500000/reb14/medres/1/h4103191_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637535920510500000/reb14/lowres/1/h4103191_1.jpg",
-          "LastUpdated": "2021-04-09 7:07:31 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637536532146430000/reb14/highres/1/h4103191_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637536532146430000/reb14/medres/1/h4103191_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637536532146430000/reb14/lowres/1/h4103191_1.jpg",
+          "LastUpdated": "2021-04-10 12:06:54 PM"
         }
       ],
       "Parking": [
@@ -2362,14 +2366,14 @@
       "SizeFrontage": "1543 ft"
     },
     "AlternateURL": {
-      "BrochureLink": "http://listing.otbxair.com/7556992ndlineehs",
+      "BrochureLink": "http://755699secondline.marketingrmx.com",
       "DetailsLink": "http://listing.otbxair.com/7556992ndlineehs",
       "PhotoLink": "http://listing.otbxair.com/7556992ndlineehs/?mls"
     },
     "PostalCode": "L9V1B3",
     "RelativeDetailsURL": "/real-estate/23043720/755699-second-line-mono",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-09 11:07:31 PM",
+    "PhotoChangeDateUTC": "2021-04-10 4:06:54 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23043720/755699-second-line-mono",
@@ -3153,7 +3157,7 @@
         "Organization": {
           "OrganizationID": 118575,
           "Name": "HOMELIFE INTEGRITY REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532065600000000/lowres/118575.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536740460000000/lowres/118575.jpg",
           "Address": {
             "AddressText": "169 VICTORIA ST. W., UNIT A|ALLISTON, Ontario L9R1H8",
             "PermitShowAddress": true,
@@ -3184,7 +3188,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/118575/homelife-integrity-realty-inc-169-victoria-st-w-unit-a-alliston-ontario-l9r1h8",
-          "PhotoLastupdate": "2021-04-05 8:02:40 AM"
+          "PhotoLastupdate": "2021-04-10 5:54:06 PM"
         },
         "Phones": [
           {
@@ -3923,7 +3927,7 @@
   {
     "Id": "23048193",
     "MlsNumber": "W5187985",
-    "PublicRemarks": "Wow, One Of A Kind Country Retreat, This Property Consists Of A Total Of 7.57 Acres In Two Parcel Total.The Property Offers Magnificent Tree Lined Driveway With 3 Outbuildings. The Bank Barn Offers 2 Floors Of Rustic Beams That Works Great For Extra Storage. Great Man Cave With A Concrete Flr, Plus An Amzing Workshop. 3000 Sq Ft Contemporary Stone Home Plus Barn, Potters Barn, Stone Workshop. This Type Of Property Does Not Come Available.**** EXTRAS **** Fridge, Stove, Washer, Dryer, Microwave. (Pictures To Follow Shortly) (28236178)",
+    "PublicRemarks": "Wow, One Of A Kind Country Retreat, This Property Consists Of A Total Of 7.57 Acres In Two Parcel Total.The Property Offers Magnificent Tree Lined Driveway With 3 Outbuildings. The Bank Barn Offers 2 Floors Of Rustic Beams That Works Great For Extra Storage. Great Man Cave With A Concrete Flr, Plus An Amzing Workshop. 3000 Sq Ft Contemporary Stone Home Plus Barn, Potters Barn, Stone Workshop. This Type Of Property Does Not Come Available.**** EXTRAS **** Fridge, Stove, Washer, Dryer, Microwave. (Pictures To Follow Shortly)\"\"Horse Paddock And Stalls\"\" Do Not Let Horses Out (28236178)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "4",
@@ -3937,7 +3941,7 @@
         "Organization": {
           "OrganizationID": 152307,
           "Name": "RE/MAX REAL ESTATE CENTRE INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637535898770000000/lowres/1201558.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536741810000000/lowres/1201558.jpg",
           "Address": {
             "PermitShowAddress": false,
             "DisseminationArea": null
@@ -3961,7 +3965,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/152307/remax-real-estate-centre-inc-23-mountainview-rd-s-georgetown-ontario-l7g4j8",
-          "PhotoLastupdate": "2021-04-09 6:31:17 PM"
+          "PhotoLastupdate": "2021-04-10 5:56:21 PM"
         },
         "Phones": [
           {
@@ -3999,12 +4003,21 @@
       "Price": "$1,750,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "11343 REGIONAL ROAD 25|Halton Hills, Ontario L7J2M1",
+        "AddressText": "11343 REGIONAL ROAD 25 RD|Halton Hills, Ontario L7J2M1",
         "Longitude": "-79.9843618",
         "Latitude": "43.5866215",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637536587948500000/reb82/highres/5/w5187985_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637536587948500000/reb82/medres/5/w5187985_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637536587948500000/reb82/lowres/5/w5187985_1.jpg",
+          "LastUpdated": "2021-04-10 1:39:54 PM"
+        }
+      ],
       "Parking": [
         {
           "Name": "Detached Garage"
@@ -4020,12 +4033,17 @@
     "Land": {
       "SizeTotal": "197.42 x 592 FT   ; 118.28,9.08,375.44,197.43,592.99|5 - 9.99 acres"
     },
+    "AlternateURL": {
+      "VideoLink": "https://www.tourbuzz.net/1813060?a=1"
+    },
     "PostalCode": "L7J2M1",
-    "RelativeDetailsURL": "/real-estate/23048193/11343-regional-road-25-halton-hills-rural-halton-hills",
+    "RelativeDetailsURL": "/real-estate/23048193/11343-regional-road-25-rd-halton-hills-rural-halton-hills",
     "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-10 5:39:55 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23048193/11343-regional-road-25-halton-hills-rural-halton-hills",
-    "RelativeURLFr": "/immobilier/23048193/11343-regional-road-25-halton-hills"
+    "RelativeURLEn": "/real-estate/23048193/11343-regional-road-25-rd-halton-hills-rural-halton-hills",
+    "RelativeURLFr": "/immobilier/23048193/11343-regional-road-25-rd-halton-hills"
   },
   {
     "Id": "23032691",
@@ -4960,7 +4978,7 @@
         "Organization": {
           "OrganizationID": 266588,
           "Name": "RE/MAX ESCARPMENT REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637535031950000000/lowres/default/remaxoa.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536599760000000/lowres/default/remaxoa.gif",
           "Address": {
             "AddressText": "2180 ITABASHI WAY #4B|BURLINGTON, Ontario L7M5A5",
             "PermitShowAddress": true,
@@ -4997,7 +5015,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/266588/remax-escarpment-realty-inc-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
-          "PhotoLastupdate": "2021-04-08 6:26:35 PM"
+          "PhotoLastupdate": "2021-04-10 1:59:36 PM"
         },
         "Phones": [
           {
