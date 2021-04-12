@@ -979,7 +979,6 @@
     "RelativeDetailsURL": "/real-estate/22980561/704-old-dundas-road-ancaster",
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-04-10 7:55:24 PM",
-    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-03-30 3:40:46 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/22980561/704-old-dundas-road-ancaster",
@@ -1667,140 +1666,142 @@
     "RelativeURLFr": "/immobilier/23023864/2072-centre-road-flamborough"
   },
   {
-    "Id": "23017321",
-    "MlsNumber": "H4102345",
-    "PublicRemarks": "Imagine all the stress leaving your body as you follow gentle winding lane past beautiful horse meadows to a real life Hallmark Setting. Positioned proudly on beautiful 11 rural ac property is impressive Tudor-style 2-family home showcasing 600sf of covered wrap-around decking + desired lower level walk-out. Family friendly main floor introduces inviting front foyer leads to Super-sized kitchen ftrs ample cabinetry, comfortable living room sporting p/g fireplace, ultra-spacious master incs 3pc en-suite w/laundry station, 3 roomy bedrooms + 4pc primary bath. Open concept lower level family room enjoys walk-out to 225sf conc. entertainment patio overlooking rolling grounds, tranquil pond + engaging fire-pit. Continues to separate 2 bedroom in-law unit boasts updated 3pc bath, living room + dining room w/patio door walk-out to 210sf priv. deck. Desired bachelor style 3rd unit offers large common area, 4pc bath + direct access to 425sf att. garage. The horse lover, hobbyist or naturalist will appreciate rustic 30x46 bank barn + 24x36 multi-purp. building incs workshop, hydro, insulated well room incs purification system + att. lean-to. Extras inc livestock paddock, aprx. 5 ac workable land, p/g furnace/AC-2020, mini-split heat/cool system (in-law)-2020, pot lights-2020, MF washer/dryer-2020, vinyl flooring/carpeting-20/21, freshly painted decor-2020 + 16x24 AG pool. Imagine Upscale Flamborough Country Living...just minutes to Hamilton, Ancaster, Dundas, Waterdown + 403. AIA (27119666)",
+    "Id": "23053399",
+    "MlsNumber": "40096067",
+    "PublicRemarks": "Welcome to a Fantastic Opportunity to live in one of Toronto's  Prestigious Neighbourhoods, Sherwood Park. Fabulous walkout to a private south facing yard. This 2-storey detached has lovely neutral decor throughout. All Committee of Adjustment approval hard work has been completed... submit your final house drawings and apply for the building permit... pick your Builder, the exterior and interior finishes.. and build your beautiful dream home!! Time is on your side.... Short walk to Yonge and Eglinton, Places Of Worship, Schools, Shopping & Future LRT Being Built Now - Great Time To Buy Into this beautiful area ! (63149466)",
     "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "6 + 1",
-      "SizeInterior": "2672.0000",
-      "Type": "House"
+      "BathroomTotal": "1",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
     },
     "Individual": [
       {
-        "IndividualID": 1524319,
-        "Name": "Peter R. Hogeterp",
+        "IndividualID": 1563486,
+        "Name": "DENISE LAURA BANNERMAN",
         "Organization": {
-          "OrganizationID": 262664,
-          "Name": "RE/MAX Escarpment Realty Inc",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536460030000000/lowres/default/remaxoa.gif",
+          "OrganizationID": 284515,
+          "Name": "Cloud Realty Inc.",
           "Address": {
-            "AddressText": "#101-325 Winterberry Drive|Stoney Creek, Ontario L8J0B6",
+            "AddressText": "155 Frobisher Drive, Unit i106|Waterloo, Ontario N2V2E1",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
           "Phones": [
             {
               "PhoneType": "Telephone",
-              "PhoneNumber": "573-1188",
-              "AreaCode": "905",
+              "PhoneNumber": "772-8940",
+              "AreaCode": "519",
               "PhoneTypeId": "1"
             },
             {
               "PhoneType": "Fax",
-              "PhoneNumber": "573-1189",
-              "AreaCode": "905",
+              "PhoneNumber": "997-6303",
+              "AreaCode": "519",
               "PhoneTypeId": "4"
             }
           ],
           "Emails": [
             {
-              "ContactId": "463978945"
+              "ContactId": "463978441"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.cloudrealty.ca",
+              "WebsiteTypeId": "1"
             }
           ],
           "OrganizationType": "Firm",
           "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/262664/remax-escarpment-realty-inc-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
-          "PhotoLastupdate": "2021-04-10 10:06:43 AM"
+          "RelativeDetailsURL": "/office/firm/284515/cloud-realty-inc-155-frobisher-drive-unit-i106-waterloo-ontario-n2v2e1",
+          "PhotoLastupdate": "2021-04-12 11:56:31 AM"
         },
         "Phones": [
           {
             "PhoneType": "Telephone",
-            "PhoneNumber": "573-1188",
-            "AreaCode": "905",
+            "PhoneNumber": "772-8940",
+            "AreaCode": "519",
             "PhoneTypeId": "1"
           },
           {
             "PhoneType": "Fax",
-            "PhoneNumber": "573-1189",
-            "AreaCode": "905",
+            "PhoneNumber": "997-6303",
+            "AreaCode": "519",
             "PhoneTypeId": "4"
           }
         ],
         "Emails": [
           {
-            "ContactId": "463180619"
+            "ContactId": "456792910"
           }
         ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636437080200000000/lowres/1111114.jpg",
+        "Photo": "https://cdn.realtor.ca/individual/TS636886958400000000/lowres/1120955.jpg",
         "Position": "Salesperson",
         "PermitFreetextEmail": true,
-        "FirstName": "Peter",
-        "LastName": "Hogeterp",
+        "FirstName": "DENISE",
+        "LastName": "BANNERMAN",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1524319/peter-hogeterp-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
-        "AgentPhotoLastUpdated": "2017-10-15 23:47:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636437080200000000/highres/1111114.jpg",
+        "RelativeDetailsURL": "/agent/1563486/denise-bannerman-155-frobisher-drive-unit-i106-waterloo-ontario-n2v2e1",
+        "AgentPhotoLastUpdated": "2019-03-20 16:24:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636886958400000000/highres/1120955.jpg",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       }
     ],
     "Property": {
-      "Price": "$1,699,900",
+      "Price": "$1,599,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "536 #8 Highway|Flamborough, Ontario L9H5E1",
-        "Longitude": "-80.080077",
-        "Latitude": "43.285904",
+        "AddressText": "283 BROADWAY Avenue|Toronto, Ontario M4P1W2",
+        "Longitude": "-79.38595858",
+        "Latitude": "43.712075",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637530448700630000/reb14/highres/5/h4102345_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637530448700630000/reb14/medres/5/h4102345_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637530448700630000/reb14/lowres/5/h4102345_1.jpg",
-          "LastUpdated": "2021-04-03 11:07:50 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637538268920530000/reb16/highres/7/40096067_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637538268920530000/reb16/medres/7/40096067_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637538268920530000/reb16/lowres/7/40096067_1.jpg",
+          "LastUpdated": "2021-04-12 12:21:32 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
+          "Name": "Interlocked"
         }
       ],
-      "ParkingSpaceTotal": "10",
+      "ParkingSpaceTotal": "1",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Course, Schools",
-      "ConvertedPrice": "$1,699,900 ",
+      "AmmenitiesNearBy": "Hospital, Place of Worship, Public Transit, Schools",
+      "ConvertedPrice": "$1,599,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Attached Garage, Gravel",
-      "PriceUnformattedValue": "1699900"
+      "ParkingType": "Interlocked",
+      "PriceUnformattedValue": "1599000"
     },
     "Business": {},
     "Land": {
-      "SizeTotal": "11 ACRES|10 - 24.99 acres",
-      "SizeFrontage": "253 ft"
+      "SizeTotal": "124 ac|under 1/2 acre",
+      "SizeFrontage": "24 ft",
+      "AccessType": "Highway Nearby"
     },
-    "AlternateURL": {
-      "VideoLink": "http://www.myvisuallistings.com/vtnb/308747"
-    },
-    "PostalCode": "L9H5E1",
-    "RelativeDetailsURL": "/real-estate/23017321/536-8-highway-flamborough",
+    "PostalCode": "M4P1W2",
+    "RelativeDetailsURL": "/real-estate/23053399/283-broadway-avenue-toronto",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-03 3:07:50 PM",
+    "PhotoChangeDateUTC": "2021-04-12 4:22:05 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23017321/536-8-highway-flamborough",
-    "RelativeURLFr": "/immobilier/23017321/536-8-highway-flamborough"
+    "RelativeURLEn": "/real-estate/23053399/283-broadway-avenue-toronto",
+    "RelativeURLFr": "/immobilier/23053399/283-broadway-avenue-toronto"
   },
   {
     "Id": "23019215",
@@ -1963,7 +1964,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/284639/remax-escarpment-realty-inc-502-brant-street-unit-1a-burlington-ontario-l7r2g4",
-          "PhotoLastupdate": "2021-04-10 12:05:54 PM"
+          "PhotoLastupdate": "2021-04-12 2:26:49 PM"
         },
         "Phones": [
           {
@@ -2002,10 +2003,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637536532146430000/reb14/highres/1/h4103191_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637536532146430000/reb14/medres/1/h4103191_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637536532146430000/reb14/lowres/1/h4103191_1.jpg",
-          "LastUpdated": "2021-04-10 12:06:54 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637537719796730000/reb14/highres/1/h4103191_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637537719796730000/reb14/medres/1/h4103191_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637537719796730000/reb14/lowres/1/h4103191_1.jpg",
+          "LastUpdated": "2021-04-11 9:06:19 PM"
         }
       ],
       "Parking": [
@@ -2034,16 +2035,131 @@
     "AlternateURL": {
       "BrochureLink": "http://755699secondline.marketingrmx.com",
       "DetailsLink": "http://listing.otbxair.com/7556992ndlineehs",
-      "PhotoLink": "http://listing.otbxair.com/7556992ndlineehs/?mls"
+      "PhotoLink": "http://listing.otbxair.com/7556992ndlineehs/?mls",
+      "VideoLink": "https://vimeo.com/535267163"
     },
     "PostalCode": "L9V1B3",
     "RelativeDetailsURL": "/real-estate/23043720/755699-second-line-mono",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-10 4:06:54 PM",
+    "PhotoChangeDateUTC": "2021-04-12 1:06:19 AM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23043720/755699-second-line-mono",
     "RelativeURLFr": "/immobilier/23043720/755699-second-line-mono"
+  },
+  {
+    "Id": "23057444",
+    "MlsNumber": "H4103504",
+    "PublicRemarks": "This property offers the buyer an opportunity to take a journey into realty heaven. Situated on over 8 acres of land in the picturesque setting of Ancaster off Highway 52, this gorgeous 2 level home offers a stunning interior design from top to bottom. The gourmet kitchen boasts custom cabinetry and stunning marble with stainless steel appliances. Upper level features 3 bedrooms, 2 baths. Custom closet organizers in all rooms and a walk in closet with W&D in Master bedroom. Insulated 3 car garage which is perfect for the avid car collector or seasonal toys. Ideally located, this home is close to shopping, parks, trails, schools, golf, w/ quick and convenient access to highway. (27160948)",
+    "Building": {
+      "BathroomTotal": "0",
+      "Bedrooms": "4",
+      "SizeInterior": "2400.0000",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2109300,
+        "Name": "Samantha Ryder",
+        "Organization": {
+          "OrganizationID": 279638,
+          "Name": "RE/MAX Escarpment Realty Inc.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538511440000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "502 Brant Street|Burlington, Ontario L7R2G4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "631-8118",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279638/remax-escarpment-realty-inc-502-brant-street-burlington-ontario-l7r2g4",
+          "PhotoLastupdate": "2021-04-12 7:05:44 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "320-8025",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463019623"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Samantha",
+        "LastName": "Ryder",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2109300/samantha-ryder-502-brant-street-burlington-ontario-l7r2g4",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,999,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "497 #52 Highway|Ancaster, Ontario L0R1R0",
+        "Longitude": "-80.042363",
+        "Latitude": "43.193109",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637538512100570000/reb14/highres/4/h4103504_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637538512100570000/reb14/medres/4/h4103504_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637538512100570000/reb14/lowres/4/h4103504_1.jpg",
+          "LastUpdated": "2021-04-12 7:06:50 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Course, Recreation, Schools",
+      "ConvertedPrice": "$1,999,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1999999"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "948.69 x 644|5 - 9.99 acres",
+      "SizeFrontage": "948 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youtu.be/o0aDUJ_VhqQ"
+    },
+    "PostalCode": "L0R1R0",
+    "RelativeDetailsURL": "/real-estate/23057444/497-52-highway-ancaster",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-12 11:06:50 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23057444/497-52-highway-ancaster",
+    "RelativeURLFr": "/immobilier/23057444/497-52-highway-ancaster"
   },
   {
     "Id": "22765943",
@@ -3233,7 +3349,7 @@
         "Organization": {
           "OrganizationID": 117547,
           "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637535893470000000/lowres/1168222.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538342540000000/lowres/1168222.jpg",
           "Address": {
             "AddressText": "25 QUEEN ST. S.|TOTTENHAM, Ontario L0G1W0",
             "PermitShowAddress": true,
@@ -3258,7 +3374,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/117547/coldwell-banker-ronan-realty-25-queen-st-s-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-04-09 6:22:27 PM"
+          "PhotoLastupdate": "2021-04-12 2:24:14 PM"
         },
         "Phones": [
           {
@@ -3297,7 +3413,7 @@
         "Organization": {
           "OrganizationID": 117743,
           "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637535893470000000/lowres/1168329.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538342540000000/lowres/1168329.jpg",
           "Address": {
             "AddressText": "367 VICTORIA STREET EAST|ALLISTON, Ontario L9R1J7",
             "PermitShowAddress": true,
@@ -3322,7 +3438,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/117743/coldwell-banker-ronan-realty-367-victoria-street-east-alliston-ontario-l9r1j7",
-          "PhotoLastupdate": "2021-04-09 6:22:27 PM"
+          "PhotoLastupdate": "2021-04-12 2:24:14 PM"
         },
         "Phones": [
           {
@@ -3374,8 +3490,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "1634 CONCESSION RD 8|Adjala-Tosorontio, Ontario L0G1W0",
-        "Longitude": "-79.8442279",
-        "Latitude": "44.0025373",
+        "Longitude": "-79.8455647153304",
+        "Latitude": "44.0035948254754",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -3408,7 +3524,8 @@
       "SizeTotal": "775.64 x 542.84 FT   ; As Per Geo|10 - 24.99 acres"
     },
     "AlternateURL": {
-      "VideoLink": "http://wylieford.homelistingtours.com/listing2/1634-concession-road-8"
+      "PhotoLink": "http://wylieford.homelistingtours.com/listing2/1634-concession-road-8",
+      "VideoLink": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/WhctKJWQlqxGFHNMLcSZDrrPSTxmZkHgRfxddQQXDQwqVJks"
     },
     "PostalCode": "L0G1W0",
     "RelativeDetailsURL": "/real-estate/23048047/1634-concession-rd-8-adjala-tosorontio-rural-adjala-tosorontio",
@@ -3592,7 +3709,7 @@
   {
     "Id": "23048193",
     "MlsNumber": "W5187985",
-    "PublicRemarks": "Wow, One Of A Kind Country Retreat, This Property Consists Of A Total Of 7.57 Acres In Two Parcel Total.The Property Offers Magnificent Tree Lined Driveway With 3 Outbuildings. The Bank Barn Offers 2 Floors Of Rustic Beams That Works Great For Extra Storage. Great Man Cave With A Concrete Flr, Plus An Amzing Workshop. 3000 Sq Ft Contemporary Stone Home Plus Barn, Potters Barn, Stone Workshop. This Type Of Property Does Not Come Available.**** EXTRAS **** Fridge, Stove, Washer, Dryer, Microwave. (Pictures To Follow Shortly)\"\"Horse Paddock And Stalls\"\" Do Not Let Horses Out (28236178)",
+    "PublicRemarks": "Wow, One Of A Kind Country Retreat, This Property Consists Of A Total Of 7.57 Acres In Two Parcel Total. The Property Offers Magnificent Tree Lined Driveway With 3 Outbuildings. The Bank Barn Offers 2 Floors Of Rustic Beams That Works Great For Extra Storage. Great Man Cave With A Concrete Flr, Plus An Amazing Workshop. 3000 Sq Ft Contemporary Stone Home Plus Barn, Potters Barn, Stone Workshop. This Type Of Property Does Not Come Available.**** EXTRAS **** Fridge, Stove, Washer, Dryer, Microwave. \"\"Horse Paddock And Stalls\"\" Do Not Let Horses Out. (28236178)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "4",
@@ -3606,7 +3723,7 @@
         "Organization": {
           "OrganizationID": 152307,
           "Name": "RE/MAX REAL ESTATE CENTRE INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536741810000000/lowres/1201558.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538344980000000/lowres/1201558.jpg",
           "Address": {
             "PermitShowAddress": false,
             "DisseminationArea": null
@@ -3630,7 +3747,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/152307/remax-real-estate-centre-inc-23-mountainview-rd-s-georgetown-ontario-l7g4j8",
-          "PhotoLastupdate": "2021-04-10 5:56:21 PM"
+          "PhotoLastupdate": "2021-04-12 2:28:18 PM"
         },
         "Phones": [
           {
@@ -3677,10 +3794,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637536587948500000/reb82/highres/5/w5187985_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637536587948500000/reb82/medres/5/w5187985_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637536587948500000/reb82/lowres/5/w5187985_1.jpg",
-          "LastUpdated": "2021-04-10 1:39:54 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637538320195570000/reb82/highres/5/w5187985_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637538320195570000/reb82/medres/5/w5187985_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637538320195570000/reb82/lowres/5/w5187985_1.jpg",
+          "LastUpdated": "2021-04-12 1:46:59 PM"
         }
       ],
       "Parking": [
@@ -3704,7 +3821,7 @@
     "PostalCode": "L7J2M1",
     "RelativeDetailsURL": "/real-estate/23048193/11343-regional-road-25-rd-halton-hills-rural-halton-hills",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-10 5:39:55 PM",
+    "PhotoChangeDateUTC": "2021-04-12 5:46:59 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23048193/11343-regional-road-25-rd-halton-hills-rural-halton-hills",
@@ -3727,7 +3844,7 @@
         "Organization": {
           "OrganizationID": 270843,
           "Name": "IPRO REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637537462150000000/lowres/1236771.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538476170000000/lowres/1236771.jpg",
           "Address": {
             "AddressText": "55 ONTARIO ST UNIT A5A STE B|MILTON, Ontario L9T2M3",
             "PermitShowAddress": true,
@@ -3752,7 +3869,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/270843/ipro-realty-ltd-55-ontario-st-unit-a5a-ste-b-milton-ontario-l9t2m3",
-          "PhotoLastupdate": "2021-04-11 1:56:55 PM"
+          "PhotoLastupdate": "2021-04-12 6:06:57 PM"
         },
         "Phones": [
           {
@@ -3794,10 +3911,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637537462150830000/reb82/highres/4/w5189494_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637537462150830000/reb82/medres/4/w5189494_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637537462150830000/reb82/lowres/4/w5189494_1.jpg",
-          "LastUpdated": "2021-04-11 1:56:55 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637538348253600000/reb82/highres/4/w5189494_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637538348253600000/reb82/medres/4/w5189494_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637538348253600000/reb82/lowres/4/w5189494_1.jpg",
+          "LastUpdated": "2021-04-12 2:33:45 PM"
         }
       ],
       "Parking": [
@@ -3825,7 +3942,7 @@
     "PostalCode": "N0B2K0",
     "RelativeDetailsURL": "/real-estate/23051813/12100-5th-line-nassagaweya-line-milton-nassagaweya",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-11 5:56:55 PM",
+    "PhotoChangeDateUTC": "2021-04-12 6:33:45 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23051813/12100-5th-line-nassagaweya-line-milton-nassagaweya",
@@ -4746,140 +4863,5 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23022148/386106-20-sdrd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23022148/386106-20-sdrd-mono"
-  },
-  {
-    "Id": "23028083",
-    "MlsNumber": "X5182302",
-    "PublicRemarks": "Secluded 11Ac Hobby Farm Incs Tudor-Style 2-Family Home Boasts Covered Wrap-Around Deck + Fin. Basement. Ftrs Large Kitchen, Living Room W/Fp, Master W/En-Suite + Laundry, 3 Bedrooms + 4Pc Bath. Lower Level Family Room Incs Fp + Wo To Conc. Patio Overlooking Forest, Pond + Fire-Pit. Sep. 2 Bedroom In-Law Unit Ftrs 3Pc Bath, Living Room W/Fp + Dining Room W/Patio Dr Deck Wo. Bachelor-Style 3rd Unit Offers Common Area, 4Pc Bath + 2-Car Garage Access.**** EXTRAS **** Incls: Window Coverings & Hardware, Bathrm Mirrors, All Att'd Light Fixts, Ceiling Fans, 2 Water Htrs, 2 Frs, 2 Stvs, 2 Otr Microwaves, 2 Washer, 2 Dryer, 1 Dishwasher, Ag Pool & Equipment, Water Softener/Purification Rental: Propane Tank (28210385)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "6 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1413922,
-        "Name": "CONRAD GUY ZURINI",
-        "Organization": {
-          "OrganizationID": 266588,
-          "Name": "RE/MAX ESCARPMENT REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536599760000000/lowres/default/remaxoa.gif",
-          "Address": {
-            "AddressText": "2180 ITABASHI WAY #4B|BURLINGTON, Ontario L7M5A5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "639-3044",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "681-9908",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414881751"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.remaxescarpment.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/266588/remax-escarpment-realty-inc-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
-          "PhotoLastupdate": "2021-04-10 1:59:36 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "639-3044",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "https://www.remaxescarpment.com/",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455707696"
-          }
-        ],
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "CONRAD GUY",
-        "LastName": "ZURINI",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1413922/conrad-guy-zurini-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,699,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "536 #8 HIGHWAY|Hamilton, Ontario L9H5E1",
-        "Longitude": "-80.0801843",
-        "Latitude": "43.2859633",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637533293113830000/reb82/highres/2/x5182302_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637533293113830000/reb82/medres/2/x5182302_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637533293113830000/reb82/lowres/2/x5182302_1.jpg",
-          "LastUpdated": "2021-04-06 6:08:31 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,699,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1699900"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "11 Acre|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://www.myvisuallistings.com/cvtnb/308747"
-    },
-    "PostalCode": "L9H5E1",
-    "RelativeDetailsURL": "/real-estate/23028083/536-8-highway-hamilton-rural-flamborough",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-06 10:08:31 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23028083/536-8-highway-hamilton-rural-flamborough",
-    "RelativeURLFr": "/immobilier/23028083/536-8-highway-hamilton"
   }
 ]
