@@ -38,7 +38,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "460124842"
+              "ContactId": "466738588"
             }
           ],
           "OrganizationType": "Firm",
@@ -46,7 +46,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/287105/century-21-heritage-house-ltd-625-park-road-north-unit-5-brantford-ontario-n3t5l8",
-          "PhotoLastupdate": "2021-01-28 1:22:50 PM"
+          "PhotoLastupdate": "2021-04-12 11:33:43 PM"
         },
         "Phones": [
           {
@@ -103,9 +103,6 @@
       "Parking": [
         {
           "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
         }
       ],
       "ParkingSpaceTotal": "12",
@@ -116,7 +113,7 @@
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Attached Garage, Gravel",
+      "ParkingType": "Attached Garage",
       "PriceUnformattedValue": "1799000"
     },
     "Business": {},
@@ -189,7 +186,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/284606/remax-impact-realty-158-unit-3-1413-king-st-east-courtice-ontario-l1e2j6",
-          "PhotoLastupdate": "2021-04-07 1:56:50 PM"
+          "PhotoLastupdate": "2021-04-12 11:21:40 PM"
         },
         "Phones": [
           {
@@ -327,7 +324,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/283835/royal-lepage-nrc-realty-35-maywood-avenue-st-catharines-ontario-l2r1c5",
-          "PhotoLastupdate": "2021-03-19 1:30:19 PM"
+          "PhotoLastupdate": "2021-04-12 11:29:23 PM"
         },
         "Phones": [
           {
@@ -390,9 +387,6 @@
       "Parking": [
         {
           "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
         }
       ],
       "ParkingSpaceTotal": "4",
@@ -403,7 +397,7 @@
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Attached Garage, Gravel",
+      "ParkingType": "Attached Garage",
       "PriceUnformattedValue": "1390000"
     },
     "Business": {},
@@ -418,199 +412,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22799387/1288-line-3-road-niagara-on-the-lake",
     "RelativeURLFr": "/immobilier/22799387/1288-line-3-road-niagara-on-the-lake"
-  },
-  {
-    "Id": "22899797",
-    "MlsNumber": "40073192",
-    "PublicRemarks": "This is a piece of property with amazing future potential. Located along the path of development, right on HWY7 with incredible business exposure. Fantastic opportunity to buy a character home on over 5 enchanting acres with a creek running through it. The house has a unique ambiance, is solid, and has been extensively updated including a newer roof, wiring, plumbing, triple glazed windows, insulation, wood siding, very efficient geothermal heating, kitchen, and more. Very comfortable rural residence with the opportunity to buy together with an existing established and profitable plant nursery business (25 years in business). Lost Horizons nursery is well known and loved by many for the quality of its plants. This property is the perfect place for someone looking to escape the big city and looking to own a precious piece of the property, run their own business, or simply as a work from home option.  The house can be expanded onto or potentially build new on the property. Strategic location. Minutes to Acton and GO Transit, Shopping, biking, nearby stables! The land value alone is incredible - the business, which brings over $100,000 net per year (with space for improvement) is a bonus. Highly trained nursery staff is willing to stay and help run the current business. Hundreds of thousand in plant inventory. The existing stream provides water for irrigation. (62972989)",
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "1500.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "1"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2051031,
-        "Name": "Matthew Czaplinski",
-        "Organization": {
-          "OrganizationID": 283251,
-          "Name": "SUTTON GROUP QUANTUM REALTY INC.",
-          "Address": {
-            "AddressText": "1673 Lakeshore Road West|Mississauga, Ontario L5J1J4",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "822-5000",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "822-5617",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463981288"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://suttonquantum.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/283251/sutton-group-quantum-realty-inc-1673-lakeshore-road-west-mississauga-ontario-l5j1j4",
-          "PhotoLastupdate": "2021-03-09 8:28:40 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "822-5000",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456755969"
-          }
-        ],
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Matthew",
-        "LastName": "Czaplinski",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2051031/matthew-czaplinski-1673-lakeshore-road-west-mississauga-ontario-l5j1j4",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 2052134,
-        "Name": "Kate Czaplinska",
-        "Organization": {
-          "OrganizationID": 283251,
-          "Name": "SUTTON GROUP QUANTUM REALTY INC.",
-          "Address": {
-            "AddressText": "1673 Lakeshore Road West|Mississauga, Ontario L5J1J4",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "822-5000",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "822-5617",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463981288"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://suttonquantum.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/283251/sutton-group-quantum-realty-inc-1673-lakeshore-road-west-mississauga-ontario-l5j1j4",
-          "PhotoLastupdate": "2021-03-09 8:28:40 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "525-1206",
-            "AreaCode": "416",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "458466321"
-          }
-        ],
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Kate",
-        "LastName": "Czaplinska",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2052134/kate-czaplinska-1673-lakeshore-road-west-mississauga-ontario-l5j1j4",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,798,888",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5654 HWY 7|Acton, Ontario L7J2L7",
-        "Longitude": "-80.08498917",
-        "Latitude": "43.62751514",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637509186827070000/reb85/highres/2/40073192_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637509186827070000/reb85/medres/2/40073192_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637509186827070000/reb85/lowres/2/40073192_1.jpg",
-          "LastUpdated": "2021-03-09 8:31:22 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,798,888 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Gravel",
-      "PriceUnformattedValue": "1798888"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "5 - 9.99 acres",
-      "AccessType": "Highway access",
-      "LandscapeFeatures": "Landscaped"
-    },
-    "PostalCode": "L7J2L7",
-    "RelativeDetailsURL": "/real-estate/22899797/5654-hwy-7-acton",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-10 1:31:26 AM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22899797/5654-hwy-7-acton",
-    "RelativeURLFr": "/immobilier/22899797/5654-hwy-7-acton"
   },
   {
     "Id": "22953460",
@@ -630,7 +431,7 @@
         "Organization": {
           "OrganizationID": 276843,
           "Name": "Faris Team Real Estate Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637517740940000000/lowres/1278574.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538669810000000/lowres/1278574.jpg",
           "Address": {
             "AddressText": "6288 Yonge Street|Innisfil, Ontario L0L1K0",
             "PermitShowAddress": true,
@@ -667,7 +468,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/276843/faris-team-real-estate-brokerage-6288-yonge-street-innisfil-ontario-l0l1k0",
-          "PhotoLastupdate": "2021-03-19 6:08:14 PM"
+          "PhotoLastupdate": "2021-04-12 11:29:41 PM"
         },
         "Phones": [
           {
@@ -713,7 +514,7 @@
         "Organization": {
           "OrganizationID": 286274,
           "Name": "Faris Team Real Estate Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637517740940000000/lowres/1359396.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538669810000000/lowres/1359396.jpg",
           "Address": {
             "AddressText": "117 Young Street, Unit 11|Alliston, Ontario L9R0E9",
             "PermitShowAddress": true,
@@ -749,7 +550,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/286274/faris-team-real-estate-brokerage-117-young-street-unit-11-alliston-ontario-l9r0e9",
-          "PhotoLastupdate": "2021-03-19 6:08:14 PM"
+          "PhotoLastupdate": "2021-04-12 11:29:41 PM"
         },
         "Phones": [
           {
@@ -812,9 +613,6 @@
       "Parking": [
         {
           "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
         }
       ],
       "ParkingSpaceTotal": "12",
@@ -825,7 +623,7 @@
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Attached Garage, Gravel",
+      "ParkingType": "Attached Garage",
       "PriceUnformattedValue": "1950000"
     },
     "Business": {},
@@ -846,143 +644,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22953460/7039-concession-road-2-lisle",
     "RelativeURLFr": "/immobilier/22953460/7039-concession-road-2-lisle"
-  },
-  {
-    "Id": "22980561",
-    "MlsNumber": "40087302",
-    "PublicRemarks": "Stunning Muskoka-In-The-City property of over 7 Acres  in a  prime Ancaster enclave of distinct and quaint homes alike.  Wooded treed lot with gorgeous panorama views from the rear deck.  Running stream with wooden foot bridge and peaceful nature abound. A 3 bedroom charming classic home sits on this property with a massive addition with the exceptional views.  Large floor to to ceiling  windows and spacious principal living rooms on the main floor. Large fenced-in. Inground pool. Why go away to the country when the country comes to you!  Close to all major amenities between Ancaster and Dundas. (63067863)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "2045.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "0"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1387941,
-        "Name": "Nick Vassov",
-        "Organization": {
-          "OrganizationID": 205188,
-          "Name": "RE/MAX Aboutowne Realty Corp., Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536668490000000/lowres/47653.jpg",
-          "Address": {
-            "AddressText": "1235 North Service Road West #100|Oakville, Ontario L6M2W2",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "842-7000",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "842-7010",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "465684577"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://remaxaboutowne.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/205188/remax-aboutowne-realty-corp-brokerage-1235-north-service-road-west-100-oakville-ontario-l6m2w2",
-          "PhotoLastupdate": "2021-04-10 3:54:09 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "842-7000",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "842-7010",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456763175"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1036142.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Nick",
-        "LastName": "Vassov",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1387941/nick-vassov-1235-north-service-road-west-100-oakville-ontario-l6m2w2",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1036142.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,799,999",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "704 OLD DUNDAS Road|Ancaster, Ontario L9H5E3",
-        "Longitude": "-79.97080789",
-        "Latitude": "43.24123671",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637527012413800000/reb15/highres/2/40087302_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637527012413800000/reb15/medres/2/40087302_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637527012413800000/reb15/lowres/2/40087302_1.jpg",
-          "LastUpdated": "2021-03-30 11:40:41 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,999 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Gravel",
-      "PriceUnformattedValue": "1799999"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "7.33 ac|5 - 9.99 acres",
-      "SizeFrontage": "123 ft",
-      "AccessType": "Road access"
-    },
-    "PostalCode": "L9H5E3",
-    "RelativeDetailsURL": "/real-estate/22980561/704-old-dundas-road-ancaster",
-    "StatusId": "1",
-    "PriceChangeDateUTC": "2021-04-10 7:55:24 PM",
-    "PhotoChangeDateUTC": "2021-03-30 3:40:46 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22980561/704-old-dundas-road-ancaster",
-    "RelativeURLFr": "/immobilier/22980561/704-old-dundas-road-ancaster"
   },
   {
     "Id": "22986278",
@@ -1031,7 +692,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/285293/remax-twin-city-faisal-susiwala-realty-30-grandy-lane-cambridge-ontario-n1r8k2",
-          "PhotoLastupdate": "2021-03-26 4:34:55 PM"
+          "PhotoLastupdate": "2021-04-12 11:36:24 PM"
         },
         "Phones": [
           {
@@ -1126,195 +787,6 @@
     "RelativeURLFr": "/immobilier/22986278/6602-gore-road-puslinch"
   },
   {
-    "Id": "23020461",
-    "MlsNumber": "40091022",
-    "PublicRemarks": "10 acres with a view is awaiting you, true privacy on the edge of town. Spectacular property with a meticulously maintained Raised Bungalow with separate entrance to the basement- only minutes drive to highways, parks, schools and shopping. Make this home your own or rebuild the home of your dreams! The driveway is lined with beautiful mature trees, the elevated wrap around porch is perfect for entertaining and taking in the views of Toronto Skyline. Parking will never be an issue as there is enough room for all your toys- jeep with snow plow is included in the sale. You will appreciate the high vaulted ceilings, sunny skylights, A chefs kitchen (lots of natural light!), refinished hardwood floors, all new SS appliances, Separate dining room and 2 wood burning fireplaces. The master bedroom includes ensuite with jacuzzi tub. Basement includes finished bedrooms and full bath. You CAN have both, peace of the country and convenience of town! (Water purification unit, roof (2014), front windows/slider (2018) energy savings with Geothermal heating). (63111483)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "SizeInterior": "1929.0000",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1389779,
-        "Name": "Amy Flowers",
-        "Organization": {
-          "OrganizationID": 283777,
-          "Name": "Royal LePage Meadowtowne Realty Inc., Brokerage",
-          "Address": {
-            "AddressText": "459 Main Street East 2nd Floor|Milton, Ontario L9T1R1",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "878-8101",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.meadowtowne.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/283777/royal-lepage-meadowtowne-realty-inc-brokerage-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
-          "PhotoLastupdate": "2021-04-07 1:55:02 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "878-6232",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "https://amyflowers.ca/?utm_source=realtor.ca&utm_medium=refe",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459752305"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636585376800000000/lowres/1112124.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Amy",
-        "LastName": "Flowers",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1389779/amy-flowers-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
-        "AgentPhotoLastUpdated": "2018-04-05 15:08:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636585376800000000/highres/1112124.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1975601,
-        "Name": "Genevieve VanderBreggen",
-        "Organization": {
-          "OrganizationID": 283777,
-          "Name": "Royal LePage Meadowtowne Realty Inc., Brokerage",
-          "Address": {
-            "AddressText": "459 Main Street East 2nd Floor|Milton, Ontario L9T1R1",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "878-8101",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.meadowtowne.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/283777/royal-lepage-meadowtowne-realty-inc-brokerage-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
-          "PhotoLastupdate": "2021-04-07 1:55:02 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "878-6232",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "https://amyflowers.ca/?utm_source=realtor.ca&utm_medium=refe",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "460477906"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637098778200000000/lowres/1265778.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Genevieve",
-        "LastName": "VanderBreggen",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1975601/genevieve-vanderbreggen-459-main-street-east-2nd-floor-milton-ontario-l9t1r1",
-        "AgentPhotoLastUpdated": "2019-11-20 20:17:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637098778200000000/highres/1265778.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,999,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7582 OLD TREMAINE Road|Milton, Ontario L9T2Y1",
-        "Longitude": "-79.906853",
-        "Latitude": "43.495647",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637532258588270000/reb15/highres/2/40091022_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637532258588270000/reb15/medres/2/40091022_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637532258588270000/reb15/lowres/2/40091022_1.jpg",
-          "LastUpdated": "2021-04-05 1:24:18 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,999,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Gravel",
-      "PriceUnformattedValue": "1999900"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "10.07 ac|10 - 24.99 acres",
-      "SizeFrontage": "22 ft"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youriguide.com/7582_old_tremaine_rd_milton_on"
-    },
-    "PostalCode": "L9T2Y1",
-    "RelativeDetailsURL": "/real-estate/23020461/7582-old-tremaine-road-milton",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-05 5:24:18 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23020461/7582-old-tremaine-road-milton",
-    "RelativeURLFr": "/immobilier/23020461/7582-old-tremaine-road-milton"
-  },
-  {
     "Id": "23009475",
     "MlsNumber": "40091121",
     "PublicRemarks": "COUNTRY LIVING WITH SO MUCH TO OFFER! This bungalow boasts over 4800sqft of living space tucked away on 6.25 acres. You will not need to book a vacation when everything you desire is in your own backyard. An inground Pool, tennis court, volleyball court, trails, a massive pavilion to host your outdoor events and so much more. Located on Cambridge town line. Every amenity is just minutes away including the 401. This sprawling bungalow features 3 bedrooms on the main floor a full 3-bedroom in-law suite with a separate entrance. 6 bathrooms and 2 kitchens in total! Completely carpet free! A double garage and ample parking! Geothermal heating and cooling system, heated bathroom floors, beautiful stone, and hardwood floors, roof (2011), garage door openers and central vac. Stunning views from every window! A convenient location for commuters yet nestled in nature. (63100596)",
@@ -1361,7 +833,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/285293/remax-twin-city-faisal-susiwala-realty-30-grandy-lane-cambridge-ontario-n1r8k2",
-          "PhotoLastupdate": "2021-04-01 6:34:45 PM"
+          "PhotoLastupdate": "2021-04-12 11:36:01 PM"
         },
         "Phones": [
           {
@@ -1461,255 +933,50 @@
     "RelativeURLFr": "/immobilier/23009475/485-townline-road-cambridge"
   },
   {
-    "Id": "23023864",
-    "MlsNumber": "40091569",
-    "PublicRemarks": "Welcome to Muskoka, without the drive! This home has been lovingly maintained with many upgrades. A full kitchen renovation and addition was completed in 2017, to add space for your family gatherings and entertaining. Adjacent, is a spacious living room, with large window, wood burning stove and original hardwood floors. The main floor has three bedrooms, a main floor laundry and a 4pc bath. The lower level is a brand new, addition in itself. New poured concrete foundation, with separate entry, to a living room, dining room, kitchenette, a large bedroom and a 3pc bath. Large windows and grade level entry for the lower level, make for the perfect inlaw suite. Upgrades galore include, New septic system 8 years ago, with new holding tank. Well and flushing system all inspected, wood burning fire place just cleaned, wiring & grading already done for your future pool should you choose, newer ductwork, side porch & railings, water tank, furnace, water softener, roof in 2017, 2 awnings with remote, barn was rewired in 2019, survey done in 2020, 2.2 acres is part of the Halton Conservation Forestry Plan, keeping the taxes low, Seasonal pond, generator, compressor,  all eves have leaf protection, volleyball court and equipment and a huge barn/workshop for your collection or enjoyment. This property also has a dog kennel license which has been kept up for over 20 years and new owner's can renew. All of this is offered on 13+ acres, is waiting for you! Do not miss out! (63115433)",
+    "Id": "23061634",
+    "MlsNumber": "40097092",
+    "PublicRemarks": "Premium 48 Acres Of Farmland In East Garafraxa. Full Systematic Tile Drained Land. Steps To The Grand River. Charming Brick Bungalow With 3+1 Bedrooms And 2+1 Bathrooms. Master Bedroom Features Walk-In Closet And Ensuite. Family Size Eat-In Kitchen. Living Room With Walkout To Deck. Large Basement Rec Room With Bonus Bedroom. Oversized Garage. Metal Roof. Pretty Gardens And Lawn Around The House. Drive shed Could Be Used As Workshop Or Small Hobby Barn. (63158726)",
     "Building": {
-      "BathroomTotal": "2",
+      "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
-      "SizeInterior": "1150.0000",
       "StoriesTotal": "1",
-      "Type": "House",
-      "UnitTotal": "2"
+      "Type": "House"
     },
     "Individual": [
       {
-        "IndividualID": 1779781,
-        "Name": "Lesley Cumming",
+        "IndividualID": 1754525,
+        "Name": "Wayne Baguley",
         "Organization": {
-          "OrganizationID": 205041,
-          "Name": "Sotheby's International Realty Canada, Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637533392670000000/lowres/205041.jpg",
+          "OrganizationID": 85445,
+          "Name": "Royal LePage RCR Realty Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637539255080000000/lowres/1147509.jpg",
           "Address": {
-            "AddressText": "125 Lakeshore Rd. E Suite 200|Oakville, Ontario L6J1H3",
+            "AddressText": "206 George Street|Arthur, Ontario N0G1A0",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
           "Phones": [
             {
               "PhoneType": "Telephone",
-              "PhoneNumber": "845-0024",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "844-1747",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/205041/sothebys-international-realty-canada-brokerage-125-lakeshore-rd-e-suite-200-oakville-ontario-l6j1h3",
-          "PhotoLastupdate": "2021-04-06 8:54:27 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "845-0024",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "844-1747",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://listwithlesley.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456762191"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1187819.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Lesley",
-        "LastName": "Cumming",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1779781/lesley-cumming-125-lakeshore-rd-e-suite-200-oakville-ontario-l6j1h3",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1187819.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1462621,
-        "Name": "Sally O'Shea",
-        "Organization": {
-          "OrganizationID": 205041,
-          "Name": "Sotheby's International Realty Canada, Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637533392670000000/lowres/205041.jpg",
-          "Address": {
-            "AddressText": "125 Lakeshore Rd. E Suite 200|Oakville, Ontario L6J1H3",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "845-0024",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "844-1747",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/205041/sothebys-international-realty-canada-brokerage-125-lakeshore-rd-e-suite-200-oakville-ontario-l6j1h3",
-          "PhotoLastupdate": "2021-04-06 8:54:27 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "845-0024",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "844-1747",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.sallyoshea.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "454447077"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1124368.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Sally",
-        "LastName": "O'Shea",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1462621/sally-oshea-125-lakeshore-rd-e-suite-200-oakville-ontario-l6j1h3",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1124368.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,399,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "2072 CENTRE Road|Flamborough, Ontario L0P1B0",
-        "Longitude": "-80.03568287",
-        "Latitude": "43.43140692",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637533038597670000/reb15/highres/9/40091569_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637533038597670000/reb15/medres/9/40091569_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637533038597670000/reb15/lowres/9/40091569_1.jpg",
-          "LastUpdated": "2021-04-06 11:04:19 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "ParkingSpaceTotal": "25",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby, Shopping",
-      "ConvertedPrice": "$1,399,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Gravel",
-      "PriceUnformattedValue": "1399000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "13.26 ac|10 - 24.99 acres",
-      "SizeFrontage": "663 ft",
-      "AccessType": "Road access, Highway Nearby"
-    },
-    "AlternateURL": {
-      "PhotoLink": "http://qstudios.ca/HD/2072_CentreRd-MLS.html",
-      "VideoLink": "http://qstudios.ca/HD/2072_CentreRd.html"
-    },
-    "PostalCode": "L0P1B0",
-    "RelativeDetailsURL": "/real-estate/23023864/2072-centre-road-flamborough",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-06 3:04:19 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23023864/2072-centre-road-flamborough",
-    "RelativeURLFr": "/immobilier/23023864/2072-centre-road-flamborough"
-  },
-  {
-    "Id": "23053399",
-    "MlsNumber": "40096067",
-    "PublicRemarks": "Welcome to a Fantastic Opportunity to live in one of Toronto's  Prestigious Neighbourhoods, Sherwood Park. Fabulous walkout to a private south facing yard. This 2-storey detached has lovely neutral decor throughout. All Committee of Adjustment approval hard work has been completed... submit your final house drawings and apply for the building permit... pick your Builder, the exterior and interior finishes.. and build your beautiful dream home!! Time is on your side.... Short walk to Yonge and Eglinton, Places Of Worship, Schools, Shopping & Future LRT Being Built Now - Great Time To Buy Into this beautiful area ! (63149466)",
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "3 + 0",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "0"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1563486,
-        "Name": "DENISE LAURA BANNERMAN",
-        "Organization": {
-          "OrganizationID": 284515,
-          "Name": "Cloud Realty Inc.",
-          "Address": {
-            "AddressText": "155 Frobisher Drive, Unit i106|Waterloo, Ontario N2V2E1",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "772-8940",
+              "PhoneNumber": "848-2819",
               "AreaCode": "519",
               "PhoneTypeId": "1"
             },
             {
               "PhoneType": "Fax",
-              "PhoneNumber": "997-6303",
+              "PhoneNumber": "848-5792",
               "AreaCode": "519",
               "PhoneTypeId": "4"
             }
           ],
           "Emails": [
             {
-              "ContactId": "463978441"
+              "ContactId": "460127303"
             }
           ],
           "Websites": [
             {
-              "Website": "http://www.cloudrealty.ca",
+              "Website": "http://www.royallepagercr.com",
               "WebsiteTypeId": "1"
             }
           ],
@@ -1717,38 +984,43 @@
           "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/284515/cloud-realty-inc-155-frobisher-drive-unit-i106-waterloo-ontario-n2v2e1",
-          "PhotoLastupdate": "2021-04-12 11:56:31 AM"
+          "RelativeDetailsURL": "/office/firm/85445/royal-lepage-rcr-realty-brokerage-206-george-street-arthur-ontario-n0g1a0",
+          "PhotoLastupdate": "2021-04-13 3:45:08 PM"
         },
         "Phones": [
           {
             "PhoneType": "Telephone",
-            "PhoneNumber": "772-8940",
+            "PhoneNumber": "848-2819",
             "AreaCode": "519",
             "PhoneTypeId": "1"
           },
           {
             "PhoneType": "Fax",
-            "PhoneNumber": "997-6303",
+            "PhoneNumber": "848-5792",
             "AreaCode": "519",
             "PhoneTypeId": "4"
           }
         ],
-        "Emails": [
+        "Websites": [
           {
-            "ContactId": "456792910"
+            "Website": "http://www.waynebaguley.com/",
+            "WebsiteTypeId": "1"
           }
         ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636886958400000000/lowres/1120955.jpg",
+        "Emails": [
+          {
+            "ContactId": "456777279"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1280732.jpg",
         "Position": "Salesperson",
         "PermitFreetextEmail": true,
-        "FirstName": "DENISE",
-        "LastName": "BANNERMAN",
+        "FirstName": "Wayne",
+        "LastName": "Baguley",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1563486/denise-bannerman-155-frobisher-drive-unit-i106-waterloo-ontario-n2v2e1",
-        "AgentPhotoLastUpdated": "2019-03-20 16:24:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636886958400000000/highres/1120955.jpg",
+        "RelativeDetailsURL": "/agent/1754525/wayne-baguley-206-george-street-arthur-ontario-n0g1a0",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1280732.jpg",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       }
@@ -1757,51 +1029,51 @@
       "Price": "$1,599,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "283 BROADWAY Avenue|Toronto, Ontario M4P1W2",
-        "Longitude": "-79.38595858",
-        "Latitude": "43.712075",
+        "AddressText": "152196 12TH Line|East Garafraxa, Ontario L9W7B2",
+        "Longitude": "-80.28068846",
+        "Latitude": "43.84921769",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637538268920530000/reb16/highres/7/40096067_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637538268920530000/reb16/medres/7/40096067_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637538268920530000/reb16/lowres/7/40096067_1.jpg",
-          "LastUpdated": "2021-04-12 12:21:32 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637539255086030000/reb44/highres/2/40097092_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637539255086030000/reb44/medres/2/40097092_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637539255086030000/reb44/lowres/2/40097092_1.jpg",
+          "LastUpdated": "2021-04-13 3:45:08 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Interlocked"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "1",
+      "ParkingSpaceTotal": "11",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Hospital, Place of Worship, Public Transit, Schools",
       "ConvertedPrice": "$1,599,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Interlocked",
+      "ParkingType": "Attached Garage",
       "PriceUnformattedValue": "1599000"
     },
     "Business": {},
     "Land": {
-      "SizeTotal": "124 ac|under 1/2 acre",
-      "SizeFrontage": "24 ft",
-      "AccessType": "Highway Nearby"
+      "SizeTotal": "48.16 ac|25 - 50 acres"
     },
-    "PostalCode": "M4P1W2",
-    "RelativeDetailsURL": "/real-estate/23053399/283-broadway-avenue-toronto",
+    "AlternateURL": {
+      "VideoLink": "http://tours.viewpointimaging.ca/ub/172179"
+    },
+    "PostalCode": "L9W7B2",
+    "RelativeDetailsURL": "/real-estate/23061634/152196-12th-line-east-garafraxa",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-12 4:22:05 PM",
+    "PhotoChangeDateUTC": "2021-04-13 7:45:08 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23053399/283-broadway-avenue-toronto",
-    "RelativeURLFr": "/immobilier/23053399/283-broadway-avenue-toronto"
+    "RelativeURLEn": "/real-estate/23061634/152196-12th-line-east-garafraxa",
+    "RelativeURLFr": "/immobilier/23061634/152196-12th-line-east-garafraxa"
   },
   {
     "Id": "23019215",
@@ -2042,7 +1314,6 @@
     "RelativeDetailsURL": "/real-estate/23043720/755699-second-line-mono",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-12 1:06:19 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23043720/755699-second-line-mono",
     "RelativeURLFr": "/immobilier/23043720/755699-second-line-mono"
@@ -2922,147 +2193,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22955572/7039-concession-rd-2-adjala-tosorontio-lisle",
     "RelativeURLFr": "/immobilier/22955572/7039-concession-rd-2-adjala-tosorontio"
-  },
-  {
-    "Id": "22989080",
-    "MlsNumber": "N5170195",
-    "PublicRemarks": "Looking For A Workshop Or Even Two?! Marvellous Opportunity To Have Your Own Hobby Farm With 2 Barns: One A Workshop And The Other A Stall Barn Converted To A Storage Shed And A Detached Garage Also With A Workshop. Every Building Is In Immaculate Condition! 4 -Level Side-Split Home Features Hardwood Throughout And Renovated Bathrooms And Kitchen. All New Windows And A Full-Length Sunroom At The Back Of The House Overlooking The Manicured 10 Ac.**** EXTRAS **** All Existing Appliances; All Window Coverings & Related Hardware; Separate Garage W/Workshop; 31' X 32' Workshop W/Winter Water Pump, Propane & Hydro; Stall/Storage Barn; Vegetable Garden Beds & Strawberry Patch. (28159275)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1813752,
-        "Name": "INGRID A.L. MCNEILL",
-        "Organization": {
-          "OrganizationID": 118575,
-          "Name": "HOMELIFE INTEGRITY REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637536740460000000/lowres/118575.jpg",
-          "Address": {
-            "AddressText": "169 VICTORIA ST. W., UNIT A|ALLISTON, Ontario L9R1H8",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "435-4506",
-              "AreaCode": "705",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "435-4140",
-              "AreaCode": "705",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.homelifeintegrity.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/118575/homelife-integrity-realty-inc-169-victoria-st-w-unit-a-alliston-ontario-l9r1h8",
-          "PhotoLastupdate": "2021-04-10 5:54:06 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "212-5798",
-            "AreaCode": "647",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "435-4506",
-            "AreaCode": "705",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.ingridmcneill.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/pg/Ingrid-McNeill-Homelife-Integrity-Realty",
-            "WebsiteTypeId": "2"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455753498"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636918789000000000/lowres/1192302.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "INGRID A.L.",
-        "LastName": "MCNEILL",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1813752/ingrid-al-mcneill-169-victoria-st-w-unit-a-alliston-ontario-l9r1h8",
-        "AgentPhotoLastUpdated": "2019-04-26 12:35:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636918789000000000/highres/1192302.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,499,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7079 CONCESSION ROAD 2|Adjala-Tosorontio, Ontario L0M1M0",
-        "Longitude": "-79.998979",
-        "Latitude": "44.224744",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637526075549770000/reb82/highres/5/n5170195_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637526075549770000/reb82/medres/5/n5170195_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637526075549770000/reb82/lowres/5/n5170195_1.jpg",
-          "LastUpdated": "2021-03-29 9:39:14 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1499000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "182.9 x 228.6 M   ; M/L As Per M.P.A.C.|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://tours.viewpointimaging.ca/ub/171751"
-    },
-    "PostalCode": "L0M1M0",
-    "RelativeDetailsURL": "/real-estate/22989080/7079-concession-road-2-adjala-tosorontio-lisle",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-29 1:39:15 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22989080/7079-concession-road-2-adjala-tosorontio-lisle",
-    "RelativeURLFr": "/immobilier/22989080/7079-concession-road-2-adjala-tosorontio"
   },
   {
     "Id": "22999288",
@@ -4863,5 +3993,144 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23022148/386106-20-sdrd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23022148/386106-20-sdrd-mono"
+  },
+  {
+    "Id": "23062814",
+    "MlsNumber": "X5192592",
+    "PublicRemarks": "Premium 48 Acres Of Farmland In East Garafraxa. Full Systematic Tile Drained Land. Steps To The Grand River. Charming Brick Bungalow With 3+1 Bedrooms And 2+1 Bathrooms. Master Bedroom Features Walk-In Closet And Ensuite. Family Size Eat-In Kitchen. Living Room With Walkout To Deck. Large Basement Rec Room With Bonus Bedroom. Oversized Garage. Metal Roof. Pretty Gardens And Lawn Around The House. Driveshed Could Be Used As Workshop Or Small Hobby Barn. (28255406)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1433479,
+        "Name": "WAYNE BAGULEY",
+        "Organization": {
+          "OrganizationID": 279258,
+          "Name": "ROYAL LEPAGE RCR REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637539336260000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "941-5151",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "941-5432",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881119"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royallepagercr.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
+          "PhotoLastupdate": "2021-04-13 6:00:26 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "941-5151",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.waynebaguley.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455665381"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637219719600000000/lowres/1039785.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "WAYNE",
+        "LastName": "BAGULEY",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1433479/wayne-baguley-14---75-first-street-orangeville-ontario-l9w2e7",
+        "AgentPhotoLastUpdated": "2020-04-08 19:46:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637219719600000000/highres/1039785.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "152196 12TH LINE|East Garafraxa, Ontario L9W7B2",
+        "Longitude": "-80.2898938",
+        "Latitude": "43.8560106",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637539336260770000/reb82/highres/2/x5192592_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637539336260770000/reb82/medres/2/x5192592_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637539336260770000/reb82/lowres/2/x5192592_1.jpg",
+          "LastUpdated": "2021-04-13 6:00:26 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "48.16 Acre|25 - 50 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://tours.viewpointimaging.ca/ub/172179"
+    },
+    "PostalCode": "L9W7B2",
+    "RelativeDetailsURL": "/real-estate/23062814/152196-12th-line-east-garafraxa-rural-east-garafraxa",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-13 10:00:26 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23062814/152196-12th-line-east-garafraxa-rural-east-garafraxa",
+    "RelativeURLFr": "/immobilier/23062814/152196-12th-line-east-garafraxa"
   }
 ]
