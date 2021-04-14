@@ -787,152 +787,6 @@
     "RelativeURLFr": "/immobilier/22986278/6602-gore-road-puslinch"
   },
   {
-    "Id": "23009475",
-    "MlsNumber": "40091121",
-    "PublicRemarks": "COUNTRY LIVING WITH SO MUCH TO OFFER! This bungalow boasts over 4800sqft of living space tucked away on 6.25 acres. You will not need to book a vacation when everything you desire is in your own backyard. An inground Pool, tennis court, volleyball court, trails, a massive pavilion to host your outdoor events and so much more. Located on Cambridge town line. Every amenity is just minutes away including the 401. This sprawling bungalow features 3 bedrooms on the main floor a full 3-bedroom in-law suite with a separate entrance. 6 bathrooms and 2 kitchens in total! Completely carpet free! A double garage and ample parking! Geothermal heating and cooling system, heated bathroom floors, beautiful stone, and hardwood floors, roof (2011), garage door openers and central vac. Stunning views from every window! A convenient location for commuters yet nestled in nature. (63100596)",
-    "Building": {
-      "BathroomTotal": "6",
-      "Bedrooms": "3 + 3",
-      "SizeInterior": "2603.0000",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1750694,
-        "Name": "FAISAL SUSIWALA",
-        "Organization": {
-          "OrganizationID": 285293,
-          "Name": "RE/MAX TWIN CITY FAISAL SUSIWALA REALTY",
-          "Address": {
-            "AddressText": "30 GRANDY LANE|CAMBRIDGE, Ontario N1R8K2",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "740-3690",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "460119139"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.homeshack.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/285293/remax-twin-city-faisal-susiwala-realty-30-grandy-lane-cambridge-ontario-n1r8k2",
-          "PhotoLastupdate": "2021-04-12 11:36:01 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "740-3690",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.homeshack.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "http://www.facebook.com/faisalsusiwalaremax",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "http://www.linkedin.com/profile/view?id=92389546&trk=tab_pro",
-            "WebsiteTypeId": "3"
-          },
-          {
-            "Website": "http://twitter.com/#!/FaisalSusiwala",
-            "WebsiteTypeId": "4"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "464228974"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637096776000000000/lowres/1066261.jpg",
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "FAISAL",
-        "LastName": "SUSIWALA",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1750694/faisal-susiwala-30-grandy-lane-cambridge-ontario-n1r8k2",
-        "AgentPhotoLastUpdated": "2019-11-18 12:40:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637096776000000000/highres/1066261.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,950,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "485 TOWNLINE Road|Cambridge, Ontario N0B2J0",
-        "Longitude": "-80.271774",
-        "Latitude": "43.393732",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637528848574000000/reb20/highres/1/40091121_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637528848574000000/reb20/medres/1/40091121_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637528848574000000/reb20/lowres/1/40091121_1.jpg",
-          "LastUpdated": "2021-04-01 2:40:57 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Park, Place of Worship, Schools",
-      "ConvertedPrice": "$1,950,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1950000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "6.29 ac|5 - 9.99 acres",
-      "SizeFrontage": "579 ft",
-      "AccessType": "Highway Nearby"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youriguide.com/p6ght_485_townline_rd_puslinch_on/"
-    },
-    "PostalCode": "N0B2J0",
-    "RelativeDetailsURL": "/real-estate/23009475/485-townline-road-cambridge",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-01 6:40:59 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23009475/485-townline-road-cambridge",
-    "RelativeURLFr": "/immobilier/23009475/485-townline-road-cambridge"
-  },
-  {
     "Id": "23061634",
     "MlsNumber": "40097092",
     "PublicRemarks": "Premium 48 Acres Of Farmland In East Garafraxa. Full Systematic Tile Drained Land. Steps To The Grand River. Charming Brick Bungalow With 3+1 Bedrooms And 2+1 Bathrooms. Master Bedroom Features Walk-In Closet And Ensuite. Family Size Eat-In Kitchen. Living Room With Walkout To Deck. Large Basement Rec Room With Bonus Bedroom. Oversized Garage. Metal Roof. Pretty Gardens And Lawn Around The House. Drive shed Could Be Used As Workshop Or Small Hobby Barn. (63158726)",
@@ -1074,6 +928,139 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23061634/152196-12th-line-east-garafraxa",
     "RelativeURLFr": "/immobilier/23061634/152196-12th-line-east-garafraxa"
+  },
+  {
+    "Id": "23067200",
+    "MlsNumber": "40097099",
+    "PublicRemarks": "Bring the in-laws to this delightful Cape Cod style home situated on a fabulous a 10.71-acre private lot with guest house (ideal for in-laws or teens) and Coverall outbuilding - Wow!!  Located on a very quiet road with very little through traffic this home and property are sure to tick off all your boxes!!  A covered porch welcomes you in to this superb family home featuring a well-designed kitchen with stunning antiqued granite counter open to the family room complete with wood burning fireplace and walkout to deck.  A living room with cozy propane fireplace, office/dining room, powder room and mudroom with access to garage complete the level.  The upper level offers 3 spacious bedrooms, the master with 3 closets and 3-piece ensuite. The basement adds to the enjoyment with rec room, 4th bedroom, laundry and loads of storage/utility space.  For the in-laws  the guest house offers a kitchen, living room, bedroom, 3-piece, laundry and loft area with walkout to deck complete with access to yard. Great location. Close to Rockwood, Milton and Acton. (63164299)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "1"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1879076,
+        "Name": "Raymond Chesher",
+        "Organization": {
+          "OrganizationID": 250921,
+          "Name": "Your Home Today Realty Inc",
+          "Address": {
+            "AddressText": "73 Guelph Street|Georgetown, Ontario L7G3Z8",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "893-9001",
+              "AreaCode": "877",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "877-1415",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463975390"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/250921/your-home-today-realty-inc-73-guelph-street-georgetown-ontario-l7g3z8",
+          "PhotoLastupdate": "2021-04-14 2:45:15 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "893-9001",
+            "AreaCode": "877",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "877-1415",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456776805"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1280738.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "Raymond",
+        "LastName": "Chesher",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1879076/raymond-chesher-73-guelph-street-georgetown-ontario-l7g3z8",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1280738.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4105 30TH Side Road|Halton Hills, Ontario N0B2K0",
+        "Longitude": "-80.10298406",
+        "Latitude": "43.59580639",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540083158200000/reb44/highres/9/40097099_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540083158200000/reb44/medres/9/40097099_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540083158200000/reb44/lowres/9/40097099_1.jpg",
+          "LastUpdated": "2021-04-14 2:45:15 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1599900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "350 ft",
+      "AccessType": "Highway access"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://tours.virtualgta.com/1812726?idx=1"
+    },
+    "PostalCode": "N0B2K0",
+    "RelativeDetailsURL": "/real-estate/23067200/4105-30th-side-road-halton-hills",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-14 6:45:15 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23067200/4105-30th-side-road-halton-hills",
+    "RelativeURLFr": "/immobilier/23067200/4105-30th-side-road-halton-hills"
   },
   {
     "Id": "23019215",
@@ -1427,10 +1414,152 @@
     "RelativeDetailsURL": "/real-estate/23057444/497-52-highway-ancaster",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-12 11:06:50 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23057444/497-52-highway-ancaster",
     "RelativeURLFr": "/immobilier/23057444/497-52-highway-ancaster"
+  },
+  {
+    "Id": "23068060",
+    "MlsNumber": "H4103772",
+    "PublicRemarks": "Rare opportunity with 19.77 acres in the quiet peaceful neighbourhood of Sulpher Springs. The house sits perched on a hill with breath taking view. Build your dream home or renovate the existing home. Close to Dundas and nestled into the countryside, this lush wood area is home to many trails, streams and waterfalls. (27171832)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "SizeInterior": "1540.0000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2061846,
+        "Name": "Donald Porter",
+        "Organization": {
+          "OrganizationID": 262664,
+          "Name": "RE/MAX Escarpment Realty Inc",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540167790000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "#101-325 Winterberry Drive|Stoney Creek, Ontario L8J0B6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "573-1188",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "573-1189",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463978945"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/262664/remax-escarpment-realty-inc-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
+          "PhotoLastupdate": "2021-04-14 5:06:19 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "730-6872",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "573-1189",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "HTTP://porterassoc.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "453410889"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637008773400000000/lowres/1336875.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Donald",
+        "LastName": "Porter",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2061846/donald-porter-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
+        "AgentPhotoLastUpdated": "2019-08-08 16:09:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637008773400000000/highres/1336875.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$998,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1296 MINERAL SPRINGS Road|Ancaster, Ontario L9H5E3",
+        "Longitude": "-80.024833",
+        "Latitude": "43.238189",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/highres/2/h4103772_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/medres/2/h4103772_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/lowres/2/h4103772_1.jpg",
+          "LastUpdated": "2021-04-14 5:07:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Inside Entry"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$998,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel, Inside Entry",
+      "PriceUnformattedValue": "998000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "19.766 ACRES|10 - 24.99 acres",
+      "SizeFrontage": "697 ft",
+      "AccessType": "River access"
+    },
+    "PostalCode": "L9H5E3",
+    "RelativeDetailsURL": "/real-estate/23068060/1296-mineral-springs-road-ancaster",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-14 9:07:41 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23068060/1296-mineral-springs-road-ancaster",
+    "RelativeURLFr": "/immobilier/23068060/1296-mineral-springs-road-ancaster"
   },
   {
     "Id": "22765943",
@@ -2337,132 +2466,6 @@
     "RelativeURLFr": "/immobilier/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio"
   },
   {
-    "Id": "23025785",
-    "MlsNumber": "N5181312",
-    "PublicRemarks": "Situated On 5 Private Forested Acres! Set Well Back From The Road.  Enjoy Privacy And Scenic Forested Views! Open Concept Great Room/Kitchen. 9 Ft Ceilings, Hardwood Floors, Kitchen W/Centre Island/Eat-In Brkfst Area. Master W/Ensuite+Heated Marble Flr. Br 2 +Br 3 W/Ensuite. Staircase To Ll Expansive Open Concept Bright Rec Rm With Wet Bar And Walk Out. 5 Min Drive To Newmarket & Hwy 404!**** EXTRAS **** Fantastic Low Maintenance! Rural Property.  Heated Ceramic Floor In Kitchen Area. Fenced-In Dog Run W/Synthetic Lawn. 2 Tiered Deck W/Gazebo & Hot Tub Overlooks Private Forest With Trails! Propane Tank (R) To Be Assumed. Gym In Bsmt. (28207097)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2002920,
-        "Name": "MICHELLE BUGAY CAMPBELL",
-        "Organization": {
-          "OrganizationID": 68202,
-          "Name": "RIGHT AT HOME REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637533169880000000/lowres/68202.jpg",
-          "Address": {
-            "AddressText": "1396 DON MILLS RD UNIT B-121|TORONTO, Ontario M3B0A7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "391-3232",
-              "AreaCode": "416",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "391-0319",
-              "AreaCode": "416",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.rightathomerealty.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/68202/right-at-home-realty-inc-1396-don-mills-rd-unit-b-121-toronto-ontario-m3b0a7",
-          "PhotoLastupdate": "2021-04-06 2:43:08 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "391-3232",
-            "AreaCode": "416",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459403868"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636981934200000000/lowres/1285901.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "MICHELLE",
-        "LastName": "BUGAY CAMPBELL",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2002920/michelle-bugay-campbell-1396-don-mills-rd-unit-b-121-toronto-ontario-m3b0a7",
-        "AgentPhotoLastUpdated": "2019-07-08 14:37:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636981934200000000/highres/1285901.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,690,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5149 DAVIS DR|Whitchurch-Stouffville, Ontario L0G1E0",
-        "Longitude": "-79.3140918",
-        "Latitude": "44.0924899",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637533169883100000/reb82/highres/2/n5181312_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637533169883100000/reb82/medres/2/n5181312_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637533169883100000/reb82/lowres/2/n5181312_1.jpg",
-          "LastUpdated": "2021-04-06 2:43:08 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,690,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1690000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "279.06 x 732.37 FT|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://www.winsold.com/tour/43418"
-    },
-    "PostalCode": "L0G1E0",
-    "RelativeDetailsURL": "/real-estate/23025785/5149-davis-dr-whitchurch-stouffville-rural-whitchurch-stouffville",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-06 6:43:08 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23025785/5149-davis-dr-whitchurch-stouffville-rural-whitchurch-stouffville",
-    "RelativeURLFr": "/immobilier/23025785/5149-davis-dr-whitchurch-stouffville"
-  },
-  {
     "Id": "23048047",
     "MlsNumber": "N5188213",
     "PublicRemarks": "Picture Yourself Enjoying Your Morning Coffee Watching The Sunrise Over Your Pond From Your Living Room Balcony. This 4+ Bedroom Bungalow Is Set Perfectly On A 10+ Acre Corner Lot Where The Pavement Meets Dirt Road. Open Concept Kitchen, Living Area W/13 Ft Island W/ Breakfast Bar, 200 Year Old Barn Board Countertop & Vaulted Ceiling. Formal Dining Rm & Family Rm W/Gas F/P. Lower Level W/ W/O & In Law Suite Potential. Inside Access To Garage W/Home Workshop.**** EXTRAS **** Two Outbuildings. Dog Run. (28236260)",
@@ -2664,6 +2667,133 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23048047/1634-concession-rd-8-adjala-tosorontio-rural-adjala-tosorontio",
     "RelativeURLFr": "/immobilier/23048047/1634-concession-rd-8-adjala-tosorontio"
+  },
+  {
+    "Id": "23068625",
+    "MlsNumber": "N5194473",
+    "PublicRemarks": "Great Investment Opportunity! 1 1/2 Storey Home (As Is) With 3 Bedrooms On 10 Acres Farm Land Backs On To The Canal And Golf Court. Easy Access To Hwy 400, Only 30 Minutes From Toronto. Lots Of Potential!**** EXTRAS **** All Existing Appliances And Light Fixture. Property Is Sold In As Is Where Is Basis With No Representation Or Warranty's. Taxes And Measurements To Be Verified By Buyer. (28263098)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2078431,
+        "Name": "HUNG NGUYEN",
+        "Organization": {
+          "OrganizationID": 282777,
+          "Name": "RE/MAX METROPOLIS REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540198610000000/lowres/1321336.jpg",
+          "Address": {
+            "AddressText": "8321 KENNEDY RD #21-22|MARKHAM, Ontario L3R5N4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "824-0788",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "817-0524",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463774012"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "HTTP://www.remaxmetropolis.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/282777/remax-metropolis-realty-8321-kennedy-rd-21-22-markham-ontario-l3r5n4",
+          "PhotoLastupdate": "2021-04-14 5:57:41 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "824-0788",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459464258"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "HUNG",
+        "LastName": "NGUYEN",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2078431/hung-nguyen-8321-kennedy-rd-21-22-markham-ontario-l3r5n4",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,199,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "525 WOODCHOPPERS LANE|King, Ontario L7B0E9",
+        "Longitude": "-79.574613",
+        "Latitude": "44.045542",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540198617000000/reb82/highres/3/n5194473_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540198617000000/reb82/medres/3/n5194473_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540198617000000/reb82/lowres/3/n5194473_1.jpg",
+          "LastUpdated": "2021-04-14 5:57:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,199,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1199900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "401.93 x 1021.4 FT|10 - 24.99 acres"
+    },
+    "PostalCode": "L7B0E9",
+    "RelativeDetailsURL": "/real-estate/23068625/525-woodchoppers-lane-king-rural-king",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-14 9:57:41 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23068625/525-woodchoppers-lane-king-rural-king",
+    "RelativeURLFr": "/immobilier/23068625/525-woodchoppers-lane-king"
   },
   {
     "Id": "22921117",
@@ -2952,7 +3082,6 @@
     "RelativeDetailsURL": "/real-estate/23048193/11343-regional-road-25-rd-halton-hills-rural-halton-hills",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-12 5:46:59 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23048193/11343-regional-road-25-rd-halton-hills-rural-halton-hills",
     "RelativeURLFr": "/immobilier/23048193/11343-regional-road-25-rd-halton-hills"
@@ -3073,10 +3202,140 @@
     "RelativeDetailsURL": "/real-estate/23051813/12100-5th-line-nassagaweya-line-milton-nassagaweya",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-12 6:33:45 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23051813/12100-5th-line-nassagaweya-line-milton-nassagaweya",
     "RelativeURLFr": "/immobilier/23051813/12100-5th-line-nassagaweya-line-milton"
+  },
+  {
+    "Id": "23068271",
+    "MlsNumber": "W5194282",
+    "PublicRemarks": "Bring The In-Laws To This Delightful Home Situated On A 10.71-Ac Private Lot On Very Quiet Road W/Guest House & Outbuilding. A Cov Porch Welcomes You In To This Family Home Featuring A Well-Designed Kit W/Stunning Antiqued Granite Counter Open To The Fam Rm Complete W/Wood F/P & W/O To Deck. A Liv Rm W/Cozy Gas F/P, Office/Din Rm, Powder Rm & Mud Rm W/Access To Gar Complete The Level. The Upper Level Offers 3 Spac Bdrms, The Mstr W/3 Closets & 3 Pc Enste.**** EXTRAS **** The Bsmnt Adds To The Enjoyment W/Rec Rm, 4th Bdrm, Laundry & Loads Of Storage/Utility Space.  For The In-Laws - The Guest House Offers A Kitchen, Liv Rm, Bdrm, 3-Pc, Laundry & Loft Area With W/O To Deck & Stairs To Yard. Great Location. (28262553)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1562449,
+        "Name": "RAYMOND PATRICK CHESHER",
+        "Organization": {
+          "OrganizationID": 227749,
+          "Name": "YOUR HOME TODAY REALTY INC.",
+          "Address": {
+            "AddressText": "13394 HIGHWAY 7|HALTON HILLS, Ontario L7G4S4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "877-9001",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "877-1415",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.heyray.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/227749/your-home-today-realty-inc-13394-highway-7-halton-hills-ontario-l7g4s4",
+          "PhotoLastupdate": "2021-04-14 5:38:05 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "877-9001",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.heyray.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455651623"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1562449.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "RAYMOND PATRICK",
+        "LastName": "CHESHER",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1562449/raymond-patrick-chesher-13394-highway-7-halton-hills-ontario-l7g4s4",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1562449.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4105 30TH  SDRD|Milton, Ontario N0B2K0",
+        "Longitude": "-80.1033703",
+        "Latitude": "43.5957816",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540186859100000/reb86/highres/2/w5194282_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540186859100000/reb86/medres/2/w5194282_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540186859100000/reb86/lowres/2/w5194282_1.jpg",
+          "LastUpdated": "2021-04-14 5:38:05 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1599900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "350.2 FT   ; 10.71 Acres|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://tours.virtualgta.com/1812726?idx=1"
+    },
+    "PostalCode": "N0B2K0",
+    "RelativeDetailsURL": "/real-estate/23068271/4105-30th-sdrd-milton-nassagaweya",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-14 9:38:05 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23068271/4105-30th-sdrd-milton-nassagaweya",
+    "RelativeURLFr": "/immobilier/23068271/4105-30th-sdrd-milton"
   },
   {
     "Id": "23032691",
@@ -3440,134 +3699,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/22875475/636391-prince-of-wales-rd-mulmur-rural-mulmur",
     "RelativeURLFr": "/immobilier/22875475/636391-prince-of-wales-rd-mulmur"
-  },
-  {
-    "Id": "23018110",
-    "MlsNumber": "X5178922",
-    "PublicRemarks": "Country Living With So Much To Offer! This Bungalow Boasts Over 4800Sqft Of Living Space Tucked Away On 6.25 Acres. You Will Not Need To Book A Vacation When Everything You Desire Is In Your Own Backyard. An Inground Pool, Tennis Court, Volleyball Court, Trails, A Massive Pavilion To Host Your Outdoor Events & So Much More. Located On Cambridge Town Line. Every Amenity Is Just Minutes Away Including The 401. This Sprawling Bungalow Features 3 Bedrms...**** EXTRAS **** On The Main Floor A Full 3-Bedrm In-Law Suite W/A Separate Entrance. 6 Bathrms & 2 Kitchens In Total! Completely Carpet Free! A Dbl Garage & Ample Parking! Geothermal Heating & Cooling System, Heated Bathrm Floors & Beautiful Stone. (28197032)",
-    "Building": {
-      "BathroomTotal": "6",
-      "Bedrooms": "3 + 3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2087384,
-        "Name": "FAISAL SIKANDER SUSIWALA",
-        "Organization": {
-          "OrganizationID": 286405,
-          "Name": "RE/MAX TWIN CITY FAISAL SUSIWALA REALTY",
-          "Address": {
-            "AddressText": "30 GRANDY LANE|CAMBRIDGE, Ontario N1R8K2",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "624-5555",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "740-7230",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "439831692"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "HTTP://www.homeshack.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/286405/remax-twin-city-faisal-susiwala-realty-30-grandy-lane-cambridge-ontario-n1r8k2",
-          "PhotoLastupdate": "2021-04-09 1:38:31 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "624-5555",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459312744"
-          }
-        ],
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "FAISAL SIKANDER",
-        "LastName": "SUSIWALA",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2087384/faisal-sikander-susiwala-30-grandy-lane-cambridge-ontario-n1r8k2",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,950,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "485 TOWNLINE RD|Puslinch, Ontario N0B2J0",
-        "Longitude": "-80.270394",
-        "Latitude": "43.394021",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/highres/2/x5178922_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/medres/2/x5178922_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/lowres/2/x5178922_1.jpg",
-          "LastUpdated": "2021-04-03 5:38:30 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,950,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1950000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "579.21 x 743.14 Acre   ; 6.25 Acres|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://unbranded.youriguide.com/p6ght_485_townline_rd_puslinch_on/"
-    },
-    "PostalCode": "N0B2J0",
-    "RelativeDetailsURL": "/real-estate/23018110/485-townline-rd-puslinch-aberfoyle",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-03 9:38:30 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23018110/485-townline-rd-puslinch-aberfoyle",
-    "RelativeURLFr": "/immobilier/23018110/485-townline-rd-puslinch"
   },
   {
     "Id": "23021126",
@@ -4132,5 +4263,127 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23062814/152196-12th-line-east-garafraxa-rural-east-garafraxa",
     "RelativeURLFr": "/immobilier/23062814/152196-12th-line-east-garafraxa"
+  },
+  {
+    "Id": "23068278",
+    "MlsNumber": "X5194140",
+    "PublicRemarks": "Perfect Setting, Perfect Home Situated On 10.17 Acres Of Tree-Lined Conservation With Trails & A Pond. Turn-Key Equestrian Hobby Farm Nicely Set Back From Paved Road. Spacious 4 Bedroom 2650 Sqft With A Main Floor Office Overlooking The Greenspace. Large Back Deck With Views Of Sunsets & Wildlife. Extensively Renovated Property With A Long List Of Improvements. Kitchen, Roof, Windows, Siding, Water Softener, Deck, To Name A Few, Have All Been Replaced.**** EXTRAS **** Impressive 4 Stall Barn Built In 2015 W/ Tack Room, Wash Stall, Hay Storage, Loft, Hot Water Tank & Heated Water Lines. 3 Fenced Paddocks, 12X24 Workshop, Small Sand Ring. Ideal For Horse Lovers. Maple Trees On Property. Geothermal Heating. (28262418)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1619212,
+        "Name": "TRISH MILLS",
+        "Organization": {
+          "OrganizationID": 51498,
+          "Name": "RE/MAX REALTY SERVICES INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540186930000000/lowres/1124039.jpg",
+          "Address": {
+            "AddressText": "295 QUEEN ST E, SUITE B|BRAMPTON, Ontario L6W3R1",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "456-1000",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "456-8116",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51498/remax-realty-services-inc-295-queen-st-e-suite-b-brampton-ontario-l6w3r1",
+          "PhotoLastupdate": "2021-04-14 5:38:13 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "659-6060",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455651800"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637339822200000000/lowres/1160457.jpg",
+        "Position": "Salesperson",
+        "DesignationCodes": "SRES",
+        "PermitFreetextEmail": true,
+        "FirstName": "TRISH",
+        "LastName": "MILLS",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1619212/trish-mills-295-queen-st-e-suite-b-brampton-ontario-l6w3r1",
+        "AgentPhotoLastUpdated": "2020-08-25 19:57:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637339822200000000/highres/1160457.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,885,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5670 SECOND  LINE|Erin, Ontario L0N1N0",
+        "Longitude": "-80.1705672",
+        "Latitude": "43.7229576",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540186934200000/reb86/highres/0/x5194140_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540186934200000/reb86/medres/0/x5194140_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540186934200000/reb86/lowres/0/x5194140_1.jpg",
+          "LastUpdated": "2021-04-14 5:38:13 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,885,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1885000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "200 x 2222 FT   ; 2,222.59 Ft X 200.27 Ft X 2,222.01 Ft|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://tours.virtualgta.com/1696278?idx=1"
+    },
+    "PostalCode": "L0N1N0",
+    "RelativeDetailsURL": "/real-estate/23068278/5670-second-line-erin-rural-erin",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-14 9:38:13 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23068278/5670-second-line-erin-rural-erin",
+    "RelativeURLFr": "/immobilier/23068278/5670-second-line-erin"
   }
 ]

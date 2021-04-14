@@ -251,57 +251,6 @@
     }
   },
   {
-    "Id": "23009475",
-    "MlsNumber": "40091121",
-    "Property": {
-      "Price": "$1,950,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "485 TOWNLINE Road|Cambridge, Ontario N0B2J0",
-        "Longitude": "-80.271774",
-        "Latitude": "43.393732",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637528848574000000/reb20/highres/1/40091121_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637528848574000000/reb20/medres/1/40091121_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637528848574000000/reb20/lowres/1/40091121_1.jpg",
-          "LastUpdated": "2021-04-01 2:40:57 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Park, Place of Worship, Schools",
-      "ConvertedPrice": "$1,950,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1950000"
-    },
-    "Land": {
-      "SizeTotal": "6.29 ac|5 - 9.99 acres",
-      "SizeFrontage": "579 ft",
-      "AccessType": "Highway Nearby"
-    },
-    "Building": {
-      "BathroomTotal": "6",
-      "Bedrooms": "3 + 3",
-      "SizeInterior": "2603.0000",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23061634",
     "MlsNumber": "40097092",
     "Property": {
@@ -346,6 +295,56 @@
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
       "Type": "House"
+    }
+  },
+  {
+    "Id": "23067200",
+    "MlsNumber": "40097099",
+    "Property": {
+      "Price": "$1,599,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4105 30TH Side Road|Halton Hills, Ontario N0B2K0",
+        "Longitude": "-80.10298406",
+        "Latitude": "43.59580639",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540083158200000/reb44/highres/9/40097099_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540083158200000/reb44/medres/9/40097099_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540083158200000/reb44/lowres/9/40097099_1.jpg",
+          "LastUpdated": "2021-04-14 2:45:15 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1599900"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "350 ft",
+      "AccessType": "Highway access"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "1"
     }
   },
   {
@@ -495,6 +494,61 @@
       "Bedrooms": "4",
       "SizeInterior": "2400.0000",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23068060",
+    "MlsNumber": "H4103772",
+    "Property": {
+      "Price": "$998,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1296 MINERAL SPRINGS Road|Ancaster, Ontario L9H5E3",
+        "Longitude": "-80.024833",
+        "Latitude": "43.238189",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/highres/2/h4103772_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/medres/2/h4103772_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/lowres/2/h4103772_1.jpg",
+          "LastUpdated": "2021-04-14 5:07:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Inside Entry"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$998,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Gravel, Inside Entry",
+      "PriceUnformattedValue": "998000"
+    },
+    "Land": {
+      "SizeTotal": "19.766 ACRES|10 - 24.99 acres",
+      "SizeFrontage": "697 ft",
+      "AccessType": "River access"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "SizeInterior": "1540.0000",
       "Type": "House"
     }
   },
@@ -779,53 +833,6 @@
     }
   },
   {
-    "Id": "23025785",
-    "MlsNumber": "N5181312",
-    "Property": {
-      "Price": "$1,690,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5149 DAVIS DR|Whitchurch-Stouffville, Ontario L0G1E0",
-        "Longitude": "-79.3140918",
-        "Latitude": "44.0924899",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637533169883100000/reb82/highres/2/n5181312_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637533169883100000/reb82/medres/2/n5181312_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637533169883100000/reb82/lowres/2/n5181312_1.jpg",
-          "LastUpdated": "2021-04-06 2:43:08 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,690,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1690000"
-    },
-    "Land": {
-      "SizeTotal": "279.06 x 732.37 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23048047",
     "MlsNumber": "N5188213",
     "Property": {
@@ -869,6 +876,53 @@
       "BathroomTotal": "5",
       "Bedrooms": "4 + 1",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23068625",
+    "MlsNumber": "N5194473",
+    "Property": {
+      "Price": "$1,199,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "525 WOODCHOPPERS LANE|King, Ontario L7B0E9",
+        "Longitude": "-79.574613",
+        "Latitude": "44.045542",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540198617000000/reb82/highres/3/n5194473_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540198617000000/reb82/medres/3/n5194473_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540198617000000/reb82/lowres/3/n5194473_1.jpg",
+          "LastUpdated": "2021-04-14 5:57:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,199,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1199900"
+    },
+    "Land": {
+      "SizeTotal": "401.93 x 1021.4 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   },
@@ -1006,6 +1060,53 @@
       "BathroomTotal": "2",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23068271",
+    "MlsNumber": "W5194282",
+    "Property": {
+      "Price": "$1,599,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4105 30TH  SDRD|Milton, Ontario N0B2K0",
+        "Longitude": "-80.1033703",
+        "Latitude": "43.5957816",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540186859100000/reb86/highres/2/w5194282_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540186859100000/reb86/medres/2/w5194282_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540186859100000/reb86/lowres/2/w5194282_1.jpg",
+          "LastUpdated": "2021-04-14 5:38:05 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1599900"
+    },
+    "Land": {
+      "SizeTotal": "350.2 FT   ; 10.71 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -1151,53 +1252,6 @@
     }
   },
   {
-    "Id": "23018110",
-    "MlsNumber": "X5178922",
-    "Property": {
-      "Price": "$1,950,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "485 TOWNLINE RD|Puslinch, Ontario N0B2J0",
-        "Longitude": "-80.270394",
-        "Latitude": "43.394021",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/highres/2/x5178922_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/medres/2/x5178922_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637530683106330000/reb86/lowres/2/x5178922_1.jpg",
-          "LastUpdated": "2021-04-03 5:38:30 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,950,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1950000"
-    },
-    "Land": {
-      "SizeTotal": "579.21 x 743.14 Acre   ; 6.25 Acres|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "6",
-      "Bedrooms": "3 + 3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23021126",
     "MlsNumber": "X5179841",
     "Property": {
@@ -1335,6 +1389,53 @@
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23068278",
+    "MlsNumber": "X5194140",
+    "Property": {
+      "Price": "$1,885,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5670 SECOND  LINE|Erin, Ontario L0N1N0",
+        "Longitude": "-80.1705672",
+        "Latitude": "43.7229576",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540186934200000/reb86/highres/0/x5194140_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540186934200000/reb86/medres/0/x5194140_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540186934200000/reb86/lowres/0/x5194140_1.jpg",
+          "LastUpdated": "2021-04-14 5:38:13 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,885,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1885000"
+    },
+    "Land": {
+      "SizeTotal": "200 x 2222 FT   ; 2,222.59 Ft X 200.27 Ft X 2,222.01 Ft|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   }
