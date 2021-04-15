@@ -94,10 +94,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637516639581530000/reb41/highres/5/40028565_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637516639581530000/reb41/medres/5/40028565_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637516639581530000/reb41/lowres/5/40028565_1.jpg",
-          "LastUpdated": "2021-03-18 11:32:38 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540848994330000/reb41/highres/5/40028565_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540848994330000/reb41/medres/5/40028565_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540848994330000/reb41/lowres/5/40028565_1.jpg",
+          "LastUpdated": "2021-04-15 12:01:39 PM"
         }
       ],
       "Parking": [
@@ -127,7 +127,8 @@
     "RelativeDetailsURL": "/real-estate/22434234/347-scenic-drive-st-george",
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-01-28 6:25:50 PM",
-    "PhotoChangeDateUTC": "2021-03-18 3:32:46 PM",
+    "PhotoChangeDateUTC": "2021-04-15 4:01:41 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22434234/347-scenic-drive-st-george",
     "RelativeURLFr": "/immobilier/22434234/347-scenic-drive-st-george"
@@ -664,7 +665,7 @@
           "OrganizationID": 285293,
           "Name": "RE/MAX TWIN CITY FAISAL SUSIWALA REALTY",
           "Address": {
-            "AddressText": "30 GRANDY LANE|CAMBRIDGE, Ontario N1R8K2",
+            "AddressText": "1400 BISHOP ST. N.|CAMBRIDGE, Ontario N1R6W8",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
@@ -678,7 +679,7 @@
           ],
           "Emails": [
             {
-              "ContactId": "460119139"
+              "ContactId": "466853834"
             }
           ],
           "Websites": [
@@ -691,7 +692,7 @@
           "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/285293/remax-twin-city-faisal-susiwala-realty-30-grandy-lane-cambridge-ontario-n1r8k2",
+          "RelativeDetailsURL": "/office/firm/285293/remax-twin-city-faisal-susiwala-realty-1400-bishop-st-n-cambridge-ontario-n1r6w8",
           "PhotoLastupdate": "2021-04-12 11:36:24 PM"
         },
         "Phones": [
@@ -732,7 +733,7 @@
         "LastName": "SUSIWALA",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1750694/faisal-susiwala-30-grandy-lane-cambridge-ontario-n1r8k2",
+        "RelativeDetailsURL": "/agent/1750694/faisal-susiwala-1400-bishop-st-n-cambridge-ontario-n1r6w8",
         "AgentPhotoLastUpdated": "2019-11-18 12:40:00",
         "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637096776000000000/highres/1066261.jpg",
         "RankMyAgentKey": "",
@@ -924,7 +925,6 @@
     "RelativeDetailsURL": "/real-estate/23061634/152196-12th-line-east-garafraxa",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-13 7:45:08 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23061634/152196-12th-line-east-garafraxa",
     "RelativeURLFr": "/immobilier/23061634/152196-12th-line-east-garafraxa"
@@ -1560,6 +1560,152 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23068060/1296-mineral-springs-road-ancaster",
     "RelativeURLFr": "/immobilier/23068060/1296-mineral-springs-road-ancaster"
+  },
+  {
+    "Id": "23075038",
+    "MlsNumber": "H4103938",
+    "PublicRemarks": "Welcome to a world of possibilities in this stunning location! 7 forested acres, 2.7 of which are cleared, and TOTAL privacy. Drive up the picturesque winding driveway past two ponds on either side of the over 2,400 sq foot bungalow, with bonus half story, awaiting your personal touch. The homes solid structure could be remodeled or build your dream home! Enjoy the +/-1,000 sq foot heated shop on the property that used to be used for a wood worker and also provides 2+ more parking spaces for vehicles and ample storage. There is also another large fabric container shelter to store an R.V. or boat, in great shape with a gravel floor. Possible to temporarily move into the 1/2 storey while you renovate the rest of the home. Country Living only 2 minutes drive from Highway #6 makes this home totally accessible for commuting with quick access to all amenities. Dont be TOO LATE*! *REG TM. RSA (27178976)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "SizeInterior": "2419.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1525426,
+        "Name": "Drew Woolcott",
+        "Organization": {
+          "OrganizationID": 276526,
+          "Name": "RE/MAX Escarpment Woolcott Realty Inc.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541068210000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "493 Dundas Street E.|Waterdown, Ontario L9B0G7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "332-9223",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "689-3799",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463978896"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/276526/remax-escarpment-woolcott-realty-inc-493-dundas-street-e-waterdown-ontario-l9b0g7",
+          "PhotoLastupdate": "2021-04-15 6:07:01 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "332-9223",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "689-3799",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "HTTP://www.nobodysellsmore.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "453429169"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636528369000000000/lowres/1063673.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "Drew",
+        "LastName": "Woolcott",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1525426/drew-woolcott-493-dundas-street-e-waterdown-ontario-l9b0g7",
+        "AgentPhotoLastUpdated": "2018-01-29 15:35:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636528369000000000/highres/1063673.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,050,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "508 6th Conc Road W|Flamborough, Ontario L8B1M7",
+        "Longitude": "-79.98188",
+        "Latitude": "43.349546",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541068988470000/reb14/highres/8/h4103938_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541068988470000/reb14/medres/8/h4103938_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541068988470000/reb14/lowres/8/h4103938_1.jpg",
+          "LastUpdated": "2021-04-15 6:08:18 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Detached Garage"
+        },
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Inside Entry"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,050,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Detached Garage, Gravel, Inside Entry",
+      "PriceUnformattedValue": "1050000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "510.95x295.57x151.03x231.59x674.29x529.05|5 - 9.99 acres",
+      "SizeFrontage": "510 ft"
+    },
+    "PostalCode": "L8B1M7",
+    "RelativeDetailsURL": "/real-estate/23075038/508-6th-conc-road-w-flamborough",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-15 10:08:19 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23075038/508-6th-conc-road-w-flamborough",
+    "RelativeURLFr": "/immobilier/23075038/508-6th-conc-road-w-flamborough"
   },
   {
     "Id": "22765943",
@@ -2466,209 +2612,6 @@
     "RelativeURLFr": "/immobilier/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio"
   },
   {
-    "Id": "23048047",
-    "MlsNumber": "N5188213",
-    "PublicRemarks": "Picture Yourself Enjoying Your Morning Coffee Watching The Sunrise Over Your Pond From Your Living Room Balcony. This 4+ Bedroom Bungalow Is Set Perfectly On A 10+ Acre Corner Lot Where The Pavement Meets Dirt Road. Open Concept Kitchen, Living Area W/13 Ft Island W/ Breakfast Bar, 200 Year Old Barn Board Countertop & Vaulted Ceiling. Formal Dining Rm & Family Rm W/Gas F/P. Lower Level W/ W/O & In Law Suite Potential. Inside Access To Garage W/Home Workshop.**** EXTRAS **** Two Outbuildings. Dog Run. (28236260)",
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "4 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1424901,
-        "Name": "MARC RONAN",
-        "Organization": {
-          "OrganizationID": 117547,
-          "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538342540000000/lowres/1168222.jpg",
-          "Address": {
-            "AddressText": "25 QUEEN ST. S.|TOTTENHAM, Ontario L0G1W0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "936-4216",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "936-5130",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/117547/coldwell-banker-ronan-realty-25-queen-st-s-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-04-12 2:24:14 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "936-4216",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.marcronan.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455697452"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1424901.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "MARC",
-        "LastName": "RONAN",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1424901/marc-ronan-25-queen-st-s-tottenham-ontario-l0g1w0",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1424901.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1662895,
-        "Name": "BRITTON SCOTT RONAN",
-        "Organization": {
-          "OrganizationID": 117743,
-          "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538342540000000/lowres/1168329.jpg",
-          "Address": {
-            "AddressText": "367 VICTORIA STREET EAST|ALLISTON, Ontario L9R1J7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "435-4336",
-              "AreaCode": "705",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "435-3506",
-              "AreaCode": "705",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/117743/coldwell-banker-ronan-realty-367-victoria-street-east-alliston-ontario-l9r1j7",
-          "PhotoLastupdate": "2021-04-12 2:24:14 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "435-4336",
-            "AreaCode": "705",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.brittonronan.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/ExperienceSold/?fref=ts",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/brittonronan",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://ca.linkedin.com/in/britton-ronan-553a6a18",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455739013"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636991416600000000/lowres/1168330.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "BRITTON SCOTT",
-        "LastName": "RONAN",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1662895/britton-scott-ronan-367-victoria-street-east-alliston-ontario-l9r1j7",
-        "AgentPhotoLastUpdated": "2019-07-19 14:01:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636991416600000000/highres/1168330.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,650,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1634 CONCESSION RD 8|Adjala-Tosorontio, Ontario L0G1W0",
-        "Longitude": "-79.8455647153304",
-        "Latitude": "44.0035948254754",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637535893479400000/reb82/highres/3/n5188213_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637535893479400000/reb82/medres/3/n5188213_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637535893479400000/reb82/lowres/3/n5188213_1.jpg",
-          "LastUpdated": "2021-04-09 6:22:27 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,650,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1650000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "775.64 x 542.84 FT   ; As Per Geo|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "PhotoLink": "http://wylieford.homelistingtours.com/listing2/1634-concession-road-8",
-      "VideoLink": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/WhctKJWQlqxGFHNMLcSZDrrPSTxmZkHgRfxddQQXDQwqVJks"
-    },
-    "PostalCode": "L0G1W0",
-    "RelativeDetailsURL": "/real-estate/23048047/1634-concession-rd-8-adjala-tosorontio-rural-adjala-tosorontio",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-09 10:22:27 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23048047/1634-concession-rd-8-adjala-tosorontio-rural-adjala-tosorontio",
-    "RelativeURLFr": "/immobilier/23048047/1634-concession-rd-8-adjala-tosorontio"
-  },
-  {
     "Id": "23068625",
     "MlsNumber": "N5194473",
     "PublicRemarks": "Great Investment Opportunity! 1 1/2 Storey Home (As Is) With 3 Bedrooms On 10 Acres Farm Land Backs On To The Canal And Golf Court. Easy Access To Hwy 400, Only 30 Minutes From Toronto. Lots Of Potential!**** EXTRAS **** All Existing Appliances And Light Fixture. Property Is Sold In As Is Where Is Basis With No Representation Or Warranty's. Taxes And Measurements To Be Verified By Buyer. (28263098)",
@@ -3338,6 +3281,127 @@
     "RelativeURLFr": "/immobilier/23068271/4105-30th-sdrd-milton"
   },
   {
+    "Id": "23073547",
+    "MlsNumber": "W5195364",
+    "PublicRemarks": "Private, Serene And Set On A Hill With Breathtaking Views. This Beautiful 10 Acre Property Can Be Yours To Call Home. There Are Three Fireplaces, Four Bedrooms And Hardwood Throughout. Each Window Provides A Captivating View Of Nature. Albion Hills Conservation And Trans Canada Trail Are Only Steps Away. Schools, Shopping And Dining Are All Close By. Great Access To Major Highways. Don't Miss Out On This Opportunity.**** EXTRAS **** Wall Oven, B/I Dishwasher, Stove, Washer, (All Appliances As Is Condition), Roof 2019, Culligan Water Filtration System 2019, All Electrical Light Fixtures, Refrigerator In Basement, Hwt Owned (28268911)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1895471,
+        "Name": "RUTH PATAFIO",
+        "Organization": {
+          "OrganizationID": 50719,
+          "Name": "RE/MAX WEST REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540949880000000/lowres/1002321.jpg",
+          "Address": {
+            "AddressText": "9-1 QUEENSGATE BOULEVARD|BOLTON, Ontario L7E2X7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "857-7653",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "857-7671",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxwest.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/50719/remax-west-realty-inc-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
+          "PhotoLastupdate": "2021-04-15 2:49:48 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "857-7653",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455767243"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1895471.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "RUTH",
+        "LastName": "PATAFIO",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1895471/ruth-patafio-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1895471.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,549,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "16668 HUMBER STATION RD|Caledon, Ontario L0N1E0",
+        "Longitude": "-79.8425096",
+        "Latitude": "43.9208234",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540949880230000/reb82/highres/4/w5195364_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540949880230000/reb82/medres/4/w5195364_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540949880230000/reb82/lowres/4/w5195364_1.jpg",
+          "LastUpdated": "2021-04-15 2:49:48 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "ConvertedPrice": "$1,549,000 ",
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1549000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 Acre|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://www.myvisuallistings.com/vtnb/309459"
+    },
+    "PostalCode": "L0N1E0",
+    "RelativeDetailsURL": "/real-estate/23073547/16668-humber-station-rd-caledon-rural-caledon",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-15 6:49:48 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23073547/16668-humber-station-rd-caledon-rural-caledon",
+    "RelativeURLFr": "/immobilier/23073547/16668-humber-station-rd-caledon"
+  },
+  {
     "Id": "23032691",
     "MlsNumber": "X5112353",
     "PublicRemarks": "This Bungalow Is Guaranteed To Impress Any Buyer Who Appreciates Spacious And Peaceful Living. There Are 7 Picturesque Acres To Enjoy Along With Glorious Views Over The Neighbouring Forest. The Layout Is Spread Over 1,834 Sqft & Offers Three Large Bedrooms, A Formal Dining Room With Built-Ins Plus A Lower Level With A Unique Wine Cellar, A Games Room And A Spacious Family Room W/ A Gas Stove. 273.09 Ft * 1,127.64 Ft * 125.26 Ft * 200.42 Ft * 147.79 * 1330.21**** EXTRAS **** In The Heart Of The Home Sits The Open-Plan Kitchen And Family Room. Prepare Delicious Meals In This Gourmet Space Complete With Gorgeous Cabinetry And An Island While Relaxing In The Family Room (28145044)",
@@ -3938,7 +4002,7 @@
         "Organization": {
           "OrganizationID": 62449,
           "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532423810000000/lowres/62449.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540950610000000/lowres/62449.jpg",
           "Address": {
             "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
             "PermitShowAddress": true,
@@ -3969,7 +4033,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-04-05 5:59:41 PM"
+          "PhotoLastupdate": "2021-04-15 2:51:01 PM"
         },
         "Phones": [
           {
@@ -4014,7 +4078,7 @@
         "Organization": {
           "OrganizationID": 62449,
           "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637532423810000000/lowres/62449.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540950610000000/lowres/62449.jpg",
           "Address": {
             "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
             "PermitShowAddress": true,
@@ -4045,7 +4109,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-04-05 5:59:41 PM"
+          "PhotoLastupdate": "2021-04-15 2:51:01 PM"
         },
         "Phones": [
           {
@@ -4084,8 +4148,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "386106 20 SDRD|Mono, Ontario L9W6V2",
-        "Longitude": "-80.115211",
-        "Latitude": "44.2096861",
+        "Longitude": "-80.144158947388",
+        "Latitude": "44.0233153766561",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -4259,7 +4323,6 @@
     "RelativeDetailsURL": "/real-estate/23062814/152196-12th-line-east-garafraxa-rural-east-garafraxa",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-13 10:00:26 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23062814/152196-12th-line-east-garafraxa-rural-east-garafraxa",
     "RelativeURLFr": "/immobilier/23062814/152196-12th-line-east-garafraxa"
@@ -4385,5 +4448,138 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23068278/5670-second-line-erin-rural-erin",
     "RelativeURLFr": "/immobilier/23068278/5670-second-line-erin"
+  },
+  {
+    "Id": "23073766",
+    "MlsNumber": "X5195450",
+    "PublicRemarks": "Rare Opportunity With 19.77 Acres In The Quiet Peaceful Neighbrhd Of Sulpher Springs. The House Sits Perched On A Hill With Breathtaking Views. Build Your Dream Home Or Renovate Existing Home. Close To Dundas & Nestled Into The Countryside, This Lush Wood Area Is Home To Many Trails, Streams & Waterfalls. Rsa**** EXTRAS **** Rental: None. (28269216)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1413922,
+        "Name": "CONRAD GUY ZURINI",
+        "Organization": {
+          "OrganizationID": 266588,
+          "Name": "RE/MAX ESCARPMENT REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540951140000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "2180 ITABASHI WAY #4B|BURLINGTON, Ontario L7M5A5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "639-3044",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "681-9908",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881751"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxescarpment.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/266588/remax-escarpment-realty-inc-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
+          "PhotoLastupdate": "2021-04-15 2:51:54 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "639-3044",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "https://www.remaxescarpment.com/",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455707696"
+          }
+        ],
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "CONRAD GUY",
+        "LastName": "ZURINI",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1413922/conrad-guy-zurini-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$998,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1296 MINERAL SPRINGS RD|Hamilton, Ontario L9H5E3",
+        "Longitude": "-80.0250005",
+        "Latitude": "43.2381902",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/highres/0/x5195450_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/medres/0/x5195450_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/lowres/0/x5195450_1.jpg",
+          "LastUpdated": "2021-04-15 2:51:54 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$998,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "998000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "697.9 x 1272.7 FT|10 - 24.99 acres"
+    },
+    "PostalCode": "L9H5E3",
+    "RelativeDetailsURL": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-15 6:51:54 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
+    "RelativeURLFr": "/immobilier/23073766/1296-mineral-springs-rd-hamilton"
   }
 ]

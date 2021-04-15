@@ -15,10 +15,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637516639581530000/reb41/highres/5/40028565_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637516639581530000/reb41/medres/5/40028565_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637516639581530000/reb41/lowres/5/40028565_1.jpg",
-          "LastUpdated": "2021-03-18 11:32:38 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540848994330000/reb41/highres/5/40028565_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540848994330000/reb41/medres/5/40028565_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540848994330000/reb41/lowres/5/40028565_1.jpg",
+          "LastUpdated": "2021-04-15 12:01:39 PM"
         }
       ],
       "Parking": [
@@ -553,6 +553,64 @@
     }
   },
   {
+    "Id": "23075038",
+    "MlsNumber": "H4103938",
+    "Property": {
+      "Price": "$1,050,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "508 6th Conc Road W|Flamborough, Ontario L8B1M7",
+        "Longitude": "-79.98188",
+        "Latitude": "43.349546",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541068988470000/reb14/highres/8/h4103938_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541068988470000/reb14/medres/8/h4103938_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541068988470000/reb14/lowres/8/h4103938_1.jpg",
+          "LastUpdated": "2021-04-15 6:08:18 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Detached Garage"
+        },
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Inside Entry"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,050,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Detached Garage, Gravel, Inside Entry",
+      "PriceUnformattedValue": "1050000"
+    },
+    "Land": {
+      "SizeTotal": "510.95x295.57x151.03x231.59x674.29x529.05|5 - 9.99 acres",
+      "SizeFrontage": "510 ft"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "SizeInterior": "2419.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22765943",
     "MlsNumber": "N5097826",
     "Property": {
@@ -833,53 +891,6 @@
     }
   },
   {
-    "Id": "23048047",
-    "MlsNumber": "N5188213",
-    "Property": {
-      "Price": "$1,650,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1634 CONCESSION RD 8|Adjala-Tosorontio, Ontario L0G1W0",
-        "Longitude": "-79.8455647153304",
-        "Latitude": "44.0035948254754",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637535893479400000/reb82/highres/3/n5188213_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637535893479400000/reb82/medres/3/n5188213_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637535893479400000/reb82/lowres/3/n5188213_1.jpg",
-          "LastUpdated": "2021-04-09 6:22:27 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,650,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1650000"
-    },
-    "Land": {
-      "SizeTotal": "775.64 x 542.84 FT   ; As Per Geo|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "4 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23068625",
     "MlsNumber": "N5194473",
     "Property": {
@@ -1111,6 +1122,48 @@
     }
   },
   {
+    "Id": "23073547",
+    "MlsNumber": "W5195364",
+    "Property": {
+      "Price": "$1,549,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "16668 HUMBER STATION RD|Caledon, Ontario L0N1E0",
+        "Longitude": "-79.8425096",
+        "Latitude": "43.9208234",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540949880230000/reb82/highres/4/w5195364_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540949880230000/reb82/medres/4/w5195364_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540949880230000/reb82/lowres/4/w5195364_1.jpg",
+          "LastUpdated": "2021-04-15 2:49:48 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "ConvertedPrice": "$1,549,000 ",
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1549000"
+    },
+    "Land": {
+      "SizeTotal": "10 Acre|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23032691",
     "MlsNumber": "X5112353",
     "Property": {
@@ -1306,8 +1359,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "386106 20 SDRD|Mono, Ontario L9W6V2",
-        "Longitude": "-80.115211",
-        "Latitude": "44.2096861",
+        "Longitude": "-80.144158947388",
+        "Latitude": "44.0233153766561",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -1436,6 +1489,53 @@
       "BathroomTotal": "3",
       "Bedrooms": "4",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23073766",
+    "MlsNumber": "X5195450",
+    "Property": {
+      "Price": "$998,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1296 MINERAL SPRINGS RD|Hamilton, Ontario L9H5E3",
+        "Longitude": "-80.0250005",
+        "Latitude": "43.2381902",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/highres/0/x5195450_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/medres/0/x5195450_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/lowres/0/x5195450_1.jpg",
+          "LastUpdated": "2021-04-15 2:51:54 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$998,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "998000"
+    },
+    "Land": {
+      "SizeTotal": "697.9 x 1272.7 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   }
