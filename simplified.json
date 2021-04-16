@@ -611,6 +611,56 @@
     }
   },
   {
+    "Id": "23081101",
+    "MlsNumber": "H4104060",
+    "Property": {
+      "Price": "$1,450,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2030 Lennon Road|Puslinch, Ontario N0B2J0",
+        "Longitude": "-80.104846",
+        "Latitude": "43.401245",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/highres/0/h4104060_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/medres/0/h4104060_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/lowres/0/h4104060_1.jpg",
+          "LastUpdated": "2021-04-16 6:09:38 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "16",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,450,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1450000"
+    },
+    "Land": {
+      "SizeTotal": "1372.49 x 690.52|10 - 24.99 acres",
+      "SizeFrontage": "1372 ft"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "SizeInterior": "2079.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22765943",
     "MlsNumber": "N5097826",
     "Property": {
@@ -846,7 +896,7 @@
     "Id": "22999288",
     "MlsNumber": "N5173386",
     "Property": {
-      "Price": "$1,425,000",
+      "Price": "$1,349,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "8481 ADJALA SIDEROAD 10 SDRD|Adjala-Tosorontio, Ontario L0G1L0",
@@ -873,12 +923,12 @@
       "TypeId": "300",
       "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,425,000 ",
+      "ConvertedPrice": "$1,349,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1425000"
+      "PriceUnformattedValue": "1349000"
     },
     "Land": {
       "SizeTotal": "533.23 x 580 FT|5 - 9.99 acres"
@@ -934,6 +984,101 @@
       "BathroomTotal": "1",
       "Bedrooms": "3",
       "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23077029",
+    "MlsNumber": "N5196734",
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "750 REGIONAL RD 13 RD|Uxbridge, Ontario L9P1R2",
+        "Longitude": "-79.1495808051575",
+        "Latitude": "44.2077474257251",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/highres/4/n5196734_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/medres/4/n5196734_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/lowres/4/n5196734_1.jpg",
+          "LastUpdated": "2021-04-16 8:16:11 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Hospital",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Land": {
+      "SizeTotal": "700 x 660 FT   ; Irregular 10 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23079887",
+    "MlsNumber": "N5197660",
+    "Property": {
+      "Price": "$1,999,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "13025 MCCOWAN RD|Whitchurch-Stouffville, Ontario L4A7X5",
+        "Longitude": "-79.3060551",
+        "Latitude": "43.9784263",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541962895770000/reb82/highres/0/n5197660_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541962895770000/reb82/medres/0/n5197660_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541962895770000/reb82/lowres/0/n5197660_1.jpg",
+          "LastUpdated": "2021-04-16 6:58:09 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1999000"
+    },
+    "Land": {
+      "SizeTotal": "429.49 x 812.24 FT   ; Irregular Lot. 6.6 Acre|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "2 + 1",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -1535,6 +1680,53 @@
     "Building": {
       "BathroomTotal": "1",
       "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23077248",
+    "MlsNumber": "X5196795",
+    "Property": {
+      "Price": "$1,050,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "508 6TH CONCESSION RD W|Hamilton, Ontario L8B1M7",
+        "Longitude": "-79.9813274",
+        "Latitude": "43.3503126",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541579220300000/reb82/highres/5/x5196795_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541579220300000/reb82/medres/5/x5196795_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541579220300000/reb82/lowres/5/x5196795_1.jpg",
+          "LastUpdated": "2021-04-16 8:18:42 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,050,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1050000"
+    },
+    "Land": {
+      "SizeTotal": "510 x 528 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
       "StoriesTotal": "1",
       "Type": "House"
     }

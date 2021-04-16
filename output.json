@@ -1057,7 +1057,6 @@
     "RelativeDetailsURL": "/real-estate/23067200/4105-30th-side-road-halton-hills",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-14 6:45:15 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23067200/4105-30th-side-road-halton-hills",
     "RelativeURLFr": "/immobilier/23067200/4105-30th-side-road-halton-hills"
@@ -1556,7 +1555,6 @@
     "RelativeDetailsURL": "/real-estate/23068060/1296-mineral-springs-road-ancaster",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-14 9:07:41 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23068060/1296-mineral-springs-road-ancaster",
     "RelativeURLFr": "/immobilier/23068060/1296-mineral-springs-road-ancaster"
@@ -1706,6 +1704,138 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23075038/508-6th-conc-road-w-flamborough",
     "RelativeURLFr": "/immobilier/23075038/508-6th-conc-road-w-flamborough"
+  },
+  {
+    "Id": "23081101",
+    "MlsNumber": "H4104060",
+    "PublicRemarks": "Well maintained home on 19+ acres. There is hardwood throughout. Cozy up to the wood-burning fireplace surrounded by built-in bookshelves. There is a geothermal heating/ AC system. The best part about to this lovely place is the peaceful sitting areas surrounded by beautiful mature trees with a pond just close by. Don't hesitate today and book your private viewing! (27185161)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "SizeInterior": "2079.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1524224,
+        "Name": "Rob Golfi",
+        "Organization": {
+          "OrganizationID": 275989,
+          "Name": "RE/MAX Escarpment Golfi Realty Inc.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541967680000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "1 Markland Street|Hamilton, Ontario L8P2J5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "575-7700",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "575-1962",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/275989/remax-escarpment-golfi-realty-inc-1-markland-street-hamilton-ontario-l8p2j5",
+          "PhotoLastupdate": "2021-04-16 7:06:08 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "575-7700",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "575-1962",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "HTTP://www.robgolfi.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "453428005"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637045152000000000/lowres/1064132.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Rob",
+        "LastName": "Golfi",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1524224/rob-golfi-1-markland-street-hamilton-ontario-l8p2j5",
+        "AgentPhotoLastUpdated": "2019-09-19 18:40:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637045152000000000/highres/1064132.jpg",
+        "RankMyAgentKey": "27061",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,450,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2030 Lennon Road|Puslinch, Ontario N0B2J0",
+        "Longitude": "-80.104846",
+        "Latitude": "43.401245",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/highres/0/h4104060_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/medres/0/h4104060_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/lowres/0/h4104060_1.jpg",
+          "LastUpdated": "2021-04-16 6:09:38 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "16",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,450,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1450000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "1372.49 x 690.52|10 - 24.99 acres",
+      "SizeFrontage": "1372 ft"
+    },
+    "PostalCode": "N0B2J0",
+    "RelativeDetailsURL": "/real-estate/23081101/2030-lennon-road-puslinch",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-16 10:09:39 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23081101/2030-lennon-road-puslinch",
+    "RelativeURLFr": "/immobilier/23081101/2030-lennon-road-puslinch"
   },
   {
     "Id": "22765943",
@@ -2522,7 +2652,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/275934/modern-solution-realty-inc-3095-wolfedale-rd-b-2-mississauga-ontario-l5c1v8",
-          "PhotoLastupdate": "2021-04-09 1:38:15 PM"
+          "PhotoLastupdate": "2021-04-16 1:39:03 PM"
         },
         "Phones": [
           {
@@ -2562,7 +2692,7 @@
       }
     ],
     "Property": {
-      "Price": "$1,425,000",
+      "Price": "$1,349,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "8481 ADJALA SIDEROAD 10 SDRD|Adjala-Tosorontio, Ontario L0G1L0",
@@ -2589,12 +2719,12 @@
       "TypeId": "300",
       "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,425,000 ",
+      "ConvertedPrice": "$1,349,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1425000"
+      "PriceUnformattedValue": "1349000"
     },
     "Business": {},
     "Land": {
@@ -2606,6 +2736,8 @@
     "PostalCode": "L0G1L0",
     "RelativeDetailsURL": "/real-estate/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio-rural-adjala-tosorontio",
     "StatusId": "1",
+    "PriceChangeDateUTC": "2021-04-16 5:40:27 PM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-03-30 9:38:02 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio-rural-adjala-tosorontio",
@@ -2733,10 +2865,272 @@
     "RelativeDetailsURL": "/real-estate/23068625/525-woodchoppers-lane-king-rural-king",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-14 9:57:41 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23068625/525-woodchoppers-lane-king-rural-king",
     "RelativeURLFr": "/immobilier/23068625/525-woodchoppers-lane-king"
+  },
+  {
+    "Id": "23077029",
+    "MlsNumber": "N5196734",
+    "PublicRemarks": "At The End Of A Tree Lined Drive Nestled On A Private & Peaceful 10 Acre Lot Sits This Beautiful 2 Story Custom Home, 4 Years New Fabulous Wrap Around Porch, Pond, Multi Tiered Deck, Main Fl White Oak Hardwood Floors,  Propane Fireplace, Gorgeous Kitchen W/ Western View, Primary Bdrm W/ 5 Pc Ensuite, Walk In Closet & Laundry, Craftsman Moulding Thru Out, Mudroom W/ Porch Access, Sink And Pantry Area,  Paved Lit Driveway, Country Living At It's Finest**** EXTRAS **** Hot Tub, Gazebo, Black Organizing Unit Walk In Closet,Induction Range, Bi Double Oven, Bidw, Ss Fridge, Washer/Dryer, All Elf & Fans, All Sheds/Storage Tents,Generator, Wood Stove,Pond Fountain, Exclusions & Additional Features See Attached (28273763)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1878161,
+        "Name": "FRAN TAYLOR",
+        "Organization": {
+          "OrganizationID": 259470,
+          "Name": "RE/MAX ALL-STARS REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541577710000000/lowres/259470.jpg",
+          "Address": {
+            "PermitShowAddress": false,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "852-6143",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "852-5696",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/259470/remax-all-stars-realty-inc-47-brock-street-west-uxbridge-ontario-l9p1n5",
+          "PhotoLastupdate": "2021-04-16 8:16:11 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "852-6143",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.frantaylor.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455761065"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "FRAN",
+        "LastName": "TAYLOR",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1878161/fran-taylor",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "750 REGIONAL RD 13 RD|Uxbridge, Ontario L9P1R2",
+        "Longitude": "-79.1495808051575",
+        "Latitude": "44.2077474257251",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/highres/4/n5196734_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/medres/4/n5196734_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/lowres/4/n5196734_1.jpg",
+          "LastUpdated": "2021-04-16 8:16:11 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Hospital",
+      "ConvertedPrice": "$1,599,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1599000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "700 x 660 FT   ; Irregular 10 Acres|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "SoundLink": "https://my.matterport.com/show/?m=UaWc6vrmH89&mls=1",
+      "VideoLink": "https://youtu.be/jNIWS6iEZ3A"
+    },
+    "PostalCode": "L9P1R2",
+    "RelativeDetailsURL": "/real-estate/23077029/750-regional-rd-13-rd-uxbridge-rural-uxbridge",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-16 12:16:11 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23077029/750-regional-rd-13-rd-uxbridge-rural-uxbridge",
+    "RelativeURLFr": "/immobilier/23077029/750-regional-rd-13-rd-uxbridge"
+  },
+  {
+    "Id": "23079887",
+    "MlsNumber": "N5197660",
+    "PublicRemarks": "Attention To Builders & Investors, 6.6 Acre Land W/Pond!The Country Life-But Not Far Away! Spectacular Treed 6.6 Acre Country Estate W/ Pine Tree Fenced Font Yard, Manicured Lawns, Stream, Pond, Detached Garage & Large Storage Barn!!!  Modern Designed Bungalow W/2+1 Beds,2 Baths, 2 Kitchens & Finished Bsmt! Hdwd Fl, Smooth Ceiling & Potlights T/O, Kit W/ Centre Island & Breakfast Area.2 Mins Drive To Hwy 48, 8 Mins Drive To Hwy404 & Commercial Plaza & All!**** EXTRAS **** 2 Stoves, 2 Fridges, 2 Dishwasher, 2 Hood Fans, Microwave Oven. All Electrical Light Fixtures & Window Coverings. Lot Size 6.62 Acre As Per Attached Survey. (28277547)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "2 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1985004,
+        "Name": "SUE ZHANG",
+        "Organization": {
+          "OrganizationID": 286457,
+          "Name": "RE/MAX SMART SOLD REALTY",
+          "Address": {
+            "AddressText": "8901 WOODBINE AVE #208|MARKHAM, Ontario L3R9Y4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "305-0505",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "305-0506",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "461519517"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/286457/remax-smart-sold-realty-8901-woodbine-ave-208-markham-ontario-l3r9y4",
+          "PhotoLastupdate": "2021-04-16 3:26:15 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "309-4990",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "309-4990",
+            "AreaCode": "647",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.suezhangteam.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "462680008"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636800473200000000/lowres/1269676.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "SUE",
+        "LastName": "ZHANG",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1985004/sue-zhang-8901-woodbine-ave-208-markham-ontario-l3r9y4",
+        "AgentPhotoLastUpdated": "2018-12-10 14:02:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636800473200000000/highres/1269676.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,999,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "13025 MCCOWAN RD|Whitchurch-Stouffville, Ontario L4A7X5",
+        "Longitude": "-79.3060551",
+        "Latitude": "43.9784263",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541962895770000/reb82/highres/0/n5197660_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541962895770000/reb82/medres/0/n5197660_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541962895770000/reb82/lowres/0/n5197660_1.jpg",
+          "LastUpdated": "2021-04-16 6:58:09 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1999000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "429.49 x 812.24 FT   ; Irregular Lot. 6.6 Acre|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://my.matterport.com/show/?m=hjQ1HUGWfBh&mls=1"
+    },
+    "PostalCode": "L4A7X5",
+    "RelativeDetailsURL": "/real-estate/23079887/13025-mccowan-rd-whitchurch-stouffville-stouffville",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-16 10:58:09 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23079887/13025-mccowan-rd-whitchurch-stouffville-stouffville",
+    "RelativeURLFr": "/immobilier/23079887/13025-mccowan-rd-whitchurch-stouffville"
   },
   {
     "Id": "22921117",
@@ -3275,7 +3669,6 @@
     "RelativeDetailsURL": "/real-estate/23068271/4105-30th-sdrd-milton-nassagaweya",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-14 9:38:05 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23068271/4105-30th-sdrd-milton-nassagaweya",
     "RelativeURLFr": "/immobilier/23068271/4105-30th-sdrd-milton"
@@ -3283,7 +3676,7 @@
   {
     "Id": "23073547",
     "MlsNumber": "W5195364",
-    "PublicRemarks": "Private, Serene And Set On A Hill With Breathtaking Views. This Beautiful 10 Acre Property Can Be Yours To Call Home. There Are Three Fireplaces, Four Bedrooms And Hardwood Throughout. Each Window Provides A Captivating View Of Nature. Albion Hills Conservation And Trans Canada Trail Are Only Steps Away. Schools, Shopping And Dining Are All Close By. Great Access To Major Highways. Don't Miss Out On This Opportunity.**** EXTRAS **** Wall Oven, B/I Dishwasher, Stove, Washer, (All Appliances As Is Condition), Roof 2019, Culligan Water Filtration System 2019, All Electrical Light Fixtures, Refrigerator In Basement, Hwt Owned (28268911)",
+    "PublicRemarks": "Private, Serene And Set On A Hill With Breathtaking Views. This Beautiful 10 Acre Property Can Be Yours To Call Home. There Are Three Fireplaces, Four Bedrooms And Hardwood Throughout. Each Window Provides A Captivating View Of Nature. Albion Hills Conservation And Trans Canada Trail Are Only Steps Away. Schools, Shopping And Dining Are All Close By. Great Access To Major Highways. Don't Miss Out On This Opportunity.**** EXTRAS **** Wall Oven, B/I Dishwasher, Stove, Washer, (All Appliances As Is Condition), Roof 2019, Culligan Water Filtration System 2019, All Electrical Light Fixtures, Refrigerator In Basement, Hwt Owned, (28268911)",
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "4",
@@ -3296,7 +3689,7 @@
         "Organization": {
           "OrganizationID": 50719,
           "Name": "RE/MAX WEST REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540949880000000/lowres/1002321.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541836900000000/lowres/1002321.jpg",
           "Address": {
             "AddressText": "9-1 QUEENSGATE BOULEVARD|BOLTON, Ontario L7E2X7",
             "PermitShowAddress": true,
@@ -3327,7 +3720,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/50719/remax-west-realty-inc-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
-          "PhotoLastupdate": "2021-04-15 2:49:48 PM"
+          "PhotoLastupdate": "2021-04-16 3:28:10 PM"
         },
         "Phones": [
           {
@@ -4444,7 +4837,6 @@
     "RelativeDetailsURL": "/real-estate/23068278/5670-second-line-erin-rural-erin",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-14 9:38:13 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23068278/5670-second-line-erin-rural-erin",
     "RelativeURLFr": "/immobilier/23068278/5670-second-line-erin"
@@ -4581,5 +4973,146 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
     "RelativeURLFr": "/immobilier/23073766/1296-mineral-springs-rd-hamilton"
+  },
+  {
+    "Id": "23077248",
+    "MlsNumber": "X5196795",
+    "PublicRemarks": "World Of Possibilities In This Stunning Location! 7 Forested Acres, 2.7 Of Which Are Cleared W Total Privacy. Picturesque Driveway W 2 Ponds. Over 2,400 Sq Foot Bungalow, W Bonus Half Story. Solid Structure Could Be Remodeled Or Build Your Dream Home! +/-1,000 Sq Foot Heated Shop Provides 2+ More Parking Spaces & Storage. Lg Fabric Container Shelter For R.V. Or Boat W Gravel Floor. 2 Min Drive To Highway #6 = Accessible For Commuting & Amenities. Rsa**** EXTRAS **** Rental Items: None. Inclusions: Washer, Dryer, All Light Fixtures, Fridge, Stove, All In As-Is Condition, Outdoor Rv Shelter. Exclusions: None (28274043)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1979013,
+        "Name": "DREW WOOLCOTT",
+        "Organization": {
+          "OrganizationID": 276623,
+          "Name": "RE/MAX ESCARPMENT WOOLCOTT REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541579220000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "PermitShowAddress": false,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "689-9223",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "689-3799",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "421852299"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/276623/remax-escarpment-woolcott-realty-inc-493-dundas-st-e-1a-waterdown-ontario-l8b0g7",
+          "PhotoLastupdate": "2021-04-16 8:18:42 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "332-9223",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://woolcott.ca",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/WoolcottTeam",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "https://twitter.com/nobodysellsmore",
+            "WebsiteTypeId": "4"
+          },
+          {
+            "Website": "http://ca.linkedin.com/pub/drew-woolcott/71/68b/312",
+            "WebsiteTypeId": "3"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "461560207"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636044328000000000/lowres/1979013.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "DREW",
+        "LastName": "WOOLCOTT",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1979013/drew-woolcott",
+        "AgentPhotoLastUpdated": "2016-07-18 10:00:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636044328000000000/highres/1979013.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,050,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "508 6TH CONCESSION RD W|Hamilton, Ontario L8B1M7",
+        "Longitude": "-79.9813274",
+        "Latitude": "43.3503126",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637541579220300000/reb82/highres/5/x5196795_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637541579220300000/reb82/medres/5/x5196795_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637541579220300000/reb82/lowres/5/x5196795_1.jpg",
+          "LastUpdated": "2021-04-16 8:18:42 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "20",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,050,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1050000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "510 x 528 FT|5 - 9.99 acres"
+    },
+    "PostalCode": "L8B1M7",
+    "RelativeDetailsURL": "/real-estate/23077248/508-6th-concession-rd-w-hamilton-rural-flamborough",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-16 12:18:42 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23077248/508-6th-concession-rd-w-hamilton-rural-flamborough",
+    "RelativeURLFr": "/immobilier/23077248/508-6th-concession-rd-w-hamilton"
   }
 ]
