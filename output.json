@@ -128,7 +128,6 @@
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-01-28 6:25:50 PM",
     "PhotoChangeDateUTC": "2021-04-15 4:01:41 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22434234/347-scenic-drive-st-george",
     "RelativeURLFr": "/immobilier/22434234/347-scenic-drive-st-george"
@@ -1700,7 +1699,6 @@
     "RelativeDetailsURL": "/real-estate/23075038/508-6th-conc-road-w-flamborough",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-15 10:08:19 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23075038/508-6th-conc-road-w-flamborough",
     "RelativeURLFr": "/immobilier/23075038/508-6th-conc-road-w-flamborough"
@@ -2872,7 +2870,7 @@
   {
     "Id": "23077029",
     "MlsNumber": "N5196734",
-    "PublicRemarks": "At The End Of A Tree Lined Drive Nestled On A Private & Peaceful 10 Acre Lot Sits This Beautiful 2 Story Custom Home, 4 Years New Fabulous Wrap Around Porch, Pond, Multi Tiered Deck, Main Fl White Oak Hardwood Floors,  Propane Fireplace, Gorgeous Kitchen W/ Western View, Primary Bdrm W/ 5 Pc Ensuite, Walk In Closet & Laundry, Craftsman Moulding Thru Out, Mudroom W/ Porch Access, Sink And Pantry Area,  Paved Lit Driveway, Country Living At It's Finest**** EXTRAS **** Hot Tub, Gazebo, Black Organizing Unit Walk In Closet,Induction Range, Bi Double Oven, Bidw, Ss Fridge, Washer/Dryer, All Elf & Fans, All Sheds/Storage Tents,Generator, Wood Stove,Pond Fountain, Exclusions & Additional Features See Attached (28273763)",
+    "PublicRemarks": "At The End Of A Tree Lined Drive Nestled On A Private & Peaceful 10 Acre Lot Sits This Beautiful 2 Story Custom Home, 4 Years New Fabulous Wrap Around Porch, Pond, Multi Tiered Deck, Main Fl White Oak Hardwood Floors,  Propane Fireplace, Gorgeous Kitchen W/ Western View, Primary Bdrm W/ 5 Pc Ensuite, Walk In Closet & Laundry, Craftsman Moulding Thru Out, Mudroom W/ Porch Access, Sink And Pantry Area,  Paved Lit Driveway, Country Living At It's Finest**** EXTRAS **** Hot Tub, Gazebo, Black Organizing Unit Walk In Closet,Induction Range, Bi Double Oven, Bidw, Ss Fridge, Washer/Dryer, All Elf & Fans, All Sheds/Storage Tents,Generator, Wood Stove,Pond Fountain, Propane Tank Rental, Excl & Features Attached (28273763)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3",
@@ -2886,7 +2884,7 @@
         "Organization": {
           "OrganizationID": 259470,
           "Name": "RE/MAX ALL-STARS REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541577710000000/lowres/259470.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542790480000000/lowres/259470.jpg",
           "Address": {
             "PermitShowAddress": false,
             "DisseminationArea": null
@@ -2910,7 +2908,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/259470/remax-all-stars-realty-inc-47-brock-street-west-uxbridge-ontario-l9p1n5",
-          "PhotoLastupdate": "2021-04-16 8:16:11 AM"
+          "PhotoLastupdate": "2021-04-17 5:57:28 PM"
         },
         "Phones": [
           {
@@ -3131,6 +3129,210 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23079887/13025-mccowan-rd-whitchurch-stouffville-stouffville",
     "RelativeURLFr": "/immobilier/23079887/13025-mccowan-rd-whitchurch-stouffville"
+  },
+  {
+    "Id": "23083436",
+    "MlsNumber": "N5198803",
+    "PublicRemarks": "Peace & Tranquility Will Surely Be Enjoyed On This Private 32 Acres Country Retreat With The Nottawasaga River Running Through. Mixed Bush With Endless Potential For Trails. All Brick Bungalow W/3 Bedrooms + 2 Bathrooms. Many Updates: New Floors In Kitchen, Dining Room, Bathrooms, Wood Stove On Lower Level, And Pellet Stove On Main Floor. Large Workshop In Basement.**** EXTRAS **** Enjoy Wildlife, Fishing, And Hiking On Your Private Oasis. (28282239)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1424901,
+        "Name": "MARC RONAN",
+        "Organization": {
+          "OrganizationID": 117547,
+          "Name": "COLDWELL BANKER RONAN REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542646650000000/lowres/1168222.jpg",
+          "Address": {
+            "AddressText": "25 QUEEN ST. S.|TOTTENHAM, Ontario L0G1W0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "936-4216",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "936-5130",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/117547/coldwell-banker-ronan-realty-25-queen-st-s-tottenham-ontario-l0g1w0",
+          "PhotoLastupdate": "2021-04-17 1:57:45 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "936-4216",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.marcronan.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455697452"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1424901.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "MARC",
+        "LastName": "RONAN",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1424901/marc-ronan-25-queen-st-s-tottenham-ontario-l0g1w0",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1424901.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1662895,
+        "Name": "BRITTON SCOTT RONAN",
+        "Organization": {
+          "OrganizationID": 117743,
+          "Name": "COLDWELL BANKER RONAN REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542646650000000/lowres/1168329.jpg",
+          "Address": {
+            "AddressText": "367 VICTORIA STREET EAST|ALLISTON, Ontario L9R1J7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "435-4336",
+              "AreaCode": "705",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "435-3506",
+              "AreaCode": "705",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/117743/coldwell-banker-ronan-realty-367-victoria-street-east-alliston-ontario-l9r1j7",
+          "PhotoLastupdate": "2021-04-17 1:57:45 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "435-4336",
+            "AreaCode": "705",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.brittonronan.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/ExperienceSold/?fref=ts",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "https://twitter.com/brittonronan",
+            "WebsiteTypeId": "4"
+          },
+          {
+            "Website": "https://ca.linkedin.com/in/britton-ronan-553a6a18",
+            "WebsiteTypeId": "3"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455739013"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636991416600000000/lowres/1168330.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "BRITTON SCOTT",
+        "LastName": "RONAN",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1662895/britton-scott-ronan-367-victoria-street-east-alliston-ontario-l9r1j7",
+        "AgentPhotoLastUpdated": "2019-07-19 14:01:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636991416600000000/highres/1168330.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$999,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4035 CONCESSION ROAD 5|Adjala-Tosorontio, Ontario L0G1L0",
+        "Longitude": "-79.919639",
+        "Latitude": "44.096989",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637542646659030000/reb82/highres/3/n5198803_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637542646659030000/reb82/medres/3/n5198803_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637542646659030000/reb82/lowres/3/n5198803_1.jpg",
+          "LastUpdated": "2021-04-17 1:57:45 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$999,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "999000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "32 Acre   ; M/L Irregular|25 - 50 acres"
+    },
+    "AlternateURL": {
+      "PhotoLink": "http://wylieford.homelistingtours.com/listing2/4035-concession-road-5",
+      "VideoLink": "https://www.youtube.com/watch?v=qNkt6tMZYz0"
+    },
+    "PostalCode": "L0G1L0",
+    "RelativeDetailsURL": "/real-estate/23083436/4035-concession-road-5-adjala-tosorontio-rural-adjala-tosorontio",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-17 5:57:45 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23083436/4035-concession-road-5-adjala-tosorontio-rural-adjala-tosorontio",
+    "RelativeURLFr": "/immobilier/23083436/4035-concession-road-5-adjala-tosorontio"
   },
   {
     "Id": "22921117",
@@ -3689,7 +3891,7 @@
         "Organization": {
           "OrganizationID": 50719,
           "Name": "RE/MAX WEST REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541836900000000/lowres/1002321.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542437820000000/lowres/1002321.jpg",
           "Address": {
             "AddressText": "9-1 QUEENSGATE BOULEVARD|BOLTON, Ontario L7E2X7",
             "PermitShowAddress": true,
@@ -3720,7 +3922,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/50719/remax-west-realty-inc-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
-          "PhotoLastupdate": "2021-04-16 3:28:10 PM"
+          "PhotoLastupdate": "2021-04-17 8:09:42 AM"
         },
         "Phones": [
           {
@@ -3789,7 +3991,6 @@
     "RelativeDetailsURL": "/real-estate/23073547/16668-humber-station-rd-caledon-rural-caledon",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-15 6:49:48 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23073547/16668-humber-station-rd-caledon-rural-caledon",
     "RelativeURLFr": "/immobilier/23073547/16668-humber-station-rd-caledon"
@@ -4969,7 +5170,6 @@
     "RelativeDetailsURL": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-15 6:51:54 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
     "RelativeURLFr": "/immobilier/23073766/1296-mineral-springs-rd-hamilton"
@@ -5114,5 +5314,133 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23077248/508-6th-concession-rd-w-hamilton-rural-flamborough",
     "RelativeURLFr": "/immobilier/23077248/508-6th-concession-rd-w-hamilton"
+  },
+  {
+    "Id": "23082819",
+    "MlsNumber": "X5198529",
+    "PublicRemarks": "Well Maintained Home On 19+ Acres. There Is Hardwood Throughout. Cozy Up To The Wood-Burning Fireplace Surrounded By Built-In Bookshelves. There Is A Geothermal Heating/ Ac System. The Best Part About To This Lovely Place Is The Peaceful Sitting Areas Surrounded By Beautiful Mature Trees With A Pond Just Close By.**** EXTRAS **** Rental Items: Hot Water Heater. Inclusions: Fridge, Stove, Dishwasher, Microwave, Washer, Dryer (28281348)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2024837,
+        "Name": "ROB GOLFI",
+        "Organization": {
+          "OrganizationID": 279447,
+          "Name": "RE/MAX ESCARPMENT GOLFI REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542792230000000/lowres/default/remaxoa.gif",
+          "Address": {
+            "AddressText": "1 MARKLAND ST #2|HAMILTON, Ontario L8P2J5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "575-7700",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "575-1962",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414882917"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.robgolfi.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279447/remax-escarpment-golfi-realty-inc-1-markland-st-2-hamilton-ontario-l8p2j5",
+          "PhotoLastupdate": "2021-04-17 6:00:23 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "575-7700",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459420994"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "ROB",
+        "LastName": "GOLFI",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2024837/rob-golfi-1-markland-st-2-hamilton-ontario-l8p2j5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,450,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2030 LENNON RD|Hamilton, Ontario N0B2J0",
+        "Longitude": "-80.1048426",
+        "Latitude": "43.4013682",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/highres/9/x5198529_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/medres/9/x5198529_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/lowres/9/x5198529_1.jpg",
+          "LastUpdated": "2021-04-17 8:10:58 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "16",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,450,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1450000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "1372 x 691 FT|10 - 24.99 acres"
+    },
+    "PostalCode": "N0B2J0",
+    "RelativeDetailsURL": "/real-estate/23082819/2030-lennon-rd-hamilton-rural-flamborough",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-17 12:10:58 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23082819/2030-lennon-rd-hamilton-rural-flamborough",
+    "RelativeURLFr": "/immobilier/23082819/2030-lennon-rd-hamilton"
   }
 ]

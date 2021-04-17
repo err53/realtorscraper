@@ -1083,6 +1083,53 @@
     }
   },
   {
+    "Id": "23083436",
+    "MlsNumber": "N5198803",
+    "Property": {
+      "Price": "$999,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4035 CONCESSION ROAD 5|Adjala-Tosorontio, Ontario L0G1L0",
+        "Longitude": "-79.919639",
+        "Latitude": "44.096989",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637542646659030000/reb82/highres/3/n5198803_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637542646659030000/reb82/medres/3/n5198803_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637542646659030000/reb82/lowres/3/n5198803_1.jpg",
+          "LastUpdated": "2021-04-17 1:57:45 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$999,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "999000"
+    },
+    "Land": {
+      "SizeTotal": "32 Acre   ; M/L Irregular|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22921117",
     "MlsNumber": "W5149303",
     "Property": {
@@ -1723,6 +1770,54 @@
     },
     "Land": {
       "SizeTotal": "510 x 528 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23082819",
+    "MlsNumber": "X5198529",
+    "Property": {
+      "Price": "$1,450,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2030 LENNON RD|Hamilton, Ontario N0B2J0",
+        "Longitude": "-80.1048426",
+        "Latitude": "43.4013682",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/highres/9/x5198529_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/medres/9/x5198529_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/lowres/9/x5198529_1.jpg",
+          "LastUpdated": "2021-04-17 8:10:58 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "16",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,450,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1450000"
+    },
+    "Land": {
+      "SizeTotal": "1372 x 691 FT|10 - 24.99 acres"
     },
     "Building": {
       "BathroomTotal": "3",
