@@ -1830,7 +1830,6 @@
     "RelativeDetailsURL": "/real-estate/23081101/2030-lennon-road-puslinch",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-16 10:09:39 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23081101/2030-lennon-road-puslinch",
     "RelativeURLFr": "/immobilier/23081101/2030-lennon-road-puslinch"
@@ -2735,7 +2734,6 @@
     "RelativeDetailsURL": "/real-estate/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio-rural-adjala-tosorontio",
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-04-16 5:40:27 PM",
-    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-03-30 9:38:02 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/22999288/8481-adjala-sideroad-10-sdrd-adjala-tosorontio-rural-adjala-tosorontio",
@@ -2987,7 +2985,6 @@
     "RelativeDetailsURL": "/real-estate/23077029/750-regional-rd-13-rd-uxbridge-rural-uxbridge",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-16 12:16:11 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23077029/750-regional-rd-13-rd-uxbridge-rural-uxbridge",
     "RelativeURLFr": "/immobilier/23077029/750-regional-rd-13-rd-uxbridge"
@@ -3125,7 +3122,6 @@
     "RelativeDetailsURL": "/real-estate/23079887/13025-mccowan-rd-whitchurch-stouffville-stouffville",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-16 10:58:09 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23079887/13025-mccowan-rd-whitchurch-stouffville-stouffville",
     "RelativeURLFr": "/immobilier/23079887/13025-mccowan-rd-whitchurch-stouffville"
@@ -5310,7 +5306,6 @@
     "RelativeDetailsURL": "/real-estate/23077248/508-6th-concession-rd-w-hamilton-rural-flamborough",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-16 12:18:42 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23077248/508-6th-concession-rd-w-hamilton-rural-flamborough",
     "RelativeURLFr": "/immobilier/23077248/508-6th-concession-rd-w-hamilton"
