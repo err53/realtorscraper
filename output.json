@@ -1419,7 +1419,7 @@
   {
     "Id": "23068060",
     "MlsNumber": "H4103772",
-    "PublicRemarks": "Rare opportunity with 19.77 acres in the quiet peaceful neighbourhood of Sulpher Springs. The house sits perched on a hill with breath taking view. Build your dream home or renovate the existing home. Close to Dundas and nestled into the countryside, this lush wood area is home to many trails, streams and waterfalls. (27171832)",
+    "PublicRemarks": "Rare opportunity with 19.77 acres in the quiet peaceful neighborhood of Sulphur Springs. The house sits perched on a hill with a breathtaking view. Close to Dundas and nestled into the countryside, this lush wood area is home to many trails, streams, and waterfalls. (27171832)",
     "Building": {
       "BathroomTotal": "1",
       "Bedrooms": "3",
@@ -1433,7 +1433,7 @@
         "Organization": {
           "OrganizationID": 262664,
           "Name": "RE/MAX Escarpment Realty Inc",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540167790000000/lowres/default/remaxoa.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544381260000000/lowres/default/remaxoa.gif",
           "Address": {
             "AddressText": "#101-325 Winterberry Drive|Stoney Creek, Ontario L8J0B6",
             "PermitShowAddress": true,
@@ -1463,7 +1463,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/262664/remax-escarpment-realty-inc-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
-          "PhotoLastupdate": "2021-04-14 5:06:19 PM"
+          "PhotoLastupdate": "2021-04-19 2:08:46 PM"
         },
         "Phones": [
           {
@@ -1517,10 +1517,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/highres/2/h4103772_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/medres/2/h4103772_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/lowres/2/h4103772_1.jpg",
-          "LastUpdated": "2021-04-14 5:07:41 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637544382434530000/reb14/highres/2/h4103772_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637544382434530000/reb14/medres/2/h4103772_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637544382434530000/reb14/lowres/2/h4103772_1.jpg",
+          "LastUpdated": "2021-04-19 2:10:43 PM"
         }
       ],
       "Parking": [
@@ -1550,10 +1550,14 @@
       "SizeFrontage": "697 ft",
       "AccessType": "River access"
     },
+    "AlternateURL": {
+      "VideoLink": "https://youtu.be/funLm1O0Dvk"
+    },
     "PostalCode": "L9H5E3",
     "RelativeDetailsURL": "/real-estate/23068060/1296-mineral-springs-road-ancaster",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-14 9:07:41 PM",
+    "PhotoChangeDateUTC": "2021-04-19 6:10:44 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23068060/1296-mineral-springs-road-ancaster",
     "RelativeURLFr": "/immobilier/23068060/1296-mineral-springs-road-ancaster"
@@ -1571,14 +1575,13 @@
     },
     "Individual": [
       {
-        "IndividualID": 1525426,
-        "Name": "Drew Woolcott",
+        "IndividualID": 1805330,
+        "Name": "Charlie Robson",
         "Organization": {
-          "OrganizationID": 276526,
+          "OrganizationID": 284666,
           "Name": "RE/MAX Escarpment Woolcott Realty Inc.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541068210000000/lowres/default/remaxoa.gif",
           "Address": {
-            "AddressText": "493 Dundas Street E.|Waterdown, Ontario L9B0G7",
+            "AddressText": "1A-493 Dundas St. E.|Waterdown, Ontario L8B0G7",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
@@ -1588,61 +1591,43 @@
               "PhoneNumber": "332-9223",
               "AreaCode": "905",
               "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "689-3799",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463978896"
             }
           ],
           "OrganizationType": "Firm",
-          "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/276526/remax-escarpment-woolcott-realty-inc-493-dundas-street-e-waterdown-ontario-l9b0g7",
-          "PhotoLastupdate": "2021-04-15 6:07:01 PM"
+          "RelativeDetailsURL": "/office/firm/284666/remax-escarpment-woolcott-realty-inc-1a-493-dundas-st-e-waterdown-ontario-l8b0g7",
+          "PhotoLastupdate": "2021-04-19 1:07:28 PM"
         },
         "Phones": [
           {
             "PhoneType": "Telephone",
-            "PhoneNumber": "332-9223",
+            "PhoneNumber": "220-0787",
             "AreaCode": "905",
             "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "689-3799",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
           }
         ],
         "Websites": [
           {
-            "Website": "HTTP://www.nobodysellsmore.com",
+            "Website": "HTTP://www.charlierobson.ca",
             "WebsiteTypeId": "1"
           }
         ],
         "Emails": [
           {
-            "ContactId": "453429169"
+            "ContactId": "467066885"
           }
         ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636528369000000000/lowres/1063673.jpg",
-        "Position": "Broker of Record",
+        "Photo": "https://cdn.realtor.ca/individual/TS636437080800000000/lowres/1191224.jpg",
+        "Position": "Salesperson",
         "PermitFreetextEmail": true,
-        "FirstName": "Drew",
-        "LastName": "Woolcott",
+        "FirstName": "Charlie",
+        "LastName": "Robson",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1525426/drew-woolcott-493-dundas-street-e-waterdown-ontario-l9b0g7",
-        "AgentPhotoLastUpdated": "2018-01-29 15:35:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636528369000000000/highres/1063673.jpg",
+        "RelativeDetailsURL": "/agent/1805330/charlie-robson-1a-493-dundas-st-e-waterdown-ontario-l8b0g7",
+        "AgentPhotoLastUpdated": "2017-10-15 23:48:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636437080800000000/highres/1191224.jpg",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       }
@@ -1702,137 +1687,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23075038/508-6th-conc-road-w-flamborough",
     "RelativeURLFr": "/immobilier/23075038/508-6th-conc-road-w-flamborough"
-  },
-  {
-    "Id": "23081101",
-    "MlsNumber": "H4104060",
-    "PublicRemarks": "Well maintained home on 19+ acres. There is hardwood throughout. Cozy up to the wood-burning fireplace surrounded by built-in bookshelves. There is a geothermal heating/ AC system. The best part about to this lovely place is the peaceful sitting areas surrounded by beautiful mature trees with a pond just close by. Don't hesitate today and book your private viewing! (27185161)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "SizeInterior": "2079.0000",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1524224,
-        "Name": "Rob Golfi",
-        "Organization": {
-          "OrganizationID": 275989,
-          "Name": "RE/MAX Escarpment Golfi Realty Inc.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541967680000000/lowres/default/remaxoa.gif",
-          "Address": {
-            "AddressText": "1 Markland Street|Hamilton, Ontario L8P2J5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "575-7700",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "575-1962",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/275989/remax-escarpment-golfi-realty-inc-1-markland-street-hamilton-ontario-l8p2j5",
-          "PhotoLastupdate": "2021-04-16 7:06:08 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "575-7700",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "575-1962",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "HTTP://www.robgolfi.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "453428005"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637045152000000000/lowres/1064132.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Rob",
-        "LastName": "Golfi",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1524224/rob-golfi-1-markland-street-hamilton-ontario-l8p2j5",
-        "AgentPhotoLastUpdated": "2019-09-19 18:40:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637045152000000000/highres/1064132.jpg",
-        "RankMyAgentKey": "27061",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,450,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "2030 Lennon Road|Puslinch, Ontario N0B2J0",
-        "Longitude": "-80.104846",
-        "Latitude": "43.401245",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/highres/0/h4104060_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/medres/0/h4104060_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/lowres/0/h4104060_1.jpg",
-          "LastUpdated": "2021-04-16 6:09:38 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "16",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools",
-      "ConvertedPrice": "$1,450,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1450000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "1372.49 x 690.52|10 - 24.99 acres",
-      "SizeFrontage": "1372 ft"
-    },
-    "PostalCode": "N0B2J0",
-    "RelativeDetailsURL": "/real-estate/23081101/2030-lennon-road-puslinch",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-16 10:09:39 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23081101/2030-lennon-road-puslinch",
-    "RelativeURLFr": "/immobilier/23081101/2030-lennon-road-puslinch"
   },
   {
     "Id": "22765943",
@@ -2280,7 +2134,7 @@
         "Organization": {
           "OrganizationID": 51517,
           "Name": "CENTURY 21 ST. ANDREW'S REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637514140510000000/lowres/51517.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544378440000000/lowres/51517.jpg",
           "Address": {
             "AddressText": "11 WELLINGTON STREET E UNIT B|AURORA, Ontario L4G1H4",
             "PermitShowAddress": true,
@@ -2305,7 +2159,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/51517/century-21-st-andrews-realty-inc-11-wellington-street-e-unit-b-aurora-ontario-l4g1h4",
-          "PhotoLastupdate": "2021-03-15 2:07:31 PM"
+          "PhotoLastupdate": "2021-04-19 2:04:04 PM"
         },
         "Phones": [
           {
@@ -2353,10 +2207,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637514140512230000/reb82/highres/6/n5151366_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637514140512230000/reb82/medres/6/n5151366_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637514140512230000/reb82/lowres/6/n5151366_1.jpg",
-          "LastUpdated": "2021-03-15 2:07:31 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637544264721270000/reb82/highres/6/n5151366_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637544264721270000/reb82/medres/6/n5151366_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637544264721270000/reb82/lowres/6/n5151366_1.jpg",
+          "LastUpdated": "2021-04-19 10:54:32 AM"
         }
       ],
       "Parking": [
@@ -2378,13 +2232,11 @@
     "Land": {
       "SizeTotal": "477.07 x 895.07 FT   ; As Per Plan|5 - 9.99 acres"
     },
-    "AlternateURL": {
-      "VideoLink": "https://advirtours.view.property/public/vtour/display/1780275#!/"
-    },
     "PostalCode": "L0E1R0",
     "RelativeDetailsURL": "/real-estate/22929594/6930-ravenshoe-rd-georgina-baldwin",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-15 6:07:31 PM",
+    "PhotoChangeDateUTC": "2021-04-19 2:54:32 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22929594/6930-ravenshoe-rd-georgina-baldwin",
     "RelativeURLFr": "/immobilier/22929594/6930-ravenshoe-rd-georgina"
@@ -3143,7 +2995,7 @@
         "Organization": {
           "OrganizationID": 117547,
           "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542646650000000/lowres/1168222.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544379260000000/lowres/1168222.jpg",
           "Address": {
             "AddressText": "25 QUEEN ST. S.|TOTTENHAM, Ontario L0G1W0",
             "PermitShowAddress": true,
@@ -3168,7 +3020,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/117547/coldwell-banker-ronan-realty-25-queen-st-s-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-04-17 1:57:45 PM"
+          "PhotoLastupdate": "2021-04-19 2:05:26 PM"
         },
         "Phones": [
           {
@@ -3207,7 +3059,7 @@
         "Organization": {
           "OrganizationID": 117743,
           "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542646650000000/lowres/1168329.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544379260000000/lowres/1168329.jpg",
           "Address": {
             "AddressText": "367 VICTORIA STREET EAST|ALLISTON, Ontario L9R1J7",
             "PermitShowAddress": true,
@@ -3232,7 +3084,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/117743/coldwell-banker-ronan-realty-367-victoria-street-east-alliston-ontario-l9r1j7",
-          "PhotoLastupdate": "2021-04-17 1:57:45 PM"
+          "PhotoLastupdate": "2021-04-19 2:05:26 PM"
         },
         "Phones": [
           {
@@ -3325,7 +3177,6 @@
     "RelativeDetailsURL": "/real-estate/23083436/4035-concession-road-5-adjala-tosorontio-rural-adjala-tosorontio",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-17 5:57:45 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23083436/4035-concession-road-5-adjala-tosorontio-rural-adjala-tosorontio",
     "RelativeURLFr": "/immobilier/23083436/4035-concession-road-5-adjala-tosorontio"
@@ -3387,7 +3238,7 @@
             "ContactId": "455652304"
           }
         ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1827834.jpg",
+        "Photo": "https://cdn.realtor.ca/individual/TS637544378400000000/lowres/1194972.jpg",
         "Position": "Broker",
         "PermitFreetextEmail": true,
         "FirstName": "SILVANA",
@@ -3395,7 +3246,8 @@
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
         "RelativeDetailsURL": "/agent/1827834/silvana-bezina-221-miller-drive-unit-5a-georgetown-ontario-l7g6g4",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1827834.jpg",
+        "AgentPhotoLastUpdated": "2021-04-19 14:04:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637544378400000000/highres/1194972.jpg",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       },
@@ -3518,7 +3370,7 @@
         "Organization": {
           "OrganizationID": 152307,
           "Name": "RE/MAX REAL ESTATE CENTRE INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538344980000000/lowres/1201558.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544380910000000/lowres/1201558.jpg",
           "Address": {
             "PermitShowAddress": false,
             "DisseminationArea": null
@@ -3542,7 +3394,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/152307/remax-real-estate-centre-inc-23-mountainview-rd-s-georgetown-ontario-l7g4j8",
-          "PhotoLastupdate": "2021-04-12 2:28:18 PM"
+          "PhotoLastupdate": "2021-04-19 2:08:11 PM"
         },
         "Phones": [
           {
@@ -3638,7 +3490,7 @@
         "Organization": {
           "OrganizationID": 270843,
           "Name": "IPRO REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637538476170000000/lowres/1236771.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544380990000000/lowres/1236771.jpg",
           "Address": {
             "AddressText": "55 ONTARIO ST UNIT A5A STE B|MILTON, Ontario L9T2M3",
             "PermitShowAddress": true,
@@ -3663,7 +3515,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/270843/ipro-realty-ltd-55-ontario-st-unit-a5a-ste-b-milton-ontario-l9t2m3",
-          "PhotoLastupdate": "2021-04-12 6:06:57 PM"
+          "PhotoLastupdate": "2021-04-19 2:08:19 PM"
         },
         "Phones": [
           {
@@ -3887,7 +3739,7 @@
         "Organization": {
           "OrganizationID": 50719,
           "Name": "RE/MAX WEST REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542437820000000/lowres/1002321.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544521320000000/lowres/1002321.jpg",
           "Address": {
             "AddressText": "9-1 QUEENSGATE BOULEVARD|BOLTON, Ontario L7E2X7",
             "PermitShowAddress": true,
@@ -3918,7 +3770,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/50719/remax-west-realty-inc-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
-          "PhotoLastupdate": "2021-04-17 8:09:42 AM"
+          "PhotoLastupdate": "2021-04-19 6:02:12 PM"
         },
         "Phones": [
           {
@@ -4026,7 +3878,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/283865/royal-lepage-nrc-realty-35-maywood-ave-st-catharines-ontario-l2r1c5",
-          "PhotoLastupdate": "2021-04-07 6:05:42 PM"
+          "PhotoLastupdate": "2021-04-19 2:10:48 PM"
         },
         "Phones": [
           {
@@ -4578,7 +4430,7 @@
   {
     "Id": "23022148",
     "MlsNumber": "X5180283",
-    "PublicRemarks": "Just 10 Minutes North Of Orangeville You Will Find This Almost New, Lovely , Custom Built Home Nestled On A Wooded 10 Acres. This One Of A Kind , Architecturally Designed 2 Storey Home Boasts A Kitchen That Any Cook Would Love! A Massive Centre Island With Seating For 5 Is Part Of The Main Floor Open Concept Dining Area And Great Room With A Wood Burning Fireplace. A Home Where The Whole Family Can Congregate . Dining Area Walks Out To A Deck. Huge W/I Pantry**** EXTRAS **** Tarion Warranty From March 2019. 2 Stoves, 2 Dishwashers, Oversized Fridge, Oversized Washer And Dryer. All Elf's, Wired In Generator, Huge Extra Main Floor Walk-In Closet For Sports Equipment Etc. Close To Mono Ski Hills, Walking Trails. (28202431)",
+    "PublicRemarks": "Exceptional Value In This Custom Designed And Built,  Almost New, Lovely Home Nestled On A Wooded 10 Acres. This One Of A Kind , Architecturally Designed 2 Storey Home Boasts A Kitchen That Any Cook Would Love! A Massive Centre Island With Seating For 5 Is Part Of The Main Floor Open Concept Dining Area And Great Room With A Wood Burning Fireplace. A Home Where The Whole Family Can Congregate . Dining Area Walks Out To A Deck. Huge W/I Pantry**** EXTRAS **** Tarion Warranty From March 2019. 2 Stoves, 2 Dishwashers, Oversized Fridge, Oversized Washer And Dryer. All Elf's, Wired In Generator, Huge Extra Main Floor Walk-In Closet For Sports Equipment Etc. Close To Mono Ski Hills, Walking Trails. (28202431)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "4",
@@ -4592,7 +4444,7 @@
         "Organization": {
           "OrganizationID": 62449,
           "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540950610000000/lowres/62449.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544382700000000/lowres/62449.jpg",
           "Address": {
             "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
             "PermitShowAddress": true,
@@ -4623,7 +4475,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-04-15 2:51:01 PM"
+          "PhotoLastupdate": "2021-04-19 2:11:10 PM"
         },
         "Phones": [
           {
@@ -4668,7 +4520,7 @@
         "Organization": {
           "OrganizationID": 62449,
           "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540950610000000/lowres/62449.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544382700000000/lowres/62449.jpg",
           "Address": {
             "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
             "PermitShowAddress": true,
@@ -4699,7 +4551,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-04-15 2:51:01 PM"
+          "PhotoLastupdate": "2021-04-19 2:11:10 PM"
         },
         "Phones": [
           {
@@ -4796,7 +4648,7 @@
         "Organization": {
           "OrganizationID": 279258,
           "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637539336260000000/lowres/default/royallepage.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544522250000000/lowres/default/royallepage.gif",
           "Address": {
             "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
             "PermitShowAddress": true,
@@ -4833,7 +4685,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
-          "PhotoLastupdate": "2021-04-13 6:00:26 PM"
+          "PhotoLastupdate": "2021-04-19 6:03:45 PM"
         },
         "Phones": [
           {
@@ -5041,7 +4893,7 @@
   {
     "Id": "23073766",
     "MlsNumber": "X5195450",
-    "PublicRemarks": "Rare Opportunity With 19.77 Acres In The Quiet Peaceful Neighbrhd Of Sulpher Springs. The House Sits Perched On A Hill With Breathtaking Views. Build Your Dream Home Or Renovate Existing Home. Close To Dundas & Nestled Into The Countryside, This Lush Wood Area Is Home To Many Trails, Streams & Waterfalls. Rsa**** EXTRAS **** Rental: None. (28269216)",
+    "PublicRemarks": "Rare Opportunity With 19.77 Acres In The Quiet Peaceful Neighbrhd Of Sulpher Springs. The House Sits Perched On A Hill With Breathtaking Views. Close To Dundas & Nestled Into The Countryside, This Lush Wood Area Is Home To Many Trails, Streams & Waterfalls. Rsa. Sold \"\"As Is, Where Is\"\".**** EXTRAS **** Rental: None. (28269216)",
     "Building": {
       "BathroomTotal": "1",
       "Bedrooms": "3",
@@ -5055,7 +4907,7 @@
         "Organization": {
           "OrganizationID": 266588,
           "Name": "RE/MAX ESCARPMENT REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637540951140000000/lowres/default/remaxoa.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544522290000000/lowres/default/remaxoa.gif",
           "Address": {
             "AddressText": "2180 ITABASHI WAY #4B|BURLINGTON, Ontario L7M5A5",
             "PermitShowAddress": true,
@@ -5092,7 +4944,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/266588/remax-escarpment-realty-inc-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
-          "PhotoLastupdate": "2021-04-15 2:51:54 PM"
+          "PhotoLastupdate": "2021-04-19 6:03:49 PM"
         },
         "Phones": [
           {
@@ -5137,10 +4989,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/highres/0/x5195450_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/medres/0/x5195450_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/lowres/0/x5195450_1.jpg",
-          "LastUpdated": "2021-04-15 2:51:54 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637544398225330000/reb82/highres/0/x5195450_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637544398225330000/reb82/medres/0/x5195450_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637544398225330000/reb82/lowres/0/x5195450_1.jpg",
+          "LastUpdated": "2021-04-19 2:37:02 PM"
         }
       ],
       "Parking": [
@@ -5162,10 +5014,14 @@
     "Land": {
       "SizeTotal": "697.9 x 1272.7 FT|10 - 24.99 acres"
     },
+    "AlternateURL": {
+      "VideoLink": "https://youtu.be/LMv3XG4E7wI"
+    },
     "PostalCode": "L9H5E3",
     "RelativeDetailsURL": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-15 6:51:54 PM",
+    "PhotoChangeDateUTC": "2021-04-19 6:37:02 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
     "RelativeURLFr": "/immobilier/23073766/1296-mineral-springs-rd-hamilton"
@@ -5182,14 +5038,15 @@
     },
     "Individual": [
       {
-        "IndividualID": 1979013,
-        "Name": "DREW WOOLCOTT",
+        "IndividualID": 2102522,
+        "Name": "CHARLIE ROBSON",
         "Organization": {
           "OrganizationID": 276623,
           "Name": "RE/MAX ESCARPMENT WOOLCOTT REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637541579220000000/lowres/default/remaxoa.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544383010000000/lowres/default/remaxoa.gif",
           "Address": {
-            "PermitShowAddress": false,
+            "AddressText": "493 DUNDAS ST E #1A|WATERDOWN, Ontario L8B0G7",
+            "PermitShowAddress": true,
             "DisseminationArea": null
           },
           "Phones": [
@@ -5217,49 +5074,28 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/276623/remax-escarpment-woolcott-realty-inc-493-dundas-st-e-1a-waterdown-ontario-l8b0g7",
-          "PhotoLastupdate": "2021-04-16 8:18:42 AM"
+          "PhotoLastupdate": "2021-04-19 2:11:41 PM"
         },
         "Phones": [
           {
             "PhoneType": "Telephone",
-            "PhoneNumber": "332-9223",
+            "PhoneNumber": "689-9223",
             "AreaCode": "905",
             "PhoneTypeId": "1"
           }
         ],
-        "Websites": [
-          {
-            "Website": "http://woolcott.ca",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/WoolcottTeam",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/nobodysellsmore",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "http://ca.linkedin.com/pub/drew-woolcott/71/68b/312",
-            "WebsiteTypeId": "3"
-          }
-        ],
         "Emails": [
           {
-            "ContactId": "461560207"
+            "ContactId": "459483477"
           }
         ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636044328000000000/lowres/1979013.jpg",
-        "Position": "Broker of Record",
+        "Position": "Salesperson",
         "PermitFreetextEmail": true,
-        "FirstName": "DREW",
-        "LastName": "WOOLCOTT",
+        "FirstName": "CHARLIE",
+        "LastName": "ROBSON",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1979013/drew-woolcott",
-        "AgentPhotoLastUpdated": "2016-07-18 10:00:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636044328000000000/highres/1979013.jpg",
+        "RelativeDetailsURL": "/agent/2102522/charlie-robson-493-dundas-st-e-1a-waterdown-ontario-l8b0g7",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       }
@@ -5311,50 +5147,50 @@
     "RelativeURLFr": "/immobilier/23077248/508-6th-concession-rd-w-hamilton"
   },
   {
-    "Id": "23082819",
-    "MlsNumber": "X5198529",
-    "PublicRemarks": "Well Maintained Home On 19+ Acres. There Is Hardwood Throughout. Cozy Up To The Wood-Burning Fireplace Surrounded By Built-In Bookshelves. There Is A Geothermal Heating/ Ac System. The Best Part About To This Lovely Place Is The Peaceful Sitting Areas Surrounded By Beautiful Mature Trees With A Pond Just Close By.**** EXTRAS **** Rental Items: Hot Water Heater. Inclusions: Fridge, Stove, Dishwasher, Microwave, Washer, Dryer (28281348)",
+    "Id": "23087837",
+    "MlsNumber": "X5200034",
+    "PublicRemarks": "Situated On Over 8 Acres Of Land In The Picturesque Setting Of Ancaster Off Highway 52, This Gorgeous 2 Level Home Offers A Stunning Interior Design From Top To Bottom. The Gourmet Kitchen Boasts Custom Cabinetry And Stunning Marble With Stainless Steel Appliances. Upper Level Features 3 Bedrooms, 2 Baths. Custom Closet Organizers In All Rooms And A Walk In Closet With W&D In Mbdrm. Insulated 3 Car Garage. Rsa**** EXTRAS **** Incl: Fridge, Washer, Dryer, Stove, Dishwasher, High Efficiency Furnace, Microwave. Rental: Hot Water Heater. (28287871)",
     "Building": {
       "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "1",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
       "Type": "House"
     },
     "Individual": [
       {
-        "IndividualID": 2024837,
-        "Name": "ROB GOLFI",
+        "IndividualID": 1413922,
+        "Name": "CONRAD GUY ZURINI",
         "Organization": {
-          "OrganizationID": 279447,
-          "Name": "RE/MAX ESCARPMENT GOLFI REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542792230000000/lowres/default/remaxoa.gif",
+          "OrganizationID": 266588,
+          "Name": "RE/MAX ESCARPMENT REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544383390000000/lowres/default/remaxoa.gif",
           "Address": {
-            "AddressText": "1 MARKLAND ST #2|HAMILTON, Ontario L8P2J5",
+            "AddressText": "2180 ITABASHI WAY #4B|BURLINGTON, Ontario L7M5A5",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
           "Phones": [
             {
               "PhoneType": "Telephone",
-              "PhoneNumber": "575-7700",
+              "PhoneNumber": "639-3044",
               "AreaCode": "905",
               "PhoneTypeId": "1"
             },
             {
               "PhoneType": "Fax",
-              "PhoneNumber": "575-1962",
+              "PhoneNumber": "681-9908",
               "AreaCode": "905",
               "PhoneTypeId": "4"
             }
           ],
           "Emails": [
             {
-              "ContactId": "414882917"
+              "ContactId": "414881751"
             }
           ],
           "Websites": [
             {
-              "Website": "http://www.robgolfi.com",
+              "Website": "http://www.remaxescarpment.com",
               "WebsiteTypeId": "1"
             }
           ],
@@ -5363,79 +5199,85 @@
           "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/279447/remax-escarpment-golfi-realty-inc-1-markland-st-2-hamilton-ontario-l8p2j5",
-          "PhotoLastupdate": "2021-04-17 6:00:23 PM"
+          "RelativeDetailsURL": "/office/firm/266588/remax-escarpment-realty-inc-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
+          "PhotoLastupdate": "2021-04-19 2:12:19 PM"
         },
         "Phones": [
           {
             "PhoneType": "Telephone",
-            "PhoneNumber": "575-7700",
+            "PhoneNumber": "639-3044",
             "AreaCode": "905",
             "PhoneTypeId": "1"
           }
         ],
-        "Emails": [
+        "Websites": [
           {
-            "ContactId": "459420994"
+            "Website": "https://www.remaxescarpment.com/",
+            "WebsiteTypeId": "1"
           }
         ],
-        "Position": "Salesperson",
+        "Emails": [
+          {
+            "ContactId": "455707696"
+          }
+        ],
+        "Position": "Broker of Record",
         "PermitFreetextEmail": true,
-        "FirstName": "ROB",
-        "LastName": "GOLFI",
+        "FirstName": "CONRAD GUY",
+        "LastName": "ZURINI",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2024837/rob-golfi-1-markland-st-2-hamilton-ontario-l8p2j5",
+        "RelativeDetailsURL": "/agent/1413922/conrad-guy-zurini-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       }
     ],
     "Property": {
-      "Price": "$1,450,000",
+      "Price": "$1,999,999",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "2030 LENNON RD|Hamilton, Ontario N0B2J0",
-        "Longitude": "-80.1048426",
-        "Latitude": "43.4013682",
+        "AddressText": "497 #52 HIGHWAY|Hamilton, Ontario L0R1R0",
+        "Longitude": "-80.0423307",
+        "Latitude": "43.1933239",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/highres/9/x5198529_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/medres/9/x5198529_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/lowres/9/x5198529_1.jpg",
-          "LastUpdated": "2021-04-17 8:10:58 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637544383390100000/reb82/highres/4/x5200034_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637544383390100000/reb82/medres/4/x5200034_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637544383390100000/reb82/lowres/4/x5200034_1.jpg",
+          "LastUpdated": "2021-04-19 2:12:19 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Detached Garage"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "16",
+      "ParkingSpaceTotal": "13",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools",
-      "ConvertedPrice": "$1,450,000 ",
+      "AmmenitiesNearBy": "Park",
+      "ConvertedPrice": "$1,999,999 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1450000"
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1999999"
     },
     "Business": {},
     "Land": {
-      "SizeTotal": "1372 x 691 FT|10 - 24.99 acres"
+      "SizeTotal": "948.69 x 644 FT|5 - 9.99 acres"
     },
-    "PostalCode": "N0B2J0",
-    "RelativeDetailsURL": "/real-estate/23082819/2030-lennon-rd-hamilton-rural-flamborough",
+    "PostalCode": "L0R1R0",
+    "RelativeDetailsURL": "/real-estate/23087837/497-52-highway-hamilton-ancaster",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-17 12:10:58 PM",
+    "PhotoChangeDateUTC": "2021-04-19 6:12:19 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23082819/2030-lennon-rd-hamilton-rural-flamborough",
-    "RelativeURLFr": "/immobilier/23082819/2030-lennon-rd-hamilton"
+    "RelativeURLEn": "/real-estate/23087837/497-52-highway-hamilton-ancaster",
+    "RelativeURLFr": "/immobilier/23087837/497-52-highway-hamilton"
   }
 ]

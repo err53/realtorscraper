@@ -513,10 +513,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/highres/2/h4103772_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/medres/2/h4103772_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540168619370000/reb14/lowres/2/h4103772_1.jpg",
-          "LastUpdated": "2021-04-14 5:07:41 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637544382434530000/reb14/highres/2/h4103772_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637544382434530000/reb14/medres/2/h4103772_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637544382434530000/reb14/lowres/2/h4103772_1.jpg",
+          "LastUpdated": "2021-04-19 2:10:43 PM"
         }
       ],
       "Parking": [
@@ -606,56 +606,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "4",
       "SizeInterior": "2419.0000",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23081101",
-    "MlsNumber": "H4104060",
-    "Property": {
-      "Price": "$1,450,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "2030 Lennon Road|Puslinch, Ontario N0B2J0",
-        "Longitude": "-80.104846",
-        "Latitude": "43.401245",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/highres/0/h4104060_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/medres/0/h4104060_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637541933787330000/reb14/lowres/0/h4104060_1.jpg",
-          "LastUpdated": "2021-04-16 6:09:38 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "16",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools",
-      "ConvertedPrice": "$1,450,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1450000"
-    },
-    "Land": {
-      "SizeTotal": "1372.49 x 690.52|10 - 24.99 acres",
-      "SizeFrontage": "1372 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "SizeInterior": "2079.0000",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -813,10 +763,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637514140512230000/reb82/highres/6/n5151366_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637514140512230000/reb82/medres/6/n5151366_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637514140512230000/reb82/lowres/6/n5151366_1.jpg",
-          "LastUpdated": "2021-03-15 2:07:31 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637544264721270000/reb82/highres/6/n5151366_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637544264721270000/reb82/medres/6/n5151366_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637544264721270000/reb82/lowres/6/n5151366_1.jpg",
+          "LastUpdated": "2021-04-19 10:54:32 AM"
         }
       ],
       "Parking": [
@@ -1700,10 +1650,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/highres/0/x5195450_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/medres/0/x5195450_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540951146530000/reb82/lowres/0/x5195450_1.jpg",
-          "LastUpdated": "2021-04-15 2:51:54 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637544398225330000/reb82/highres/0/x5195450_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637544398225330000/reb82/medres/0/x5195450_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637544398225330000/reb82/lowres/0/x5195450_1.jpg",
+          "LastUpdated": "2021-04-19 2:37:02 PM"
         }
       ],
       "Parking": [
@@ -1779,50 +1729,50 @@
     }
   },
   {
-    "Id": "23082819",
-    "MlsNumber": "X5198529",
+    "Id": "23087837",
+    "MlsNumber": "X5200034",
     "Property": {
-      "Price": "$1,450,000",
+      "Price": "$1,999,999",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "2030 LENNON RD|Hamilton, Ontario N0B2J0",
-        "Longitude": "-80.1048426",
-        "Latitude": "43.4013682",
+        "AddressText": "497 #52 HIGHWAY|Hamilton, Ontario L0R1R0",
+        "Longitude": "-80.0423307",
+        "Latitude": "43.1933239",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/highres/9/x5198529_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/medres/9/x5198529_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637542438581100000/reb82/lowres/9/x5198529_1.jpg",
-          "LastUpdated": "2021-04-17 8:10:58 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637544383390100000/reb82/highres/4/x5200034_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637544383390100000/reb82/medres/4/x5200034_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637544383390100000/reb82/lowres/4/x5200034_1.jpg",
+          "LastUpdated": "2021-04-19 2:12:19 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Detached Garage"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "16",
+      "ParkingSpaceTotal": "13",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools",
-      "ConvertedPrice": "$1,450,000 ",
+      "AmmenitiesNearBy": "Park",
+      "ConvertedPrice": "$1,999,999 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1450000"
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1999999"
     },
     "Land": {
-      "SizeTotal": "1372 x 691 FT|10 - 24.99 acres"
+      "SizeTotal": "948.69 x 644 FT|5 - 9.99 acres"
     },
     "Building": {
       "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "1",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   }
