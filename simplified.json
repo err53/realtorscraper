@@ -348,6 +348,54 @@
     }
   },
   {
+    "Id": "23087384",
+    "MlsNumber": "E5200111",
+    "Property": {
+      "Price": "$1,699,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2605 NINTH CONCESSION RD|Pickering, Ontario L1Y1A4",
+        "Longitude": "-79.0852944671898",
+        "Latitude": "43.9826008341228",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637544378151170000/reb82/highres/1/e5200111_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637544378151170000/reb82/medres/1/e5200111_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637544378151170000/reb82/lowres/1/e5200111_1.jpg",
+          "LastUpdated": "2021-04-19 2:03:35 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,699,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1699000"
+    },
+    "Land": {
+      "SizeTotal": "554 x 1538 FT   ; 24.646 Acres As Per Geowarehouse|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23019215",
     "MlsNumber": "H4102535",
     "Property": {
@@ -1080,6 +1128,54 @@
     }
   },
   {
+    "Id": "23093074",
+    "MlsNumber": "N5201540",
+    "Property": {
+      "Price": "$1,950,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2580 REGIONAL RD 23 RD|Uxbridge, Ontario L9P1R4",
+        "Longitude": "-79.0593349",
+        "Latitude": "44.0374063",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637545282199130000/reb82/highres/0/n5201540_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637545282199130000/reb82/medres/0/n5201540_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637545282199130000/reb82/lowres/0/n5201540_1.jpg",
+          "LastUpdated": "2021-04-20 3:10:19 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,950,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1950000"
+    },
+    "Land": {
+      "SizeTotal": "303.44 x 923.45 FT   ; Rear 283.47 Feet, 6.19 Acres|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "5",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22921117",
     "MlsNumber": "W5149303",
     "Property": {
@@ -1302,6 +1398,53 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "4",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23090985",
+    "MlsNumber": "W5200924",
+    "Property": {
+      "Price": "$1,799,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "15170 MOUNT WOLFE RD|Caledon, Ontario L7E3N7",
+        "Longitude": "-79.7509135858114",
+        "Latitude": "43.9407373571065",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637545047221600000/reb82/highres/4/w5200924_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637545047221600000/reb82/medres/4/w5200924_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637545047221600000/reb82/lowres/4/w5200924_1.jpg",
+          "LastUpdated": "2021-04-20 8:38:42 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,799,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799000"
+    },
+    "Land": {
+      "SizeTotal": "400 x 1097 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
