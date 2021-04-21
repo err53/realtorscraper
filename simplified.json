@@ -348,6 +348,109 @@
     }
   },
   {
+    "Id": "23100053",
+    "MlsNumber": "40101230",
+    "Property": {
+      "Price": "$1,826,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5181 COUNTY RD 27|Innisfil, Ontario L0L1L0",
+        "Longitude": "-79.6984064",
+        "Latitude": "44.17760396",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637546272452430000/reb17/highres/0/40101230_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637546272452430000/reb17/medres/0/40101230_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637546272452430000/reb17/lowres/0/40101230_1.jpg",
+          "LastUpdated": "2021-04-21 6:40:45 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        },
+        {
+          "Name": "Covered"
+        }
+      ],
+      "ParkingSpaceTotal": "40",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Shopping",
+      "ConvertedPrice": "$1,826,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage, Covered",
+      "PriceUnformattedValue": "1826000"
+    },
+    "Land": {
+      "SizeTotal": "10.17 ac|10 - 24.99 acres",
+      "SizeFrontage": "895 ft",
+      "AccessType": "Highway access"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "1"
+    }
+  },
+  {
+    "Id": "23098232",
+    "MlsNumber": "40101334",
+    "Property": {
+      "Price": "$1,850,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1145 ROSEVILLE Road|Cambridge, Ontario N1R5S3",
+        "Longitude": "-80.35311602",
+        "Latitude": "43.36171682",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637546088841670000/reb20/highres/4/40101334_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637546088841670000/reb20/medres/4/40101334_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637546088841670000/reb20/lowres/4/40101334_1.jpg",
+          "LastUpdated": "2021-04-21 1:34:44 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,850,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1850000"
+    },
+    "Land": {
+      "SizeTotal": "50 - 100 acres",
+      "SizeFrontage": "1411 ft",
+      "AccessType": "Water access, Road access"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23087384",
     "MlsNumber": "E5200111",
     "Property": {
@@ -439,7 +542,8 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3",
-      "SizeInterior": "2295.0000",
+      "SizeExterior": "2295 sqft",
+      "SizeInterior": "2295 sqft",
       "StoriesTotal": "2",
       "Type": "House"
     }
@@ -491,7 +595,8 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3",
-      "SizeInterior": "2660.0000",
+      "SizeExterior": "2660 sqft",
+      "SizeInterior": "2660 sqft",
       "Type": "House"
     }
   },
@@ -540,7 +645,8 @@
     "Building": {
       "BathroomTotal": "0",
       "Bedrooms": "4",
-      "SizeInterior": "2400.0000",
+      "SizeExterior": "2400 sqft",
+      "SizeInterior": "2400 sqft",
       "StoriesTotal": "2",
       "Type": "House"
     }
@@ -596,65 +702,8 @@
     "Building": {
       "BathroomTotal": "1",
       "Bedrooms": "3",
-      "SizeInterior": "1540.0000",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23075038",
-    "MlsNumber": "H4103938",
-    "Property": {
-      "Price": "$1,050,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "508 6th Conc Road W|Flamborough, Ontario L8B1M7",
-        "Longitude": "-79.98188",
-        "Latitude": "43.349546",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637541068988470000/reb14/highres/8/h4103938_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637541068988470000/reb14/medres/8/h4103938_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637541068988470000/reb14/lowres/8/h4103938_1.jpg",
-          "LastUpdated": "2021-04-15 6:08:18 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Detached Garage"
-        },
-        {
-          "Name": "Gravel"
-        },
-        {
-          "Name": "Inside Entry"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,050,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Detached Garage, Gravel, Inside Entry",
-      "PriceUnformattedValue": "1050000"
-    },
-    "Land": {
-      "SizeTotal": "510.95x295.57x151.03x231.59x674.29x529.05|5 - 9.99 acres",
-      "SizeFrontage": "510 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "SizeInterior": "2419.0000",
-      "StoriesTotal": "1",
+      "SizeExterior": "1540 sqft",
+      "SizeInterior": "1540 sqft",
       "Type": "House"
     }
   },
@@ -1081,53 +1130,6 @@
     }
   },
   {
-    "Id": "23083436",
-    "MlsNumber": "N5198803",
-    "Property": {
-      "Price": "$999,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "4035 CONCESSION ROAD 5|Adjala-Tosorontio, Ontario L0G1L0",
-        "Longitude": "-79.919639",
-        "Latitude": "44.096989",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637542646659030000/reb82/highres/3/n5198803_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637542646659030000/reb82/medres/3/n5198803_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637542646659030000/reb82/lowres/3/n5198803_1.jpg",
-          "LastUpdated": "2021-04-17 1:57:45 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$999,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "999000"
-    },
-    "Land": {
-      "SizeTotal": "32 Acre   ; M/L Irregular|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23093074",
     "MlsNumber": "N5201540",
     "Property": {
@@ -1143,10 +1145,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637545282199130000/reb82/highres/0/n5201540_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637545282199130000/reb82/medres/0/n5201540_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637545282199130000/reb82/lowres/0/n5201540_1.jpg",
-          "LastUpdated": "2021-04-20 3:10:19 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637545490288430000/reb82/highres/0/n5201540_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637545490288430000/reb82/medres/0/n5201540_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637545490288430000/reb82/lowres/0/n5201540_1.jpg",
+          "LastUpdated": "2021-04-20 8:57:08 PM"
         }
       ],
       "Parking": [
@@ -1172,6 +1174,54 @@
       "BathroomTotal": "3",
       "Bedrooms": "5",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23100876",
+    "MlsNumber": "N5203932",
+    "Property": {
+      "Price": "$1,826,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5181 COUNTY RD 27|Innisfil, Ontario L0L1L0",
+        "Longitude": "-79.6984064",
+        "Latitude": "44.1776626",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637546298974100000/reb82/highres/2/n5203932_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637546298974100000/reb82/medres/2/n5203932_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637546298974100000/reb82/lowres/2/n5203932_1.jpg",
+          "LastUpdated": "2021-04-21 7:24:57 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "40",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park, Schools",
+      "ConvertedPrice": "$1,826,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1826000"
+    },
+    "Land": {
+      "SizeTotal": "895 x 495 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -1262,53 +1312,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "4",
       "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23051813",
-    "MlsNumber": "W5189494",
-    "Property": {
-      "Price": "$1,899,999",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "12100 5TH LINE NASSAGAWEYA LINE|Milton, Ontario N0B2K0",
-        "Longitude": "-80.0462152",
-        "Latitude": "43.5655858",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637538348253600000/reb82/highres/4/w5189494_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637538348253600000/reb82/medres/4/w5189494_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637538348253600000/reb82/lowres/4/w5189494_1.jpg",
-          "LastUpdated": "2021-04-12 2:33:45 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "23",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,899,999 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1899999"
-    },
-    "Land": {
-      "SizeTotal": "350 x 1834 FT   ; Irreg 10 Acres|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 2",
-      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -1417,10 +1420,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637545047221600000/reb82/highres/4/w5200924_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637545047221600000/reb82/medres/4/w5200924_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637545047221600000/reb82/lowres/4/w5200924_1.jpg",
-          "LastUpdated": "2021-04-20 8:38:42 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637545922734930000/reb82/highres/4/w5200924_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637545922734930000/reb82/medres/4/w5200924_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637545922734930000/reb82/lowres/4/w5200924_1.jpg",
+          "LastUpdated": "2021-04-21 8:57:53 AM"
         }
       ],
       "Parking": [
@@ -1737,7 +1740,7 @@
       "Price": "$1,885,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "5670 SECOND  LINE|Erin, Ontario L0N1N0",
+        "AddressText": "5670 SECOND LINE|Erin, Ontario L0N1N0",
         "Longitude": "-80.1705672",
         "Latitude": "43.7229576",
         "PermitShowAddress": true,
@@ -1915,6 +1918,54 @@
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23099279",
+    "MlsNumber": "X5202837",
+    "Property": {
+      "Price": "$1,150,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "634017 HWY 10|Mono, Ontario L9W5P4",
+        "Longitude": "-80.1107482",
+        "Latitude": "43.9754975",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637546120563200000/reb82/highres/7/x5202837_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637546120563200000/reb82/medres/7/x5202837_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637546120563200000/reb82/lowres/7/x5202837_1.jpg",
+          "LastUpdated": "2021-04-21 2:27:36 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,150,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1150000"
+    },
+    "Land": {
+      "SizeTotal": "10.99 Acre   ; Irregular|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4",
       "StoriesTotal": "2",
       "Type": "House"
     }
