@@ -787,6 +787,151 @@
     "RelativeURLFr": "/immobilier/22986278/6602-gore-road-puslinch"
   },
   {
+    "Id": "23105000",
+    "MlsNumber": "40096576",
+    "PublicRemarks": "Ever dream of living among gentle rolling hills, with privacy and space to enjoy trails, nature and serenity. This 10.5 acre estate property has million dollar views and stunning sunsets. Spacious  home with large principle rooms, full finished walkout, plenty of parking and approximately 5000 sqft of finished space. Turn this into your forever home with your creativity and designs. Other key features include vaulted ceiling with skylights, fireplaces, main floor laundry, second kitchen, 400 amp service and so much more. Easy commute to Toronto, Newmarket and Barrie. Call for private viewing. (63201576)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "SizeInterior": "3248.0000",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1555621,
+        "Name": "Harry Terpstra",
+        "Organization": {
+          "OrganizationID": 85454,
+          "Name": "Re/Max Real Estate Centre Inc Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637547006980000000/lowres/1187906.jpg",
+          "Address": {
+            "AddressText": "238 Speedvale Avenue West|Guelph, Ontario N1H1C4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "836-6365",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "836-7975",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460127244"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxcentre.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/85454/remax-real-estate-centre-inc-brokerage-238-speedvale-avenue-west-guelph-ontario-n1h1c4",
+          "PhotoLastupdate": "2021-04-22 3:04:58 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "835-9885",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "836-7975",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.harryterpstra.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456778309"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1147639.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Harry",
+        "LastName": "Terpstra",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1555621/harry-terpstra-238-speedvale-avenue-west-guelph-ontario-n1h1c4",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1147639.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,250,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6443 2ND Line|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.78677079",
+        "Latitude": "43.99889785",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637547006981370000/reb44/highres/6/40096576_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637547006981370000/reb44/medres/6/40096576_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637547006981370000/reb44/lowres/6/40096576_1.jpg",
+          "LastUpdated": "2021-04-22 3:04:58 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,250,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1250000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "116 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youriguide.com/6443_2_line_new_tecumseth_on/"
+    },
+    "PostalCode": "L0G1W0",
+    "RelativeDetailsURL": "/real-estate/23105000/6443-2nd-line-new-tecumseth",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-22 7:04:58 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23105000/6443-2nd-line-new-tecumseth",
+    "RelativeURLFr": "/immobilier/23105000/6443-2nd-line-new-tecumseth"
+  },
+  {
     "Id": "23061634",
     "MlsNumber": "40097092",
     "PublicRemarks": "Premium 48 Acres Of Farmland In East Garafraxa. Full Systematic Tile Drained Land. Steps To The Grand River. Charming Brick Bungalow With 3+1 Bedrooms And 2+1 Bathrooms. Master Bedroom Features Walk-In Closet And Ensuite. Family Size Eat-In Kitchen. Living Room With Walkout To Deck. Large Basement Rec Room With Bonus Bedroom. Oversized Garage. Metal Roof. Pretty Gardens And Lawn Around The House. Drive shed Could Be Used As Workshop Or Small Hobby Barn. (63158726)",
@@ -929,141 +1074,9 @@
     "RelativeURLFr": "/immobilier/23061634/152196-12th-line-east-garafraxa"
   },
   {
-    "Id": "23067200",
-    "MlsNumber": "40097099",
-    "PublicRemarks": "Bring the in-laws to this delightful Cape Cod style home situated on a fabulous a 10.71-acre private lot with guest house (ideal for in-laws or teens) and Coverall outbuilding - Wow!!  Located on a very quiet road with very little through traffic this home and property are sure to tick off all your boxes!!  A covered porch welcomes you in to this superb family home featuring a well-designed kitchen with stunning antiqued granite counter open to the family room complete with wood burning fireplace and walkout to deck.  A living room with cozy propane fireplace, office/dining room, powder room and mudroom with access to garage complete the level.  The upper level offers 3 spacious bedrooms, the master with 3 closets and 3-piece ensuite. The basement adds to the enjoyment with rec room, 4th bedroom, laundry and loads of storage/utility space.  For the in-laws  the guest house offers a kitchen, living room, bedroom, 3-piece, laundry and loft area with walkout to deck complete with access to yard. Great location. Close to Rockwood, Milton and Acton. (63164299)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "1"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1879076,
-        "Name": "Raymond Chesher",
-        "Organization": {
-          "OrganizationID": 250921,
-          "Name": "Your Home Today Realty Inc",
-          "Address": {
-            "AddressText": "73 Guelph Street|Georgetown, Ontario L7G3Z8",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "893-9001",
-              "AreaCode": "877",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "877-1415",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463975390"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/250921/your-home-today-realty-inc-73-guelph-street-georgetown-ontario-l7g3z8",
-          "PhotoLastupdate": "2021-04-14 2:45:15 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "893-9001",
-            "AreaCode": "877",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "877-1415",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456776805"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1280738.jpg",
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "Raymond",
-        "LastName": "Chesher",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1879076/raymond-chesher-73-guelph-street-georgetown-ontario-l7g3z8",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1280738.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,599,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "4105 30TH Side Road|Halton Hills, Ontario N0B2K0",
-        "Longitude": "-80.10298406",
-        "Latitude": "43.59580639",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540083158200000/reb44/highres/9/40097099_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540083158200000/reb44/medres/9/40097099_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540083158200000/reb44/lowres/9/40097099_1.jpg",
-          "LastUpdated": "2021-04-14 2:45:15 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1599900"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "10 - 24.99 acres",
-      "SizeFrontage": "350 ft",
-      "AccessType": "Highway access"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://tours.virtualgta.com/1812726?idx=1"
-    },
-    "PostalCode": "N0B2K0",
-    "RelativeDetailsURL": "/real-estate/23067200/4105-30th-side-road-halton-hills",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-14 6:45:15 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23067200/4105-30th-side-road-halton-hills",
-    "RelativeURLFr": "/immobilier/23067200/4105-30th-side-road-halton-hills"
-  },
-  {
     "Id": "23100053",
     "MlsNumber": "40101230",
-    "PublicRemarks": "Escape to the country where you will be greeted with breathtaking valley views and 10 acres with trails to roam and ride. This 3 bed & 2 bath fully finished log home is set back from the road with a spacious eat-in kitchen, cedar cabinetry and abundant counter and storage space. The sun filled living room features a cozy wood burning stove with stone surround and a barn beam mantel, as well as a walk-out to massive wrap around deck showcasing incredible views for miles. Newly renovated washrooms, new tile & broadloom flooring throughout the home. In-law suite potential in basement. Over 600 sq ft recreation room with wood stove, built in bar, walk out to yard, unfinished side with large cantina, built-in shelving and convenient firewood shoot to the basement from deck. The possibilities are endless with the 30ft x 80ft workshop, complete with concrete floors, power, water and two bay doors. Heated side with office, washroom and workspace tall enough for a hoist plus separate large side storage. House electrical can accommodate a hot tub, shop has separate service, and there is 100 amp service in lower level forest. Corner property with two road accesses (County Rd 27 & 14th Sdrd). Excellent location on paved road just South of Cookstown and 5 minutes to Highway 400. (63201283)",
+    "PublicRemarks": "Escape to the country where you will be greeted with breathtaking valley views and 10 acres with trails to roam and ride. This 3 bed & 2 bath fully finished log home is set back from the road with a spacious eat-in kitchen, pine cabinetry and abundant counter and storage space. The sun filled living room features a cozy wood burning stove with stone surround and a barn beam mantel, as well as a walk-out to massive wrap around deck showcasing incredible views for miles. Newly renovated washrooms, new tile & broadloom flooring throughout the home. In-law suite potential in basement. Over 600 sq ft recreation room with wood stove, built in bar, walk out to yard, unfinished side with large cantina, built-in shelving and convenient firewood shoot to the basement from deck. The possibilities are endless with the 30ft x 80ft workshop, complete with concrete floors, power, water and two bay doors. Heated side with office, washroom and workspace tall enough for a hoist plus separate large side storage. House electrical can accommodate a hot tub, shop has separate service, and there is 100 amp service in lower level forest. Corner property with two road accesses (County Rd 27 & 14th Sdrd). Excellent location on paved road just South of Cookstown and 5 minutes to Highway 400. (63201283)",
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3 + 0",
@@ -1113,7 +1126,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/274478/coldwell-banker-ronan-realty-brokerage-367-a-victoria-street-east-alliston-ontario-l9r1j7",
-          "PhotoLastupdate": "2021-04-21 6:45:35 PM"
+          "PhotoLastupdate": "2021-04-22 8:06:53 AM"
         },
         "Phones": [
           {
@@ -1341,6 +1354,147 @@
     "RelativeURLFr": "/immobilier/23098232/1145-roseville-road-cambridge"
   },
   {
+    "Id": "23104788",
+    "MlsNumber": "40101922",
+    "PublicRemarks": "Situated on a 136ft X 155ft lot in North Burlington with panoramic views. This 3 bedroom bungalow with oversized double car garage offers eat-in kitchen with walk-out to deck, good size living/dining area and partially finished basement. Property must be sold with 2486 No. 8 Side Rd. MLS #40102146 listed at $2.9M (63206710)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "1113.0000",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "0"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1388951,
+        "Name": "Penny Mackenzie",
+        "Organization": {
+          "OrganizationID": 280532,
+          "Name": "Keller Williams Signature Realty, Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637547168350000000/lowres/1315384.jpg",
+          "Address": {
+            "AddressText": "245 Wyecroft Rd, Suite 4,|Oakville, Ontario L6K3Y6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "844-7788",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "784-1012",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://kellerwilliamssignature.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/280532/keller-williams-signature-realty-brokerage-245-wyecroft-rd-suite-4-oakville-ontario-l6k3y6",
+          "PhotoLastupdate": "2021-04-22 7:33:55 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "844-7788",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "784-1012",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.burlingtonsbesthomes.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456775468"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636559731000000000/lowres/1283279.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "Penny",
+        "LastName": "Mackenzie",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1388951/penny-mackenzie-245-wyecroft-rd-suite-4-oakville-ontario-l6k3y6",
+        "AgentPhotoLastUpdated": "2018-03-06 22:45:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636559731000000000/highres/1283279.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,100,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2458 8 Side Road|Burlington, Ontario L7P0E6",
+        "Longitude": "-79.92430342",
+        "Latitude": "43.4311235",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637546998449270000/reb15/highres/2/40101922_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637546998449270000/reb15/medres/2/40101922_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637546998449270000/reb15/lowres/2/40101922_1.jpg",
+          "LastUpdated": "2021-04-22 2:50:44 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,100,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1100000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "50 - 100 acres",
+      "SizeFrontage": "136 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://www.myvisuallistings.com/cvt/310035#Home"
+    },
+    "PostalCode": "L7P0E6",
+    "RelativeDetailsURL": "/real-estate/23104788/2458-8-side-road-burlington",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-22 6:50:50 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23104788/2458-8-side-road-burlington",
+    "RelativeURLFr": "/immobilier/23104788/2458-8-side-road-burlington"
+  },
+  {
     "Id": "23087384",
     "MlsNumber": "E5200111",
     "PublicRemarks": "Built In 1887 This Charming Century Home On 24.6 Acres With Pond Awaits You. 5 Minutes To Claremont,10 Minutes To Hwy 407. Two Barns With 9 Horse Stalls  4 Electric Paddocks. A 21X17 Ft Greenhouse To Grow Your Own Herbs & Veg, Large Country Kitchen, Oversized Great Room With Vaulted Ceiling Leading To A Covered Porch With Panoramic Views Of The Gardens And Pond.  Low Property Taxes(Horses)*Discover The Possibilities Of This Outstanding Property!**** EXTRAS **** 3 Box Stalls Were Rented Out For 1500 Per Month Approx. (28287495)",
@@ -1533,6 +1687,144 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23087384/2605-ninth-concession-rd-pickering-rural-pickering",
     "RelativeURLFr": "/immobilier/23087384/2605-ninth-concession-rd-pickering"
+  },
+  {
+    "Id": "23104400",
+    "MlsNumber": "E5204751",
+    "PublicRemarks": "Click On Virtual Tour To Walk Through This Home. Click On Realtor's Link For Floor Plans & Feature Sheet. See Attached For List Of Upgrades. Incredibly Amazing 11.77 Acres Of Picturesque Horse Farm, Like A Private Retreat At The End Of A Quiet Cul-De-Sac W/ Priceless Scenic Views & A Large Private 15 Ft Deep Pond Just North Of Brooklin In Rural Whitby. From Hwy#12 To Townline Rd, East To Garrard, South To The End Of The Street.**** EXTRAS **** This Renovated Ranch Bungalow Features 3+1 Br, 3 Bath, Upgraded Custom Kitchen, Detached 20X30 Grg & Barn W/ 3 Stalls. Deck Views Are Breathtaking Overlooking Ridges & The Lake. Geothermal Heating, Aircon(30,000) System. (28309151)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1850340,
+        "Name": "SHAWN LEPP",
+        "Organization": {
+          "OrganizationID": 279039,
+          "Name": "KELLER WILLIAMS ENERGY LEPP GROUP REAL ESTATE",
+          "Address": {
+            "PermitShowAddress": false,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "428-8100",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "637-2317",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414884370"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.shawnlepp.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279039/keller-williams-energy-lepp-group-real-estate-111-byron-street-south-whitby-ontario-l1n4p5",
+          "PhotoLastupdate": "2021-04-22 1:40:45 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "428-8100",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.ShawnLepp.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "458068281"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1850340.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "SHAWN",
+        "LastName": "LEPP",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1850340/shawn-lepp",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1850340.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,300,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "9680 GARRARD RD|Whitby, Ontario L9L1B3",
+        "Longitude": "-78.9617462193904",
+        "Latitude": "44.0228279405246",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637546956459800000/reb88/highres/1/e5204751_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637546956459800000/reb88/medres/1/e5204751_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637546956459800000/reb88/lowres/1/e5204751_1.jpg",
+          "LastUpdated": "2021-04-22 1:40:45 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "9",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,300,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1300000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "677.2 x 721.1 FT   ; Irregular As Per Geo  11.77 Acres|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "BrochureLink": "http://crm.agentlocator.ca/UserFiles/744/files/Shawn%20Lepp-%209680%20Garrard%20Feature%20Booklet.pdf",
+      "DetailsLink": "http://www.shawnlepp.com/idx/E5204751/Whitby/9680-garrard-rd.html",
+      "VideoLink": "https://my.matterport.com/show/?m=pkJpriUQmSW&mls=1"
+    },
+    "PostalCode": "L9L1B3",
+    "RelativeDetailsURL": "/real-estate/23104400/9680-garrard-rd-whitby-rural-whitby",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-22 5:40:45 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23104400/9680-garrard-rd-whitby-rural-whitby",
+    "RelativeURLFr": "/immobilier/23104400/9680-garrard-rd-whitby"
   },
   {
     "Id": "23019215",
@@ -3462,7 +3754,6 @@
     "RelativeDetailsURL": "/real-estate/23093074/2580-regional-rd-23-rd-uxbridge-rural-uxbridge",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-21 12:57:09 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23093074/2580-regional-rd-23-rd-uxbridge-rural-uxbridge",
     "RelativeURLFr": "/immobilier/23093074/2580-regional-rd-23-rd-uxbridge"
@@ -3470,7 +3761,7 @@
   {
     "Id": "23100876",
     "MlsNumber": "N5203932",
-    "PublicRemarks": "Escape To The Country On 10 Acres W/ Amazing Valley View, 2 Road Access & Walking/Atv Trails. This 3 Bed & 2 Bath Fully Finished Home Is Set Back From The Road, W/ A Spacious E/I Kitchen, Cedar Cabinetry & Abundant Counter/Storage Space. Sun Filled Living Room W/ W/O To Massive Wrap Around Deck Showcasing Incredible View For Miles, Vaulted Ceiling & Cozy Wood Burning Stove W/ Stone Surround & Barn Beam Mantel. New Washrooms & Flooring Throughout. Huge Rec Rm.**** EXTRAS **** 30 Ft X 80 Ft Detached Workshop Complete W/ Concrete Floor, Power, Water & 2 Bay Doors. Tall Enough For Hoist. Excellent Location On Paved Road Just South Of Cookstown And 5 Min To Hwy 400. (28304808)",
+    "PublicRemarks": "Escape To The Country On 10 Acres W/ Amazing Valley View, 2 Road Access, Walking/Atv Trails. 3 Bed & 2 Bath Fully Finished Home Set Back From The Road, W/ A Spacious E/I Kitchen, Pine Cabinetry & Abundant Counter/Storage Space. Sun Filled Living Room W/ W/O To Massive Wrap Around Deck Showcasing Incredible Views For Miles & Cozy Wood Burning Stove W/ Stone Surround + Barn Beam Mantel. New Washrooms & Flooring Throughout. Huge Rec Rm. In-Law Suite Potential.**** EXTRAS **** 30 Ft X 80 Ft Detached Workshop Complete W/ Concrete Floor, Power, Water & 2 Bay Doors. Tall Enough For Hoist. Excellent Location On Paved Road Just South Of Cookstown And 5 Min To Hwy 400. (28304808)",
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3",
@@ -3484,7 +3775,7 @@
         "Organization": {
           "OrganizationID": 117743,
           "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637546250630000000/lowres/1168329.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637547010190000000/lowres/1168329.jpg",
           "Address": {
             "AddressText": "367 VICTORIA STREET EAST|ALLISTON, Ontario L9R1J7",
             "PermitShowAddress": true,
@@ -3509,7 +3800,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/117743/coldwell-banker-ronan-realty-367-victoria-street-east-alliston-ontario-l9r1j7",
-          "PhotoLastupdate": "2021-04-21 6:04:23 PM"
+          "PhotoLastupdate": "2021-04-22 3:10:19 PM"
         },
         "Phones": [
           {
@@ -3557,7 +3848,7 @@
       "Price": "$1,826,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "5181 COUNTY RD 27|Innisfil, Ontario L0L1L0",
+        "AddressText": "5181 COUNTY RD 27 RD|Innisfil, Ontario L0L1L0",
         "Longitude": "-79.6984064",
         "Latitude": "44.1776626",
         "PermitShowAddress": true,
@@ -3566,10 +3857,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637546298974100000/reb82/highres/2/n5203932_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637546298974100000/reb82/medres/2/n5203932_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637546298974100000/reb82/lowres/2/n5203932_1.jpg",
-          "LastUpdated": "2021-04-21 7:24:57 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637546318732900000/reb82/highres/2/n5203932_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637546318732900000/reb82/medres/2/n5203932_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637546318732900000/reb82/lowres/2/n5203932_1.jpg",
+          "LastUpdated": "2021-04-21 7:57:53 PM"
         }
       ],
       "Parking": [
@@ -3596,13 +3887,13 @@
       "VideoLink": "http://wylieford.homelistingtours.com/listing2/5181-simcoe-county-road-27"
     },
     "PostalCode": "L0L1L0",
-    "RelativeDetailsURL": "/real-estate/23100876/5181-county-rd-27-innisfil-cookstown",
+    "RelativeDetailsURL": "/real-estate/23100876/5181-county-rd-27-rd-innisfil-cookstown",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-21 11:24:57 PM",
+    "PhotoChangeDateUTC": "2021-04-21 11:57:53 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23100876/5181-county-rd-27-innisfil-cookstown",
-    "RelativeURLFr": "/immobilier/23100876/5181-county-rd-27-innisfil"
+    "RelativeURLEn": "/real-estate/23100876/5181-county-rd-27-rd-innisfil-cookstown",
+    "RelativeURLFr": "/immobilier/23100876/5181-county-rd-27-rd-innisfil"
   },
   {
     "Id": "22921117",
@@ -3895,256 +4186,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23048193/11343-regional-road-25-rd-halton-hills-rural-halton-hills",
     "RelativeURLFr": "/immobilier/23048193/11343-regional-road-25-rd-halton-hills"
-  },
-  {
-    "Id": "23068271",
-    "MlsNumber": "W5194282",
-    "PublicRemarks": "Bring The In-Laws To This Delightful Home Situated On A 10.71-Ac Private Lot On Very Quiet Road W/Guest House & Outbuilding. A Cov Porch Welcomes You In To This Family Home Featuring A Well-Designed Kit W/Stunning Antiqued Granite Counter Open To The Fam Rm Complete W/Wood F/P & W/O To Deck. A Liv Rm W/Cozy Gas F/P, Office/Din Rm, Powder Rm & Mud Rm W/Access To Gar Complete The Level. The Upper Level Offers 3 Spac Bdrms, The Mstr W/3 Closets & 3 Pc Enste.**** EXTRAS **** The Bsmnt Adds To The Enjoyment W/Rec Rm, 4th Bdrm, Laundry & Loads Of Storage/Utility Space.  For The In-Laws - The Guest House Offers A Kitchen, Liv Rm, Bdrm, 3-Pc, Laundry & Loft Area With W/O To Deck & Stairs To Yard. Great Location. (28262553)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1562449,
-        "Name": "RAYMOND PATRICK CHESHER",
-        "Organization": {
-          "OrganizationID": 227749,
-          "Name": "YOUR HOME TODAY REALTY INC.",
-          "Address": {
-            "AddressText": "13394 HIGHWAY 7|HALTON HILLS, Ontario L7G4S4",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "877-9001",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "877-1415",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.heyray.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/227749/your-home-today-realty-inc-13394-highway-7-halton-hills-ontario-l7g4s4",
-          "PhotoLastupdate": "2021-04-14 5:38:05 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "877-9001",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.heyray.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455651623"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1562449.jpg",
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "RAYMOND PATRICK",
-        "LastName": "CHESHER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1562449/raymond-patrick-chesher-13394-highway-7-halton-hills-ontario-l7g4s4",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1562449.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,599,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "4105 30TH  SDRD|Milton, Ontario N0B2K0",
-        "Longitude": "-80.1033703",
-        "Latitude": "43.5957816",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540186859100000/reb86/highres/2/w5194282_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540186859100000/reb86/medres/2/w5194282_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540186859100000/reb86/lowres/2/w5194282_1.jpg",
-          "LastUpdated": "2021-04-14 5:38:05 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1599900"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "350.2 FT   ; 10.71 Acres|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://tours.virtualgta.com/1812726?idx=1"
-    },
-    "PostalCode": "N0B2K0",
-    "RelativeDetailsURL": "/real-estate/23068271/4105-30th-sdrd-milton-nassagaweya",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-14 9:38:05 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23068271/4105-30th-sdrd-milton-nassagaweya",
-    "RelativeURLFr": "/immobilier/23068271/4105-30th-sdrd-milton"
-  },
-  {
-    "Id": "23073547",
-    "MlsNumber": "W5195364",
-    "PublicRemarks": "Private, Serene And Set On A Hill With Breathtaking Views. This Beautiful 10 Acre Property Can Be Yours To Call Home. There Are Three Fireplaces, Four Bedrooms And Hardwood Throughout. Each Window Provides A Captivating View Of Nature. Albion Hills Conservation And Trans Canada Trail Are Only Steps Away. Schools, Shopping And Dining Are All Close By. Great Access To Major Highways. Don't Miss Out On This Opportunity.**** EXTRAS **** Wall Oven, B/I Dishwasher, Stove, Washer, (All Appliances As Is Condition), Roof 2019, Culligan Water Filtration System 2019, All Electrical Light Fixtures, Refrigerator In Basement, Hwt Owned, (28268911)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "4",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1895471,
-        "Name": "RUTH PATAFIO",
-        "Organization": {
-          "OrganizationID": 50719,
-          "Name": "RE/MAX WEST REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544521320000000/lowres/1002321.jpg",
-          "Address": {
-            "AddressText": "9-1 QUEENSGATE BOULEVARD|BOLTON, Ontario L7E2X7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "857-7653",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "857-7671",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.remaxwest.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/50719/remax-west-realty-inc-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
-          "PhotoLastupdate": "2021-04-19 6:02:12 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "857-7653",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455767243"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1895471.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "RUTH",
-        "LastName": "PATAFIO",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1895471/ruth-patafio-9-1-queensgate-boulevard-bolton-ontario-l7e2x7",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1895471.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,549,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "16668 HUMBER STATION RD|Caledon, Ontario L0N1E0",
-        "Longitude": "-79.8425096",
-        "Latitude": "43.9208234",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540949880230000/reb82/highres/4/w5195364_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540949880230000/reb82/medres/4/w5195364_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540949880230000/reb82/lowres/4/w5195364_1.jpg",
-          "LastUpdated": "2021-04-15 2:49:48 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "ConvertedPrice": "$1,549,000 ",
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1549000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "10 Acre|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://www.myvisuallistings.com/vtnb/309459"
-    },
-    "PostalCode": "L0N1E0",
-    "RelativeDetailsURL": "/real-estate/23073547/16668-humber-station-rd-caledon-rural-caledon",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-15 6:49:48 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23073547/16668-humber-station-rd-caledon-rural-caledon",
-    "RelativeURLFr": "/immobilier/23073547/16668-humber-station-rd-caledon"
   },
   {
     "Id": "23090985",
@@ -4911,7 +4952,7 @@
   {
     "Id": "23022148",
     "MlsNumber": "X5180283",
-    "PublicRemarks": "Exceptional Value In This Custom Designed And Built,  Almost New, Lovely Home Nestled On A Wooded 10 Acres. This One Of A Kind , Architecturally Designed 2 Storey Home Boasts A Kitchen That Any Cook Would Love! A Massive Centre Island With Seating For 5 Is Part Of The Main Floor Open Concept Dining Area And Great Room With A Wood Burning Fireplace. A Home Where The Whole Family Can Congregate . Dining Area Walks Out To A Deck. Huge W/I Pantry**** EXTRAS **** Tarion Warranty From March 2019. 2 Stoves, 2 Dishwashers, Oversized Fridge, Oversized Washer And Dryer. All Elf's, Wired In Generator, Huge Extra Main Floor Walk-In Closet For Sports Equipment Etc. Close To Mono Ski Hills, Walking Trails. (28202431)",
+    "PublicRemarks": "Exceptional Value In This Custom Designed And Built,  Lovely Home Nestled On A Wooded 10 Acres. This One Of A Kind , Architecturally Designed 2 Storey Home Boasts A Kitchen That Any Cook Would Love! A Massive Centre Island With Seating For 5 Is Part Of The Main Floor Open Concept Dining Area And Great Room With A Wood Burning Fireplace. A Home Where The Whole Family Can Congregate . Dining Area Walks Out To A Deck. Huge W/I Pantry. Space For Kids To Play !**** EXTRAS **** Tarion Warranty From March 2019. 2 Stoves, 2 Dishwashers, Oversized Fridge, Oversized Washer And Dryer. All Elf's, Wired In Generator, Huge Extra Main Floor Walk-In Closet For Sports Equipment Etc. Close To Mono Ski Hills, Walking Trails. (28202431)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "4",
@@ -4925,7 +4966,7 @@
         "Organization": {
           "OrganizationID": 62449,
           "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544382700000000/lowres/62449.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637547013140000000/lowres/62449.jpg",
           "Address": {
             "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
             "PermitShowAddress": true,
@@ -4956,7 +4997,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-04-19 2:11:10 PM"
+          "PhotoLastupdate": "2021-04-22 3:15:14 PM"
         },
         "Phones": [
           {
@@ -5001,7 +5042,7 @@
         "Organization": {
           "OrganizationID": 62449,
           "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544382700000000/lowres/62449.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637547013140000000/lowres/62449.jpg",
           "Address": {
             "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
             "PermitShowAddress": true,
@@ -5032,7 +5073,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-04-19 2:11:10 PM"
+          "PhotoLastupdate": "2021-04-22 3:15:14 PM"
         },
         "Phones": [
           {
@@ -5318,7 +5359,7 @@
         "RelativeDetailsURL": "/agent/1619212/trish-mills-295-queen-st-e-suite-b-brampton-ontario-l6w3r1",
         "AgentPhotoLastUpdated": "2020-08-25 19:57:00",
         "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637339822200000000/highres/1160457.jpg",
-        "RankMyAgentKey": "",
+        "RankMyAgentKey": "73772",
         "RealSatisfiedKey": ""
       }
     ],
@@ -5505,145 +5546,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
     "RelativeURLFr": "/immobilier/23073766/1296-mineral-springs-rd-hamilton"
-  },
-  {
-    "Id": "23077248",
-    "MlsNumber": "X5196795",
-    "PublicRemarks": "World Of Possibilities In This Stunning Location! 7 Forested Acres, 2.7 Of Which Are Cleared W Total Privacy. Picturesque Driveway W 2 Ponds. Over 2,400 Sq Foot Bungalow, W Bonus Half Story. Solid Structure Could Be Remodeled Or Build Your Dream Home! +/-1,000 Sq Foot Heated Shop Provides 2+ More Parking Spaces & Storage. Lg Fabric Container Shelter For R.V. Or Boat W Gravel Floor. 2 Min Drive To Highway #6 = Accessible For Commuting & Amenities. Rsa**** EXTRAS **** Rental Items: None. Inclusions: Washer, Dryer, All Light Fixtures, Fridge, Stove, All In As-Is Condition, Outdoor Rv Shelter. Exclusions: None (28274043)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1979013,
-        "Name": "DREW WOOLCOTT",
-        "Organization": {
-          "OrganizationID": 289645,
-          "Name": "EXP REALTY",
-          "Address": {
-            "PermitShowAddress": false,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "530-7737",
-              "AreaCode": "866",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "849-3180",
-              "AreaCode": "647",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "464930159"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/289645/exp-realty-21-king-st-w-unit-a-5fl-hamilton-ontario-l8p4w7",
-          "PhotoLastupdate": "2021-04-21 6:08:57 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "332-9223",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://woolcott.ca",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/WoolcottTeam",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/nobodysellsmore",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "http://ca.linkedin.com/pub/drew-woolcott/71/68b/312",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "467126408"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636044328000000000/lowres/1979013.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "DREW",
-        "LastName": "WOOLCOTT",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1979013/drew-woolcott",
-        "AgentPhotoLastUpdated": "2016-07-18 10:00:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636044328000000000/highres/1979013.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,050,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "508 6TH CONCESSION RD W|Hamilton, Ontario L8B1M7",
-        "Longitude": "-79.9813274",
-        "Latitude": "43.3503126",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637541579220300000/reb82/highres/5/x5196795_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637541579220300000/reb82/medres/5/x5196795_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637541579220300000/reb82/lowres/5/x5196795_1.jpg",
-          "LastUpdated": "2021-04-16 8:18:42 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "20",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,050,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1050000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "510 x 528 FT|5 - 9.99 acres"
-    },
-    "PostalCode": "L8B1M7",
-    "RelativeDetailsURL": "/real-estate/23077248/508-6th-concession-rd-w-hamilton-rural-flamborough",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-16 12:18:42 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23077248/508-6th-concession-rd-w-hamilton-rural-flamborough",
-    "RelativeURLFr": "/immobilier/23077248/508-6th-concession-rd-w-hamilton"
   },
   {
     "Id": "23087837",
@@ -6013,5 +5915,128 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23099279/634017-hwy-10-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23099279/634017-hwy-10-mono"
+  },
+  {
+    "Id": "23098305",
+    "MlsNumber": "X5203321",
+    "PublicRemarks": "New Country Luxury Home On 5 Private Acres With Pond. Top Of The Line Finishes & Craftsmanship With 9 Foot Ceilings, Reclaimed Wide Plank Elm Floors. Sun Filled With Large Windows & Exquisite Views. Solid Wood Doors & Trim. Enormous Kitchen With Large Island & Window Seat, Quartz Counters, S/S Appliances, Master Suite With Spa Bathroom. Lower Level Can Accommodate Extended Family. Upgrades Too Numerous To Mention.**** EXTRAS **** S/S Six Burner Stove, Large Fridge/Freezer Combo, Microwave, Dishwasher & Wine Fridge. (28301626)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1927157,
+        "Name": "PAUL RICHARDSON",
+        "Organization": {
+          "OrganizationID": 286295,
+          "Name": "ROYAL LEPAGE MEADOWTOWNE REALTY",
+          "Address": {
+            "AddressText": "17228 MISSISSAUGA ROAD|CALEDON, Ontario L7K0E6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "838-1136",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "450707930"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/286295/royal-lepage-meadowtowne-realty-17228-mississauga-road-caledon-ontario-l7k0e6",
+          "PhotoLastupdate": "2021-04-22 1:39:13 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "877-8262",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.RichardsonTownandCountry.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459300792"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "PAUL",
+        "LastName": "RICHARDSON",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1927157/paul-richardson-17228-mississauga-road-caledon-ontario-l7k0e6",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,999,999",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "311174 16TH LINE|East Garafraxa, Ontario L9W7C6",
+        "Longitude": "-80.1808739",
+        "Latitude": "43.8491862",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637546126844370000/reb86/highres/1/x5203321_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637546126844370000/reb86/medres/1/x5203321_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637546126844370000/reb86/lowres/1/x5203321_1.jpg",
+          "LastUpdated": "2021-04-21 2:38:04 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,999 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1999999"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "574.69 x 394.07 FT   ; 5.2 Acres|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://tours.virtualgta.com/1809606?idx=1"
+    },
+    "PostalCode": "L9W7C6",
+    "RelativeDetailsURL": "/real-estate/23098305/311174-16th-line-east-garafraxa-rural-east-garafraxa",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-21 6:38:04 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23098305/311174-16th-line-east-garafraxa-rural-east-garafraxa",
+    "RelativeURLFr": "/immobilier/23098305/311174-16th-line-east-garafraxa"
   }
 ]
