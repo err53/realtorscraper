@@ -202,55 +202,6 @@
     }
   },
   {
-    "Id": "22986278",
-    "MlsNumber": "40088077",
-    "Property": {
-      "Price": "$1,500,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6602 GORE Road|Puslinch, Ontario N0B2J0",
-        "Longitude": "-80.24785887",
-        "Latitude": "43.39072355",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637523732952500000/reb20/highres/7/40088077_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637523732952500000/reb20/medres/7/40088077_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637523732952500000/reb20/lowres/7/40088077_1.jpg",
-          "LastUpdated": "2021-03-26 4:34:55 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "5",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,500,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1500000"
-    },
-    "Land": {
-      "SizeTotal": "42.93 ac|25 - 50 acres",
-      "SizeFrontage": "996 ft"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "4 + 0",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
     "Id": "23105000",
     "MlsNumber": "40096576",
     "Property": {
@@ -296,53 +247,6 @@
       "Bedrooms": "3 + 1",
       "SizeInterior": "3248.0000",
       "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23061634",
-    "MlsNumber": "40097092",
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "152196 12TH Line|East Garafraxa, Ontario L9W7B2",
-        "Longitude": "-80.28068846",
-        "Latitude": "43.84921769",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637539255086030000/reb44/highres/2/40097092_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637539255086030000/reb44/medres/2/40097092_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637539255086030000/reb44/lowres/2/40097092_1.jpg",
-          "LastUpdated": "2021-04-13 3:45:08 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Land": {
-      "SizeTotal": "48.16 ac|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -456,7 +360,7 @@
       "Price": "$1,100,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "2458 8 Side Road|Burlington, Ontario L7P0E6",
+        "AddressText": "2458 NO. 8 Sideroad|Burlington, Ontario L7P0E6",
         "Longitude": "-79.92430342",
         "Latitude": "43.4311235",
         "PermitShowAddress": true,
@@ -495,6 +399,104 @@
       "Bedrooms": "3 + 0",
       "SizeInterior": "1113.0000",
       "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "23109392",
+    "MlsNumber": "40102367",
+    "Property": {
+      "Price": "$949,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "142 PLEASANT Avenue|Dundas, Ontario L9H3V1",
+        "Longitude": "-79.97052347",
+        "Latitude": "43.25099926",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637547946812170000/reb15/highres/7/40102367_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637547946812170000/reb15/medres/7/40102367_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637547946812170000/reb15/lowres/7/40102367_1.jpg",
+          "LastUpdated": "2021-04-23 5:11:21 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Carport"
+        }
+      ],
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Public Transit, Schools, Shopping",
+      "ConvertedPrice": "$949,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Carport",
+      "PriceUnformattedValue": "949000"
+    },
+    "Land": {
+      "SizeTotal": "14 ac|under 1/2 acre",
+      "SizeFrontage": "65 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "23112488",
+    "MlsNumber": "40103106",
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6602 GORE Road|Puslinch, Ontario N0B2J0",
+        "Longitude": "-80.24785887",
+        "Latitude": "43.39072355",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637547976387800000/reb20/highres/6/40103106_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637547976387800000/reb20/medres/6/40103106_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637547976387800000/reb20/lowres/6/40103106_1.jpg",
+          "LastUpdated": "2021-04-23 6:00:38 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "7",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Land": {
+      "SizeTotal": "42.93 ac|25 - 50 acres",
+      "SizeFrontage": "996 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "0"
     }
@@ -1322,6 +1324,53 @@
     }
   },
   {
+    "Id": "23110650",
+    "MlsNumber": "N5206594",
+    "Property": {
+      "Price": "$1,250,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6443 2ND LINE|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.7851442",
+        "Latitude": "44.0006362",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637547848069770000/reb82/highres/4/n5206594_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637547848069770000/reb82/medres/4/n5206594_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637547848069770000/reb82/lowres/4/n5206594_1.jpg",
+          "LastUpdated": "2021-04-23 2:26:46 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,250,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1250000"
+    },
+    "Land": {
+      "SizeTotal": "116.04 x 2588.9 FT   ; 10.48 Acres, Oak Ridges Moraine|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "22921117",
     "MlsNumber": "W5149303",
     "Property": {
@@ -1365,49 +1414,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23048193",
-    "MlsNumber": "W5187985",
-    "Property": {
-      "Price": "$1,750,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "11343 REGIONAL ROAD 25 RD|Halton Hills, Ontario L7J2M1",
-        "Longitude": "-79.9843618",
-        "Latitude": "43.5866215",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637538320195570000/reb82/highres/5/w5187985_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637538320195570000/reb82/medres/5/w5187985_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637538320195570000/reb82/lowres/5/w5187985_1.jpg",
-          "LastUpdated": "2021-04-12 1:46:59 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "ConvertedPrice": "$1,750,000 ",
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1750000"
-    },
-    "Land": {
-      "SizeTotal": "197.42 x 592 FT   ; 118.28,9.08,375.44,197.43,592.99|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -1694,53 +1700,6 @@
     }
   },
   {
-    "Id": "23062814",
-    "MlsNumber": "X5192592",
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "152196 12TH LINE|East Garafraxa, Ontario L9W7B2",
-        "Longitude": "-80.2898938",
-        "Latitude": "43.8560106",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637539336260770000/reb82/highres/2/x5192592_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637539336260770000/reb82/medres/2/x5192592_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637539336260770000/reb82/lowres/2/x5192592_1.jpg",
-          "LastUpdated": "2021-04-13 6:00:26 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Land": {
-      "SizeTotal": "48.16 Acre|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23068278",
     "MlsNumber": "X5194140",
     "Property": {
@@ -1883,54 +1842,6 @@
     }
   },
   {
-    "Id": "23099279",
-    "MlsNumber": "X5202837",
-    "Property": {
-      "Price": "$1,150,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "634017 HWY 10|Mono, Ontario L9W5P4",
-        "Longitude": "-80.1107482",
-        "Latitude": "43.9754975",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637546120563200000/reb82/highres/7/x5202837_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637546120563200000/reb82/medres/7/x5202837_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637546120563200000/reb82/lowres/7/x5202837_1.jpg",
-          "LastUpdated": "2021-04-21 2:27:36 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,150,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1150000"
-    },
-    "Land": {
-      "SizeTotal": "10.99 Acre   ; Irregular|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23098305",
     "MlsNumber": "X5203321",
     "Property": {
@@ -1974,6 +1885,53 @@
       "BathroomTotal": "3",
       "Bedrooms": "3",
       "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23108683",
+    "MlsNumber": "X5206027",
+    "Property": {
+      "Price": "$1,297,369",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "347369 15 SDRD|Mono, Ontario L9W6S4",
+        "Longitude": "-80.0582725652251",
+        "Latitude": "44.0135358999389",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637548011235770000/reb82/highres/7/x5206027_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637548011235770000/reb82/medres/7/x5206027_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637548011235770000/reb82/lowres/7/x5206027_1.jpg",
+          "LastUpdated": "2021-04-23 6:58:43 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,297,369 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1297369"
+    },
+    "Land": {
+      "SizeTotal": "340 x 1005 FT   ; Irreg, Dimensions From Geo/ Mpac-|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   }
