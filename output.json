@@ -785,7 +785,6 @@
     "RelativeDetailsURL": "/real-estate/23105000/6443-2nd-line-new-tecumseth",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-22 7:04:58 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23105000/6443-2nd-line-new-tecumseth",
     "RelativeURLFr": "/immobilier/23105000/6443-2nd-line-new-tecumseth"
@@ -1204,7 +1203,6 @@
     "RelativeDetailsURL": "/real-estate/23104788/2458-no-8-sideroad-burlington",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-22 6:50:50 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23104788/2458-no-8-sideroad-burlington",
     "RelativeURLFr": "/immobilier/23104788/2458-no-8-sideroad-burlington"
@@ -1821,7 +1819,6 @@
     "RelativeDetailsURL": "/real-estate/23104400/9680-garrard-rd-whitby-rural-whitby",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-22 5:40:45 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23104400/9680-garrard-rd-whitby-rural-whitby",
     "RelativeURLFr": "/immobilier/23104400/9680-garrard-rd-whitby"
@@ -3154,8 +3151,8 @@
           },
           {
             "PhoneType": "Toll Free",
-            "PhoneNumber": "940-0004",
-            "AreaCode": "519",
+            "PhoneNumber": "897-5000",
+            "AreaCode": "905",
             "PhoneTypeId": "5"
           }
         ],
@@ -3167,7 +3164,7 @@
         ],
         "Emails": [
           {
-            "ContactId": "464536062"
+            "ContactId": "467315772"
           }
         ],
         "Position": "Broker",
