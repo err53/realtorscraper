@@ -1,5 +1,55 @@
 [
   {
+    "Id": "20185869",
+    "MlsNumber": "30703385",
+    "Property": {
+      "Price": "$1,700,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5826 FIRST Line|Erin, Ontario L0N1Z0",
+        "Longitude": "-80.202309",
+        "Latitude": "43.727796",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637550556541030000/reb44/highres/5/30703385_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637550556541030000/reb44/medres/5/30703385_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637550556541030000/reb44/lowres/5/30703385_1.jpg",
+          "LastUpdated": "2021-04-26 5:40:54 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "None"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,700,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "None",
+      "PriceUnformattedValue": "1700000"
+    },
+    "Land": {
+      "SizeTotal": "24.89 ac|10 - 24.99 acres",
+      "SizeFrontage": "992 ft"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "13 + 0",
+      "SizeInterior": "5360.0000",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "22434234",
     "MlsNumber": "40028565",
     "Property": {
@@ -46,60 +96,6 @@
       "StoriesTotal": "1",
       "Type": "House",
       "UnitTotal": "1"
-    }
-  },
-  {
-    "Id": "22606085",
-    "MlsNumber": "40045941",
-    "Property": {
-      "Price": "$1,999,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "7 WYLDEWOOD Court|Scugog, Ontario L9L2B4",
-        "Longitude": "-79.03341608",
-        "Latitude": "44.03158359",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637437090686330000/reb46/highres/1/40045941_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637437090686330000/reb46/medres/1/40045941_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637437090686330000/reb46/lowres/1/40045941_1.jpg",
-          "LastUpdated": "2020-12-16 9:51:08 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Carport"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby",
-      "ConvertedPrice": "$1,999,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Carport",
-      "PriceUnformattedValue": "1999000"
-    },
-    "Land": {
-      "SizeTotal": "1066 ac|1/2 - 1.99 acres",
-      "SizeFrontage": "146 ft",
-      "AccessType": "Road access"
-    },
-    "Building": {
-      "BathroomTotal": "0",
-      "Bedrooms": "5 + 0",
-      "SizeInterior": "7300.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "2"
     }
   },
   {
@@ -1932,6 +1928,53 @@
       "BathroomTotal": "4",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23117608",
+    "MlsNumber": "X5208802",
+    "Property": {
+      "Price": "$1,399,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "507506 HIGHWAY 89 RD|Mono, Ontario L9V1J4",
+        "Longitude": "-80.0978051",
+        "Latitude": "44.0994064",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637550411387130000/reb86/highres/2/x5208802_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637550411387130000/reb86/medres/2/x5208802_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637550411387130000/reb86/lowres/2/x5208802_1.jpg",
+          "LastUpdated": "2021-04-26 1:38:58 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "9",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,399,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1399000"
+    },
+    "Land": {
+      "SizeTotal": "401.24 x 574.57 FT   ; Irregular As Per Deed|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   }
