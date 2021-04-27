@@ -332,139 +332,6 @@
     "RelativeURLFr": "/immobilier/20185869/5826-first-line-erin"
   },
   {
-    "Id": "22434234",
-    "MlsNumber": "40028565",
-    "PublicRemarks": "Prestigious Scenic Drive address! Breathtaking views of the land are just a part of a daily life here at 347 Scenic Drive.  This 4 bedrooms and 3 bathrooms home with attached double car garage and 30.95 acres of land has been in the same family for over 3 decades. Lovingly maintained by the current owners this beautiful country home offers plenty of room and possibilities for families and investors alike. Main level features kitchen, living and dining room, den, three good sized bedrooms, family room with wood burning fireplace and main bath.  Lower level has oversized rec room with wood burning fireplace, two kitchens, living room, bedroom and two baths.  Basement with two separate entrances offers in law suite potential. In addition to the house there is a large storage barn and a shed with cellar on the property. Drilled well feeds the water to the house. Centrally located only minutes to Brantford, Paris and Cambridge and Hwy 403. Country living at it's best with conveniences of the city nearby.  Book your private tour of this property today! (62462799)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House",
-      "UnitTotal": "1"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1987965,
-        "Name": "Monika Lipa",
-        "Organization": {
-          "OrganizationID": 287105,
-          "Name": "Century 21 Heritage House LTD",
-          "Address": {
-            "AddressText": "625 Park Road North Unit #5|Brantford, Ontario N3T5L8",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "758-2121",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "752-2100",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "466738588"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/287105/century-21-heritage-house-ltd-625-park-road-north-unit-5-brantford-ontario-n3t5l8",
-          "PhotoLastupdate": "2021-04-12 11:33:43 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "770-8945",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.monikalipa.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456761770"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636561908400000000/lowres/1272176.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Monika",
-        "LastName": "Lipa",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1987965/monika-lipa-625-park-road-north-unit-5-brantford-ontario-n3t5l8",
-        "AgentPhotoLastUpdated": "2018-03-09 11:14:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636561908400000000/highres/1272176.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,799,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "347 SCENIC Drive|St. George, Ontario N0E1N0",
-        "Longitude": "-80.30125473",
-        "Latitude": "43.25101094",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540848994330000/reb41/highres/5/40028565_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540848994330000/reb41/medres/5/40028565_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540848994330000/reb41/lowres/5/40028565_1.jpg",
-          "LastUpdated": "2021-04-15 12:01:39 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Park, Place of Worship",
-      "ConvertedPrice": "$1,799,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1799000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "30.95 ac|25 - 50 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://vimeo.com/463870690"
-    },
-    "PostalCode": "N0E1N0",
-    "RelativeDetailsURL": "/real-estate/22434234/347-scenic-drive-st-george",
-    "StatusId": "1",
-    "PriceChangeDateUTC": "2021-01-28 6:25:50 PM",
-    "PhotoChangeDateUTC": "2021-04-15 4:01:41 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22434234/347-scenic-drive-st-george",
-    "RelativeURLFr": "/immobilier/22434234/347-scenic-drive-st-george"
-  },
-  {
     "Id": "22799387",
     "MlsNumber": "40064051",
     "PublicRemarks": "Highly sought-after and extremely hard to find, this bungalow is guaranteed to impress any buyer who appreciates spacious and peaceful living. There are 7 picturesque acres to enjoy along with glorious views over the neighbouring forest. The layout is spread over 1,834sqft and offers three large bedrooms, a formal dining room with built-ins plus a lower level with a unique wine cellar, a games room and a spacious family room with a gas stove. In the heart of the home sits the open-plan kitchen and family room. Prepare delicious meals in this gourmet space complete with gorgeous cabinetry and an island while relaxing in the family room will be a pleasure thanks to the gas fireplace and soaring vaulted ceiling. Love to host guests? You will adore the sun-soaked raised deck along with the two-tiered patio that looks over the glistening Malibu in-ground pool and picturesque property. Extra features include a master bedroom ensuite and fireplace, a lower-level laundry plus theres also a two-car garage. This idyllic home is in a family-friendly community within Niagara-On-The-Lake and is less than 10 minutes from the centre of town. (62863438)",
@@ -1034,7 +901,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/274478/coldwell-banker-ronan-realty-brokerage-367-a-victoria-street-east-alliston-ontario-l9r1j7",
-          "PhotoLastupdate": "2021-04-22 8:06:53 AM"
+          "PhotoLastupdate": "2021-04-27 9:14:59 AM"
         },
         "Phones": [
           {
@@ -1683,337 +1550,6 @@
     "RelativeURLFr": "/immobilier/23112488/6602-gore-road-puslinch"
   },
   {
-    "Id": "23087384",
-    "MlsNumber": "E5200111",
-    "PublicRemarks": "Built In 1887 This Charming Century Home On 24.6 Acres With Pond Awaits You. 5 Minutes To Claremont,10 Minutes To Hwy 407. Two Barns With 9 Horse Stalls  4 Electric Paddocks. A 21X17 Ft Greenhouse To Grow Your Own Herbs & Veg, Large Country Kitchen, Oversized Great Room With Vaulted Ceiling Leading To A Covered Porch With Panoramic Views Of The Gardens And Pond.  Low Property Taxes(Horses)*Discover The Possibilities Of This Outstanding Property!**** EXTRAS **** 3 Box Stalls Were Rented Out For 1500 Per Month Approx. (28287495)",
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1687074,
-        "Name": "MALCOLM READER",
-        "Organization": {
-          "OrganizationID": 286495,
-          "Name": "RE/MAX WEST REALTY INC.",
-          "Address": {
-            "PermitShowAddress": false,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "233-7656",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "233-7657",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/286495/remax-west-realty-inc-31-baldwin-st-6-whitby-ontario-l1m0a7",
-          "PhotoLastupdate": "2021-04-20 8:09:33 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "893-2179",
-            "AreaCode": "647",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.betterlook.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455742643"
-          }
-        ],
-        "Position": "Salesperson",
-        "DesignationCodes": "SRES",
-        "PermitFreetextEmail": true,
-        "FirstName": "MALCOLM",
-        "LastName": "READER",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1687074/malcolm-reader",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1901719,
-        "Name": "SHELLEY ST. ONGE",
-        "Organization": {
-          "OrganizationID": 286495,
-          "Name": "RE/MAX WEST REALTY INC.",
-          "Address": {
-            "AddressText": "31 BALDWIN ST #6|WHITBY, Ontario L1M0A7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "233-7656",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "233-7657",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/286495/remax-west-realty-inc-31-baldwin-st-6-whitby-ontario-l1m0a7",
-          "PhotoLastupdate": "2021-04-20 8:09:33 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "903-8210",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Toll Free",
-            "PhoneNumber": "903-8210",
-            "AreaCode": "905",
-            "PhoneTypeId": "5"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.betterlook.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455920394"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636669116400000000/lowres/1217729.jpg",
-        "Position": "Broker",
-        "DesignationCodes": "ABR SRES",
-        "PermitFreetextEmail": true,
-        "FirstName": "SHELLEY",
-        "LastName": "ST. ONGE",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1901719/shelley-st-onge-31-baldwin-st-6-whitby-ontario-l1m0a7",
-        "AgentPhotoLastUpdated": "2018-07-11 13:14:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636669116400000000/highres/1217729.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,699,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "2605 NINTH CONCESSION RD|Pickering, Ontario L1Y1A4",
-        "Longitude": "-79.0852944671898",
-        "Latitude": "43.9826008341228",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637544378151170000/reb82/highres/1/e5200111_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637544378151170000/reb82/medres/1/e5200111_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637544378151170000/reb82/lowres/1/e5200111_1.jpg",
-          "LastUpdated": "2021-04-19 2:03:35 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,699,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1699000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "554 x 1538 FT   ; 24.646 Acres As Per Geowarehouse|25 - 50 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youtu.be/Boqk7bwlcQ0"
-    },
-    "PostalCode": "L1Y1A4",
-    "RelativeDetailsURL": "/real-estate/23087384/2605-ninth-concession-rd-pickering-rural-pickering",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-19 6:03:35 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23087384/2605-ninth-concession-rd-pickering-rural-pickering",
-    "RelativeURLFr": "/immobilier/23087384/2605-ninth-concession-rd-pickering"
-  },
-  {
-    "Id": "23104400",
-    "MlsNumber": "E5204751",
-    "PublicRemarks": "Click On Virtual Tour To Walk Through This Home. Click On Realtor's Link For Floor Plans & Feature Sheet. See Attached For List Of Upgrades. Incredibly Amazing 11.77 Acres Of Picturesque Horse Farm, Like A Private Retreat At The End Of A Quiet Cul-De-Sac W/ Priceless Scenic Views & A Large Private 15 Ft Deep Pond Just North Of Brooklin In Rural Whitby. From Hwy#12 To Townline Rd, East To Garrard, South To The End Of The Street.**** EXTRAS **** This Renovated Ranch Bungalow Features 3+1 Br, 3 Bath, Upgraded Custom Kitchen, Detached 20X30 Grg & Barn W/ 3 Stalls. Deck Views Are Breathtaking Overlooking Ridges & The Lake. Geothermal Heating, Aircon(30,000) System. (28309151)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1850340,
-        "Name": "SHAWN LEPP",
-        "Organization": {
-          "OrganizationID": 279039,
-          "Name": "KELLER WILLIAMS ENERGY LEPP GROUP REAL ESTATE",
-          "Address": {
-            "PermitShowAddress": false,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "428-8100",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "637-2317",
-              "AreaCode": "416",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414884370"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.shawnlepp.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/279039/keller-williams-energy-lepp-group-real-estate-111-byron-street-south-whitby-ontario-l1n4p5",
-          "PhotoLastupdate": "2021-04-25 1:38:55 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "428-8100",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.ShawnLepp.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "458068281"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1850340.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "SHAWN",
-        "LastName": "LEPP",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1850340/shawn-lepp",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1850340.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,300,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "9680 GARRARD RD|Whitby, Ontario L9L1B3",
-        "Longitude": "-78.9617462193904",
-        "Latitude": "44.0228279405246",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637546956459800000/reb88/highres/1/e5204751_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637546956459800000/reb88/medres/1/e5204751_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637546956459800000/reb88/lowres/1/e5204751_1.jpg",
-          "LastUpdated": "2021-04-22 1:40:45 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "9",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,300,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1300000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "677.2 x 721.1 FT   ; Irregular As Per Geo  11.77 Acres|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "BrochureLink": "http://crm.agentlocator.ca/UserFiles/744/files/Shawn%20Lepp-%209680%20Garrard%20Feature%20Booklet.pdf",
-      "DetailsLink": "http://www.shawnlepp.com/idx/E5204751/Whitby/9680-garrard-rd.html",
-      "VideoLink": "https://my.matterport.com/show/?m=pkJpriUQmSW&mls=1"
-    },
-    "PostalCode": "L9L1B3",
-    "RelativeDetailsURL": "/real-estate/23104400/9680-garrard-rd-whitby-rural-whitby",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-22 5:40:45 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23104400/9680-garrard-rd-whitby-rural-whitby",
-    "RelativeURLFr": "/immobilier/23104400/9680-garrard-rd-whitby"
-  },
-  {
     "Id": "23019215",
     "MlsNumber": "H4102535",
     "PublicRemarks": "Huge property for sale in great location. This home has lots of living space throughout. 3 total bedrooms, including one on the main floor. Large family room on the upper level. Master bedroom w/ walkout balcony facing Niagara Escarpment. Partially finished basement w/ fireplace. 2 car detached garage w/ ample parking. Backs onto greenspace. Large detached barn w/ separate entrance. Close to schools, parks, trails, major amenities & Hwy access. (27121750)",
@@ -2144,7 +1680,7 @@
   {
     "Id": "23043720",
     "MlsNumber": "H4103191",
-    "PublicRemarks": "Welcome Home to 10.06 Acres of treed privacy. Surrounded by large pines this is the perfect hobby farm for the horse lover or anyone searching for solitude within 45 minutes of Toronto Airport. Paddocks, Pasture, Insulated Workshop, Barn with 2 custom stalls and room for tac. Goat barn, raised vegetable garden, 1 km of groomed trail. The 3 bedroom house has been renovated in Practical Luxury with a Chef's Kitchen including Premium Appliances, butcher block counter, skylight, pot-light, Italian faucets, a beautiful Copper Sink, and Custom Banquette with tons of storage. (27146911)",
+    "PublicRemarks": "Welcome Home to 10.06 Acres of treed privacy. Surrounded by large pines this is the perfect hobby farm for the horse lover or anyone searching for solitude within 45 minutes of Toronto Airport. Paddocks, Pasture, Insulated Workshop, Barn with 2 custom horse stalls and room for tac. Storage shed, raised vegetable garden, 1 km of groomed trail. The 3 bedroom house has been renovated in Practical Luxury with a Chef's Kitchen including Premium Appliances, butcher block counter, skylight, pot-light, Italian faucets, a beautiful Copper Sink, and Custom Banquette with tons of storage. Only 4km to mono cliffs park with hundred of acres of trail, walking distance to Mrs Mitchels fine dining. 15 km to Orangeville. 10 minutes to Shelburne, 15 minutes to Alliston. (27146911)",
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3",
@@ -2176,7 +1712,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/284639/remax-escarpment-realty-inc-502-brant-street-unit-1a-burlington-ontario-l7r2g4",
-          "PhotoLastupdate": "2021-04-21 6:15:46 PM"
+          "PhotoLastupdate": "2021-04-26 9:05:55 PM"
         },
         "Phones": [
           {
@@ -2371,152 +1907,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23057444/497-52-highway-ancaster",
     "RelativeURLFr": "/immobilier/23057444/497-52-highway-ancaster"
-  },
-  {
-    "Id": "23068060",
-    "MlsNumber": "H4103772",
-    "PublicRemarks": "Rare opportunity with 19.77 acres in the quiet peaceful neighborhood of Sulphur Springs. The house sits perched on a hill with a breathtaking view. Close to Dundas and nestled into the countryside, this lush wood area is home to many trails, streams, and waterfalls. (27171832)",
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "3",
-      "SizeExterior": "1540 sqft",
-      "SizeInterior": "1540 sqft",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2061846,
-        "Name": "Donald Porter",
-        "Organization": {
-          "OrganizationID": 262664,
-          "Name": "RE/MAX Escarpment Realty Inc",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637546256250000000/lowres/default/remaxoa.gif",
-          "Address": {
-            "AddressText": "#101-325 Winterberry Drive|Stoney Creek, Ontario L8J0B6",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "573-1188",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "573-1189",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463978945"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/262664/remax-escarpment-realty-inc-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
-          "PhotoLastupdate": "2021-04-21 6:13:45 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "730-6872",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "573-1189",
-            "AreaCode": "905",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "HTTP://porterassoc.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "453410889"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637008773400000000/lowres/1336875.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "Donald",
-        "LastName": "Porter",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2061846/donald-porter-101-325-winterberry-drive-stoney-creek-ontario-l8j0b6",
-        "AgentPhotoLastUpdated": "2019-08-08 16:09:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637008773400000000/highres/1336875.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$998,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1296 MINERAL SPRINGS Road|Ancaster, Ontario L9H5E3",
-        "Longitude": "-80.024833",
-        "Latitude": "43.238189",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637544382434530000/reb14/highres/2/h4103772_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637544382434530000/reb14/medres/2/h4103772_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637544382434530000/reb14/lowres/2/h4103772_1.jpg",
-          "LastUpdated": "2021-04-19 2:10:43 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Gravel"
-        },
-        {
-          "Name": "Inside Entry"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$998,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Gravel, Inside Entry",
-      "PriceUnformattedValue": "998000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "19.766 ACRES|10 - 24.99 acres",
-      "SizeFrontage": "697 ft",
-      "AccessType": "River access"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youtu.be/funLm1O0Dvk"
-    },
-    "PostalCode": "L9H5E3",
-    "RelativeDetailsURL": "/real-estate/23068060/1296-mineral-springs-road-ancaster",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-19 6:10:44 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23068060/1296-mineral-springs-road-ancaster",
-    "RelativeURLFr": "/immobilier/23068060/1296-mineral-springs-road-ancaster"
   },
   {
     "Id": "22765943",
@@ -4023,7 +3413,7 @@
         "Organization": {
           "OrganizationID": 117743,
           "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637547010190000000/lowres/1168329.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637551290110000000/lowres/1168329.jpg",
           "Address": {
             "AddressText": "367 VICTORIA STREET EAST|ALLISTON, Ontario L9R1J7",
             "PermitShowAddress": true,
@@ -4048,7 +3438,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/117743/coldwell-banker-ronan-realty-367-victoria-street-east-alliston-ontario-l9r1j7",
-          "PhotoLastupdate": "2021-04-22 3:10:19 PM"
+          "PhotoLastupdate": "2021-04-27 2:03:31 PM"
         },
         "Phones": [
           {
@@ -5413,262 +4803,6 @@
     "RelativeURLFr": "/immobilier/23022148/386106-20-sdrd-mono"
   },
   {
-    "Id": "23068278",
-    "MlsNumber": "X5194140",
-    "PublicRemarks": "Perfect Setting, Perfect Home Situated On 10.17 Acres Of Tree-Lined Conservation With Trails & A Pond. Turn-Key Equestrian Hobby Farm Nicely Set Back From Paved Road. Spacious 4 Bedroom 2650 Sqft With A Main Floor Office Overlooking The Greenspace. Large Back Deck With Views Of Sunsets & Wildlife. Extensively Renovated Property With A Long List Of Improvements. Kitchen, Roof, Windows, Siding, Water Softener, Deck, To Name A Few, Have All Been Replaced.**** EXTRAS **** Impressive 4 Stall Barn Built In 2015 W/ Tack Room, Wash Stall, Hay Storage, Loft, Hot Water Tank & Heated Water Lines. 3 Fenced Paddocks, 12X24 Workshop, Small Sand Ring. Ideal For Horse Lovers. Maple Trees On Property. Geothermal Heating. (28262418)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1619212,
-        "Name": "TRISH MILLS",
-        "Organization": {
-          "OrganizationID": 51498,
-          "Name": "RE/MAX REALTY SERVICES INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637546091660000000/lowres/1124039.jpg",
-          "Address": {
-            "AddressText": "295 QUEEN ST E, SUITE B|BRAMPTON, Ontario L6W3R1",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "456-1000",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "456-8116",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/51498/remax-realty-services-inc-295-queen-st-e-suite-b-brampton-ontario-l6w3r1",
-          "PhotoLastupdate": "2021-04-21 1:39:26 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "659-6060",
-            "AreaCode": "416",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455651800"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637339822200000000/lowres/1160457.jpg",
-        "Position": "Salesperson",
-        "DesignationCodes": "SRES",
-        "PermitFreetextEmail": true,
-        "FirstName": "TRISH",
-        "LastName": "MILLS",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1619212/trish-mills-295-queen-st-e-suite-b-brampton-ontario-l6w3r1",
-        "AgentPhotoLastUpdated": "2020-08-25 19:57:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637339822200000000/highres/1160457.jpg",
-        "RankMyAgentKey": "73772",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,885,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5670 SECOND LINE|Erin, Ontario L0N1N0",
-        "Longitude": "-80.1705672",
-        "Latitude": "43.7229576",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540186934200000/reb86/highres/0/x5194140_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540186934200000/reb86/medres/0/x5194140_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540186934200000/reb86/lowres/0/x5194140_1.jpg",
-          "LastUpdated": "2021-04-14 5:38:13 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,885,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1885000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "200 x 2222 FT   ; 2,222.59 Ft X 200.27 Ft X 2,222.01 Ft|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://tours.virtualgta.com/1696278?idx=1"
-    },
-    "PostalCode": "L0N1N0",
-    "RelativeDetailsURL": "/real-estate/23068278/5670-second-line-erin-rural-erin",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-14 9:38:13 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23068278/5670-second-line-erin-rural-erin",
-    "RelativeURLFr": "/immobilier/23068278/5670-second-line-erin"
-  },
-  {
-    "Id": "23073766",
-    "MlsNumber": "X5195450",
-    "PublicRemarks": "Rare Opportunity With 19.77 Acres In The Quiet Peaceful Neighbrhd Of Sulpher Springs. The House Sits Perched On A Hill With Breathtaking Views. Close To Dundas & Nestled Into The Countryside, This Lush Wood Area Is Home To Many Trails, Streams & Waterfalls. Rsa. Sold \"\"As Is, Where Is\"\".**** EXTRAS **** Rental: None. (28269216)",
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1413922,
-        "Name": "CONRAD GUY ZURINI",
-        "Organization": {
-          "OrganizationID": 266588,
-          "Name": "RE/MAX ESCARPMENT REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637544522290000000/lowres/default/remaxoa.gif",
-          "Address": {
-            "AddressText": "2180 ITABASHI WAY #4B|BURLINGTON, Ontario L7M5A5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "639-3044",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "681-9908",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414881751"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.remaxescarpment.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/266588/remax-escarpment-realty-inc-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
-          "PhotoLastupdate": "2021-04-19 6:03:49 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "639-3044",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "https://www.remaxescarpment.com/",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455707696"
-          }
-        ],
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "CONRAD GUY",
-        "LastName": "ZURINI",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1413922/conrad-guy-zurini-2180-itabashi-way-4b-burlington-ontario-l7m5a5",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$998,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1296 MINERAL SPRINGS RD|Hamilton, Ontario L9H5E3",
-        "Longitude": "-80.0250005",
-        "Latitude": "43.2381902",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637544398225330000/reb82/highres/0/x5195450_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637544398225330000/reb82/medres/0/x5195450_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637544398225330000/reb82/lowres/0/x5195450_1.jpg",
-          "LastUpdated": "2021-04-19 2:37:02 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$998,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "998000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "697.9 x 1272.7 FT|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://youtu.be/LMv3XG4E7wI"
-    },
-    "PostalCode": "L9H5E3",
-    "RelativeDetailsURL": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-19 6:37:02 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23073766/1296-mineral-springs-rd-hamilton-ancaster",
-    "RelativeURLFr": "/immobilier/23073766/1296-mineral-springs-rd-hamilton"
-  },
-  {
     "Id": "23087837",
     "MlsNumber": "X5200034",
     "PublicRemarks": "Situated On Over 8 Acres Of Land In The Picturesque Setting Of Ancaster Off Highway 52, This Gorgeous 2 Level Home Offers A Stunning Interior Design From Top To Bottom. The Gourmet Kitchen Boasts Custom Cabinetry And Stunning Marble With Stainless Steel Appliances. Upper Level Features 3 Bedrooms, 2 Baths. Custom Closet Organizers In All Rooms And A Walk In Closet With W&D In Mbdrm. Insulated 3 Car Garage. Rsa**** EXTRAS **** Incl: Fridge, Washer, Dryer, Stove, Dishwasher, High Efficiency Furnace, Microwave. Rental: Hot Water Heater. (28287871)",
@@ -6165,5 +5299,127 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23117608/507506-highway-89-rd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23117608/507506-highway-89-rd-mono"
+  },
+  {
+    "Id": "23124796",
+    "MlsNumber": "X5210802",
+    "PublicRemarks": "Perfect Setting, Perfect Home Situated On 10.17 Acres With Trails & A Pond. Turn-Key Equestrian Hobby Farm Nicely Set Back From Paved Road. Spacious 4 Bedroom 2650 Sqft With A Main Floor Office Overlooking The Greenspace. Large Back Deck With Views Of Sunsets & Wildlife. Extensively Renovated Property With A Long List Of Improvements. Kitchen, Roof, Windows, Siding, Water Softener, Deck, To Name A Few, Have All Been Replaced. Brand New Washer & Dryer.**** EXTRAS **** Impressive 4 Stall Barn Built In 2015 W/ Tack Room, Wash Stall, Hay Storage, Loft, Hot Water Tank & Heated Water Lines. 3 Fenced Paddocks, 12X24 Workshop, Small Sand Ring. Ideal For Horse Lovers. Maple Trees On Property. Geothermal Heating. (28335598)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1619212,
+        "Name": "TRISH MILLS",
+        "Organization": {
+          "OrganizationID": 51498,
+          "Name": "RE/MAX REALTY SERVICES INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637551419050000000/lowres/1124039.jpg",
+          "Address": {
+            "AddressText": "295 QUEEN ST E, SUITE B|BRAMPTON, Ontario L6W3R1",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "456-1000",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "456-8116",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51498/remax-realty-services-inc-295-queen-st-e-suite-b-brampton-ontario-l6w3r1",
+          "PhotoLastupdate": "2021-04-27 5:38:25 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "659-6060",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455651800"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637339822200000000/lowres/1160457.jpg",
+        "Position": "Salesperson",
+        "DesignationCodes": "SRES",
+        "PermitFreetextEmail": true,
+        "FirstName": "TRISH",
+        "LastName": "MILLS",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1619212/trish-mills-295-queen-st-e-suite-b-brampton-ontario-l6w3r1",
+        "AgentPhotoLastUpdated": "2020-08-25 19:57:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637339822200000000/highres/1160457.jpg",
+        "RankMyAgentKey": "73772",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,799,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5670 SECOND LINE|Erin, Ontario L0N1N0",
+        "Longitude": "-80.1705672",
+        "Latitude": "43.7229576",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637551419051170000/reb86/highres/2/x5210802_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637551419051170000/reb86/medres/2/x5210802_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637551419051170000/reb86/lowres/2/x5210802_1.jpg",
+          "LastUpdated": "2021-04-27 5:38:25 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,799,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "200 x 2222 FT   ; 2,222.59 Ft X 200.27 Ft X 2,222.01 Ft|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://tours.virtualgta.com/1696278?idx=1"
+    },
+    "PostalCode": "L0N1N0",
+    "RelativeDetailsURL": "/real-estate/23124796/5670-second-line-erin-rural-erin",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-27 9:38:25 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23124796/5670-second-line-erin-rural-erin",
+    "RelativeURLFr": "/immobilier/23124796/5670-second-line-erin"
   }
 ]
