@@ -354,7 +354,7 @@
     "Id": "23109392",
     "MlsNumber": "40102367",
     "Property": {
-      "Price": "$949,000",
+      "Price": "$1,159,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "142 PLEASANT Avenue|Dundas, Ontario L9H3V1",
@@ -380,12 +380,12 @@
       "TypeId": "300",
       "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Public Transit, Schools, Shopping",
-      "ConvertedPrice": "$949,000 ",
+      "ConvertedPrice": "$1,159,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Carport",
-      "PriceUnformattedValue": "949000"
+      "PriceUnformattedValue": "1159000"
     },
     "Land": {
       "SizeTotal": "14 ac|under 1/2 acre",
@@ -446,6 +446,57 @@
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "23127856",
+    "MlsNumber": "40104047",
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "24791 KENNEDY Road|Georgina, Ontario L0E1R0",
+        "Longitude": "-79.39832882",
+        "Latitude": "44.25903264",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552099529870000/reb31/highres/7/40104047_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552099529870000/reb31/medres/7/40104047_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552099529870000/reb31/lowres/7/40104047_1.jpg",
+          "LastUpdated": "2021-04-28 12:32:32 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "30",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Land": {
+      "SizeTotal": "130 ac|101+ acres",
+      "SizeFrontage": "1292 ft",
+      "AccessType": "Highway access, Highway Nearby"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "2535.0000",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "2"
     }
   },
   {
@@ -929,54 +980,6 @@
     }
   },
   {
-    "Id": "23077029",
-    "MlsNumber": "N5196734",
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "750 REGIONAL RD 13 RD|Uxbridge, Ontario L9P1R2",
-        "Longitude": "-79.1495808051575",
-        "Latitude": "44.2077474257251",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/highres/4/n5196734_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/medres/4/n5196734_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/lowres/4/n5196734_1.jpg",
-          "LastUpdated": "2021-04-16 8:16:11 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "14",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Hospital",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Land": {
-      "SizeTotal": "700 x 660 FT   ; Irregular 10 Acres|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23079887",
     "MlsNumber": "N5197660",
     "Property": {
@@ -1163,6 +1166,147 @@
       "BathroomTotal": "3",
       "Bedrooms": "4",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23128941",
+    "MlsNumber": "N5211760",
+    "Property": {
+      "Price": "$1,299,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "181 SANDFORD RD|Uxbridge, Ontario L0G1M0",
+        "Longitude": "-79.261951",
+        "Latitude": "44.1237949",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552160153300000/reb82/highres/0/n5211760_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552160153300000/reb82/medres/0/n5211760_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552160153300000/reb82/lowres/0/n5211760_1.jpg",
+          "LastUpdated": "2021-04-28 2:13:35 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,299,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1299900"
+    },
+    "Land": {
+      "SizeTotal": "815.28 x 1337.4 FT   ; Irreg. 25.02 Acres|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23128977",
+    "MlsNumber": "N5212037",
+    "Property": {
+      "Price": "$1,830,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "16671 HIGHWAY 48|Whitchurch-Stouffville, Ontario L4A3M4",
+        "Longitude": "-79.3054198884099",
+        "Latitude": "44.0747558752968",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552160236830000/reb82/highres/7/n5212037_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552160236830000/reb82/medres/7/n5212037_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552160236830000/reb82/lowres/7/n5212037_1.jpg",
+          "LastUpdated": "2021-04-28 2:13:43 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "15",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,830,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1830000"
+    },
+    "Land": {
+      "SizeTotal": "274.22 x 858.74 FT   ; 5.31 Acres|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4 + 2",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23128989",
+    "MlsNumber": "N5212133",
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "24791 KENNEDY RD|Georgina, Ontario L0E1R0",
+        "Longitude": "-79.3944879",
+        "Latitude": "44.2598872",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552227661470000/reb82/highres/3/n5212133_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552227661470000/reb82/medres/3/n5212133_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552227661470000/reb82/lowres/3/n5212133_1.jpg",
+          "LastUpdated": "2021-04-28 4:06:06 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "40",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Land": {
+      "SizeTotal": "1292.33 x 4176.8 FT   ; Irregular Lot Size|100+ acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   },
@@ -1370,10 +1514,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/highres/3/x5133823_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/medres/3/x5133823_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/lowres/3/x5133823_1.jpg",
-          "LastUpdated": "2021-03-02 7:20:57 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552280141900000/reb82/highres/3/x5133823_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552280141900000/reb82/medres/3/x5133823_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552280141900000/reb82/lowres/3/x5133823_1.jpg",
+          "LastUpdated": "2021-04-28 5:33:34 PM"
         }
       ],
       "Parking": [
@@ -1606,10 +1750,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637548011235770000/reb82/highres/7/x5206027_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637548011235770000/reb82/medres/7/x5206027_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637548011235770000/reb82/lowres/7/x5206027_1.jpg",
-          "LastUpdated": "2021-04-23 6:58:43 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552256463000000/reb82/highres/7/x5206027_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552256463000000/reb82/medres/7/x5206027_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552256463000000/reb82/lowres/7/x5206027_1.jpg",
+          "LastUpdated": "2021-04-28 4:54:06 PM"
         }
       ],
       "Parking": [
@@ -1680,6 +1824,53 @@
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23120154",
+    "MlsNumber": "X5209566",
+    "Property": {
+      "Price": "$1,995,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "521 CAMPBELLVILLE RD|Hamilton, Ontario L0P1B0",
+        "Longitude": "-80.0192234",
+        "Latitude": "43.4525912",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637550590588670000/reb82/highres/6/x5209566_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637550590588670000/reb82/medres/6/x5209566_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637550590588670000/reb82/lowres/6/x5209566_1.jpg",
+          "LastUpdated": "2021-04-26 6:37:38 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,995,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1995000"
+    },
+    "Land": {
+      "SizeTotal": "251.92 x 1333.3 FT   ; M/L Irregular|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
       "StoriesTotal": "2",
       "Type": "House"
     }

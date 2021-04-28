@@ -326,7 +326,6 @@
     "RelativeDetailsURL": "/real-estate/20185869/5826-first-line-erin",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-26 9:41:04 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/20185869/5826-first-line-erin",
     "RelativeURLFr": "/immobilier/20185869/5826-first-line-erin"
@@ -1283,7 +1282,7 @@
         "Organization": {
           "OrganizationID": 47632,
           "Name": "Royal LePage Real Estate Services Ltd., Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637548008440000000/lowres/1001102.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637551583810000000/lowres/1001102.jpg",
           "Address": {
             "AddressText": "251 North Service Road West|Oakville, Ontario L6M3E7",
             "PermitShowAddress": true,
@@ -1307,7 +1306,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/47632/royal-lepage-real-estate-services-ltd-brokerage-251-north-service-road-west-oakville-ontario-l6m3e7",
-          "PhotoLastupdate": "2021-04-23 6:54:04 PM"
+          "PhotoLastupdate": "2021-04-27 10:13:01 PM"
         },
         "Phones": [
           {
@@ -1358,7 +1357,7 @@
       }
     ],
     "Property": {
-      "Price": "$949,000",
+      "Price": "$1,159,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "142 PLEASANT Avenue|Dundas, Ontario L9H3V1",
@@ -1384,12 +1383,12 @@
       "TypeId": "300",
       "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Public Transit, Schools, Shopping",
-      "ConvertedPrice": "$949,000 ",
+      "ConvertedPrice": "$1,159,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Carport",
-      "PriceUnformattedValue": "949000"
+      "PriceUnformattedValue": "1159000"
     },
     "Business": {},
     "Land": {
@@ -1403,6 +1402,8 @@
     "PostalCode": "L9H3V1",
     "RelativeDetailsURL": "/real-estate/23109392/142-pleasant-avenue-dundas",
     "StatusId": "1",
+    "PriceChangeDateUTC": "2021-04-28 2:15:20 AM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-04-23 9:11:23 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/23109392/142-pleasant-avenue-dundas",
@@ -1411,7 +1412,7 @@
   {
     "Id": "23112488",
     "MlsNumber": "40103106",
-    "PublicRemarks": "ESTATE LOT IN PUSLINCH! Build your dream rural oasis on this 42acre redevelopment site with the potential for a lot severance. Currently with a 2-storey home on the property in as is condition. The home is rented with 4 bedrooms and 2 bathrooms. Ideal for a buyer wishing to build. There is a heated detached shop with double doors (22x31ft) (propane radiant heater) for storage with a steel roof! This picturesque future rural retreat is located within 15 minutes of Guelph and Cambridge for all your amenities. Minutes from the Highway 401. Earn $2,100 per month rental income while you plan your development! (63215594)",
+    "PublicRemarks": "ESTATE LOT IN PUSLINCH! Build your dream rural oasis on this 42acre lot. Currently with a 2-storey home on the property in as is condition. The home is rented with 4 bedrooms and 2 bathrooms. Ideal for a buyer wishing to build. There is a heated detached shop with double doors (22x31ft) (propane radiant heater) for storage with a steel roof! This picturesque future rural retreat is located within 15 minutes of Guelph and Cambridge for all your amenities. Minutes from the Highway 401. Earn $2,100 per month rental income while you plan the perfect place to build your dream home! (63215594)",
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "4 + 0",
@@ -1455,7 +1456,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/285293/remax-twin-city-faisal-susiwala-realty-1400-bishop-st-n-cambridge-ontario-n1r6w8",
-          "PhotoLastupdate": "2021-04-23 5:55:26 PM"
+          "PhotoLastupdate": "2021-04-28 4:04:52 PM"
         },
         "Phones": [
           {
@@ -1548,6 +1549,209 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23112488/6602-gore-road-puslinch",
     "RelativeURLFr": "/immobilier/23112488/6602-gore-road-puslinch"
+  },
+  {
+    "Id": "23127856",
+    "MlsNumber": "40104047",
+    "PublicRemarks": "* A Super Property For Farm And/Or Investment * Century (Circa 1890) 2,500 Sq Ft Farmhouse Nestled Well In From The Road * On 130 Acres - Predominantly Flat * Much Of The Land Is Worked By The Current Tenant (Corn and Soya Beans) * Huge Drive Shed * Large Barn (Requiring Updating) * Strategically Located Property That Opens Itself To So Many Opportunities * Less Than One Hour Drive Down The 404 To Toronto *  5 Minute Drive To Lake Simcoe *** PLEASE DO NOT WALK THE PROPERTY WITHOUT AN APPOINTMENT *** (63231903)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "2535.0000",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "2"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2011319,
+        "Name": "ARTHUR PARKS",
+        "Organization": {
+          "OrganizationID": 280216,
+          "Name": "Chestnut Park Real Estate Limited, Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552351380000000/lowres/1310664.jpg",
+          "Address": {
+            "AddressText": "135 Queen Street, Unit 3, P. O. Box 1293|LAKEFIELD, Ontario K0L2H0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "652-5000",
+              "AreaCode": "705",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "925-3935",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463977285"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/280216/chestnut-park-real-estate-limited-brokerage-135-queen-street-unit-3-p-o-box-1293-lakefield-ontario-k0l2h0",
+          "PhotoLastupdate": "2021-04-28 7:32:18 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "484-8288",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "925-3935",
+            "AreaCode": "416",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.arthurparks.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455137157"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636553441200000000/lowres/1310660.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "ARTHUR",
+        "LastName": "PARKS",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2011319/arthur-parks-135-queen-street-unit-3-p-o-box-1293-lakefield-ontario-k0l2h0",
+        "AgentPhotoLastUpdated": "2018-02-27 16:02:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636553441200000000/highres/1310660.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2106534,
+        "Name": "MARY C. PARKS",
+        "Organization": {
+          "OrganizationID": 280216,
+          "Name": "Chestnut Park Real Estate Limited, Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552351380000000/lowres/1310664.jpg",
+          "Address": {
+            "AddressText": "135 Queen Street, Unit 3, P. O. Box 1293|LAKEFIELD, Ontario K0L2H0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "652-5000",
+              "AreaCode": "705",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "925-3935",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463977285"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/280216/chestnut-park-real-estate-limited-brokerage-135-queen-street-unit-3-p-o-box-1293-lakefield-ontario-k0l2h0",
+          "PhotoLastupdate": "2021-04-28 7:32:18 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "772-7726",
+            "AreaCode": "705",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "462637082"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "MARY C.",
+        "LastName": "PARKS",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2106534/mary-c-parks-135-queen-street-unit-3-p-o-box-1293-lakefield-ontario-k0l2h0",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "24791 KENNEDY Road|Georgina, Ontario L0E1R0",
+        "Longitude": "-79.39832882",
+        "Latitude": "44.25903264",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552099529870000/reb31/highres/7/40104047_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552099529870000/reb31/medres/7/40104047_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552099529870000/reb31/lowres/7/40104047_1.jpg",
+          "LastUpdated": "2021-04-28 12:32:32 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "30",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "130 ac|101+ acres",
+      "SizeFrontage": "1292 ft",
+      "AccessType": "Highway access, Highway Nearby"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youriguide.com/24791_kennedy_rd_georgina_on/"
+    },
+    "PostalCode": "L0E1R0",
+    "RelativeDetailsURL": "/real-estate/23127856/24791-kennedy-road-georgina",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-28 4:32:32 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23127856/24791-kennedy-road-georgina",
+    "RelativeURLFr": "/immobilier/23127856/24791-kennedy-road-georgina"
   },
   {
     "Id": "23019215",
@@ -2937,130 +3141,6 @@
     "RelativeURLFr": "/immobilier/23068625/525-woodchoppers-lane-king"
   },
   {
-    "Id": "23077029",
-    "MlsNumber": "N5196734",
-    "PublicRemarks": "At The End Of A Tree Lined Drive Nestled On A Private & Peaceful 10 Acre Lot Sits This Beautiful 2 Story Custom Home, 4 Years New Fabulous Wrap Around Porch, Pond, Multi Tiered Deck, Main Fl White Oak Hardwood Floors,  Propane Fireplace, Gorgeous Kitchen W/ Western View, Primary Bdrm W/ 5 Pc Ensuite, Walk In Closet & Laundry, Craftsman Moulding Thru Out, Mudroom W/ Porch Access, Sink And Pantry Area,  Paved Lit Driveway, Country Living At It's Finest**** EXTRAS **** Hot Tub, Gazebo, Black Organizing Unit Walk In Closet,Induction Range, Bi Double Oven, Bidw, Ss Fridge, Washer/Dryer, All Elf & Fans, All Sheds/Storage Tents,Generator, Wood Stove,Pond Fountain, Propane Tank Rental, Excl & Features Attached (28273763)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1878161,
-        "Name": "FRAN TAYLOR",
-        "Organization": {
-          "OrganizationID": 259470,
-          "Name": "RE/MAX ALL-STARS REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637542790480000000/lowres/259470.jpg",
-          "Address": {
-            "PermitShowAddress": false,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "852-6143",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "852-5696",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/259470/remax-all-stars-realty-inc-47-brock-street-west-uxbridge-ontario-l9p1n5",
-          "PhotoLastupdate": "2021-04-17 5:57:28 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "852-6143",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.frantaylor.ca",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455761065"
-          }
-        ],
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "FRAN",
-        "LastName": "TAYLOR",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1878161/fran-taylor",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "750 REGIONAL RD 13 RD|Uxbridge, Ontario L9P1R2",
-        "Longitude": "-79.1495808051575",
-        "Latitude": "44.2077474257251",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/highres/4/n5196734_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/medres/4/n5196734_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637541577710900000/reb82/lowres/4/n5196734_1.jpg",
-          "LastUpdated": "2021-04-16 8:16:11 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "14",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Hospital",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "700 x 660 FT   ; Irregular 10 Acres|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "SoundLink": "https://my.matterport.com/show/?m=UaWc6vrmH89&mls=1",
-      "VideoLink": "https://youtu.be/jNIWS6iEZ3A"
-    },
-    "PostalCode": "L9P1R2",
-    "RelativeDetailsURL": "/real-estate/23077029/750-regional-rd-13-rd-uxbridge-rural-uxbridge",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-16 12:16:11 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23077029/750-regional-rd-13-rd-uxbridge-rural-uxbridge",
-    "RelativeURLFr": "/immobilier/23077029/750-regional-rd-13-rd-uxbridge"
-  },
-  {
     "Id": "23079887",
     "MlsNumber": "N5197660",
     "PublicRemarks": "Attention To Builders & Investors, 6.6 Acre Land W/Pond!The Country Life-But Not Far Away! Spectacular Treed 6.6 Acre Country Estate W/ Pine Tree Fenced Font Yard, Manicured Lawns, Stream, Pond, Detached Garage & Large Storage Barn!!!  Modern Designed Bungalow W/2+1 Beds,2 Baths, 2 Kitchens & Finished Bsmt! Hdwd Fl, Smooth Ceiling & Potlights T/O, Kit W/ Centre Island & Breakfast Area.2 Mins Drive To Hwy 48, 8 Mins Drive To Hwy404 & Commercial Plaza & All!**** EXTRAS **** 2 Stoves, 2 Fridges, 2 Dishwasher, 2 Hood Fans, Microwave Oven. All Electrical Light Fixtures & Window Coverings. Lot Size 6.62 Acre As Per Attached Survey. (28277547)",
@@ -3535,7 +3615,7 @@
   {
     "Id": "23110650",
     "MlsNumber": "N5206594",
-    "PublicRemarks": "Ever Dream Of Living Among Gentle Rolling Hills, W/ Privacy And Space To Enjoy Trails, Nature & Serenity. This 10.5 Acre Estate Property Has Million Dollar Views & Stunning Sunsets. Spacious Home W/ Large Principle Rooms, Full Finished W/O, Plenty Of Parking & Approximately 5000 Sqft Of Fin. Space. Turn This Into Your Forever Home With Your Creativity And Designs. Vaulted Ceiling W/ Skylights, Fireplaces, 2nd Kitchen 400 Amp Service. Easy Commute To Toronto.**** EXTRAS **** Legal Description:  Pt Lt 7 Con 1 Tecumseth As In Ro802594 ; New Tecumseth           *Exclusions: Stairs To Loft And Wood Plank In Storage Utility Room. (28317244)",
+    "PublicRemarks": "Ever Dream Of Living Among Gentle Rolling Hills, W/ Privacy And Space To Enjoy Trails, Nature & Serenity. This 10.5 Acre Estate Property Has Million Dollar Views & Stunning Sunsets. Spacious Home W/ Large Principle Rooms, Full Finished W/O, Plenty Of Parking & Approximately 5000 Sqft Of Fin. Space. Turn This Into Your Forever Home With Your Creativity And Designs. Vaulted Ceiling W/ Skylights, Fireplaces, 2nd Kitchen 400 Amp Service. Easy Commute To Toronto.**** EXTRAS **** *Exclusions: Stairs To Loft And Wood Plank In Storage Utility Room. (28317244)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "4",
@@ -3573,7 +3653,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/285001/remax-real-estate-centre-inc-1140-burnhamthorpe-rd-w-141-a-mississauga-ontario-l5c4e9",
-          "PhotoLastupdate": "2021-04-23 2:26:46 PM"
+          "PhotoLastupdate": "2021-04-28 5:56:28 PM"
         },
         "Phones": [
           {
@@ -3664,6 +3744,534 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23110650/6443-2nd-line-new-tecumseth-rural-new-tecumseth",
     "RelativeURLFr": "/immobilier/23110650/6443-2nd-line-new-tecumseth"
+  },
+  {
+    "Id": "23128941",
+    "MlsNumber": "N5211760",
+    "PublicRemarks": "Fantastic 4 Bedroom Tudor Style Home On Private, Wooded 25 Acres With Quick Access To 404, Newmarket And Uxbridge. Enter The Property Up The Tree Lined Drive To Your Own Country Oasis With Fiberglass Pool(2017) And Entertaining Deck(2019).  Once Inside Enjoy The Natural Light That Pours Through The Bay And Oversize Windows.  Wood Burning Fireplace In The Sitting Room And Heated Flooring In The Updated Kitchen(2016) Will Keep You Cozy All Winter!**** EXTRAS **** Bamboo Engineered Floor(2016) & Tile Throughout The Main & New Carpet(2021) Thru The Second Floor. The Detached 20X30' Quonset(2018) Is Perfect For Storing Equipment & Toys! See Features List Attached. Propane(R) Excl: Freezer In Bsmt. (28340701)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1410142,
+        "Name": "CINDY WOOD",
+        "Organization": {
+          "OrganizationID": 259470,
+          "Name": "RE/MAX ALL-STARS REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552294000000000/lowres/259470.jpg",
+          "Address": {
+            "AddressText": "47 BROCK STREET WEST|UXBRIDGE, Ontario L9P1N5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "852-6143",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "852-5696",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/259470/remax-all-stars-realty-inc-47-brock-street-west-uxbridge-ontario-l9p1n5",
+          "PhotoLastupdate": "2021-04-28 5:56:40 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "852-6143",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.cindywood.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455705431"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1410142.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "CINDY",
+        "LastName": "WOOD",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1410142/cindy-wood-47-brock-street-west-uxbridge-ontario-l9p1n5",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1410142.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2091340,
+        "Name": "DANA MIDDLETON",
+        "Organization": {
+          "OrganizationID": 259470,
+          "Name": "RE/MAX ALL-STARS REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552294000000000/lowres/259470.jpg",
+          "Address": {
+            "AddressText": "47 BROCK STREET WEST|UXBRIDGE, Ontario L9P1N5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "852-6143",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "852-5696",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/259470/remax-all-stars-realty-inc-47-brock-street-west-uxbridge-ontario-l9p1n5",
+          "PhotoLastupdate": "2021-04-28 5:56:40 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "852-6143",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "461695651"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637268866800000000/lowres/1363908.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "DANA",
+        "LastName": "MIDDLETON",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2091340/dana-middleton-47-brock-street-west-uxbridge-ontario-l9p1n5",
+        "AgentPhotoLastUpdated": "2020-06-04 16:58:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637268866800000000/highres/1363908.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,299,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "181 SANDFORD RD|Uxbridge, Ontario L0G1M0",
+        "Longitude": "-79.261951",
+        "Latitude": "44.1237949",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552160153300000/reb82/highres/0/n5211760_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552160153300000/reb82/medres/0/n5211760_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552160153300000/reb82/lowres/0/n5211760_1.jpg",
+          "LastUpdated": "2021-04-28 2:13:35 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,299,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1299900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "815.28 x 1337.4 FT   ; Irreg. 25.02 Acres|25 - 50 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://my.matterport.com/show/?m=MeS2J3HyA7j&mls=1"
+    },
+    "PostalCode": "L0G1M0",
+    "RelativeDetailsURL": "/real-estate/23128941/181-sandford-rd-uxbridge-rural-uxbridge",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-28 6:13:35 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23128941/181-sandford-rd-uxbridge-rural-uxbridge",
+    "RelativeURLFr": "/immobilier/23128941/181-sandford-rd-uxbridge"
+  },
+  {
+    "Id": "23128977",
+    "MlsNumber": "N5212037",
+    "PublicRemarks": "Custom Built 3,132 Sq.Ft. Four Bedroom All Brick Home Recessed Among Tall Pines For A Tranquil & Private Setting On A 5.31 Acres Lushly Treed Lot. Detached Studio/Workshop With Hydro. Large Kennel With Fence. 3 Car Garage. Bright & Spacious Rooms. Spiral Oak Staircase. Finished Basement With 2 Bedrooms, Office, Rec Room, Games/Gym Area, Cellar, Above Grade Windows & Separate Entrance.**** EXTRAS **** Games/Gym Area 19.67'X13.42', Studio/Workshop 19.33'X15.17'. Fridge, Stove, Rangehood, B/I Dishwasher, Washer, Dryer, Central Vacuum & Equipment, All Electrical Light Fixtures & Window Coverings. (28341014)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4 + 2",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1486989,
+        "Name": "ADOLF FURTADO",
+        "Organization": {
+          "OrganizationID": 273193,
+          "Name": "RE/MAX COMMUNITY REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552160230000000/lowres/1248888.jpg",
+          "Address": {
+            "AddressText": "203 - 1265 MORNINGSIDE AVE|TORONTO, Ontario M1B3V9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "287-2222",
+              "AreaCode": "416",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "282-4488",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "457806935"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/273193/remax-community-realty-inc-203-1265-morningside-ave-toronto-ontario-m1b3v9",
+          "PhotoLastupdate": "2021-04-28 2:13:43 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "287-2222",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "https://www.remax.ca/on/adolf-furtado-42200-ag",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "465445595"
+          }
+        ],
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "ADOLF",
+        "LastName": "FURTADO",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1486989/adolf-furtado-203---1265-morningside-ave-toronto-ontario-m1b3v9",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,830,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "16671 HIGHWAY 48|Whitchurch-Stouffville, Ontario L4A3M4",
+        "Longitude": "-79.3054198884099",
+        "Latitude": "44.0747558752968",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552160236830000/reb82/highres/7/n5212037_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552160236830000/reb82/medres/7/n5212037_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552160236830000/reb82/lowres/7/n5212037_1.jpg",
+          "LastUpdated": "2021-04-28 2:13:43 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "15",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,830,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1830000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "274.22 x 858.74 FT   ; 5.31 Acres|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://www.videolistings.ca/video/16671highway48"
+    },
+    "PostalCode": "L4A3M4",
+    "RelativeDetailsURL": "/real-estate/23128977/16671-highway-48-whitchurch-stouffville-rural-whitchurch-stouffville",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-28 6:13:43 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23128977/16671-highway-48-whitchurch-stouffville-rural-whitchurch-stouffville",
+    "RelativeURLFr": "/immobilier/23128977/16671-highway-48-whitchurch-stouffville"
+  },
+  {
+    "Id": "23128989",
+    "MlsNumber": "N5212133",
+    "PublicRemarks": "* A Super Property For Farm And/Or Investment * Century (Circa 1890) 2,500 Sq Ft Farmhouse Nestled Well In From The Road * 130 Acres - Predominantly Flat * Much Of The Land Is Worked By The Current Tenant (Corn And Soya Beans) * Huge Drive Shed * Large Barn (Requiring Updating) * Strategically Located Property That Opens Itself To So Many Opportunities * Less Than One Hour Drive Down The 404 To Toronto * 5 Minute Drive To Lake Simcoe ***** EXTRAS **** * Exclusions: All Tenants Possessions * Property Sold In \"\"As Is, Where Is\"\" Condition * Seller Makes No Representations Or Warranties * (28341122)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1917447,
+        "Name": "MEGHAN PARKS",
+        "Organization": {
+          "OrganizationID": 51236,
+          "Name": "CHESTNUT PARK REAL ESTATE LIMITED",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552294020000000/lowres/1002267.jpg",
+          "Address": {
+            "AddressText": "1300 YONGE ST GROUND FLR|TORONTO, Ontario M4T1X3",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "925-9191",
+              "AreaCode": "416",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "925-3935",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.chestnutpark.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51236/chestnut-park-real-estate-limited-1300-yonge-st-ground-flr-toronto-ontario-m4t1x3",
+          "PhotoLastupdate": "2021-04-28 5:56:42 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "925-9191",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.arthurparks.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455776794"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1917447.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "MEGHAN",
+        "LastName": "PARKS",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1917447/meghan-parks-1300-yonge-st-ground-flr-toronto-ontario-m4t1x3",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1917447.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1408338,
+        "Name": "ARTHUR H. PARKS",
+        "Organization": {
+          "OrganizationID": 280300,
+          "Name": "CHESTNUT PARK REAL ESTATE LIMITED",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552294020000000/lowres/1311480.jpg",
+          "Address": {
+            "PermitShowAddress": false,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "652-5000",
+              "AreaCode": "705",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "925-3935",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "422910823"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "HTTP://www.chestnutpark.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Affiliate",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/affiliate/280300/chestnut-park-real-estate-limited-135-queen-st-3-po-box-1293-lakefield-ontario-k0l2h0",
+          "PhotoLastupdate": "2021-04-28 5:56:42 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "484-8288",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "484-8288",
+            "AreaCode": "416",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.arthurparks.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455693479"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637332896400000000/lowres/1046549.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "ARTHUR H.",
+        "LastName": "PARKS",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1408338/arthur-h-parks",
+        "AgentPhotoLastUpdated": "2020-08-17 19:34:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637332896400000000/highres/1046549.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "24791 KENNEDY RD|Georgina, Ontario L0E1R0",
+        "Longitude": "-79.3944879",
+        "Latitude": "44.2598872",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552227661470000/reb82/highres/3/n5212133_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552227661470000/reb82/medres/3/n5212133_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552227661470000/reb82/lowres/3/n5212133_1.jpg",
+          "LastUpdated": "2021-04-28 4:06:06 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "40",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "1292.33 x 4176.8 FT   ; Irregular Lot Size|100+ acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://unbranded.youriguide.com/24791_kennedy_rd_georgina_on/"
+    },
+    "PostalCode": "L0E1R0",
+    "RelativeDetailsURL": "/real-estate/23128989/24791-kennedy-rd-georgina-baldwin",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-28 8:06:06 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23128989/24791-kennedy-rd-georgina-baldwin",
+    "RelativeURLFr": "/immobilier/23128989/24791-kennedy-rd-georgina"
   },
   {
     "Id": "22921117",
@@ -4344,10 +4952,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/highres/3/x5133823_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/medres/3/x5133823_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637503096575830000/reb82/lowres/3/x5133823_1.jpg",
-          "LastUpdated": "2021-03-02 7:20:57 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552280141900000/reb82/highres/3/x5133823_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552280141900000/reb82/medres/3/x5133823_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552280141900000/reb82/lowres/3/x5133823_1.jpg",
+          "LastUpdated": "2021-04-28 5:33:34 PM"
         }
       ],
       "Parking": [
@@ -4372,7 +4980,8 @@
     "PostalCode": "L9V0C1",
     "RelativeDetailsURL": "/real-estate/22875475/636391-prince-of-wales-rd-mulmur-rural-mulmur",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-03-03 12:20:58 AM",
+    "PhotoChangeDateUTC": "2021-04-28 9:33:34 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/22875475/636391-prince-of-wales-rd-mulmur-rural-mulmur",
     "RelativeURLFr": "/immobilier/22875475/636391-prince-of-wales-rd-mulmur"
@@ -5074,7 +5683,7 @@
         "Organization": {
           "OrganizationID": 51048,
           "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637550569560000000/lowres/51048.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552163680000000/lowres/51048.jpg",
           "Address": {
             "AddressText": "12612 HIGHWAY 50, STE. 1|BOLTON, Ontario L7E1T6",
             "PermitShowAddress": true,
@@ -5105,7 +5714,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/51048/royal-lepage-rcr-realty-12612-highway-50-ste-1-bolton-ontario-l7e1t6",
-          "PhotoLastupdate": "2021-04-26 6:02:36 PM"
+          "PhotoLastupdate": "2021-04-28 2:19:28 PM"
         },
         "Phones": [
           {
@@ -5152,10 +5761,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637548011235770000/reb82/highres/7/x5206027_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637548011235770000/reb82/medres/7/x5206027_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637548011235770000/reb82/lowres/7/x5206027_1.jpg",
-          "LastUpdated": "2021-04-23 6:58:43 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637552256463000000/reb82/highres/7/x5206027_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637552256463000000/reb82/medres/7/x5206027_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637552256463000000/reb82/lowres/7/x5206027_1.jpg",
+          "LastUpdated": "2021-04-28 4:54:06 PM"
         }
       ],
       "Parking": [
@@ -5183,7 +5792,8 @@
     "PostalCode": "L9W6S4",
     "RelativeDetailsURL": "/real-estate/23108683/347369-15-sdrd-mono-rural-mono",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-23 10:58:43 PM",
+    "PhotoChangeDateUTC": "2021-04-28 8:54:06 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23108683/347369-15-sdrd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23108683/347369-15-sdrd-mono"
@@ -5295,10 +5905,134 @@
     "RelativeDetailsURL": "/real-estate/23117608/507506-highway-89-rd-mono-rural-mono",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-04-26 5:38:58 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23117608/507506-highway-89-rd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23117608/507506-highway-89-rd-mono"
+  },
+  {
+    "Id": "23120154",
+    "MlsNumber": "X5209566",
+    "PublicRemarks": "Location, Location, Location!  Beautiful Hobby Farm Featuring Custom Built 2 Storey Cape Cod With 4 Bedrooms. Attached 2 Car Garage. On 10+ Acres With All Usable Land. Paved Drive, Inground Concrete Pool, 4 Stall Horse Barn With Hay Loft. Large Heated Workshop With Cold Storage Area, 3 Additional Pole Barn Type Buildings. Fenced Pasture Area.**** EXTRAS **** Overlooks Lake And Conservation Area. 1 Km From Campbellville And Minutes To Go Train. (28329720)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1424901,
+        "Name": "MARC RONAN",
+        "Organization": {
+          "OrganizationID": 117547,
+          "Name": "COLDWELL BANKER RONAN REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552163740000000/lowres/1168222.jpg",
+          "Address": {
+            "AddressText": "25 QUEEN ST. S.|TOTTENHAM, Ontario L0G1W0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "936-4216",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "936-5130",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/117547/coldwell-banker-ronan-realty-25-queen-st-s-tottenham-ontario-l0g1w0",
+          "PhotoLastupdate": "2021-04-28 2:19:34 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "936-4216",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.marcronan.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455697452"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1424901.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "MARC",
+        "LastName": "RONAN",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1424901/marc-ronan-25-queen-st-s-tottenham-ontario-l0g1w0",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1424901.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,995,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "521 CAMPBELLVILLE RD|Hamilton, Ontario L0P1B0",
+        "Longitude": "-80.0192234",
+        "Latitude": "43.4525912",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637550590588670000/reb82/highres/6/x5209566_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637550590588670000/reb82/medres/6/x5209566_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637550590588670000/reb82/lowres/6/x5209566_1.jpg",
+          "LastUpdated": "2021-04-26 6:37:38 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,995,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1995000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "251.92 x 1333.3 FT   ; M/L Irregular|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://wylieford.homelistingtours.com/listing2/521-campbellville-road"
+    },
+    "PostalCode": "L0P1B0",
+    "RelativeDetailsURL": "/real-estate/23120154/521-campbellville-rd-hamilton-rural-flamborough",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-04-26 10:37:39 PM",
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23120154/521-campbellville-rd-hamilton-rural-flamborough",
+    "RelativeURLFr": "/immobilier/23120154/521-campbellville-rd-hamilton"
   },
   {
     "Id": "23124796",
