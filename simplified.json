@@ -149,55 +149,6 @@
     }
   },
   {
-    "Id": "23105000",
-    "MlsNumber": "40096576",
-    "Property": {
-      "Price": "$1,250,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6443 2ND Line|New Tecumseth, Ontario L0G1W0",
-        "Longitude": "-79.78677079",
-        "Latitude": "43.99889785",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637547006981370000/reb44/highres/6/40096576_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637547006981370000/reb44/medres/6/40096576_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637547006981370000/reb44/lowres/6/40096576_1.jpg",
-          "LastUpdated": "2021-04-22 3:04:58 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,250,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1250000"
-    },
-    "Land": {
-      "SizeTotal": "10 - 24.99 acres",
-      "SizeFrontage": "116 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "SizeInterior": "3248.0000",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23098232",
     "MlsNumber": "40101334",
     "Property": {
@@ -545,6 +496,54 @@
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "23143901",
+    "MlsNumber": "40106713",
+    "Property": {
+      "Price": "$1,369,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5639 FIRST Line|Erin, Ontario L0N1N0",
+        "Longitude": "-80.17696028",
+        "Latitude": "43.71028304",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637554638585230000/reb15/highres/3/40106713_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637554638585230000/reb15/medres/3/40106713_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637554638585230000/reb15/lowres/3/40106713_1.jpg",
+          "LastUpdated": "2021-05-01 11:04:18 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,369,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1369900"
+    },
+    "Land": {
+      "SizeTotal": "10.172 ac|10 - 24.99 acres",
+      "SizeFrontage": "200 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "1",
+      "Type": "House"
     }
   },
   {
@@ -1358,10 +1357,10 @@
     }
   },
   {
-    "Id": "22921117",
-    "MlsNumber": "W5149303",
+    "Id": "23143378",
+    "MlsNumber": "W5216298",
     "Property": {
-      "Price": "$1,969,000",
+      "Price": "$1,899,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "12354 FIFTH LINE|Halton Hills, Ontario L0P1H0",
@@ -1373,10 +1372,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637553795059100000/reb86/highres/3/w5149303_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637553795059100000/reb86/medres/3/w5149303_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637553795059100000/reb86/lowres/3/w5149303_1.jpg",
-          "LastUpdated": "2021-04-30 11:38:25 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637554562364130000/reb86/highres/8/w5216298_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637554562364130000/reb86/medres/8/w5216298_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637554562364130000/reb86/lowres/8/w5216298_1.jpg",
+          "LastUpdated": "2021-05-01 8:57:16 AM"
         }
       ],
       "Parking": [
@@ -1387,12 +1386,12 @@
       "ParkingSpaceTotal": "12",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,969,000 ",
+      "ConvertedPrice": "$1,899,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1969000"
+      "PriceUnformattedValue": "1899000"
     },
     "Land": {
       "SizeTotal": "132.41 FT   ; Irregular 7.72 Acres|5 - 9.99 acres"
@@ -2060,6 +2059,53 @@
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23144158",
+    "MlsNumber": "X5216552",
+    "Property": {
+      "Price": "$1,369,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5639 FIRST LINE|Erin, Ontario L0N1N0",
+        "Longitude": "-80.1769665",
+        "Latitude": "43.7103195",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637554730988700000/reb86/highres/2/x5216552_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637554730988700000/reb86/medres/2/x5216552_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637554730988700000/reb86/lowres/2/x5216552_1.jpg",
+          "LastUpdated": "2021-05-01 1:38:18 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,369,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1369900"
+    },
+    "Land": {
+      "SizeTotal": "200 x 2222 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
       "Type": "House"
     }
