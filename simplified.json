@@ -397,59 +397,6 @@
     }
   },
   {
-    "Id": "23135362",
-    "MlsNumber": "40105067",
-    "Property": {
-      "Price": "$1,999,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6684 7TH Line|Belwood, Ontario N0B1J0",
-        "Longitude": "-80.33112151",
-        "Latitude": "43.80010137",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637553036961670000/reb44/highres/7/40105067_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637553036961670000/reb44/medres/7/40105067_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637553036961670000/reb44/lowres/7/40105067_1.jpg",
-          "LastUpdated": "2021-04-29 2:34:56 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,999,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Detached Garage",
-      "PriceUnformattedValue": "1999900"
-    },
-    "Land": {
-      "SizeTotal": "50 - 100 acres",
-      "SizeFrontage": "2024 ft"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "4 + 0",
-      "SizeInterior": "3605.0000",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "1"
-    }
-  },
-  {
     "Id": "23133038",
     "MlsNumber": "40105513",
     "Property": {
@@ -1890,10 +1837,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637551419051170000/reb86/highres/2/x5210802_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637551419051170000/reb86/medres/2/x5210802_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637551419051170000/reb86/lowres/2/x5210802_1.jpg",
-          "LastUpdated": "2021-04-27 5:38:25 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637555450385270000/reb86/highres/2/x5210802_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637555450385270000/reb86/medres/2/x5210802_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637555450385270000/reb86/lowres/2/x5210802_1.jpg",
+          "LastUpdated": "2021-05-02 9:37:18 AM"
         }
       ],
       "Parking": [
@@ -1937,10 +1884,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637553028461430000/reb82/highres/4/x5213114_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637553028461430000/reb82/medres/4/x5213114_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637553028461430000/reb82/lowres/4/x5213114_1.jpg",
-          "LastUpdated": "2021-04-29 2:20:46 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637555691838400000/reb82/highres/4/x5213114_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637555691838400000/reb82/medres/4/x5213114_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637555691838400000/reb82/lowres/4/x5213114_1.jpg",
+          "LastUpdated": "2021-05-02 4:19:43 PM"
         }
       ],
       "Parking": [
@@ -1965,6 +1912,53 @@
       "BathroomTotal": "4",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23135251",
+    "MlsNumber": "X5213341",
+    "Property": {
+      "Price": "$1,899,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8849 WELLINGTON 50 RD|Erin, Ontario L7J2L9",
+        "Longitude": "-80.0972119",
+        "Latitude": "43.6627786",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637553172689970000/reb82/highres/1/x5213341_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637553172689970000/reb82/medres/1/x5213341_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637553172689970000/reb82/lowres/1/x5213341_1.jpg",
+          "LastUpdated": "2021-04-29 6:21:08 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "23",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,899,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1899900"
+    },
+    "Land": {
+      "SizeTotal": "369.89 x 1476.1 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4 + 1",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
