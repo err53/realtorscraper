@@ -704,6 +704,151 @@
     "RelativeURLFr": "/immobilier/22953460/7039-concession-road-2-lisle"
   },
   {
+    "Id": "23105000",
+    "MlsNumber": "40096576",
+    "PublicRemarks": "Ever dream of living among gentle rolling hills, with privacy and space to enjoy trails, nature and serenity. This 10.5 acre estate property has million dollar views and stunning sunsets. Spacious  home with large principle rooms, full finished walkout, plenty of parking and approximately 5000 sqft of finished space. Turn this into your forever home with your creativity and designs. Other key features include vaulted ceiling with skylights, fireplaces, main floor laundry, second kitchen, 400 amp service and so much more. Easy commute to Toronto, Newmarket and Barrie. Call for private viewing. (63201576)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "SizeInterior": "3248.0000",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1555621,
+        "Name": "Harry Terpstra",
+        "Organization": {
+          "OrganizationID": 85454,
+          "Name": "Re/Max Real Estate Centre Inc Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637556618900000000/lowres/1187906.jpg",
+          "Address": {
+            "AddressText": "238 Speedvale Avenue West|Guelph, Ontario N1H1C4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "836-6365",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "836-7975",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460127244"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxcentre.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/85454/remax-real-estate-centre-inc-brokerage-238-speedvale-avenue-west-guelph-ontario-n1h1c4",
+          "PhotoLastupdate": "2021-05-03 6:04:50 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "835-9885",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "836-7975",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.harryterpstra.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456778309"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1147639.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Harry",
+        "LastName": "Terpstra",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1555621/harry-terpstra-238-speedvale-avenue-west-guelph-ontario-n1h1c4",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1147639.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,250,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6443 2ND Line|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.78677079",
+        "Latitude": "43.99889785",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637556616974770000/reb44/highres/6/40096576_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637556616974770000/reb44/medres/6/40096576_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637556616974770000/reb44/lowres/6/40096576_1.jpg",
+          "LastUpdated": "2021-05-03 6:01:37 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,250,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1250000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "116 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youriguide.com/6443_2_line_new_tecumseth_on/"
+    },
+    "PostalCode": "L0G1W0",
+    "RelativeDetailsURL": "/real-estate/23105000/6443-2nd-line-new-tecumseth",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-03 10:01:43 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23105000/6443-2nd-line-new-tecumseth",
+    "RelativeURLFr": "/immobilier/23105000/6443-2nd-line-new-tecumseth"
+  },
+  {
     "Id": "23098232",
     "MlsNumber": "40101334",
     "PublicRemarks": "THIS IS A ONCE IN A LIFETIME OPPORTUNITY TO OWN THIS STUNNING WATERFRONT PROPERTY!! Sell the Cottage because you won't need it when you purchase this amazing property. This property has deeded access and ownership to almost all of Barrie's Lake. The home was custom built to take advantage of the incredible views and is awaiting its new owner to bring this home back to its former glory. Lifetime wood siding exterior and steel roof. The property comes complete with its own walking trails and offers complete privacy only 3 minutes to downtown Cambridge and minutes to the 401. You don't want to miss this incredible opportunity! (63199566)",
@@ -1284,7 +1429,7 @@
         "Organization": {
           "OrganizationID": 280216,
           "Name": "Chestnut Park Real Estate Limited, Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637555807760000000/lowres/1310664.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637556671440000000/lowres/1310664.jpg",
           "Address": {
             "AddressText": "135 Queen Street, Unit 3, P. O. Box 1293|LAKEFIELD, Ontario K0L2H0",
             "PermitShowAddress": true,
@@ -1314,7 +1459,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/280216/chestnut-park-real-estate-limited-brokerage-135-queen-street-unit-3-p-o-box-1293-lakefield-ontario-k0l2h0",
-          "PhotoLastupdate": "2021-05-02 7:32:56 PM"
+          "PhotoLastupdate": "2021-05-03 7:32:24 PM"
         },
         "Phones": [
           {
@@ -1740,7 +1885,6 @@
     "RelativeDetailsURL": "/real-estate/23143901/5639-first-line-erin",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-01 3:04:18 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23143901/5639-first-line-erin",
     "RelativeURLFr": "/immobilier/23143901/5639-first-line-erin"
@@ -4506,7 +4650,6 @@
     "RelativeDetailsURL": "/real-estate/23143378/12354-fifth-line-halton-hills-limehouse",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-01 12:57:16 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23143378/12354-fifth-line-halton-hills-limehouse",
     "RelativeURLFr": "/immobilier/23143378/12354-fifth-line-halton-hills"
@@ -7013,7 +7156,6 @@
     "RelativeDetailsURL": "/real-estate/23144158/5639-first-line-erin-rural-erin",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-01 5:38:18 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23144158/5639-first-line-erin-rural-erin",
     "RelativeURLFr": "/immobilier/23144158/5639-first-line-erin"

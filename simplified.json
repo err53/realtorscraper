@@ -149,6 +149,55 @@
     }
   },
   {
+    "Id": "23105000",
+    "MlsNumber": "40096576",
+    "Property": {
+      "Price": "$1,250,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6443 2ND Line|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.78677079",
+        "Latitude": "43.99889785",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637556616974770000/reb44/highres/6/40096576_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637556616974770000/reb44/medres/6/40096576_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637556616974770000/reb44/lowres/6/40096576_1.jpg",
+          "LastUpdated": "2021-05-03 6:01:37 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,250,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1250000"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "116 ft"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "SizeInterior": "3248.0000",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23098232",
     "MlsNumber": "40101334",
     "Property": {
