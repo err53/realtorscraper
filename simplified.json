@@ -297,55 +297,6 @@
     }
   },
   {
-    "Id": "23109392",
-    "MlsNumber": "40102367",
-    "Property": {
-      "Price": "$1,159,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "142 PLEASANT Avenue|Dundas, Ontario L9H3V1",
-        "Longitude": "-79.97052347",
-        "Latitude": "43.25099926",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637547946812170000/reb15/highres/7/40102367_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637547946812170000/reb15/medres/7/40102367_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637547946812170000/reb15/lowres/7/40102367_1.jpg",
-          "LastUpdated": "2021-04-23 5:11:21 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Carport"
-        }
-      ],
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Public Transit, Schools, Shopping",
-      "ConvertedPrice": "$1,159,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Carport",
-      "PriceUnformattedValue": "1159000"
-    },
-    "Land": {
-      "SizeTotal": "14 ac|under 1/2 acre",
-      "SizeFrontage": "65 ft",
-      "AccessType": "Road access"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 0",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
     "Id": "23112488",
     "MlsNumber": "40103106",
     "Property": {
@@ -543,6 +494,55 @@
     }
   },
   {
+    "Id": "23155967",
+    "MlsNumber": "40107710",
+    "Property": {
+      "Price": "$1,799,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5670 SECOND Line|Erin, Ontario L0N1N0",
+        "Longitude": "-80.17034189",
+        "Latitude": "43.72270951",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637557425150700000/reb85/highres/0/40107710_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637557425150700000/reb85/medres/0/40107710_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637557425150700000/reb85/lowres/0/40107710_1.jpg",
+          "LastUpdated": "2021-05-04 4:28:35 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,799,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799000"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "200 ft"
+    },
+    "Building": {
+      "BathroomTotal": "0",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "23019215",
     "MlsNumber": "H4102535",
     "Property": {
@@ -692,6 +692,60 @@
       "SizeExterior": "2400 sqft",
       "SizeInterior": "2400 sqft",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23153341",
+    "MlsNumber": "H4105777",
+    "Property": {
+      "Price": "$1,497,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "927 #97 Regional Road|Flamborough, Ontario L9H5E3",
+        "Longitude": "-80.050546",
+        "Latitude": "43.394156",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637557341006770000/reb14/highres/7/h4105777_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637557341006770000/reb14/medres/7/h4105777_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637557341006770000/reb14/lowres/7/h4105777_1.jpg",
+          "LastUpdated": "2021-05-04 2:08:20 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Gravel"
+        },
+        {
+          "Name": "Other"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools",
+      "ConvertedPrice": "$1,497,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Gravel, Other",
+      "PriceUnformattedValue": "1497000"
+    },
+    "Land": {
+      "SizeTotal": "448.85 x 539.88|5 - 9.99 acres",
+      "SizeFrontage": "448 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "SizeExterior": "1234 sqft",
+      "SizeInterior": "1234 sqft",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -2056,53 +2110,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "3",
       "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23135293",
-    "MlsNumber": "X5213784",
-    "Property": {
-      "Price": "$1,488,800",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "755658 2ND LINE|Mono, Ontario L9V1B3",
-        "Longitude": "-80.0891976",
-        "Latitude": "44.0951152",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637553028233500000/reb82/highres/4/x5213784_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637553028233500000/reb82/medres/4/x5213784_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637553028233500000/reb82/lowres/4/x5213784_1.jpg",
-          "LastUpdated": "2021-04-29 2:20:23 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,488,800 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1488800"
-    },
-    "Land": {
-      "SizeTotal": "10 Acre   ; Lot Size Per Mpac|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
       "Type": "House"
     }
   },
