@@ -494,6 +494,55 @@
     }
   },
   {
+    "Id": "23159207",
+    "MlsNumber": "40106978",
+    "Property": {
+      "Price": "$1,700,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8240 MACARTHUR Drive|Campbellville, Ontario L0P1B0",
+        "Longitude": "-79.96176545",
+        "Latitude": "43.48249541",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558099785200000/reb15/highres/8/40106978_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558099785200000/reb15/medres/8/40106978_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558099785200000/reb15/lowres/8/40106978_1.jpg",
+          "LastUpdated": "2021-05-05 11:12:58 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,700,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1700000"
+    },
+    "Land": {
+      "SizeTotal": "5.11 ac|5 - 9.99 acres",
+      "SizeFrontage": "401 ft",
+      "AccessType": "Highway access"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23155967",
     "MlsNumber": "40107710",
     "Property": {
@@ -535,11 +584,109 @@
       "SizeFrontage": "200 ft"
     },
     "Building": {
-      "BathroomTotal": "0",
+      "BathroomTotal": "3",
       "Bedrooms": "4 + 0",
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "23162017",
+    "MlsNumber": "40108772",
+    "Property": {
+      "Price": "$1,499,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4800 WESTNEY Road N|Pickering, Ontario L1Y1A2",
+        "Longitude": "-79.08826216",
+        "Latitude": "43.97428448",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558299046170000/reb46/highres/2/40108772_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558299046170000/reb46/medres/2/40108772_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558299046170000/reb46/lowres/2/40108772_1.jpg",
+          "LastUpdated": "2021-05-05 4:45:04 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Hospital, Place of Worship, Shopping, Ski area",
+      "ConvertedPrice": "$1,499,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1499900"
+    },
+    "Land": {
+      "SizeTotal": "16.69 ac|10 - 24.99 acres",
+      "SizeFrontage": "540 ft",
+      "AccessType": "Highway access",
+      "LandscapeFeatures": "Landscaped"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23162325",
+    "MlsNumber": "E5222480",
+    "Property": {
+      "Price": "$1,499,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4800 WESTNEY RD N|Pickering, Ontario L1Y1A2",
+        "Longitude": "-79.0882407",
+        "Latitude": "43.9743385",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558331855630000/reb88/highres/0/e5222480_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558331855630000/reb88/medres/0/e5222480_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558331855630000/reb88/lowres/0/e5222480_1.jpg",
+          "LastUpdated": "2021-05-05 5:39:45 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1499900"
+    },
+    "Land": {
+      "SizeTotal": "540.42 FT   ; 16.69 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
     }
   },
   {
@@ -982,54 +1129,6 @@
     }
   },
   {
-    "Id": "22999288",
-    "MlsNumber": "N5173386",
-    "Property": {
-      "Price": "$1,349,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8481 ADJALA SIDEROAD 10 SDRD|Adjala-Tosorontio, Ontario L0G1L0",
-        "Longitude": "-79.9165173411812",
-        "Latitude": "44.0157815785045",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637527226824400000/reb86/highres/6/n5173386_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637527226824400000/reb86/medres/6/n5173386_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637527226824400000/reb86/lowres/6/n5173386_1.jpg",
-          "LastUpdated": "2021-03-30 5:38:02 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,349,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1349000"
-    },
-    "Land": {
-      "SizeTotal": "533.23 x 580 FT|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23068625",
     "MlsNumber": "N5194473",
     "Property": {
@@ -1407,6 +1506,53 @@
     }
   },
   {
+    "Id": "23162649",
+    "MlsNumber": "N5222472",
+    "Property": {
+      "Price": "$1,999,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6128 BLOOMINGTON RD N|Whitchurch-Stouffville, Ontario L4A7X3",
+        "Longitude": "-79.2586412",
+        "Latitude": "44.0084976",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558347174300000/reb82/highres/2/n5222472_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558347174300000/reb82/medres/2/n5222472_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558347174300000/reb82/lowres/2/n5222472_1.jpg",
+          "LastUpdated": "2021-05-05 6:05:17 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "18",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1999000"
+    },
+    "Land": {
+      "SizeTotal": "990 x 667 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "4 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23143378",
     "MlsNumber": "W5216298",
     "Property": {
@@ -1454,6 +1600,54 @@
     }
   },
   {
+    "Id": "23162813",
+    "MlsNumber": "W5222346",
+    "Property": {
+      "Price": "$1,700,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8240 MACARTHUR DR|Milton, Ontario L0P1B0",
+        "Longitude": "-79.9615422888763",
+        "Latitude": "43.4821522761865",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558349224870000/reb82/highres/6/w5222346_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558349224870000/reb82/medres/6/w5222346_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558349224870000/reb82/lowres/6/w5222346_1.jpg",
+          "LastUpdated": "2021-05-05 6:08:42 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,700,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1700000"
+    },
+    "Land": {
+      "SizeTotal": "401.41 x 462.9 FT   ; 402.17 Ft X 462.90 Ft X 603.44 Ft X 472|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23032691",
     "MlsNumber": "X5112353",
     "Property": {
@@ -1497,53 +1691,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "3",
       "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22872976",
-    "MlsNumber": "X5133701",
-    "Property": {
-      "Price": "$1,599,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8423 SIDEROAD 20|Guelph/Eramosa, Ontario N0B2K0",
-        "Longitude": "-80.2246821",
-        "Latitude": "43.6800213",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/highres/1/x5133701_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/medres/1/x5133701_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637502944737800000/reb86/lowres/1/x5133701_1.jpg",
-          "LastUpdated": "2021-03-02 3:07:53 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,599,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1599000"
-    },
-    "Land": {
-      "SizeTotal": "10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -1799,10 +1946,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637552256463000000/reb82/highres/7/x5206027_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637552256463000000/reb82/medres/7/x5206027_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637552256463000000/reb82/lowres/7/x5206027_1.jpg",
-          "LastUpdated": "2021-04-28 4:54:06 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558249369530000/reb82/highres/7/x5206027_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558249369530000/reb82/medres/7/x5206027_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558249369530000/reb82/lowres/7/x5206027_1.jpg",
+          "LastUpdated": "2021-05-05 3:22:16 PM"
         }
       ],
       "Parking": [
@@ -2156,6 +2303,101 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23160319",
+    "MlsNumber": "X5221472",
+    "Property": {
+      "Price": "$1,849,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5257 NINTH LINE|Erin, Ontario N0B1T0",
+        "Longitude": "-80.03645",
+        "Latitude": "43.752452",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558342369170000/reb86/highres/2/x5221472_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558342369170000/reb86/medres/2/x5221472_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558342369170000/reb86/lowres/2/x5221472_1.jpg",
+          "LastUpdated": "2021-05-05 5:57:16 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,849,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1849000"
+    },
+    "Land": {
+      "SizeTotal": "196.85 x 1114.4 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "2 + 1",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23161107",
+    "MlsNumber": "X5221835",
+    "Property": {
+      "Price": "$1,195,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "628410 FIFTEENTH SDRD|Mulmur, Ontario L9V0V1",
+        "Longitude": "-80.02957",
+        "Latitude": "44.1981202",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558267548200000/reb82/highres/5/x5221835_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558267548200000/reb82/medres/5/x5221835_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558267548200000/reb82/lowres/5/x5221835_1.jpg",
+          "LastUpdated": "2021-05-05 3:52:34 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,195,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1195000"
+    },
+    "Land": {
+      "SizeTotal": "6.9 Acre   ; 904.95' X 791.78' X 115.28' X 664.04'|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
       "Type": "House"
     }
