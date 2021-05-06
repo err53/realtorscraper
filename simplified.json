@@ -247,56 +247,6 @@
     }
   },
   {
-    "Id": "23104788",
-    "MlsNumber": "40101922",
-    "Property": {
-      "Price": "$1,100,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "2458 NO. 8 Sideroad|Burlington, Ontario L7P0E6",
-        "Longitude": "-79.92430342",
-        "Latitude": "43.4311235",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637546998449270000/reb15/highres/2/40101922_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637546998449270000/reb15/medres/2/40101922_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637546998449270000/reb15/lowres/2/40101922_1.jpg",
-          "LastUpdated": "2021-04-22 2:50:44 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,100,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1100000"
-    },
-    "Land": {
-      "SizeTotal": "50 - 100 acres",
-      "SizeFrontage": "136 ft"
-    },
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "1113.0000",
-      "StoriesTotal": "1",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
     "Id": "23112488",
     "MlsNumber": "40103106",
     "Property": {
@@ -343,57 +293,6 @@
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "0"
-    }
-  },
-  {
-    "Id": "23127856",
-    "MlsNumber": "40104047",
-    "Property": {
-      "Price": "$1,600,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "24791 KENNEDY Road|Georgina, Ontario L0E1R0",
-        "Longitude": "-79.39832882",
-        "Latitude": "44.25903264",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637552099529870000/reb31/highres/7/40104047_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637552099529870000/reb31/medres/7/40104047_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637552099529870000/reb31/lowres/7/40104047_1.jpg",
-          "LastUpdated": "2021-04-28 12:32:32 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "30",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,600,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1600000"
-    },
-    "Land": {
-      "SizeTotal": "130 ac|101+ acres",
-      "SizeFrontage": "1292 ft",
-      "AccessType": "Highway access, Highway Nearby"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 0",
-      "SizeInterior": "2535.0000",
-      "StoriesTotal": "1.5000",
-      "Type": "House",
-      "UnitTotal": "2"
     }
   },
   {
@@ -543,6 +442,60 @@
     }
   },
   {
+    "Id": "23164831",
+    "MlsNumber": "40107628",
+    "Property": {
+      "Price": "$1,450,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8183 WELLINGTON ROAD 22|Guelph/Eramosa, Ontario N0B2K0",
+        "Longitude": "-80.2763747",
+        "Latitude": "43.67699368",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558904840730000/reb44/highres/8/40107628_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558904840730000/reb44/medres/8/40107628_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558904840730000/reb44/lowres/8/40107628_1.jpg",
+          "LastUpdated": "2021-05-06 9:34:44 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Schools",
+      "ConvertedPrice": "$1,450,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Detached Garage",
+      "PriceUnformattedValue": "1450000"
+    },
+    "Land": {
+      "SizeTotal": "26.7 ac|25 - 50 acres",
+      "SizeFrontage": "549 ft"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "5 + 3",
+      "SizeInterior": "3163.4000",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "23155967",
     "MlsNumber": "40107710",
     "Property": {
@@ -595,7 +548,7 @@
     "Id": "23162017",
     "MlsNumber": "40108772",
     "Property": {
-      "Price": "$1,499,900",
+      "Price": "$1,499,999",
       "Type": "Single Family",
       "Address": {
         "AddressText": "4800 WESTNEY Road N|Pickering, Ontario L1Y1A2",
@@ -622,12 +575,12 @@
       "TypeId": "300",
       "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Golf Nearby, Hospital, Place of Worship, Shopping, Ski area",
-      "ConvertedPrice": "$1,499,900 ",
+      "ConvertedPrice": "$1,499,999 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1499900"
+      "PriceUnformattedValue": "1499999"
     },
     "Land": {
       "SizeTotal": "16.69 ac|10 - 24.99 acres",
@@ -646,7 +599,7 @@
     "Id": "23162325",
     "MlsNumber": "E5222480",
     "Property": {
-      "Price": "$1,499,900",
+      "Price": "$1,499,999",
       "Type": "Single Family",
       "Address": {
         "AddressText": "4800 WESTNEY RD N|Pickering, Ontario L1Y1A2",
@@ -672,12 +625,12 @@
       "ParkingSpaceTotal": "12",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,900 ",
+      "ConvertedPrice": "$1,499,999 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1499900"
+      "PriceUnformattedValue": "1499999"
     },
     "Land": {
       "SizeTotal": "540.42 FT   ; 16.69 Acres|10 - 24.99 acres"
@@ -1318,53 +1271,6 @@
     }
   },
   {
-    "Id": "23128941",
-    "MlsNumber": "N5211760",
-    "Property": {
-      "Price": "$1,299,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "181 SANDFORD RD|Uxbridge, Ontario L0G1M0",
-        "Longitude": "-79.261951",
-        "Latitude": "44.1237949",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637552160153300000/reb82/highres/0/n5211760_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637552160153300000/reb82/medres/0/n5211760_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637552160153300000/reb82/lowres/0/n5211760_1.jpg",
-          "LastUpdated": "2021-04-28 2:13:35 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,299,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1299900"
-    },
-    "Land": {
-      "SizeTotal": "815.28 x 1337.4 FT   ; Irreg. 25.02 Acres|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23128977",
     "MlsNumber": "N5212037",
     "Property": {
@@ -1459,53 +1365,6 @@
     }
   },
   {
-    "Id": "23138322",
-    "MlsNumber": "N5214535",
-    "Property": {
-      "Price": "$995,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1181 RAVENSHOE RD|East Gwillimbury, Ontario L0G1R0",
-        "Longitude": "-79.4744078",
-        "Latitude": "44.1909612",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637553673158700000/reb82/highres/5/n5214535_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637553673158700000/reb82/medres/5/n5214535_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637553673158700000/reb82/lowres/5/n5214535_1.jpg",
-          "LastUpdated": "2021-04-30 8:15:15 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$995,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "995000"
-    },
-    "Land": {
-      "SizeTotal": "131 x 679 Acre   ; 11.59|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23162649",
     "MlsNumber": "N5222472",
     "Property": {
@@ -1548,6 +1407,53 @@
     "Building": {
       "BathroomTotal": "1",
       "Bedrooms": "4 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23168951",
+    "MlsNumber": "N5224118",
+    "Property": {
+      "Price": "$999,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1333 CANAL RD|Bradford West Gwillimbury, Ontario L3Z2A6",
+        "Longitude": "-79.5976976",
+        "Latitude": "44.0582766",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637559207087270000/reb82/highres/8/n5224118_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637559207087270000/reb82/medres/8/n5224118_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637559207087270000/reb82/lowres/8/n5224118_1.jpg",
+          "LastUpdated": "2021-05-06 5:58:28 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$999,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "999900"
+    },
+    "Land": {
+      "SizeTotal": "241 x 1227 FT   ; Premium 5.76Acre Lot!|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -2323,10 +2229,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637558342369170000/reb86/highres/2/x5221472_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637558342369170000/reb86/medres/2/x5221472_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637558342369170000/reb86/lowres/2/x5221472_1.jpg",
-          "LastUpdated": "2021-05-05 5:57:16 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637558462897300000/reb86/highres/2/x5221472_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637558462897300000/reb86/medres/2/x5221472_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637558462897300000/reb86/lowres/2/x5221472_1.jpg",
+          "LastUpdated": "2021-05-05 9:18:09 PM"
         }
       ],
       "Parking": [
@@ -2397,6 +2303,53 @@
     },
     "Building": {
       "BathroomTotal": "4",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23167519",
+    "MlsNumber": "X5223575",
+    "Property": {
+      "Price": "$1,100,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "506097 HIGHWAY 89|Mulmur, Ontario L9V0N6",
+        "Longitude": "-80.1607837846558",
+        "Latitude": "44.0869153250675",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637559266680770000/reb82/highres/5/x5223575_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637559266680770000/reb82/medres/5/x5223575_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637559266680770000/reb82/lowres/5/x5223575_1.jpg",
+          "LastUpdated": "2021-05-06 7:37:48 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,100,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1100000"
+    },
+    "Land": {
+      "SizeTotal": "1221.98 x 908.61 FT|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
       "Type": "House"
