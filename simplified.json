@@ -149,55 +149,6 @@
     }
   },
   {
-    "Id": "23105000",
-    "MlsNumber": "40096576",
-    "Property": {
-      "Price": "$1,250,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6443 2ND Line|New Tecumseth, Ontario L0G1W0",
-        "Longitude": "-79.78677079",
-        "Latitude": "43.99889785",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637556616974770000/reb44/highres/6/40096576_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637556616974770000/reb44/medres/6/40096576_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637556616974770000/reb44/lowres/6/40096576_1.jpg",
-          "LastUpdated": "2021-05-03 6:01:37 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,250,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1250000"
-    },
-    "Land": {
-      "SizeTotal": "10 - 24.99 acres",
-      "SizeFrontage": "116 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "SizeInterior": "3248.0000",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23098232",
     "MlsNumber": "40101334",
     "Property": {
@@ -296,52 +247,51 @@
     }
   },
   {
-    "Id": "23133038",
-    "MlsNumber": "40105513",
+    "Id": "23139246",
+    "MlsNumber": "40106231",
     "Property": {
-      "Price": "$1,899,900",
+      "Price": "$1,499,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "8849 WELLINGTON 50 Road|Erin, Ontario L7J2L9",
-        "Longitude": "-80.06894248",
-        "Latitude": "43.63736801",
+        "AddressText": "103026 10TH Sideroad|East Garafraxa, Ontario L9W7K2",
+        "Longitude": "-80.25067581",
+        "Latitude": "43.84862124",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637552877708870000/reb85/highres/3/40105513_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637552877708870000/reb85/medres/3/40105513_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637552877708870000/reb85/lowres/3/40105513_1.jpg",
-          "LastUpdated": "2021-04-29 10:09:30 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637555584956530000/reb44/highres/1/40106231_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637555584956530000/reb44/medres/1/40106231_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637555584956530000/reb44/lowres/1/40106231_1.jpg",
+          "LastUpdated": "2021-05-02 1:21:35 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Attached Garage"
+          "Name": "Detached Garage"
         }
       ],
-      "ParkingSpaceTotal": "23",
+      "ParkingSpaceTotal": "9",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,899,900 ",
+      "ConvertedPrice": "$1,499,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1899900"
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1499000"
     },
     "Land": {
-      "SizeTotal": "10 - 24.99 acres",
-      "SizeFrontage": "370 ft"
+      "SizeTotal": "10.07 ac|10 - 24.99 acres"
     },
     "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "5 + 0",
-      "StoriesTotal": "2",
+      "BathroomTotal": "2",
+      "Bedrooms": "2 + 1",
+      "StoriesTotal": "1.5000",
       "Type": "House",
-      "UnitTotal": "0"
+      "UnitTotal": "1"
     }
   },
   {
@@ -596,6 +546,54 @@
     }
   },
   {
+    "Id": "23174016",
+    "MlsNumber": "40110257",
+    "Property": {
+      "Price": "$1,095,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "308042 CENTRE LINE A|Grey Highlands, Ontario N0C1L0",
+        "Longitude": "-80.37880064",
+        "Latitude": "44.25507253",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637559996460670000/reb43/highres/7/40110257_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637559996460670000/reb43/medres/7/40110257_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637559996460670000/reb43/lowres/7/40110257_1.jpg",
+          "LastUpdated": "2021-05-07 3:54:06 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "69",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,095,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1095000"
+    },
+    "Land": {
+      "SizeTotal": "100 ac|101+ acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 1",
+      "SizeInterior": "1660.0000",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23162325",
     "MlsNumber": "E5222480",
     "Property": {
@@ -689,58 +687,6 @@
       "SizeExterior": "2295 sqft",
       "SizeInterior": "2295 sqft",
       "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23043720",
-    "MlsNumber": "H4103191",
-    "Property": {
-      "Price": "$1,680,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "755699 Second Line|Mono, Ontario L9V1B3",
-        "Longitude": "-80.090094",
-        "Latitude": "44.098813",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637537719796730000/reb14/highres/1/h4103191_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637537719796730000/reb14/medres/1/h4103191_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637537719796730000/reb14/lowres/1/h4103191_1.jpg",
-          "LastUpdated": "2021-04-11 9:06:19 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        },
-        {
-          "Name": "Gravel"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,680,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage, Gravel",
-      "PriceUnformattedValue": "1680000"
-    },
-    "Land": {
-      "SizeTotal": "230.13 x 75.34 x 1534.30 x 280.38 x 1583.36 ft|10 - 24.99 acres",
-      "SizeFrontage": "1543 ft"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "SizeExterior": "2660 sqft",
-      "SizeInterior": "2660 sqft",
       "Type": "House"
     }
   },
@@ -1224,53 +1170,6 @@
     }
   },
   {
-    "Id": "23110650",
-    "MlsNumber": "N5206594",
-    "Property": {
-      "Price": "$1,250,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6443 2ND LINE|New Tecumseth, Ontario L0G1W0",
-        "Longitude": "-79.7851442",
-        "Latitude": "44.0006362",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637547848069770000/reb82/highres/4/n5206594_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637547848069770000/reb82/medres/4/n5206594_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637547848069770000/reb82/lowres/4/n5206594_1.jpg",
-          "LastUpdated": "2021-04-23 2:26:46 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,250,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1250000"
-    },
-    "Land": {
-      "SizeTotal": "116.04 x 2588.9 FT   ; 10.48 Acres, Oak Ridges Moraine|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23128977",
     "MlsNumber": "N5212037",
     "Property": {
@@ -1459,6 +1358,100 @@
     }
   },
   {
+    "Id": "23173140",
+    "MlsNumber": "N5225286",
+    "Property": {
+      "Price": "$1,995,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2331 CONCESSION RD 2|Adjala-Tosorontio, Ontario L0N1P0",
+        "Longitude": "-79.949539",
+        "Latitude": "44.0135896",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637559945696630000/reb82/highres/6/n5225286_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637559945696630000/reb82/medres/6/n5225286_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637559945696630000/reb82/lowres/6/n5225286_1.jpg",
+          "LastUpdated": "2021-05-07 2:29:29 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,995,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1995000"
+    },
+    "Land": {
+      "SizeTotal": "25.08 x 25.08 Acre   ; 25.08 Acres As Per Mpac|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23173163",
+    "MlsNumber": "N5225379",
+    "Property": {
+      "Price": "$1,499,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5609 6TH LINE|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.7477291",
+        "Latitude": "44.0613159",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637559945750000000/reb82/highres/9/n5225379_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637559945750000000/reb82/medres/9/n5225379_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637559945750000000/reb82/lowres/9/n5225379_1.jpg",
+          "LastUpdated": "2021-05-07 2:29:35 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1499000"
+    },
+    "Land": {
+      "SizeTotal": "11.88 Acre   ; M/L Irregular|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23143378",
     "MlsNumber": "W5216298",
     "Property": {
@@ -1474,10 +1467,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637554562364130000/reb86/highres/8/w5216298_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637554562364130000/reb86/medres/8/w5216298_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637554562364130000/reb86/lowres/8/w5216298_1.jpg",
-          "LastUpdated": "2021-05-01 8:57:16 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637559819497930000/reb86/highres/8/w5216298_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637559819497930000/reb86/medres/8/w5216298_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637559819497930000/reb86/lowres/8/w5216298_1.jpg",
+          "LastUpdated": "2021-05-07 10:59:09 AM"
         }
       ],
       "Parking": [
@@ -1837,53 +1830,6 @@
     }
   },
   {
-    "Id": "23108683",
-    "MlsNumber": "X5206027",
-    "Property": {
-      "Price": "$1,297,369",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "347369 15 SDRD|Mono, Ontario L9W6S4",
-        "Longitude": "-80.0582725652251",
-        "Latitude": "44.0135358999389",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637558249369530000/reb82/highres/7/x5206027_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637558249369530000/reb82/medres/7/x5206027_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637558249369530000/reb82/lowres/7/x5206027_1.jpg",
-          "LastUpdated": "2021-05-05 3:22:16 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "13",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,297,369 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1297369"
-    },
-    "Land": {
-      "SizeTotal": "340 x 1005 FT   ; Irreg, Dimensions From Geo/ Mpac-|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23117608",
     "MlsNumber": "X5208802",
     "Property": {
@@ -2072,53 +2018,6 @@
     }
   },
   {
-    "Id": "23135251",
-    "MlsNumber": "X5213341",
-    "Property": {
-      "Price": "$1,899,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8849 WELLINGTON 50 RD|Erin, Ontario L7J2L9",
-        "Longitude": "-80.0972119",
-        "Latitude": "43.6627786",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637553172689970000/reb82/highres/1/x5213341_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637553172689970000/reb82/medres/1/x5213341_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637553172689970000/reb82/lowres/1/x5213341_1.jpg",
-          "LastUpdated": "2021-04-29 6:21:08 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "23",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,899,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1899900"
-    },
-    "Land": {
-      "SizeTotal": "369.89 x 1476.1 FT|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "4 + 1",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23135279",
     "MlsNumber": "X5213663",
     "Property": {
@@ -2163,6 +2062,53 @@
       "BathroomTotal": "3",
       "Bedrooms": "3",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23140844",
+    "MlsNumber": "X5215121",
+    "Property": {
+      "Price": "$1,499,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "103026 10TH SDRD|East Garafraxa, Ontario L9W7K2",
+        "Longitude": "-80.2498901853071",
+        "Latitude": "43.8494684925106",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637555570856270000/reb82/highres/1/x5215121_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637555570856270000/reb82/medres/1/x5215121_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637555570856270000/reb82/lowres/1/x5215121_1.jpg",
+          "LastUpdated": "2021-05-02 12:58:05 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "9",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1499000"
+    },
+    "Land": {
+      "SizeTotal": "278.27 FT   ; 10.07 Acres Per Mpac|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "2 + 1",
+      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   },
@@ -2350,6 +2296,100 @@
     },
     "Building": {
       "BathroomTotal": "3",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23174670",
+    "MlsNumber": "X5225652",
+    "Property": {
+      "Price": "$1,499,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8957 WELLINGTON 50 RD|Erin, Ontario L7J2L8",
+        "Longitude": "-80.0847532",
+        "Latitude": "43.6739613",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637560059420900000/reb86/highres/2/x5225652_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637560059420900000/reb86/medres/2/x5225652_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637560059420900000/reb86/lowres/2/x5225652_1.jpg",
+          "LastUpdated": "2021-05-07 5:39:02 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1499900"
+    },
+    "Land": {
+      "SizeTotal": "8.91 Acre|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23175273",
+    "MlsNumber": "X5226179",
+    "Property": {
+      "Price": "$1,489,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "347369 15TH SDRD|Mono, Ontario L9W6S4",
+        "Longitude": "-79.582262",
+        "Latitude": "43.936253",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637560078804100000/reb82/highres/9/x5226179_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637560078804100000/reb82/medres/9/x5226179_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637560078804100000/reb82/lowres/9/x5226179_1.jpg",
+          "LastUpdated": "2021-05-07 6:11:20 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,489,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1489000"
+    },
+    "Land": {
+      "SizeTotal": "340 x 1005 FT   ; Irreg, Dimensions From Geo/ Mpac-|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
       "Type": "House"
