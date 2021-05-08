@@ -1,55 +1,5 @@
 [
   {
-    "Id": "20185869",
-    "MlsNumber": "30703385",
-    "Property": {
-      "Price": "$1,700,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5826 FIRST Line|Erin, Ontario L0N1Z0",
-        "Longitude": "-80.202309",
-        "Latitude": "43.727796",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637550556541030000/reb44/highres/5/30703385_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637550556541030000/reb44/medres/5/30703385_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637550556541030000/reb44/lowres/5/30703385_1.jpg",
-          "LastUpdated": "2021-04-26 5:40:54 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "None"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,700,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "None",
-      "PriceUnformattedValue": "1700000"
-    },
-    "Land": {
-      "SizeTotal": "24.89 ac|10 - 24.99 acres",
-      "SizeFrontage": "992 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "13 + 0",
-      "SizeInterior": "5360.0000",
-      "StoriesTotal": "1.5000",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
     "Id": "22799387",
     "MlsNumber": "40064051",
     "Property": {
@@ -446,55 +396,6 @@
     }
   },
   {
-    "Id": "23155967",
-    "MlsNumber": "40107710",
-    "Property": {
-      "Price": "$1,799,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5670 SECOND Line|Erin, Ontario L0N1N0",
-        "Longitude": "-80.17034189",
-        "Latitude": "43.72270951",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637557425150700000/reb85/highres/0/40107710_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637557425150700000/reb85/medres/0/40107710_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637557425150700000/reb85/lowres/0/40107710_1.jpg",
-          "LastUpdated": "2021-05-04 4:28:35 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1799000"
-    },
-    "Land": {
-      "SizeTotal": "10 - 24.99 acres",
-      "SizeFrontage": "200 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4 + 0",
-      "StoriesTotal": "2",
-      "Type": "House",
-      "UnitTotal": "0"
-    }
-  },
-  {
     "Id": "23162017",
     "MlsNumber": "40108772",
     "Property": {
@@ -792,6 +693,59 @@
       "SizeExterior": "1234 sqft",
       "SizeInterior": "1234 sqft",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23175726",
+    "MlsNumber": "H4106348",
+    "Property": {
+      "Price": "$1,579,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "755699 Second Line|Mono, Ontario L0N1S8",
+        "Longitude": "-80.090094",
+        "Latitude": "44.099868",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637560760577930000/reb14/highres/8/h4106348_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637560760577930000/reb14/medres/8/h4106348_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637560760577930000/reb14/lowres/8/h4106348_1.jpg",
+          "LastUpdated": "2021-05-08 1:07:37 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        },
+        {
+          "Name": "Gravel"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,579,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage, Gravel",
+      "PriceUnformattedValue": "1579000"
+    },
+    "Land": {
+      "SizeTotal": "230.13 ft x 75.34 x 1,534.30 x 280.38 x 1,583.36|10 - 24.99 acres",
+      "SizeFrontage": "229 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "SizeExterior": "2660 sqft",
+      "SizeInterior": "2660 sqft",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -1326,10 +1280,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637559207087270000/reb82/highres/8/n5224118_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637559207087270000/reb82/medres/8/n5224118_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637559207087270000/reb82/lowres/8/n5224118_1.jpg",
-          "LastUpdated": "2021-05-06 5:58:28 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637560698277230000/reb82/highres/8/n5224118_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637560698277230000/reb82/medres/8/n5224118_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637560698277230000/reb82/lowres/8/n5224118_1.jpg",
+          "LastUpdated": "2021-05-08 11:23:47 AM"
         }
       ],
       "Parking": [
@@ -1924,53 +1878,6 @@
     }
   },
   {
-    "Id": "23124796",
-    "MlsNumber": "X5210802",
-    "Property": {
-      "Price": "$1,799,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5670 SECOND LINE|Erin, Ontario L0N1N0",
-        "Longitude": "-80.1705672",
-        "Latitude": "43.7229576",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637555450385270000/reb86/highres/2/x5210802_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637555450385270000/reb86/medres/2/x5210802_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637555450385270000/reb86/lowres/2/x5210802_1.jpg",
-          "LastUpdated": "2021-05-02 9:37:18 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1799000"
-    },
-    "Land": {
-      "SizeTotal": "200 x 2222 FT   ; 2,222.59 Ft X 200.27 Ft X 2,222.01 Ft|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23135232",
     "MlsNumber": "X5213114",
     "Property": {
@@ -2375,7 +2282,7 @@
           "Name": "Detached Garage"
         }
       ],
-      "ParkingSpaceTotal": "13",
+      "ParkingSpaceTotal": "18",
       "TypeId": "300",
       "OwnershipType": "Freehold",
       "ConvertedPrice": "$1,489,000 ",
@@ -2386,12 +2293,59 @@
       "PriceUnformattedValue": "1489000"
     },
     "Land": {
-      "SizeTotal": "340 x 1005 FT   ; Irreg, Dimensions From Geo/ Mpac-|5 - 9.99 acres"
+      "SizeTotal": "340 x 1005 FT   ; Irreg,|5 - 9.99 acres"
     },
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23176594",
+    "MlsNumber": "X5226425",
+    "Property": {
+      "Price": "$1,579,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "755699 SECOND LINE|Mono, Ontario L9V1B3",
+        "Longitude": "-80.0902017",
+        "Latitude": "44.0990487",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637560707554800000/reb82/highres/5/x5226425_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637560707554800000/reb82/medres/5/x5226425_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637560707554800000/reb82/lowres/5/x5226425_1.jpg",
+          "LastUpdated": "2021-05-08 11:39:15 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,579,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1579000"
+    },
+    "Land": {
+      "SizeTotal": "1534 x 280 FT   ; 230.13X75.34X1534.30X280.38X1583.36|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   }
