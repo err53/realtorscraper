@@ -1128,155 +1128,6 @@
     "RelativeURLFr": "/immobilier/23159207/8240-macarthur-drive-campbellville"
   },
   {
-    "Id": "23164831",
-    "MlsNumber": "40107628",
-    "PublicRemarks": "This sprawling 5+3 bedroom, 4.5 bathroom country bungalow rests on over 26 acres of land, with almost 20 acres of private forest.  It also has plenty of clear space at the front of the property with a row of trees providing privacy from the road.  The main level of this home features 5 bedrooms, a wood burning fireplace in the living room, an office/den, 3 washrooms plus a powder room, a 3-season sunroom, and main level laundry. The lower level offers a large rec room with a propane gas fireplace, a 3-piece washroom, three additional bedrooms, walk-up access to the garage, and plenty of unfinished space for storage and a workshop. This property offers a private pond, gazebo, dog run, a backyard oasis with a solar heated inground pool, a drive shed, and an oversized double door detached garage that is large enough for your vehicles, plenty of storage, and your workshop (24ft. x 44ft.).  You will love walking, hiking, biking or riding your ATV through your own private trails. It is simply magical in here! Not only does this home offer plenty of space, but it has the added environmental benefits of geothermal heating and cooling, and an owned solar panel system. It has more room than you can ever imagine, and a paradise of a property! (63272459)",
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "5 + 3",
-      "SizeInterior": "3163.4000",
-      "StoriesTotal": "1",
-      "Type": "House",
-      "UnitTotal": "0"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2001643,
-        "Name": "Jeff Moisan",
-        "Organization": {
-          "OrganizationID": 284058,
-          "Name": "Home Group Realty Inc.",
-          "Address": {
-            "AddressText": "5 Edinburgh Road South, Unit 1B|Guelph, Ontario N1H5N8",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "780-0202",
-              "AreaCode": "226",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "780-0203",
-              "AreaCode": "226",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "463975311"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.homegrouprealty.ca/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/284058/home-group-realty-inc-5-edinburgh-road-south-unit-1b-guelph-ontario-n1h5n8",
-          "PhotoLastupdate": "2021-05-06 11:06:36 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "760-3227",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "780-0203",
-            "AreaCode": "226",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.jeffmoisan.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "462923926"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1284366.jpg",
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "Jeff",
-        "LastName": "Moisan",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2001643/jeff-moisan-5-edinburgh-road-south-unit-1b-guelph-ontario-n1h5n8",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1284366.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,450,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8183 WELLINGTON ROAD 22|Guelph/Eramosa, Ontario N0B2K0",
-        "Longitude": "-80.2763747",
-        "Latitude": "43.67699368",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637558904840730000/reb44/highres/8/40107628_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637558904840730000/reb44/medres/8/40107628_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637558904840730000/reb44/lowres/8/40107628_1.jpg",
-          "LastUpdated": "2021-05-06 9:34:44 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        },
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "14",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Golf Nearby, Schools",
-      "ConvertedPrice": "$1,450,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage, Detached Garage",
-      "PriceUnformattedValue": "1450000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "26.7 ac|25 - 50 acres",
-      "SizeFrontage": "549 ft"
-    },
-    "AlternateURL": {
-      "PhotoLink": "https://youriguide.com/8183_wellington_22_guelph_on/doc/floorplan_imperial.pdf",
-      "VideoLink": "https://youriguide.com/8183_wellington_22_guelph_on/"
-    },
-    "PostalCode": "N0B2K0",
-    "RelativeDetailsURL": "/real-estate/23164831/8183-wellington-road-22-guelpheramosa",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-06 1:34:44 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23164831/8183-wellington-road-22-guelpheramosa",
-    "RelativeURLFr": "/immobilier/23164831/8183-wellington-road-22-guelpheramosa"
-  },
-  {
     "Id": "23162017",
     "MlsNumber": "40108772",
     "PublicRemarks": "STEP BACK INTO TIME TO THIS 16+ACRE HOBBY FARM WITH SOME WORKABLE LAND, SPRAWLING FIELDS, BABBLING BROOKS, TOWERING TREES & SURROUNDED BY NATURE. THIS 4000+SQFT 4 BED/3BATH 2-STOREY HOME AWAITS YOUR UPDATING & TENDER LOVING CARE. IMAGINE THE FREEDOM OF YOUR CHILDREN PLAYING IN FIELDS, GROWING YOUR OWN VEGETABLES, SITTING ON THE DECK LISTENING TO THE RUNNING BROOK. SET BACK FAR FROM THE ROAD, TOTAL PRIVACY WITH THIS ABUNDANT PARCEL OF LAND HAS ENDLESS POSSIBILITIES. THIS PROPERTY BOASTS CHARACTER AND UNIQUE SETTING! CLOSE TO ALL AMENITIES & 400 SERIES HIGHWAYS. (63270789)",
@@ -1607,7 +1458,6 @@
     "RelativeDetailsURL": "/real-estate/23174016/308042-centre-line-a-grey-highlands",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-07 7:54:06 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23174016/308042-centre-line-a-grey-highlands",
     "RelativeURLFr": "/immobilier/23174016/308042-centre-line-a-grey-highlands"
@@ -3996,7 +3846,7 @@
   {
     "Id": "23168951",
     "MlsNumber": "N5224118",
-    "PublicRemarks": "Bright & Spacious Fully Renovated 3+1 Bedroom Bungalow On A Premium 5.76 Acres *Waterfront* Over 2,100 Sqft Of Living *Open Concept* New Gourmet Kitchen W/8Ft Centre Island +Quartz Counters ?mounted Farmhouse Sink *Large Windows* Engineered Hardwood On Main *All Spacious Bedrooms* Fin' Bsmnt W/Sep Entrance + Large Rec +Office +Bedroom +Full Bath & Laundry! Income From Prime Produce Marsh Soil & Detached Insulated 30X50 Workshop W/200Amp Service**** EXTRAS **** Large Attached Garage W/ Direct Access To Home * Roof (13) Windows (14) 200 Amp Panel (21) Exterior Siding (21) Waterproofing (14) Sump Pump (21) Garage Dr (13) All Elfs, Window Coverings, Appliances & Laundry! Visit Www.1333Canal.Ca (28393069)",
+    "PublicRemarks": "Bright & Spacious Fully Renovated 3+1 Bedroom Bungalow On A Premium 5.76 Acres *Waterfront* Over 2,100 Sqft Of Living *Open Concept* New Gourmet Kitchen W/8Ft Centre Island +Quartz Counters +Mounted Farmhouse Sink *Large Windows* Engineered Hardwood On Main *All Spacious Bedrooms* Fin' Bsmnt W/Sep Entrance + Large Rec +Office +Bedroom +Full Bath & Laundry! Income From Prime Produce Marsh Soil & Detached Insulated 30X50 Workshop W/200Amp Service**** EXTRAS **** Large Attached Garage W/ Direct Access To Home * Roof (13) Windows (14) 200 Amp Panel (21) Exterior Siding (21) Waterproofing (14) Sump Pump (21) Garage Dr (13) All Elfs, Window Coverings, Appliances & Laundry! Visit Www.1333Canal.Ca (28393069)",
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
@@ -4010,7 +3860,7 @@
         "Organization": {
           "OrganizationID": 271921,
           "Name": "HOMELIFE EAGLE REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637559207080000000/lowres/271921.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637561790790000000/lowres/271921.jpg",
           "Address": {
             "AddressText": "13025 YONGE ST UNIT 202|RICHMOND HILL, Ontario L4E1A5",
             "PermitShowAddress": true,
@@ -4047,7 +3897,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/271921/homelife-eagle-realty-inc-13025-yonge-st-unit-202-richmond-hill-ontario-l4e1a5",
-          "PhotoLastupdate": "2021-05-06 5:58:28 PM"
+          "PhotoLastupdate": "2021-05-09 5:44:39 PM"
         },
         "Phones": [
           {
@@ -4096,7 +3946,7 @@
         "Organization": {
           "OrganizationID": 271921,
           "Name": "HOMELIFE EAGLE REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637559207080000000/lowres/271921.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637561790790000000/lowres/271921.jpg",
           "Address": {
             "AddressText": "13025 YONGE ST UNIT 202|RICHMOND HILL, Ontario L4E1A5",
             "PermitShowAddress": true,
@@ -4133,7 +3983,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/271921/homelife-eagle-realty-inc-13025-yonge-st-unit-202-richmond-hill-ontario-l4e1a5",
-          "PhotoLastupdate": "2021-05-06 5:58:28 PM"
+          "PhotoLastupdate": "2021-05-09 5:44:39 PM"
         },
         "Phones": [
           {
@@ -4351,7 +4201,6 @@
     "RelativeDetailsURL": "/real-estate/23173140/2331-concession-rd-2-adjala-tosorontio-rural-adjala-tosorontio",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-07 6:29:29 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23173140/2331-concession-rd-2-adjala-tosorontio-rural-adjala-tosorontio",
     "RelativeURLFr": "/immobilier/23173140/2331-concession-rd-2-adjala-tosorontio"
@@ -4554,10 +4403,138 @@
     "RelativeDetailsURL": "/real-estate/23173163/5609-6th-line-new-tecumseth-rural-new-tecumseth",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-07 6:29:35 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23173163/5609-6th-line-new-tecumseth-rural-new-tecumseth",
     "RelativeURLFr": "/immobilier/23173163/5609-6th-line-new-tecumseth"
+  },
+  {
+    "Id": "23178748",
+    "MlsNumber": "N5227243",
+    "PublicRemarks": "Find Your Dream Property Approximate 100 Acres And A Beautiful Old Custom 2+2 Bedroom Bungalow, 2 Car Garage, Bright Modern Finished Walk-Out Basement, Fabulous Open Concept Kitchen & Family Room W/Walk Out From Family Room, Private Setting & Scenic View. 10 Mins From Hwy 48. Large Barn W/200 Amp Service. New Well And Septic. Basement Clear Without Any Support Post. Icf Construction In Basement. Great House And Huge Cold Cellar!**** EXTRAS **** Alarm System, Central Vac (As Is). Includes Elf's, Microwave And Dishwasher. Hot Water Tank Owned. Plumbing Rough In Basement. Great Potential To Sub-Dividing To Smaller Lots. (28405991)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "2 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1787009,
+        "Name": "REX CHENG",
+        "Organization": {
+          "OrganizationID": 271499,
+          "Name": "HOMELIFE BEST CHOICE REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637561790880000000/lowres/271499.jpg",
+          "Address": {
+            "AddressText": "300 - 50 SHEPPARD AVE W.|TORONTO, Ontario M2N1M2",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "590-2888",
+              "AreaCode": "416",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "590-1568",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881794"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/271499/homelife-best-choice-realty-300-50-sheppard-ave-w-toronto-ontario-m2n1m2",
+          "PhotoLastupdate": "2021-05-09 5:44:48 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "590-2888",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://rexcheng.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455751030"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1787009.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "REX",
+        "LastName": "CHENG",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1787009/rex-cheng-300---50-sheppard-ave-w-toronto-ontario-m2n1m2",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1787009.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,988,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "465 BREWSTER RD|Uxbridge, Ontario L9P1R2",
+        "Longitude": "-79.2312124",
+        "Latitude": "44.2259912",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637561790883330000/reb82/highres/3/n5227243_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637561790883330000/reb82/medres/3/n5227243_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637561790883330000/reb82/lowres/3/n5227243_1.jpg",
+          "LastUpdated": "2021-05-09 5:44:48 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,988,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1988000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "1183 x 3192 FT   ; 98.28 Acres.  R=1356 Ft. Per Lsrca|50 - 100 acres"
+    },
+    "PostalCode": "L9P1R2",
+    "RelativeDetailsURL": "/real-estate/23178748/465-brewster-rd-uxbridge-rural-uxbridge",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-09 9:44:48 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23178748/465-brewster-rd-uxbridge-rural-uxbridge",
+    "RelativeURLFr": "/immobilier/23178748/465-brewster-rd-uxbridge"
   },
   {
     "Id": "23143378",
@@ -4727,7 +4704,6 @@
     "RelativeDetailsURL": "/real-estate/23143378/12354-fifth-line-halton-hills-limehouse",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-07 2:59:10 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23143378/12354-fifth-line-halton-hills-limehouse",
     "RelativeURLFr": "/immobilier/23143378/12354-fifth-line-halton-hills"
@@ -7387,7 +7363,6 @@
     "RelativeDetailsURL": "/real-estate/23174670/8957-wellington-50-rd-erin-rural-erin",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-07 9:39:02 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23174670/8957-wellington-50-rd-erin-rural-erin",
     "RelativeURLFr": "/immobilier/23174670/8957-wellington-50-rd-erin"
@@ -7519,7 +7494,6 @@
     "RelativeDetailsURL": "/real-estate/23175273/347369-15th-sdrd-mono-rural-mono",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-07 10:11:20 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23175273/347369-15th-sdrd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23175273/347369-15th-sdrd-mono"
