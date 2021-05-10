@@ -441,6 +441,56 @@
     }
   },
   {
+    "Id": "23179624",
+    "MlsNumber": "40110971",
+    "Property": {
+      "Price": "$950,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "882 PAISLEY Road|Guelph, Ontario N1K1V8",
+        "Longitude": "-80.28405481",
+        "Latitude": "43.52693256",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637562397658670000/reb16/highres/1/40110971_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637562397658670000/reb16/medres/1/40110971_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637562397658670000/reb16/lowres/1/40110971_1.jpg",
+          "LastUpdated": "2021-05-10 10:36:05 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "3",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Public Transit, Shopping",
+      "ConvertedPrice": "$950,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "950000"
+    },
+    "Land": {
+      "SizeTotal": "4402 ac|under 1/2 acre",
+      "SizeFrontage": "40 ft",
+      "AccessType": "Highway Nearby"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4 + 2",
+      "SizeInterior": "2000.0000",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23162325",
     "MlsNumber": "E5222480",
     "Property": {
@@ -482,6 +532,53 @@
     },
     "Building": {
       "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23182663",
+    "MlsNumber": "E5228558",
+    "Property": {
+      "Price": "$1,500,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4475 COUNTRY LANE|Whitby, Ontario L1P1Y6",
+        "Longitude": "-78.978076",
+        "Latitude": "43.919804",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637562651995930000/reb88/highres/8/e5228558_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637562651995930000/reb88/medres/8/e5228558_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637562651995930000/reb88/lowres/8/e5228558_1.jpg",
+          "LastUpdated": "2021-05-10 5:39:59 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "6",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,500,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1500000"
+    },
+    "Land": {
+      "SizeTotal": "341.87 x 1317 FT   ; Slightly Irregular, 1966 Survey Attached|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
       "Bedrooms": "4",
       "StoriesTotal": "2",
       "Type": "House"
@@ -1117,100 +1214,6 @@
     }
   },
   {
-    "Id": "23128989",
-    "MlsNumber": "N5212133",
-    "Property": {
-      "Price": "$1,600,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "24791 KENNEDY RD|Georgina, Ontario L0E1R0",
-        "Longitude": "-79.3944879",
-        "Latitude": "44.2598872",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637553173145830000/reb82/highres/3/n5212133_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637553173145830000/reb82/medres/3/n5212133_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637553173145830000/reb82/lowres/3/n5212133_1.jpg",
-          "LastUpdated": "2021-04-29 6:21:54 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "40",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,600,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1600000"
-    },
-    "Land": {
-      "SizeTotal": "1292.33 x 4176.8 FT   ; Irregular Lot Size - 130 Acres|100+ acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23162649",
-    "MlsNumber": "N5222472",
-    "Property": {
-      "Price": "$1,999,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6128 BLOOMINGTON RD N|Whitchurch-Stouffville, Ontario L4A7X3",
-        "Longitude": "-79.2586412",
-        "Latitude": "44.0084976",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637558347174300000/reb82/highres/2/n5222472_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637558347174300000/reb82/medres/2/n5222472_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637558347174300000/reb82/lowres/2/n5222472_1.jpg",
-          "LastUpdated": "2021-05-05 6:05:17 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "18",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,999,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1999000"
-    },
-    "Land": {
-      "SizeTotal": "990 x 667 FT|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "4 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23168951",
     "MlsNumber": "N5224118",
     "Property": {
@@ -1650,10 +1653,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637532423811100000/reb82/highres/3/x5180283_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637532423811100000/reb82/medres/3/x5180283_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637532423811100000/reb82/lowres/3/x5180283_1.jpg",
-          "LastUpdated": "2021-04-05 5:59:41 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637562421941630000/reb82/highres/3/x5180283_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637562421941630000/reb82/medres/3/x5180283_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637562421941630000/reb82/lowres/3/x5180283_1.jpg",
+          "LastUpdated": "2021-05-10 11:16:34 AM"
         }
       ],
       "Parking": [
@@ -1874,7 +1877,7 @@
     "Id": "23135232",
     "MlsNumber": "X5213114",
     "Property": {
-      "Price": "$1,799,000",
+      "Price": "$1,699,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "285384 COUNTY RD 10 RD|Amaranth, Ontario L9W0Z1",
@@ -1900,12 +1903,12 @@
       "ParkingSpaceTotal": "12",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,799,000 ",
+      "ConvertedPrice": "$1,699,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1799000"
+      "PriceUnformattedValue": "1699000"
     },
     "Land": {
       "SizeTotal": "444 x 1980 FT|10 - 24.99 acres"
