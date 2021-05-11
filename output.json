@@ -669,7 +669,7 @@
         "Organization": {
           "OrganizationID": 85445,
           "Name": "Royal LePage RCR Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637559774540000000/lowres/1147509.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637563320890000000/lowres/1147509.jpg",
           "Address": {
             "AddressText": "206 George Street|Arthur, Ontario N0G1A0",
             "PermitShowAddress": true,
@@ -705,7 +705,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/85445/royal-lepage-rcr-realty-brokerage-206-george-street-arthur-ontario-n0g1a0",
-          "PhotoLastupdate": "2021-05-07 9:44:14 AM"
+          "PhotoLastupdate": "2021-05-11 12:14:49 PM"
         },
         "Phones": [
           {
@@ -740,7 +740,7 @@
       }
     ],
     "Property": {
-      "Price": "$1,499,000",
+      "Price": "$1,399,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "103026 10TH Sideroad|East Garafraxa, Ontario L9W7K2",
@@ -766,12 +766,12 @@
       "ParkingSpaceTotal": "9",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
+      "ConvertedPrice": "$1,399,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1499000"
+      "PriceUnformattedValue": "1399000"
     },
     "Business": {},
     "Land": {
@@ -783,6 +783,8 @@
     "PostalCode": "L9W7K2",
     "RelativeDetailsURL": "/real-estate/23139246/103026-10th-sideroad-east-garafraxa",
     "StatusId": "1",
+    "PriceChangeDateUTC": "2021-05-11 4:15:50 PM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-05-02 5:21:40 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/23139246/103026-10th-sideroad-east-garafraxa",
@@ -1772,7 +1774,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/51588/lack-real-estate-inc-1050-simcoe-st-n-unit103b-oshawa-ontario-l1g4w5",
-          "PhotoLastupdate": "2021-05-10 5:39:59 PM"
+          "PhotoLastupdate": "2021-05-11 10:59:29 AM"
         },
         "Phones": [
           {
@@ -3519,7 +3521,7 @@
         "Organization": {
           "OrganizationID": 264732,
           "Name": "SUTTON GROUP-HERITAGE REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637559085540000000/lowres/264732.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637563427770000000/lowres/264732.jpg",
           "Address": {
             "PermitShowAddress": false,
             "DisseminationArea": null
@@ -3549,7 +3551,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/264732/sutton-group-heritage-realty-inc-14-gibbons-street-oshawa-ontario-l1j4x7",
-          "PhotoLastupdate": "2021-05-06 2:35:54 PM"
+          "PhotoLastupdate": "2021-05-11 3:12:57 PM"
         },
         "Phones": [
           {
@@ -3591,7 +3593,7 @@
       }
     ],
     "Property": {
-      "Price": "$1,950,000",
+      "Price": "$1,799,900",
       "Type": "Single Family",
       "Address": {
         "AddressText": "2580 REGIONAL RD 23 RD|Uxbridge, Ontario L9P1R4",
@@ -3618,12 +3620,12 @@
       "TypeId": "300",
       "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,950,000 ",
+      "ConvertedPrice": "$1,799,900 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1950000"
+      "PriceUnformattedValue": "1799900"
     },
     "Business": {},
     "Land": {
@@ -3635,6 +3637,8 @@
     "PostalCode": "L9P1R4",
     "RelativeDetailsURL": "/real-estate/23093074/2580-regional-rd-23-rd-uxbridge-rural-uxbridge",
     "StatusId": "1",
+    "PriceChangeDateUTC": "2021-05-11 7:16:17 PM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-04-21 12:57:09 AM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/23093074/2580-regional-rd-23-rd-uxbridge-rural-uxbridge",
@@ -4047,7 +4051,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/286639/remax-hallmark-mcdonough-group-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-05-07 2:29:29 PM"
+          "PhotoLastupdate": "2021-05-11 8:11:30 AM"
         },
         "Phones": [
           {
@@ -4457,7 +4461,6 @@
     "RelativeDetailsURL": "/real-estate/23178748/465-brewster-rd-uxbridge-rural-uxbridge",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-09 9:44:48 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23178748/465-brewster-rd-uxbridge-rural-uxbridge",
     "RelativeURLFr": "/immobilier/23178748/465-brewster-rd-uxbridge"
@@ -4651,7 +4654,7 @@
         "Organization": {
           "OrganizationID": 269404,
           "Name": "RE/MAX REAL ESTATE CENTRE INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637559722260000000/lowres/1232661.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637563308440000000/lowres/1232661.jpg",
           "Address": {
             "AddressText": "345 STEELES AVE EAST|MILTON, Ontario L9T3G6",
             "PermitShowAddress": true,
@@ -4676,7 +4679,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/269404/remax-real-estate-centre-inc-345-steeles-ave-east-milton-ontario-l9t3g6",
-          "PhotoLastupdate": "2021-05-07 8:17:06 AM"
+          "PhotoLastupdate": "2021-05-11 11:54:04 AM"
         },
         "Phones": [
           {
@@ -4713,7 +4716,7 @@
         "Organization": {
           "OrganizationID": 269404,
           "Name": "RE/MAX REAL ESTATE CENTRE INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637559722260000000/lowres/1232661.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637563308440000000/lowres/1232661.jpg",
           "Address": {
             "AddressText": "345 STEELES AVE EAST|MILTON, Ontario L9T3G6",
             "PermitShowAddress": true,
@@ -4738,7 +4741,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/269404/remax-real-estate-centre-inc-345-steeles-ave-east-milton-ontario-l9t3g6",
-          "PhotoLastupdate": "2021-05-07 8:17:06 AM"
+          "PhotoLastupdate": "2021-05-11 11:54:04 AM"
         },
         "Phones": [
           {
@@ -6427,7 +6430,7 @@
         "Organization": {
           "OrganizationID": 279258,
           "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637559949650000000/lowres/default/royallepage.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637563430190000000/lowres/default/royallepage.gif",
           "Address": {
             "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
             "PermitShowAddress": true,
@@ -6464,7 +6467,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
-          "PhotoLastupdate": "2021-05-07 2:36:05 PM"
+          "PhotoLastupdate": "2021-05-11 3:16:59 PM"
         },
         "Phones": [
           {
@@ -6512,7 +6515,7 @@
       }
     ],
     "Property": {
-      "Price": "$1,499,000",
+      "Price": "$1,399,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "103026 10TH SDRD|East Garafraxa, Ontario L9W7K2",
@@ -6538,12 +6541,12 @@
       "ParkingSpaceTotal": "9",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
+      "ConvertedPrice": "$1,399,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1499000"
+      "PriceUnformattedValue": "1399000"
     },
     "Business": {},
     "Land": {
@@ -6555,6 +6558,8 @@
     "PostalCode": "L9W7K2",
     "RelativeDetailsURL": "/real-estate/23140844/103026-10th-sdrd-east-garafraxa-rural-east-garafraxa",
     "StatusId": "1",
+    "PriceChangeDateUTC": "2021-05-11 7:20:34 PM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-05-02 4:58:05 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/23140844/103026-10th-sdrd-east-garafraxa-rural-east-garafraxa",
@@ -6697,7 +6702,7 @@
         "Organization": {
           "OrganizationID": 159757,
           "Name": "RE/MAX REAL ESTATE CENTRE INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637559195100000000/lowres/1248607.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637563274990000000/lowres/1248607.jpg",
           "Address": {
             "AddressText": "14 MAIN STREET|ERIN, Ontario N0B1T0",
             "PermitShowAddress": true,
@@ -6722,7 +6727,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/159757/remax-real-estate-centre-inc-14-main-street-erin-ontario-n0b1t0",
-          "PhotoLastupdate": "2021-05-06 5:38:30 PM"
+          "PhotoLastupdate": "2021-05-11 10:58:19 AM"
         },
         "Phones": [
           {
@@ -6762,7 +6767,7 @@
         "Organization": {
           "OrganizationID": 159757,
           "Name": "RE/MAX REAL ESTATE CENTRE INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637559195100000000/lowres/1248607.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637563274990000000/lowres/1248607.jpg",
           "Address": {
             "AddressText": "14 MAIN STREET|ERIN, Ontario N0B1T0",
             "PermitShowAddress": true,
@@ -6787,7 +6792,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/159757/remax-real-estate-centre-inc-14-main-street-erin-ontario-n0b1t0",
-          "PhotoLastupdate": "2021-05-06 5:38:30 PM"
+          "PhotoLastupdate": "2021-05-11 10:58:19 AM"
         },
         "Phones": [
           {
@@ -6833,7 +6838,7 @@
       }
     ],
     "Property": {
-      "Price": "$1,849,000",
+      "Price": "$1,699,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "5257 NINTH LINE|Erin, Ontario N0B1T0",
@@ -6859,12 +6864,12 @@
       "ParkingSpaceTotal": "12",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,000 ",
+      "ConvertedPrice": "$1,699,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1849000"
+      "PriceUnformattedValue": "1699000"
     },
     "Business": {},
     "Land": {
@@ -6876,6 +6881,8 @@
     "PostalCode": "N0B1T0",
     "RelativeDetailsURL": "/real-estate/23160319/5257-ninth-line-erin-rural-erin",
     "StatusId": "1",
+    "PriceChangeDateUTC": "2021-05-11 3:00:30 PM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-05-06 1:18:09 AM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/23160319/5257-ninth-line-erin-rural-erin",

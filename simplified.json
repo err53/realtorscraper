@@ -200,7 +200,7 @@
     "Id": "23139246",
     "MlsNumber": "40106231",
     "Property": {
-      "Price": "$1,499,000",
+      "Price": "$1,399,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "103026 10TH Sideroad|East Garafraxa, Ontario L9W7K2",
@@ -226,12 +226,12 @@
       "ParkingSpaceTotal": "9",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
+      "ConvertedPrice": "$1,399,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1499000"
+      "PriceUnformattedValue": "1399000"
     },
     "Land": {
       "SizeTotal": "10.07 ac|10 - 24.99 acres"
@@ -1122,7 +1122,7 @@
     "Id": "23093074",
     "MlsNumber": "N5201540",
     "Property": {
-      "Price": "$1,950,000",
+      "Price": "$1,799,900",
       "Type": "Single Family",
       "Address": {
         "AddressText": "2580 REGIONAL RD 23 RD|Uxbridge, Ontario L9P1R4",
@@ -1149,12 +1149,12 @@
       "TypeId": "300",
       "OwnershipType": "Freehold",
       "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,950,000 ",
+      "ConvertedPrice": "$1,799,900 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1950000"
+      "PriceUnformattedValue": "1799900"
     },
     "Land": {
       "SizeTotal": "303.44 x 923.45 FT   ; Rear 283.47 Feet, 6.19 Acres|5 - 9.99 acres"
@@ -1972,7 +1972,7 @@
     "Id": "23140844",
     "MlsNumber": "X5215121",
     "Property": {
-      "Price": "$1,499,000",
+      "Price": "$1,399,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "103026 10TH SDRD|East Garafraxa, Ontario L9W7K2",
@@ -1998,12 +1998,12 @@
       "ParkingSpaceTotal": "9",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
+      "ConvertedPrice": "$1,399,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1499000"
+      "PriceUnformattedValue": "1399000"
     },
     "Land": {
       "SizeTotal": "278.27 FT   ; 10.07 Acres Per Mpac|10 - 24.99 acres"
@@ -2066,7 +2066,7 @@
     "Id": "23160319",
     "MlsNumber": "X5221472",
     "Property": {
-      "Price": "$1,849,000",
+      "Price": "$1,699,000",
       "Type": "Single Family",
       "Address": {
         "AddressText": "5257 NINTH LINE|Erin, Ontario N0B1T0",
@@ -2092,12 +2092,12 @@
       "ParkingSpaceTotal": "12",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,849,000 ",
+      "ConvertedPrice": "$1,699,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1849000"
+      "PriceUnformattedValue": "1699000"
     },
     "Land": {
       "SizeTotal": "196.85 x 1114.4 FT|5 - 9.99 acres"
