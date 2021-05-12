@@ -245,54 +245,6 @@
     }
   },
   {
-    "Id": "23143901",
-    "MlsNumber": "40106713",
-    "Property": {
-      "Price": "$1,369,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5639 FIRST Line|Erin, Ontario L0N1N0",
-        "Longitude": "-80.17696028",
-        "Latitude": "43.71028304",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637554638585230000/reb15/highres/3/40106713_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637554638585230000/reb15/medres/3/40106713_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637554638585230000/reb15/lowres/3/40106713_1.jpg",
-          "LastUpdated": "2021-05-01 11:04:18 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,369,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1369900"
-    },
-    "Land": {
-      "SizeTotal": "10.172 ac|10 - 24.99 acres",
-      "SizeFrontage": "200 ft"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 0",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23159207",
     "MlsNumber": "40106978",
     "Property": {
@@ -339,6 +291,57 @@
       "Bedrooms": "4 + 0",
       "StoriesTotal": "2",
       "Type": "House"
+    }
+  },
+  {
+    "Id": "23189541",
+    "MlsNumber": "40108535",
+    "Property": {
+      "Price": "$1,999,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "12700 FIFTH Line|Milton, Ontario N0B2K0",
+        "Longitude": "-80.06535667",
+        "Latitude": "43.58109808",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637563674612130000/reb15/highres/5/40108535_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637563674612130000/reb15/medres/5/40108535_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637563674612130000/reb15/lowres/5/40108535_1.jpg",
+          "LastUpdated": "2021-05-11 10:04:21 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1999900"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "266 ft",
+      "LandscapeFeatures": "Landscaped"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4 + 3",
+      "SizeInterior": "3569.0000",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "3"
     }
   },
   {
@@ -580,6 +583,53 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23191276",
+    "MlsNumber": "E5230852",
+    "Property": {
+      "Price": "$989,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "129 NATAL  AVE|Toronto, Ontario M1N3V8",
+        "Longitude": "-79.2545196",
+        "Latitude": "43.7153556",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637564170208130000/reb82/highres/2/e5230852_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637564170208130000/reb82/medres/2/e5230852_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637564170208130000/reb82/lowres/2/e5230852_1.jpg",
+          "LastUpdated": "2021-05-12 11:50:20 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "5",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$989,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "989000"
+    },
+    "Land": {
+      "SizeTotal": "6.05 x 30.64 FT   ; R-20.8 Ns 31.28 Irr Pie Shaped Lot|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
       "StoriesTotal": "2",
       "Type": "House"
     }
@@ -2016,53 +2066,6 @@
     }
   },
   {
-    "Id": "23144158",
-    "MlsNumber": "X5216552",
-    "Property": {
-      "Price": "$1,369,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5639 FIRST LINE|Erin, Ontario L0N1N0",
-        "Longitude": "-80.1769665",
-        "Latitude": "43.7103195",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637554730988700000/reb86/highres/2/x5216552_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637554730988700000/reb86/medres/2/x5216552_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637554730988700000/reb86/lowres/2/x5216552_1.jpg",
-          "LastUpdated": "2021-05-01 1:38:18 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "22",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,369,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1369900"
-    },
-    "Land": {
-      "SizeTotal": "200 x 2222 FT|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23160319",
     "MlsNumber": "X5221472",
     "Property": {
@@ -2152,53 +2155,6 @@
     },
     "Building": {
       "BathroomTotal": "4",
-      "Bedrooms": "3 + 2",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23167519",
-    "MlsNumber": "X5223575",
-    "Property": {
-      "Price": "$1,100,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "506097 HIGHWAY 89|Mulmur, Ontario L9V0N6",
-        "Longitude": "-80.1607837846558",
-        "Latitude": "44.0869153250675",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637559266680770000/reb82/highres/5/x5223575_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637559266680770000/reb82/medres/5/x5223575_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637559266680770000/reb82/lowres/5/x5223575_1.jpg",
-          "LastUpdated": "2021-05-06 7:37:48 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,100,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1100000"
-    },
-    "Land": {
-      "SizeTotal": "1221.98 x 908.61 FT|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
       "Type": "House"
@@ -2342,6 +2298,53 @@
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23190315",
+    "MlsNumber": "X5230428",
+    "Property": {
+      "Price": "$1,049,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "755662 2ND LINE EHS LINE|Mono, Ontario L9V1B3",
+        "Longitude": "-80.0892949",
+        "Latitude": "44.095509",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637564044350270000/reb82/highres/8/x5230428_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637564044350270000/reb82/medres/8/x5230428_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637564044350270000/reb82/lowres/8/x5230428_1.jpg",
+          "LastUpdated": "2021-05-12 8:20:35 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,049,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1049000"
+    },
+    "Land": {
+      "SizeTotal": "10 Acre   ; 10 Acres - 328' Frontage|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   }
