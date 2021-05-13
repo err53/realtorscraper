@@ -99,6 +99,54 @@
     }
   },
   {
+    "Id": "23197890",
+    "MlsNumber": "40099221",
+    "Property": {
+      "Price": "$1,600,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "142 CLARKE Road|Paris, Ontario N3L3E1",
+        "Longitude": "-80.3215391",
+        "Latitude": "43.2224741",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637565059687230000/reb41/highres/1/40099221_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637565059687230000/reb41/medres/1/40099221_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637565059687230000/reb41/lowres/1/40099221_1.jpg",
+          "LastUpdated": "2021-05-13 12:32:48 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,600,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1600000"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "577 ft"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "1 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23098232",
     "MlsNumber": "40101334",
     "Property": {
@@ -242,55 +290,6 @@
       "StoriesTotal": "1.5000",
       "Type": "House",
       "UnitTotal": "1"
-    }
-  },
-  {
-    "Id": "23159207",
-    "MlsNumber": "40106978",
-    "Property": {
-      "Price": "$1,700,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8240 MACARTHUR Drive|Campbellville, Ontario L0P1B0",
-        "Longitude": "-79.96176545",
-        "Latitude": "43.48249541",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637558099785200000/reb15/highres/8/40106978_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637558099785200000/reb15/medres/8/40106978_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637558099785200000/reb15/lowres/8/40106978_1.jpg",
-          "LastUpdated": "2021-05-05 11:12:58 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,700,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1700000"
-    },
-    "Land": {
-      "SizeTotal": "5.11 ac|5 - 9.99 acres",
-      "SizeFrontage": "401 ft",
-      "AccessType": "Highway access"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4 + 0",
-      "StoriesTotal": "2",
-      "Type": "House"
     }
   },
   {
@@ -494,6 +493,57 @@
     }
   },
   {
+    "Id": "23200274",
+    "MlsNumber": "40113683",
+    "Property": {
+      "Price": "$1,775,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4637 ERWIN Road|Burlington, Ontario L7M0L6",
+        "Longitude": "-79.82445324",
+        "Latitude": "43.40357114",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637565238659770000/reb15/highres/3/40113683_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637565238659770000/reb15/medres/3/40113683_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637565238659770000/reb15/lowres/3/40113683_1.jpg",
+          "LastUpdated": "2021-05-13 5:31:05 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "4",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park, Schools",
+      "ConvertedPrice": "$1,775,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1775000"
+    },
+    "Land": {
+      "SizeTotal": "3670.49 ac|under 1/2 acre",
+      "SizeFrontage": "43 ft",
+      "AccessType": "Highway Nearby",
+      "LandscapeFeatures": "Lawn sprinkler, Landscaped"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23162325",
     "MlsNumber": "E5222480",
     "Property": {
@@ -583,53 +633,6 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "4",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23191276",
-    "MlsNumber": "E5230852",
-    "Property": {
-      "Price": "$989,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "129 NATAL  AVE|Toronto, Ontario M1N3V8",
-        "Longitude": "-79.2545196",
-        "Latitude": "43.7153556",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637564170208130000/reb82/highres/2/e5230852_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637564170208130000/reb82/medres/2/e5230852_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637564170208130000/reb82/lowres/2/e5230852_1.jpg",
-          "LastUpdated": "2021-05-12 11:50:20 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "5",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$989,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "989000"
-    },
-    "Land": {
-      "SizeTotal": "6.05 x 30.64 FT   ; R-20.8 Ns 31.28 Irr Pie Shaped Lot|25 - 50 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
       "StoriesTotal": "2",
       "Type": "House"
     }
@@ -1452,6 +1455,100 @@
     }
   },
   {
+    "Id": "23199060",
+    "MlsNumber": "N5233076",
+    "Property": {
+      "Price": "$999,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "22936 PARK RD|Georgina, Ontario L0E1R0",
+        "Longitude": "-79.289888",
+        "Latitude": "44.23726",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637565138483170000/reb82/highres/6/n5233076_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637565138483170000/reb82/medres/6/n5233076_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637565138483170000/reb82/lowres/6/n5233076_1.jpg",
+          "LastUpdated": "2021-05-13 2:44:08 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$999,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "999900"
+    },
+    "Land": {
+      "SizeTotal": "459.97 x 947.25 FT   ; Regular 10.00 Acres Per Mpac|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23200713",
+    "MlsNumber": "N5233595",
+    "Property": {
+      "Price": "$1,199,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2557 CONCESSION RD 3 RD|Adjala-Tosorontio, Ontario L0N1P0",
+        "Longitude": "-79.935148353532",
+        "Latitude": "44.0273923816533",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637565256323100000/reb82/highres/5/n5233595_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637565256323100000/reb82/medres/5/n5233595_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637565256323100000/reb82/lowres/5/n5233595_1.jpg",
+          "LastUpdated": "2021-05-13 6:00:32 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "7",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,199,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1199900"
+    },
+    "Land": {
+      "SizeTotal": "210 x 2163 FT   ; 10.09 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23143378",
     "MlsNumber": "W5216298",
     "Property": {
@@ -1495,54 +1592,6 @@
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23162813",
-    "MlsNumber": "W5222346",
-    "Property": {
-      "Price": "$1,700,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8240 MACARTHUR DR|Milton, Ontario L0P1B0",
-        "Longitude": "-79.9615422888763",
-        "Latitude": "43.4821522761865",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637558349224870000/reb82/highres/6/w5222346_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637558349224870000/reb82/medres/6/w5222346_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637558349224870000/reb82/lowres/6/w5222346_1.jpg",
-          "LastUpdated": "2021-05-05 6:08:42 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,700,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1700000"
-    },
-    "Land": {
-      "SizeTotal": "401.41 x 462.9 FT   ; 402.17 Ft X 462.90 Ft X 603.44 Ft X 472|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4",
-      "StoriesTotal": "2",
       "Type": "House"
     }
   },
@@ -2120,8 +2169,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "628410 FIFTEENTH SDRD|Mulmur, Ontario L9V0V1",
-        "Longitude": "-80.02957",
-        "Latitude": "44.1981202",
+        "Longitude": "-80.0387976",
+        "Latitude": "44.1698421",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
