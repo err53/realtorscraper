@@ -293,6 +293,57 @@
     }
   },
   {
+    "Id": "23202525",
+    "MlsNumber": "40107663",
+    "Property": {
+      "Price": "$1,299,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1 GLENRON Road|Flamborough, Ontario L0P1B0",
+        "Longitude": "-80.008255",
+        "Latitude": "43.439917",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637565803132900000/reb15/highres/3/40107663_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637565803132900000/reb15/medres/3/40107663_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637565803132900000/reb15/lowres/3/40107663_1.jpg",
+          "LastUpdated": "2021-05-14 9:11:53 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "7",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,299,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1299000"
+    },
+    "Land": {
+      "SizeTotal": "10.414 ac|10 - 24.99 acres",
+      "SizeFrontage": "100 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "1814.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "23189541",
     "MlsNumber": "40108535",
     "Property": {
@@ -493,6 +544,61 @@
     }
   },
   {
+    "Id": "23202981",
+    "MlsNumber": "40113593",
+    "Property": {
+      "Price": "$1,499,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "532 BLUE LAKE Road|St. George, Ontario N0E1N0",
+        "Longitude": "-80.33594987",
+        "Latitude": "43.22449122",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637565911410670000/reb41/highres/3/40113593_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637565911410670000/reb41/medres/3/40113593_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637565911410670000/reb41/lowres/3/40113593_1.jpg",
+          "Description": "Nestled neatly off a curve on Blue Lake road lies a property that opens to a world of warmth, hospitality and reprieve.  The unassuming facade welcomes you into a thoughtfully maintained.",
+          "LastUpdated": "2021-05-14 12:12:21 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        },
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Shopping",
+      "ConvertedPrice": "$1,499,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage, Detached Garage",
+      "PriceUnformattedValue": "1499900"
+    },
+    "Land": {
+      "SizeTotal": "7.9 ac|5 - 9.99 acres",
+      "SizeFrontage": "190 ft",
+      "AccessType": "Road access, Highway access, Highway Nearby"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "1"
+    }
+  },
+  {
     "Id": "23200274",
     "MlsNumber": "40113683",
     "Property": {
@@ -508,10 +614,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637565238659770000/reb15/highres/3/40113683_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637565238659770000/reb15/medres/3/40113683_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637565238659770000/reb15/lowres/3/40113683_1.jpg",
-          "LastUpdated": "2021-05-13 5:31:05 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637565844904530000/reb15/highres/3/40113683_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637565844904530000/reb15/medres/3/40113683_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637565844904530000/reb15/lowres/3/40113683_1.jpg",
+          "LastUpdated": "2021-05-14 10:21:30 AM"
         }
       ],
       "Parking": [
@@ -935,49 +1041,6 @@
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "22898312",
-    "MlsNumber": "N5141601",
-    "Property": {
-      "Price": "$1,750,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5 LINTON LANE|King, Ontario L0G1N0",
-        "Longitude": "-79.660223",
-        "Latitude": "43.9410602",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637508098682170000/reb82/highres/1/n5141601_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637508098682170000/reb82/medres/1/n5141601_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637508098682170000/reb82/lowres/1/n5141601_1.jpg",
-          "LastUpdated": "2021-03-08 2:17:48 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "6",
-      "TypeId": "300",
-      "ConvertedPrice": "$1,750,000 ",
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1750000"
-    },
-    "Land": {
-      "SizeTotal": "395.05 x 909.46 FT   ; Irregular Lot - 10.119 Acres|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -1549,6 +1612,49 @@
     }
   },
   {
+    "Id": "23204931",
+    "MlsNumber": "N5235215",
+    "Property": {
+      "Price": "$1,900,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5505 6TH LINE|Essa, Ontario L0L1L0",
+        "Longitude": "-79.8008312",
+        "Latitude": "44.1885358",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637565997712030000/reb82/highres/5/n5235215_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637565997712030000/reb82/medres/5/n5235215_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637565997712030000/reb82/lowres/5/n5235215_1.jpg",
+          "LastUpdated": "2021-05-14 2:36:11 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "ConvertedPrice": "$1,900,000 ",
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1900000"
+    },
+    "Land": {
+      "SizeTotal": "22.64 Acre|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23143378",
     "MlsNumber": "W5216298",
     "Property": {
@@ -2020,54 +2126,6 @@
     }
   },
   {
-    "Id": "23135279",
-    "MlsNumber": "X5213663",
-    "Property": {
-      "Price": "$1,499,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "994046 MONO-ADJALA TOWNLINE|Mono, Ontario L9W6H8",
-        "Longitude": "-79.9663755676485",
-        "Latitude": "44.0096229562312",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637553028189170000/reb82/highres/3/x5213663_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637553028189170000/reb82/medres/3/x5213663_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637553028189170000/reb82/lowres/3/x5213663_1.jpg",
-          "LastUpdated": "2021-04-29 2:20:18 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "23",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Ski area",
-      "ConvertedPrice": "$1,499,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1499000"
-    },
-    "Land": {
-      "SizeTotal": "10.06 Acre|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23140844",
     "MlsNumber": "X5215121",
     "Property": {
@@ -2210,53 +2268,6 @@
     }
   },
   {
-    "Id": "23174670",
-    "MlsNumber": "X5225652",
-    "Property": {
-      "Price": "$1,499,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "8957 WELLINGTON 50 RD|Erin, Ontario L7J2L8",
-        "Longitude": "-80.0847532",
-        "Latitude": "43.6739613",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637560059420900000/reb86/highres/2/x5225652_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637560059420900000/reb86/medres/2/x5225652_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637560059420900000/reb86/lowres/2/x5225652_1.jpg",
-          "LastUpdated": "2021-05-07 5:39:02 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1499900"
-    },
-    "Land": {
-      "SizeTotal": "8.91 Acre|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23175273",
     "MlsNumber": "X5226179",
     "Property": {
@@ -2394,6 +2405,54 @@
       "BathroomTotal": "2",
       "Bedrooms": "3",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23203507",
+    "MlsNumber": "X5234538",
+    "Property": {
+      "Price": "$1,299,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1 GLENRON RD|Hamilton, Ontario L0P1B0",
+        "Longitude": "-80.0082546",
+        "Latitude": "43.4399169",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637565883713430000/reb82/highres/8/x5234538_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637565883713430000/reb82/medres/8/x5234538_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637565883713430000/reb82/lowres/8/x5234538_1.jpg",
+          "LastUpdated": "2021-05-14 11:26:11 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park",
+      "ConvertedPrice": "$1,299,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1299000"
+    },
+    "Land": {
+      "SizeTotal": "100 x 1070 FT   ; Irreg 10.4Ac Lot|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   }
