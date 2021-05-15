@@ -510,7 +510,6 @@
     "RelativeDetailsURL": "/real-estate/23197890/142-clarke-road-paris",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-13 4:32:48 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23197890/142-clarke-road-paris",
     "RelativeURLFr": "/immobilier/23197890/142-clarke-road-paris"
@@ -938,7 +937,7 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3 + 0",
-      "SizeInterior": "1814.0000",
+      "SizeInterior": "1670.0000",
       "StoriesTotal": "2",
       "Type": "House",
       "UnitTotal": "0"
@@ -950,7 +949,7 @@
         "Organization": {
           "OrganizationID": 205365,
           "Name": "RE/MAX Real Estate Centre Inc, Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565810690000000/lowres/default/remaxoa.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637566613920000000/lowres/default/remaxoa.gif",
           "Address": {
             "AddressText": "345 Steeles Avenue East|Milton, Ontario L9T3G6",
             "PermitShowAddress": true,
@@ -980,7 +979,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/205365/remax-real-estate-centre-inc-brokerage-345-steeles-avenue-east-milton-ontario-l9t3g6",
-          "PhotoLastupdate": "2021-05-14 9:24:29 AM"
+          "PhotoLastupdate": "2021-05-15 7:43:12 AM"
         },
         "Phones": [
           {
@@ -1030,7 +1029,7 @@
         "Organization": {
           "OrganizationID": 205365,
           "Name": "RE/MAX Real Estate Centre Inc, Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565810690000000/lowres/default/remaxoa.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637566613920000000/lowres/default/remaxoa.gif",
           "Address": {
             "AddressText": "345 Steeles Avenue East|Milton, Ontario L9T3G6",
             "PermitShowAddress": true,
@@ -1060,7 +1059,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/205365/remax-real-estate-centre-inc-brokerage-345-steeles-avenue-east-milton-ontario-l9t3g6",
-          "PhotoLastupdate": "2021-05-14 9:24:29 AM"
+          "PhotoLastupdate": "2021-05-15 7:43:12 AM"
         },
         "Phones": [
           {
@@ -1637,151 +1636,12 @@
     "RelativeURLFr": "/immobilier/23174016/308042-centre-line-a-grey-highlands"
   },
   {
-    "Id": "23179624",
-    "MlsNumber": "40110971",
-    "PublicRemarks": "Beautiful LEGAL DUPLEX, single detached, 4+2 bedrooms, back split home, with single car garage For Sale in prime area of Guelph. This is the best location to live, work and commute. When you enter into the house, Main Floor features living room, dining room, open concept brand new kitchen with new backsplash, new kitchen hood fan, large island with quartz countertop and stainless steel appliances. Furthermore a Family room, 1 bedroom and 1 full bathroom. Second floor features huge master bedroom with door opening to bathroom , 2 more  good sized bedroom and full 5-pc bathroom with standing shower and jacuzzi. Both bathrooms have new vanities and quartz countertop. New light fixtures, new door hardware installed and freshly painted. Full legally finished 2 bedroom  basement, full kitchen and separate entrance. Huge fenced backyard. Private wooden deck for your outdoor enjoyment. Close to Hwy, grocery store, schools. Few minutes drive to Kitchener-Waterloo, Cambridge, Fergus and Hwy 401. Perfect home with mortgage helper basement rental income. Do not  miss this home! Book your private showing today! (63290595)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4 + 2",
-      "SizeInterior": "2000.0000",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2000528,
-        "Name": "SURJIT SAM PABLAY",
-        "Organization": {
-          "OrganizationID": 285135,
-          "Name": "RE/MAX Real Estate Centre Inc.",
-          "Address": {
-            "AddressText": "720 Westmount Road East, Unit B|Kitchener, Ontario N2E2M6",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "741-0950",
-              "AreaCode": "519",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "741-0957",
-              "AreaCode": "519",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "460125263"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.remaxcentre.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/285135/remax-real-estate-centre-inc-720-westmount-road-east-unit-b-kitchener-ontario-n2e2m6",
-          "PhotoLastupdate": "2021-05-11 9:06:25 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "897-0863",
-            "AreaCode": "519",
-            "PhoneTypeId": "1"
-          },
-          {
-            "PhoneType": "Fax",
-            "PhoneNumber": "741-0957",
-            "AreaCode": "519",
-            "PhoneTypeId": "4"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "456784533"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636131783400000000/lowres/1283131.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "SURJIT",
-        "LastName": "PABLAY",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2000528/surjit-pablay-720-westmount-road-east-unit-b-kitchener-ontario-n2e2m6",
-        "AgentPhotoLastUpdated": "2016-10-27 15:19:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636131783400000000/highres/1283131.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$950,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "882 PAISLEY Road|Guelph, Ontario N1K1V8",
-        "Longitude": "-80.28405481",
-        "Latitude": "43.52693256",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637562397658670000/reb16/highres/1/40110971_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637562397658670000/reb16/medres/1/40110971_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637562397658670000/reb16/lowres/1/40110971_1.jpg",
-          "LastUpdated": "2021-05-10 10:36:05 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "3",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Public Transit, Shopping",
-      "ConvertedPrice": "$950,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "950000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "4402 ac|under 1/2 acre",
-      "SizeFrontage": "40 ft",
-      "AccessType": "Highway Nearby"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://tours.jarts360view.com/882-paisley-road-guelph/"
-    },
-    "PostalCode": "N1K1V8",
-    "RelativeDetailsURL": "/real-estate/23179624/882-paisley-road-guelph",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-10 2:36:05 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23179624/882-paisley-road-guelph",
-    "RelativeURLFr": "/immobilier/23179624/882-paisley-road-guelph"
-  },
-  {
     "Id": "23202981",
     "MlsNumber": "40113593",
-    "PublicRemarks": "Picturesque setting on 7.9 acres near the Town of Paris! Spectacular home was built for entertaining family & friends, it boasts a lrg custom Kraftsman cherry kitchen w/ centre island, backsplash & granite counters, S/S appliances, open concept to great room w/ cozy woodstove & breakfast area. Sit or dine in the screened in sunroom, complete w/ cedar roof or on the deck and listen to  sounds of the waterfall & birds! Through various seasons, watch an array of vibrant coloured birds right outside the living room & kitchen windows. Stunning hardwood, slate & Travertine tile floors carry throughout this lovely home. Huge LR/DR feature another wood burning fireplace insert. 3 bedrooms, 4 pc bath, 2 pc bath, 3pc bath & main floor laundry room complete 2120 sq.ft. of main floor living space. This house offers great entertainment spaces & areas to retreat, like the slate guest room in the basement w/ its own fireplace.  The huge recreation room with billiard table and sitting area. Numerous improvements in recent years include Geothermal heat pump, 60 gallon water heater, water purification system, water softener, 200-amp breaker panel, 6 insulation added attic, new storage shed. The 32 x16 bunky  accommodates 5--featuring hydro & storage room. Roof re-shingled in fall of 2019. Ask for detailed list. Lots of space for all your vehicles & toys with 2 car garage, detached 1 car garage, huge drive way. Almost 8 acres of lush Carolinian forest w/ trails through majestic 100 tree including walnut, cherry sugar and black maple, oaks and many more. The grandeur of nature. Peace and quiet is an everyday occurrence! Pull out the guitar and roast marshmallows or et smores round a roaring fire at the firepit with family & friends. Firewood is always plentiful! Who needs vacations when you have your very own Muskoka, 12 months of the year? This idyllic natural setting is near major highways for the commuter, easy access to HWY #24 and HWY #403. Minutes to the Town of Paris. (63316574)",
+    "PublicRemarks": "Picturesque setting on 7.9 acres near the Town of Paris! Spectacular home was built for entertaining family & friends, it boasts a lrg custom Kraftsman cherry kitchen w/ centre island, backsplash & granite counters, S/S appliances, open concept to great room w/ cozy woodstove & breakfast area. Sit or dine in the screened in sunroom, complete w/ cedar roof or on the deck and listen to  sounds of the waterfall & birds! Through various seasons, watch an array of vibrant coloured birds right outside the living room & kitchen windows. Stunning hardwood, slate & Travertine tile floors carry throughout this lovely home. Huge LR/DR feature another wood burning fireplace insert. 4 bedrooms, 4 pc bath, 2 pc bath, 3pc bath & main floor laundry room complete 2120 sq.ft. of main floor living space. This house offers great entertainment spaces & areas to retreat, like the slate guest room in the basement w/ its own fireplace.  The huge recreation room with billiard table and sitting area. Numerous improvements in recent years include Geothermal heat pump, 60 gallon water heater, water purification system, water softener, 200-amp breaker panel, 6 insulation added attic, new storage shed. The 32 x16 bunky  accommodates 5--featuring hydro & storage room. Roof re-shingled in fall of 2019. Ask for detailed list. Lots of space for all your vehicles & toys with 2 car garage, detached 1 car garage, huge drive way. Almost 8 acres of lush Carolinian forest w/ trails through majestic 100 tree including walnut, cherry sugar and black maple, oaks and many more. The grandeur of nature. Peace and quiet is an everyday occurrence! Pull out the guitar and roast marshmallows or et smores round a roaring fire at the firepit with family & friends. Firewood is always plentiful! Who needs vacations when you have your very own Muskoka, 12 months of the year? This idyllic natural setting is near major highways for the commuter, easy access to HWY #24 and HWY #403. Minutes to the Town of Paris. (63316574)",
     "Building": {
       "BathroomTotal": "3",
-      "Bedrooms": "3 + 0",
+      "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
       "Type": "House",
       "UnitTotal": "1"
@@ -1793,7 +1653,7 @@
         "Organization": {
           "OrganizationID": 48880,
           "Name": "Coldwell Banker Homefront Realty",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565911840000000/lowres/1001342.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637566655660000000/lowres/1001342.jpg",
           "Address": {
             "AddressText": "245 King George Road|Brantford, Ontario N3R7N7",
             "PermitShowAddress": true,
@@ -1829,7 +1689,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/48880/coldwell-banker-homefront-realty-245-king-george-road-brantford-ontario-n3r7n7",
-          "PhotoLastupdate": "2021-05-14 12:13:04 PM"
+          "PhotoLastupdate": "2021-05-15 8:52:46 AM"
         },
         "Phones": [
           {
@@ -1877,11 +1737,11 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637565911410670000/reb41/highres/3/40113593_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637565911410670000/reb41/medres/3/40113593_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637565911410670000/reb41/lowres/3/40113593_1.jpg",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637566654536930000/reb41/highres/3/40113593_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637566654536930000/reb41/medres/3/40113593_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637566654536930000/reb41/lowres/3/40113593_1.jpg",
           "Description": "Nestled neatly off a curve on Blue Lake road lies a property that opens to a world of warmth, hospitality and reprieve.  The unassuming facade welcomes you into a thoughtfully maintained.",
-          "LastUpdated": "2021-05-14 12:12:21 PM"
+          "LastUpdated": "2021-05-15 8:50:53 AM"
         }
       ],
       "Parking": [
@@ -1915,7 +1775,7 @@
     "PostalCode": "N0E1N0",
     "RelativeDetailsURL": "/real-estate/23202981/532-blue-lake-road-st-george",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-14 4:12:22 PM",
+    "PhotoChangeDateUTC": "2021-05-15 12:50:57 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23202981/532-blue-lake-road-st-george",
@@ -2872,123 +2732,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23175726/755699-second-line-mono",
     "RelativeURLFr": "/immobilier/23175726/755699-second-line-mono"
-  },
-  {
-    "Id": "22765943",
-    "MlsNumber": "N5097826",
-    "PublicRemarks": "10 Acres Of Lush Agricultural Lands In The Holland Marsh! This Prime Area Offers Rich Organic Muck Soil Suited For Growing Any Produce, Horticulture & Forestry Desired. Conveniently Located 30M N Of Toronto, And Just Minutes From Hwy 9 & 400. Perfect Location To Build Your Dream House! Zoned To Allow Agricultural Produce Storage Facilities, Nurseries Or Commercial Greenhouses & Farmers Market!**** EXTRAS **** Incl. All Apps, Elfs & Window Coverings. Fully Serviced Property (Gas, Hydro, Phone, Etc). (27863769)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 2061815,
-        "Name": "CHRISTINA CORBO",
-        "Organization": {
-          "OrganizationID": 50058,
-          "Name": "COLDWELL BANKER SELECT REAL ESTATE",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637475281490000000/lowres/1002964.jpg",
-          "Address": {
-            "AddressText": "23 MILL STREET|BOLTON, Ontario L7E1C1",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "857-2820",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "857-5910",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/50058/coldwell-banker-select-real-estate-23-mill-street-bolton-ontario-l7e1c1",
-          "PhotoLastupdate": "2021-01-29 2:42:29 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "857-2820",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "459447865"
-          }
-        ],
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "CHRISTINA",
-        "LastName": "CORBO",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2061815/christina-corbo-23-mill-street-bolton-ontario-l7e1c1",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,199,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "325 KING ST|King, Ontario L3Y4V9",
-        "Longitude": "-79.5495642",
-        "Latitude": "44.0712847",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637475281497700000/reb82/highres/6/n5097826_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637475281497700000/reb82/medres/6/n5097826_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637475281497700000/reb82/lowres/6/n5097826_1.jpg",
-          "LastUpdated": "2021-01-29 2:42:29 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,199,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1199000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "547 x 807 FT   ; 10.052 Acres!|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://wylieford.homelistingtours.com/listing2/325-king-street"
-    },
-    "PostalCode": "L3Y4V9",
-    "RelativeDetailsURL": "/real-estate/22765943/325-king-st-king-rural-king",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-01-29 7:42:29 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/22765943/325-king-st-king-rural-king",
-    "RelativeURLFr": "/immobilier/22765943/325-king-st-king"
   },
   {
     "Id": "22846838",
@@ -4914,7 +4657,6 @@
     "RelativeDetailsURL": "/real-estate/23199060/22936-park-rd-georgina-sutton-jacksons-point",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-13 6:44:08 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23199060/22936-park-rd-georgina-sutton-jacksons-point",
     "RelativeURLFr": "/immobilier/23199060/22936-park-rd-georgina"
@@ -5066,7 +4808,6 @@
     "RelativeDetailsURL": "/real-estate/23200713/2557-concession-rd-3-rd-adjala-tosorontio-rural-adjala-tosorontio",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-13 10:00:32 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23200713/2557-concession-rd-3-rd-adjala-tosorontio-rural-adjala-tosorontio",
     "RelativeURLFr": "/immobilier/23200713/2557-concession-rd-3-rd-adjala-tosorontio"
@@ -7348,10 +7089,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637560078804100000/reb82/highres/9/x5226179_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637560078804100000/reb82/medres/9/x5226179_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637560078804100000/reb82/lowres/9/x5226179_1.jpg",
-          "LastUpdated": "2021-05-07 6:11:20 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637566684023030000/reb82/highres/9/x5226179_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637566684023030000/reb82/medres/9/x5226179_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637566684023030000/reb82/lowres/9/x5226179_1.jpg",
+          "LastUpdated": "2021-05-15 9:40:02 AM"
         }
       ],
       "Parking": [
@@ -7379,7 +7120,8 @@
     "PostalCode": "L9W6S4",
     "RelativeDetailsURL": "/real-estate/23175273/347369-15th-sdrd-mono-rural-mono",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-07 10:11:20 PM",
+    "PhotoChangeDateUTC": "2021-05-15 1:40:02 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23175273/347369-15th-sdrd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23175273/347369-15th-sdrd-mono"
@@ -7849,5 +7591,233 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23203507/1-glenron-rd-hamilton-rural-flamborough",
     "RelativeURLFr": "/immobilier/23203507/1-glenron-rd-hamilton"
+  },
+  {
+    "Id": "23208095",
+    "MlsNumber": "X5235899",
+    "PublicRemarks": "View*** View** Walk Out Bungalow With 2 Kitchens. 9 Feet Ceiling In Basement.   One Of The Nicest Lots I Have Seen In A Long Time. 10.7 Acres. Sun Room/ Huge Deck/Big Size Work Shop With Nanny Apartment W Sun Room And Sauna/  Pond/ Fire Pit/  9 And 10 Ft Ceilings On Main With Good Size Kitchen/  Vaulted Ceiling. / Hardwood Floor Alover. Very Very  Oversized 2 Car Garage.**** EXTRAS **** S/S Stove/ Dishwasher/ Fridge/Washer/Dryer. (28443994)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "5 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1900628,
+        "Name": "SACHIN GUPTA",
+        "Organization": {
+          "OrganizationID": 284575,
+          "Name": "SAVE MAX SUPREME REAL ESTATE INC.",
+          "Address": {
+            "AddressText": "6755 MISSISSAUGA RD #304|MISSISSAUGA, Ontario L5N7Y2",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "495-1100",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "216-7820",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "431492378"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "HTTP://www.savemax.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/284575/save-max-supreme-real-estate-inc-6755-mississauga-rd-304-mississauga-ontario-l5n7y2",
+          "PhotoLastupdate": "2021-05-15 8:08:50 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "495-1100",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "219-3914",
+            "AreaCode": "647",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.savemax.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "464121409"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636991645200000000/lowres/1217144.jpg",
+        "Position": "Broker of Record",
+        "PermitFreetextEmail": true,
+        "FirstName": "SACHIN",
+        "LastName": "GUPTA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1900628/sachin-gupta-6755-mississauga-rd-304-mississauga-ontario-l5n7y2",
+        "AgentPhotoLastUpdated": "2019-07-19 20:22:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636991645200000000/highres/1217144.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2069523,
+        "Name": "KAVI SHARMA",
+        "Organization": {
+          "OrganizationID": 284575,
+          "Name": "SAVE MAX SUPREME REAL ESTATE INC.",
+          "Address": {
+            "AddressText": "6755 MISSISSAUGA RD #304|MISSISSAUGA, Ontario L5N7Y2",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "495-1100",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "216-7820",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "431492378"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "HTTP://www.savemax.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/284575/save-max-supreme-real-estate-inc-6755-mississauga-rd-304-mississauga-ontario-l5n7y2",
+          "PhotoLastupdate": "2021-05-15 8:08:50 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "554-6212",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "554-6212",
+            "AreaCode": "647",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "https://kavi.savemaxrealty.ca/",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/kavi.sharma1",
+            "WebsiteTypeId": "2"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "468043176"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "KAVI",
+        "LastName": "SHARMA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2069523/kavi-sharma-6755-mississauga-rd-304-mississauga-ontario-l5n7y2",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,899,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "875617 5TH LINE EHS|Mono, Ontario L9V1C1",
+        "Longitude": "-80.0409594",
+        "Latitude": "44.1138814",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637566629307070000/reb82/highres/9/x5235899_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637566629307070000/reb82/medres/9/x5235899_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637566629307070000/reb82/lowres/9/x5235899_1.jpg",
+          "LastUpdated": "2021-05-15 8:08:50 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools, Ski area",
+      "ConvertedPrice": "$1,899,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1899000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10.7 Acre   ; Lot Size Per Assessment|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://tours.parasphotography.ca/1834140?idx=1"
+    },
+    "PostalCode": "L9V1C1",
+    "RelativeDetailsURL": "/real-estate/23208095/875617-5th-line-ehs-mono-rural-mono",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-15 12:08:50 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23208095/875617-5th-line-ehs-mono-rural-mono",
+    "RelativeURLFr": "/immobilier/23208095/875617-5th-line-ehs-mono"
   }
 ]
