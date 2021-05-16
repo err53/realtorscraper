@@ -1558,6 +1558,52 @@
     }
   },
   {
+    "Id": "23209556",
+    "MlsNumber": "N5236660",
+    "Property": {
+      "Price": "$1,550,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "791 REID RD|Uxbridge, Ontario L9P1R4",
+        "Longitude": "-79.0785834",
+        "Latitude": "44.0674631",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637567497885200000/reb82/highres/0/n5236660_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637567497885200000/reb82/medres/0/n5236660_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637567497885200000/reb82/lowres/0/n5236660_1.jpg",
+          "LastUpdated": "2021-05-16 8:16:28 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,550,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1550000"
+    },
+    "Land": {
+      "SizeTotal": "354 x 1254 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "4",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23143378",
     "MlsNumber": "W5216298",
     "Property": {
