@@ -564,10 +564,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637565844904530000/reb15/highres/3/40113683_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637565844904530000/reb15/medres/3/40113683_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637565844904530000/reb15/lowres/3/40113683_1.jpg",
-          "LastUpdated": "2021-05-14 10:21:30 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637568502738370000/reb15/highres/3/40113683_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637568502738370000/reb15/medres/3/40113683_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637568502738370000/reb15/lowres/3/40113683_1.jpg",
+          "LastUpdated": "2021-05-17 12:11:13 PM"
         }
       ],
       "Parking": [
@@ -1040,6 +1040,53 @@
       "BathroomTotal": "4",
       "Bedrooms": "3",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23046094",
+    "MlsNumber": "N5187165",
+    "Property": {
+      "Price": "$1,879,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "10700 CONCESSION 6 RD|Uxbridge, Ontario L9P1R2",
+        "Longitude": "-79.1753078",
+        "Latitude": "44.1752966",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637535768139370000/reb82/highres/5/n5187165_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637535768139370000/reb82/medres/5/n5187165_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637535768139370000/reb82/lowres/5/n5187165_1.jpg",
+          "LastUpdated": "2021-04-09 2:53:33 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,879,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1879900"
+    },
+    "Land": {
+      "SizeTotal": "330.14 x 1846.1 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   },
