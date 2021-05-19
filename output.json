@@ -1516,104 +1516,262 @@
     "RelativeURLFr": "/immobilier/23202981/532-blue-lake-road-st-george"
   },
   {
-    "Id": "23200274",
-    "MlsNumber": "40113683",
-    "PublicRemarks": "Beyond spectacular 4 + 1 bedroom, 4.5 bathroom Fernbrook home offering approximately 2818 sq. ft. + the professionally finished basement in Alton Village. Close to schools, parks, shopping, restaurants & highways. Professional landscaping with an irrigation system & resort-like rear yard with custom cedar pergolas, custom lighting, interlocking stone patio, & custom iron railings. Breathtaking opulent living space with extensive upgrades & custom details throughout. Hardwood floors, crown mouldings, custom trim & columns, coffered, tray & barrel-vault ceilings, sound system, pot lights, light fixtures, custom storage closets, granite counters, glass tub/shower enclosures. The separate dining room with fluted columns & crown mouldings is the perfect place for formal celebrations. Entertain or gather with family for movie night in the generous family room equipped with a gas fireplace & built-in audio system. The stunning chef's kitchen offers upgraded cabinetry, island, granite counters, stainless steel appliances & the breakfast area offers a coffered ceiling & walkout to the backyard oasis. Upstairs offers 4 bedrooms, 3 full bathrooms, laundry room, & in the hall is a custom circular opening to the main floor centre vestibule. Rest & rejuvenate in the spacious master bedroom & pamper yourself in the lavish 5-piece ensuite bath. Downstairs the extravagance continues with crown mouldings, extensive pot lights, custom trim, recreation room, 5th bedroom & 3-piece bathroom. WOW! (63313957)",
+    "Id": "23223623",
+    "MlsNumber": "40114924",
+    "PublicRemarks": "This sprawling 12 acre property! 5 beds & 3 baths. 10 mins to S/W Guelph at the edge of Cambridge, mins to the 401, a hop & a skip from Wellington Rd 34 & 35, on Sideroad 10S you will find this secret beauty. Nestled in the country, this home gives you the convenience of being close to town. Situated on a 400 x 1343 lot, this welcoming two storey home offers over 2300 sq ft above grade (nearly the same space in the finished walkout basement) 2 beds on the main level, updated 3 pc family bath, both a living room  & a family room with wood fireplace & a dining area overlooking the kitchen. ALSO... a nearly new composite balcony. Gaze out onto the landscaped patio & large pond below. Upstairs is the primary suite with a beautiful ensuite that boasts quartz counters & a gorgeous claw foot tub & separate shower.  Heading down to the walkout basement you'll find yet another bedroom, recreation room with another wood fireplace, laundry, & a finished space currently used as a dining room but could make the perfect kitchen space for a future apartment - and the views out onto the yard from this level are breathtaking. 3 car detached garage with over  900 sq ft (with hydro and water). RECENT UPDATES: all windows & sliding doors replace 5 yrs ago. washer & dryer 3 yrs. AC, propane furnace, hot water heater, fridge, dishwasher & stove 2 yrs. Hot tub is 1.5 yrs & the backyard landscaping was done just last year. It doesn't end here, you'll also appreciate the detached 3 car garage (that offers hydro & water). There's plenty to do here at your practically staycation home. Swim in the pond each summer & skate in the winter. But let's say you had explored all there is to see into your 12 acre personal getaway, swam in the pond, took a dip in the hot tub & worked on your projects in the detached garage and wanted something else nearby to do - the Puslinch Tract Conservation is ACROSS THE ROAD with over 260 acres to explore. This location has tons of enjoyment waiting for you! (63338547)",
     "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "4 + 1",
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 2",
+      "SizeInterior": "2297.0000",
       "StoriesTotal": "2",
       "Type": "House"
     },
     "Individual": [
       {
-        "IndividualID": 1389439,
-        "Name": "Rina Di Risio",
+        "IndividualID": 1770635,
+        "Name": "Natasha Pedersen",
         "Organization": {
-          "OrganizationID": 47632,
-          "Name": "Royal LePage Real Estate Services Ltd., Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565235110000000/lowres/1001102.jpg",
+          "OrganizationID": 284058,
+          "Name": "Home Group Realty Inc.",
           "Address": {
-            "AddressText": "251 North Service Road West|Oakville, Ontario L6M3E7",
+            "AddressText": "5 Edinburgh Road South, Unit 1B|Guelph, Ontario N1H5N8",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
           "Phones": [
             {
               "PhoneType": "Telephone",
-              "PhoneNumber": "338-3737",
-              "AreaCode": "905",
+              "PhoneNumber": "780-0202",
+              "AreaCode": "226",
               "PhoneTypeId": "1"
             },
             {
               "PhoneType": "Fax",
-              "PhoneNumber": "338-7351",
-              "AreaCode": "905",
+              "PhoneNumber": "780-0203",
+              "AreaCode": "226",
               "PhoneTypeId": "4"
             }
           ],
+          "Emails": [
+            {
+              "ContactId": "463975311"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.homegrouprealty.ca/",
+              "WebsiteTypeId": "1"
+            }
+          ],
           "OrganizationType": "Firm",
+          "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/47632/royal-lepage-real-estate-services-ltd-brokerage-251-north-service-road-west-oakville-ontario-l6m3e7",
-          "PhotoLastupdate": "2021-05-13 5:25:11 PM"
+          "RelativeDetailsURL": "/office/firm/284058/home-group-realty-inc-5-edinburgh-road-south-unit-1b-guelph-ontario-n1h5n8",
+          "PhotoLastupdate": "2021-05-19 2:25:07 PM"
         },
         "Phones": [
           {
             "PhoneType": "Telephone",
-            "PhoneNumber": "804-4347",
-            "AreaCode": "416",
+            "PhoneNumber": "760-6683",
+            "AreaCode": "519",
             "PhoneTypeId": "1"
           },
           {
             "PhoneType": "Fax",
-            "PhoneNumber": "338-7351",
-            "AreaCode": "905",
+            "PhoneNumber": "780-0203",
+            "AreaCode": "226",
             "PhoneTypeId": "4"
           }
         ],
         "Websites": [
           {
-            "Website": "http://www.rina.ca",
+            "Website": "http://www.HomesByNatasha.ca",
             "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "http://www.facebook.com/guelphrealestate/",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "http://twitter.com/",
+            "WebsiteTypeId": "4"
           }
         ],
         "Emails": [
           {
-            "ContactId": "456763557"
+            "ContactId": "462923958"
           }
         ],
-        "Photo": "https://cdn.realtor.ca/individual/TS637048544400000000/lowres/1035857.jpg",
-        "Position": "Salesperson",
+        "Photo": "https://cdn.realtor.ca/individual/TS637096854600000000/lowres/1186201.jpg",
+        "Position": "Broker",
         "PermitFreetextEmail": true,
-        "FirstName": "Rina",
-        "LastName": "Di Risio",
+        "FirstName": "Natasha",
+        "LastName": "Pedersen",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1389439/rina-di-risio-251-north-service-road-west-oakville-ontario-l6m3e7",
-        "AgentPhotoLastUpdated": "2019-09-23 16:54:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637048544400000000/highres/1035857.jpg",
+        "RelativeDetailsURL": "/agent/1770635/natasha-pedersen-5-edinburgh-road-south-unit-1b-guelph-ontario-n1h5n8",
+        "AgentPhotoLastUpdated": "2019-11-18 14:51:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637096854600000000/highres/1186201.jpg",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       }
     ],
     "Property": {
-      "Price": "$1,775,000",
+      "Price": "$1,599,900",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "4637 ERWIN Road|Burlington, Ontario L7M0L6",
-        "Longitude": "-79.82445324",
-        "Latitude": "43.40357114",
+        "AddressText": "4355 SIDEROAD 10 SOUTH|Puslinch, Ontario N3C2V4",
+        "Longitude": "-80.23453504",
+        "Latitude": "43.43349377",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637568502738370000/reb15/highres/3/40113683_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637568502738370000/reb15/medres/3/40113683_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637568502738370000/reb15/lowres/3/40113683_1.jpg",
-          "LastUpdated": "2021-05-17 12:11:13 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637570311072300000/reb44/highres/4/40114924_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637570311072300000/reb44/medres/4/40114924_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637570311072300000/reb44/lowres/4/40114924_1.jpg",
+          "LastUpdated": "2021-05-19 2:25:07 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Marina",
+      "ConvertedPrice": "$1,599,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1599900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "12.38 ac|10 - 24.99 acres",
+      "AccessType": "Highway access, Highway Nearby"
+    },
+    "AlternateURL": {
+      "PhotoLink": "https://youriguide.com/4355_sideroad_10_s_cambridge_on/doc/floorplan_imperial.pdf",
+      "VideoLink": "https://youriguide.com/4355_sideroad_10_s_cambridge_on/"
+    },
+    "PostalCode": "N3C2V4",
+    "RelativeDetailsURL": "/real-estate/23223623/4355-sideroad-10-south-puslinch",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-19 6:25:07 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23223623/4355-sideroad-10-south-puslinch",
+    "RelativeURLFr": "/immobilier/23223623/4355-sideroad-10-south-puslinch"
+  },
+  {
+    "Id": "23223162",
+    "MlsNumber": "40116112",
+    "PublicRemarks": "SPECTACULAR EXECUTIVE HOME ON A PREMIUM PIRVATE LOT 190 DEEP IN A QUIET COURT ENCLAVE. TOTALLY RENOVATED FROM TOP TO BOTTOM. AMAZING BACKYARD OASIS WITH SUN DRENCHED POOL AND AMAZING GARDEN. 2ND FLOOR LAUNDRY, 4 SPACIOUS BEDROOMS, 4 BATHROOMS, FINISHED LOWER LEVEL WITH GAMES ROOM, OFFICE, HARDWOOD FLOORS, CERAMICS THROUGHOUT. GRANITE STAIRS TO LOWER LEVEL. INTERLOCKING DRIVEWAY FOR 8 CARS. EXCELLENT LOCATION! CLOSE TO SCHOOLS, SHOPPING & HIGHWAYS. (63339274)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4 + 0",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2051000,
+        "Name": "Richard Vieira",
+        "Organization": {
+          "OrganizationID": 283270,
+          "Name": "RE/MAX REALTY ENTERPRISES INC.(LSW)",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570266160000000/lowres/1326257.jpg",
+          "Address": {
+            "AddressText": "1697 Lakeshore Road West|Mississauga, Ontario L5J1J4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "855-2200",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "855-2201",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxrealtymississauga.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283270/remax-realty-enterprises-inclsw-1697-lakeshore-road-west-mississauga-ontario-l5j1j4",
+          "PhotoLastupdate": "2021-05-19 1:10:16 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "399-6704",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "855-2201",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "https://www.richv.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455127764"
+          }
+        ],
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "Richard",
+        "LastName": "Vieira",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2051000/richard-vieira-1697-lakeshore-road-west-mississauga-ontario-l5j1j4",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5298 ROEBUCK Court|Mississauga, Ontario L5R2J5",
+        "Longitude": "-79.66740922",
+        "Latitude": "43.60666654",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637570266166700000/reb85/highres/2/40116112_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637570266166700000/reb85/medres/2/40116112_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637570266166700000/reb85/lowres/2/40116112_1.jpg",
+          "LastUpdated": "2021-05-19 1:10:16 PM"
         }
       ],
       "Parking": [
@@ -1621,35 +1779,34 @@
           "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "4",
+      "ParkingSpaceTotal": "10",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Park, Schools",
-      "ConvertedPrice": "$1,775,000 ",
+      "AmmenitiesNearBy": "Park, Schools, Shopping",
+      "ConvertedPrice": "$1,599,900 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1775000"
+      "PriceUnformattedValue": "1599900"
     },
     "Business": {},
     "Land": {
-      "SizeTotal": "3670.49 ac|under 1/2 acre",
-      "SizeFrontage": "43 ft",
-      "AccessType": "Highway Nearby",
-      "LandscapeFeatures": "Lawn sprinkler, Landscaped"
+      "SizeTotal": "25 - 50 acres",
+      "SizeFrontage": "72 ft",
+      "AccessType": "Highway Nearby"
     },
     "AlternateURL": {
-      "VideoLink": "http://listing.otbxair.com/4637erwinroad/?mls"
+      "VideoLink": "http://www.venturehomes.ca/trebtour.asp?tourid=60385"
     },
-    "PostalCode": "L7M0L6",
-    "RelativeDetailsURL": "/real-estate/23200274/4637-erwin-road-burlington",
+    "PostalCode": "L5R2J5",
+    "RelativeDetailsURL": "/real-estate/23223162/5298-roebuck-court-mississauga",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-17 4:11:27 PM",
+    "PhotoChangeDateUTC": "2021-05-19 5:10:16 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23200274/4637-erwin-road-burlington",
-    "RelativeURLFr": "/immobilier/23200274/4637-erwin-road-burlington"
+    "RelativeURLEn": "/real-estate/23223162/5298-roebuck-court-mississauga",
+    "RelativeURLFr": "/immobilier/23223162/5298-roebuck-court-mississauga"
   },
   {
     "Id": "23182663",
@@ -3429,135 +3586,6 @@
     "RelativeURLFr": "/immobilier/23093074/2580-regional-rd-23-rd-uxbridge"
   },
   {
-    "Id": "23128977",
-    "MlsNumber": "N5212037",
-    "PublicRemarks": "Custom Built 3,132 Sq.Ft. Four Bedroom All Brick Home Recessed Among Tall Pines For A Tranquil & Private Setting On A 5.31 Acres Lushly Treed Lot. Detached Studio/Workshop With Hydro. Large Kennel With Fence. 3 Car Garage. Bright & Spacious Rooms. Spiral Oak Staircase. Finished Basement With 2 Bedrooms, Office, Rec Room, Games/Gym Area, Cellar, Above Grade Windows & Separate Entrance.**** EXTRAS **** Games/Gym Area 19.67'X13.42', Studio/Workshop 19.33'X15.17'. Fridge, Stove, Rangehood, B/I Dishwasher, Washer, Dryer, Central Vacuum & Equipment, All Electrical Light Fixtures & Window Coverings. (28341014)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4 + 2",
-      "StoriesTotal": "2",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1486989,
-        "Name": "ADOLF FURTADO",
-        "Organization": {
-          "OrganizationID": 273193,
-          "Name": "RE/MAX COMMUNITY REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637552160230000000/lowres/1248888.jpg",
-          "Address": {
-            "AddressText": "203 - 1265 MORNINGSIDE AVE|TORONTO, Ontario M1B3V9",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "287-2222",
-              "AreaCode": "416",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "282-4488",
-              "AreaCode": "416",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "457806935"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/273193/remax-community-realty-inc-203-1265-morningside-ave-toronto-ontario-m1b3v9",
-          "PhotoLastupdate": "2021-04-28 2:13:43 PM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "287-2222",
-            "AreaCode": "416",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "https://www.remax.ca/on/adolf-furtado-42200-ag",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "465445595"
-          }
-        ],
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "ADOLF",
-        "LastName": "FURTADO",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1486989/adolf-furtado-203---1265-morningside-ave-toronto-ontario-m1b3v9",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,830,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "16671 HIGHWAY 48|Whitchurch-Stouffville, Ontario L4A3M4",
-        "Longitude": "-79.3054198884099",
-        "Latitude": "44.0747558752968",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637552160236830000/reb82/highres/7/n5212037_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637552160236830000/reb82/medres/7/n5212037_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637552160236830000/reb82/lowres/7/n5212037_1.jpg",
-          "LastUpdated": "2021-04-28 2:13:43 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "15",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,830,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1830000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "274.22 x 858.74 FT   ; 5.31 Acres|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "http://www.videolistings.ca/video/16671highway48"
-    },
-    "PostalCode": "L4A3M4",
-    "RelativeDetailsURL": "/real-estate/23128977/16671-highway-48-whitchurch-stouffville-rural-whitchurch-stouffville",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-04-28 6:13:43 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23128977/16671-highway-48-whitchurch-stouffville-rural-whitchurch-stouffville",
-    "RelativeURLFr": "/immobilier/23128977/16671-highway-48-whitchurch-stouffville"
-  },
-  {
     "Id": "23168951",
     "MlsNumber": "N5224118",
     "PublicRemarks": "Bright & Spacious Fully Renovated 3+1 Bedroom Bungalow On A Premium 5.76 Acres *Waterfront* Over 2,100 Sqft Of Living *Open Concept* New Gourmet Kitchen W/8Ft Centre Island +Quartz Counters +Mounted Farmhouse Sink *Large Windows* Engineered Hardwood On Main *All Spacious Bedrooms* Fin' Bsmnt W/Sep Entrance + Large Rec +Office +Bedroom +Full Bath & Laundry! Income From Prime Produce Marsh Soil & Detached Insulated 30X50 Workshop W/200Amp Service**** EXTRAS **** Large Attached Garage W/ Direct Access To Home * Roof (13) Windows (14) 200 Amp Panel (21) Exterior Siding (21) Waterproofing (14) Sump Pump (21) Garage Dr (13) All Elfs, Window Coverings, Appliances & Laundry! Visit Www.1333Canal.Ca (28393069)",
@@ -4681,6 +4709,324 @@
     "RelativeURLFr": "/immobilier/23143378/12354-fifth-line-halton-hills"
   },
   {
+    "Id": "23222068",
+    "MlsNumber": "W5240458",
+    "PublicRemarks": "Gorgeous Bungalow On A Huge 5.5 Acre Lot In Highly Desired Halton Hills! This Wont Last Long. 629 Feet Frontage On Highway 25. Rare Opportunity To Find 3 Bed Rooms Plus One Bedroom Basement With Sep Entrance Treed Backyard W/ Pond Site, Stone Retaining Wall And Lots Of Parking And Over Size Garage.**** EXTRAS **** Incl. B/I Oven, D/Washer, Fridge, Washer & Dryer, Light Fixtures, Window Coverings, Water Softener, Wet Bar & Upgraded Washrooms. (28462526)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1929756,
+        "Name": "SUKHJINDER SINGH PADDA",
+        "Organization": {
+          "OrganizationID": 241162,
+          "Name": "IPRO REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570283310000000/lowres/1207567.jpg",
+          "Address": {
+            "AddressText": "30 EGLINTON AVE W SUITE C12B|MISSISSAUGA, Ontario L5R3E7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "507-4776",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "507-4779",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/241162/ipro-realty-ltd-30-eglinton-ave-w-suite-c12b-mississauga-ontario-l5r3e7",
+          "PhotoLastupdate": "2021-05-19 1:38:51 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "782-2241",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.sukhjinderpadda.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "466792802"
+          }
+        ],
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "SUKHJINDER SINGH",
+        "LastName": "PADDA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1929756/sukhjinder-singh-padda-30-eglinton-ave-w-suite-c12b-mississauga-ontario-l5r3e7",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2086611,
+        "Name": "MANINDER SINGH PADDA",
+        "Organization": {
+          "OrganizationID": 238618,
+          "Name": "IPRO REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570283310000000/lowres/1200748.jpg",
+          "Address": {
+            "AddressText": "30 EGLINTON AVE W. #C12|MISSISSAUGA, Ontario L5R3E7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "507-4776",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "507-4779",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.ipro-realty.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/238618/ipro-realty-ltd-30-eglinton-ave-w-c12-mississauga-ontario-l5r3e7",
+          "PhotoLastupdate": "2021-05-19 1:38:51 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "507-4776",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "466056227"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "MANINDER SINGH",
+        "LastName": "PADDA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2086611/maninder-singh-padda-30-eglinton-ave-w-c12-mississauga-ontario-l5r3e7",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,799,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "12673 HIGHWAY 25 RD|Halton Hills, Ontario L7J2M1",
+        "Longitude": "-80.0182747",
+        "Latitude": "43.6135012",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637570199169800000/reb86/highres/8/w5240458_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637570199169800000/reb86/medres/8/w5240458_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637570199169800000/reb86/lowres/8/w5240458_1.jpg",
+          "LastUpdated": "2021-05-19 11:18:36 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,799,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1799000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "629.3 x 404.17 FT   ; 571.86X404.77 Appx 5.527 Acres|5 - 9.99 acres"
+    },
+    "PostalCode": "L7J2M1",
+    "RelativeDetailsURL": "/real-estate/23222068/12673-highway-25-rd-halton-hills-rural-halton-hills",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-19 3:18:37 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23222068/12673-highway-25-rd-halton-hills-rural-halton-hills",
+    "RelativeURLFr": "/immobilier/23222068/12673-highway-25-rd-halton-hills"
+  },
+  {
+    "Id": "23224079",
+    "MlsNumber": "W5241082",
+    "PublicRemarks": "Spectacular Executive Home On A Premium Pirvate Lot 190 Deep In A Quiet Court Enclave. Totally Renovated From Top To Bottom. Amazing Backyard Oasis With Sun Drenched Pool And Amazing Garden. 2nd Floor Laundry, 4 Spacious Bedrooms, 4 Bathrooms, Finished Lower Level With Games Room, Office, Hardwood Floors, Ceramics Throughout. Granite Stairs To Lower Level. Interlocking Driveway For 8 Cars. Excellent Location! Close To Schools, Shopping & Highways.**** EXTRAS **** S/S Fridge, Stove, B/I Dishwasher, B/I Microwave, Washer & Dryer. Roof & Windows (2004), Furnace & Air Conditioner (2015), New Kitchen (2016), Pool Heater (2013), Pool Liner (2016), Pond W/Fish - 225 In The Garage. (28465161)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1422954,
+        "Name": "RICHARD F. VIEIRA",
+        "Organization": {
+          "OrganizationID": 51451,
+          "Name": "RE/MAX REALTY ENTERPRISES INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570318060000000/lowres/1284850.jpg",
+          "Address": {
+            "AddressText": "1697 LAKESHORE ROAD WEST|MISSISSAUGA, Ontario L5J1J4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "855-2200",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "855-2201",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51451/remax-realty-enterprises-inc-1697-lakeshore-road-west-mississauga-ontario-l5j1j4",
+          "PhotoLastupdate": "2021-05-19 2:36:46 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "855-2200",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "837-0263",
+            "AreaCode": "800",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.richv.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455704798"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636531125400000000/lowres/1061876.jpg",
+        "Position": "Broker",
+        "DesignationCodes": "ABR MVA-R RRS SRES",
+        "PermitFreetextEmail": true,
+        "FirstName": "RICHARD F.",
+        "LastName": "VIEIRA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1422954/richard-f-vieira-1697-lakeshore-road-west-mississauga-ontario-l5j1j4",
+        "AgentPhotoLastUpdated": "2018-02-01 20:09:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636531125400000000/highres/1061876.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "5298 ROEBUCK CRT|Mississauga, Ontario L5R2J5",
+        "Longitude": "-79.6676249",
+        "Latitude": "43.6065175",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637570318677400000/reb82/highres/2/w5241082_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637570318677400000/reb82/medres/2/w5241082_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637570318677400000/reb82/lowres/2/w5241082_1.jpg",
+          "LastUpdated": "2021-05-19 2:37:47 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park",
+      "ConvertedPrice": "$1,599,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1599900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "72.11 x 191.21 FT|25 - 50 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://www.venturehomes.ca/trebtour.asp?tourid=60385"
+    },
+    "PostalCode": "L5R2J5",
+    "RelativeDetailsURL": "/real-estate/23224079/5298-roebuck-crt-mississauga-hurontario",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-19 6:37:47 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23224079/5298-roebuck-crt-mississauga-hurontario",
+    "RelativeURLFr": "/immobilier/23224079/5298-roebuck-crt-mississauga"
+  },
+  {
     "Id": "23032691",
     "MlsNumber": "X5112353",
     "PublicRemarks": "This Bungalow Is Guaranteed To Impress Any Buyer Who Appreciates Spacious And Peaceful Living. There Are 7 Picturesque Acres To Enjoy Along With Glorious Views Over The Neighbouring Forest. The Layout Is Spread Over 1,834 Sqft & Offers Three Large Bedrooms, A Formal Dining Room With Built-Ins Plus A Lower Level With A Unique Wine Cellar, A Games Room And A Spacious Family Room W/ A Gas Stove. 273.09 Ft * 1,127.64 Ft * 125.26 Ft * 200.42 Ft * 147.79 * 1330.21**** EXTRAS **** In The Heart Of The Home Sits The Open-Plan Kitchen And Family Room. Prepare Delicious Meals In This Gourmet Space Complete With Gorgeous Cabinetry And An Island While Relaxing In The Family Room (28145044)",
@@ -5161,7 +5507,7 @@
         "Organization": {
           "OrganizationID": 62449,
           "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565999360000000/lowres/62449.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570318200000000/lowres/62449.jpg",
           "Address": {
             "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
             "PermitShowAddress": true,
@@ -5192,7 +5538,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-05-14 2:38:56 PM"
+          "PhotoLastupdate": "2021-05-19 2:37:00 PM"
         },
         "Phones": [
           {
@@ -5237,7 +5583,7 @@
         "Organization": {
           "OrganizationID": 62449,
           "Name": "LACEBY REAL ESTATE LIMITED",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565999360000000/lowres/62449.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570318200000000/lowres/62449.jpg",
           "Address": {
             "AddressText": "2169 KING RD, P.O. BOX 271|KING CITY, Ontario L7B1A6",
             "PermitShowAddress": true,
@@ -5268,7 +5614,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/62449/laceby-real-estate-limited-2169-king-rd-po-box-271-king-city-ontario-l7b1a6",
-          "PhotoLastupdate": "2021-05-14 2:38:56 PM"
+          "PhotoLastupdate": "2021-05-19 2:37:00 PM"
         },
         "Phones": [
           {
@@ -5338,7 +5684,7 @@
     },
     "Business": {},
     "Land": {
-      "SizeTotal": "412.5 x 1064.4 FT   ; 10 Acres, Wooded, Big Building Envelope.|10 - 24.99 acres"
+      "SizeTotal": "412.5 x 1064.4 FT   ; 10 Acres, Wooded, Large Building Env.|10 - 24.99 acres"
     },
     "PostalCode": "L9W6V2",
     "RelativeDetailsURL": "/real-estate/23022148/386106-20-sdrd-mono-rural-mono",
@@ -6712,141 +7058,6 @@
     "RelativeURLFr": "/immobilier/23176594/755699-second-line-mono"
   },
   {
-    "Id": "23190315",
-    "MlsNumber": "X5230428",
-    "PublicRemarks": "Location Location Location-Set High In The Hills Of Mono On The 2nd Line With Lovely Views And Privacy, Perfect Country  Living.  Immaculate  3 Bedroom Bungalow With Huge Open Unfinished Basement, With Amazing Potential. Enjoy  Golf, Skiing, Hiking, Biking, Mono Cliffs Park Park, Primrose School.  A World To Explore Be It A Full Time Residence Or A Weekend Get Away!**** EXTRAS **** Include: All Elfs,All Broadloom Where Laid, All Existing Window Coverings, Viking Stove, Admiral Fridge, Roper Washer, Wood Stove, Electric Hwt, Water Conditioner. Please Do No Enter The Property Without An Appointment (28420743)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1420095,
-        "Name": "DAENA ALLEN-NOXON",
-        "Organization": {
-          "OrganizationID": 114884,
-          "Name": "SOTHEBY'S INTERNATIONAL REALTY CANADA",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637564044350000000/lowres/114884.jpg",
-          "Address": {
-            "AddressText": "1867 YONGE STREET STE 100|TORONTO, Ontario M4S1Y5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "960-9995",
-              "AreaCode": "416",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "960-3222",
-              "AreaCode": "416",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "414881479"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.sothebysrealty.ca",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/114884/sothebys-international-realty-canada-1867-yonge-street-ste-100-toronto-ontario-m4s1y5",
-          "PhotoLastupdate": "2021-05-12 8:20:35 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "960-9995",
-            "AreaCode": "416",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.daenaallennoxon.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455657932"
-          }
-        ],
-        "Position": "Broker",
-        "PermitFreetextEmail": true,
-        "FirstName": "DAENA",
-        "LastName": "ALLEN-NOXON",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1420095/daena-allen-noxon-1867-yonge-street-ste-100-toronto-ontario-m4s1y5",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,049,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "755662 2ND LINE EHS LINE|Mono, Ontario L9V1B3",
-        "Longitude": "-80.0892949",
-        "Latitude": "44.095509",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637564044350270000/reb82/highres/8/x5230428_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637564044350270000/reb82/medres/8/x5230428_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637564044350270000/reb82/lowres/8/x5230428_1.jpg",
-          "LastUpdated": "2021-05-12 8:20:35 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,049,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1049000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "10 Acre   ; 10 Acres - 328' Frontage|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "VideoLink": "https://gp-photo.seehouseat.com/1830166?idx=1"
-    },
-    "PostalCode": "L9V1B3",
-    "RelativeDetailsURL": "/real-estate/23190315/755662-2nd-line-ehs-line-mono-rural-mono",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-12 12:20:35 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23190315/755662-2nd-line-ehs-line-mono-rural-mono",
-    "RelativeURLFr": "/immobilier/23190315/755662-2nd-line-ehs-line-mono"
-  },
-  {
     "Id": "23219979",
     "MlsNumber": "X5233674",
     "PublicRemarks": "This Is A Once In A Lifetime Opportunity To Own This Stunning Waterfront Property!! Sell The Cottage Because You Won't Need It When You Purchase This Amazing Property. This Property Has Deeded Access & Ownership To Almost All Of Barrie's Lake. The Home Was Custom Built To Take Advantage Of Incredible Views & Is Awaiting Its New Owner To Bring This Home Back To Its Former Glory. Lifetime Wood Siding Exterior & Steel Roof. The Property Comes Complete W.Trails**** EXTRAS **** The Property Will Have A Restrictive Covenant Registered On Title To Protect This Special Property From Any Future Development . (28453653)",
@@ -7395,5 +7606,254 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23208095/875617-5th-line-ehs-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23208095/875617-5th-line-ehs-mono"
+  },
+  {
+    "Id": "23225227",
+    "MlsNumber": "X5241284",
+    "PublicRemarks": "This Sprawling 12 Acre Property! 5 Beds & 3 Baths. Situated On A 400 X 1343 Lot, This Welcoming Two Storey Home Offers Over 2300 Sq Ft Above Grade,  2 Beds On The Main Level, Updated 3 Pc Family Bath, Both A Living Room & A Family Room With Wood Fireplace & A Dining Area Overlooking The Kitchen. Upstairs Is The Primary Suite With A Beautiful Ensuite That Boasts Quartz Counters & A Gorgeous Claw Foot Tub & Separate Shower.**** EXTRAS **** In The W/O Basement Find Another Bedroom, Rec Room W/ Another Wood Fireplace, Laundry, & Finished Space Currently Used As A Dining Room. Enjoy The 900 Sq Ft 3 Car Detached Garage, 1.5 Y/O Hot Tub  & The Recently Landscaped Backyard! (28466511)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "5",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2092433,
+        "Name": "NATASHA PEDERSEN",
+        "Organization": {
+          "OrganizationID": 280029,
+          "Name": "HOME GROUP REALTY INC.",
+          "Address": {
+            "AddressText": "5 EDINBURGH RD S UNIT 1-B|GUELPH, Ontario N1H5N8",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "780-0202",
+              "AreaCode": "226",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "780-0203",
+              "AreaCode": "226",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/280029/home-group-realty-inc-5-edinburgh-rd-s-unit-1-b-guelph-ontario-n1h5n8",
+          "PhotoLastupdate": "2021-05-19 5:38:10 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "780-0202",
+            "AreaCode": "226",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "461843547"
+          }
+        ],
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "NATASHA",
+        "LastName": "PEDERSEN",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2092433/natasha-pedersen-5-edinburgh-rd-s-unit-1-b-guelph-ontario-n1h5n8",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,599,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "4355 SIDEROAD 10 S|Puslinch, Ontario N3C2V4",
+        "Longitude": "-80.2349538",
+        "Latitude": "43.4330891",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637570426901800000/reb86/highres/4/x5241284_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637570426901800000/reb86/medres/4/x5241284_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637570426901800000/reb86/lowres/4/x5241284_1.jpg",
+          "LastUpdated": "2021-05-19 5:38:10 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "13",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,599,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1599900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "400 x 1343 FT|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "PhotoLink": "https://youriguide.com/4355_sideroad_10_s_cambridge_on/doc/floorplan_imperial_en.pdf",
+      "VideoLink": "https://unbranded.youriguide.com/4355_sideroad_10_s_cambridge_on/"
+    },
+    "PostalCode": "N3C2V4",
+    "RelativeDetailsURL": "/real-estate/23225227/4355-sideroad-10-s-puslinch-rural-puslinch",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-19 9:38:10 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23225227/4355-sideroad-10-s-puslinch-rural-puslinch",
+    "RelativeURLFr": "/immobilier/23225227/4355-sideroad-10-s-puslinch"
+  },
+  {
+    "Id": "23225852",
+    "MlsNumber": "X5241585",
+    "PublicRemarks": "A One Of A Kind Property, That Is Full Of The Most Wonderful Surprises. This Gorgeous 10-Acre Property Offers A Lifestyle That Can't Be Beat. Perfect For Horse Enthusiasts And People Looking To Get Away From It All And Jump Into A Beautiful Spring-Fed Pond. Enjoy Walking Trails, Stumble Upon An Impressive Inukshuk And End The Day On The Porch And Relish In The Expansive Sunset Views. The Warm And Inviting Home, Only Adds To The Charm Of This Very Special Spot**** EXTRAS **** Barn And Pasture Perfect For A Variety Of Animals. Hot Tub Situated On Large Deck W Views Of The Property. Amazing Master Bath. High-Speed Internet. Insulated/Drywalled Garage/Workshop. Visit Our Website For Further Details/Info/Photos. (28467437)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "2 + 2",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1946490,
+        "Name": "CASSIDY JULEE LEMOINE",
+        "Organization": {
+          "OrganizationID": 282808,
+          "Name": "RE/MAX HALLMARK CHAY REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570442560000000/lowres/1321237.jpg",
+          "Address": {
+            "AddressText": "152 BAYFIELD STREET UNIT 200|BARRIE, Ontario L4M3B5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "722-7100",
+              "AreaCode": "705",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "722-5246",
+              "AreaCode": "705",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "425315356"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "HTTP://www.remaxchay.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/282808/remax-hallmark-chay-realty-152-bayfield-street-unit-200-barrie-ontario-l4m3b5",
+          "PhotoLastupdate": "2021-05-19 6:04:16 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "722-7100",
+            "AreaCode": "705",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459357064"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "CASSIDY JULEE",
+        "LastName": "LEMOINE",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1946490/cassidy-julee-lemoine-152-bayfield-street-unit-200-barrie-ontario-l4m3b5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,575,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "796155 3RD  LINE E|Mulmur, Ontario L9V0H2",
+        "Longitude": "-80.0757869063173",
+        "Latitude": "44.1169352591622",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637570442562930000/reb82/highres/5/x5241585_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637570442562930000/reb82/medres/5/x5241585_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637570442562930000/reb82/lowres/5/x5241585_1.jpg",
+          "LastUpdated": "2021-05-19 6:04:16 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,575,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1575000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "202 x 2172 FT   ; 10 Acres|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "PhotoLink": "https://tours.jthometours.ca/v2/796155-3-line-e-mulmur-on-l9v-0h2-ca-830872/unbranded",
+      "VideoLink": "https://tours.jthometours.ca/v2/796155-3-line-e-mulmur-on-l9v-0h2-ca-830872/unbranded"
+    },
+    "PostalCode": "L9V0H2",
+    "RelativeDetailsURL": "/real-estate/23225852/796155-3rd-line-e-mulmur-rural-mulmur",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-19 10:04:16 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23225852/796155-3rd-line-e-mulmur-rural-mulmur",
+    "RelativeURLFr": "/immobilier/23225852/796155-3rd-line-e-mulmur"
   }
 ]
