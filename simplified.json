@@ -497,6 +497,55 @@
     }
   },
   {
+    "Id": "23230636",
+    "MlsNumber": "40116072",
+    "Property": {
+      "Price": "$1,499,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "13559 FOURTH Line|Halton Hills, Ontario L7J2L8",
+        "Longitude": "-80.02104926",
+        "Latitude": "43.65114223",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571220514500000/reb15/highres/2/40116072_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571220514500000/reb15/medres/2/40116072_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571220514500000/reb15/lowres/2/40116072_1.jpg",
+          "LastUpdated": "2021-05-20 3:40:51 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1499000"
+    },
+    "Land": {
+      "SizeTotal": "6.965 ac|5 - 9.99 acres",
+      "SizeFrontage": "392 ft"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "5 + 2",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "1"
+    }
+  },
+  {
     "Id": "23223162",
     "MlsNumber": "40116112",
     "Property": {
@@ -547,48 +596,151 @@
     }
   },
   {
-    "Id": "23182663",
-    "MlsNumber": "E5228558",
+    "Id": "23230806",
+    "MlsNumber": "40116859",
     "Property": {
-      "Price": "$1,500,000",
+      "Price": "$1,575,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "4475 COUNTRY LANE|Whitby, Ontario L1P1Y6",
-        "Longitude": "-78.978076",
-        "Latitude": "43.919804",
+        "AddressText": "796155 THIRD Line E|Mulmur, Ontario L9V0H2",
+        "Longitude": "-80.07598318",
+        "Latitude": "44.11695511",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637562651995930000/reb88/highres/8/e5228558_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637562651995930000/reb88/medres/8/e5228558_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637562651995930000/reb88/lowres/8/e5228558_1.jpg",
-          "LastUpdated": "2021-05-10 5:39:59 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571237324500000/reb17/highres/9/40116859_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571237324500000/reb17/medres/9/40116859_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571237324500000/reb17/lowres/9/40116859_1.jpg",
+          "LastUpdated": "2021-05-20 4:08:52 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Detached Garage"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "6",
+      "ParkingSpaceTotal": "8",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,500,000 ",
+      "ConvertedPrice": "$1,575,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1500000"
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1575000"
     },
     "Land": {
-      "SizeTotal": "341.87 x 1317 FT   ; Slightly Irregular, 1966 Survey Attached|10 - 24.99 acres"
+      "SizeTotal": "10 ac|10 - 24.99 acres",
+      "SizeFrontage": "202 ft"
     },
     "Building": {
       "BathroomTotal": "2",
-      "Bedrooms": "4",
+      "Bedrooms": "2 + 2",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "23226990",
+    "MlsNumber": "40116932",
+    "Property": {
+      "Price": "$1,699,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "714534 1ST LINE EHS Line|Mono, Ontario L9W5T6",
+        "Longitude": "-80.0909942",
+        "Latitude": "44.02658514",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/highres/2/40116932_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/medres/2/40116932_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/lowres/2/40116932_1.jpg",
+          "LastUpdated": "2021-05-20 8:14:39 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools, Shopping",
+      "ConvertedPrice": "$1,699,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1699900"
+    },
+    "Land": {
+      "SizeTotal": "19.81 ac|10 - 24.99 acres",
+      "SizeFrontage": "398 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4 + 0",
+      "SizeInterior": "1807.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23229167",
+    "MlsNumber": "40117088",
+    "Property": {
+      "Price": "$1,150,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6225 SIXTH Line|Belwood, Ontario N0B1J0",
+        "Longitude": "-80.27840825",
+        "Latitude": "43.74760765",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571132810800000/reb44/highres/8/40117088_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571132810800000/reb44/medres/8/40117088_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571132810800000/reb44/lowres/8/40117088_1.jpg",
+          "LastUpdated": "2021-05-20 1:14:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park",
+      "ConvertedPrice": "$1,150,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1150000"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "194 ft"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4 + 0",
+      "SizeInterior": "2779.0000",
       "StoriesTotal": "2",
       "Type": "House"
     }
@@ -1410,6 +1562,54 @@
     }
   },
   {
+    "Id": "23231631",
+    "MlsNumber": "N5243011",
+    "Property": {
+      "Price": "$1,188,888",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "120 PORTAGE AVE|Richmond Hill, Ontario L4E4P7",
+        "Longitude": "-79.4771338",
+        "Latitude": "43.9451167",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571305733930000/reb82/highres/1/n5243011_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571305733930000/reb82/medres/1/n5243011_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571305733930000/reb82/lowres/1/n5243011_1.jpg",
+          "LastUpdated": "2021-05-20 6:02:53 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "6",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park, Public Transit, Schools",
+      "ConvertedPrice": "$1,188,888 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1188888"
+    },
+    "Land": {
+      "SizeTotal": "41.14 x 104.33 FT   ; As Per Survey|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
     "Id": "23143378",
     "MlsNumber": "W5216298",
     "Property": {
@@ -1548,6 +1748,53 @@
       "BathroomTotal": "4",
       "Bedrooms": "4 + 1",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23229285",
+    "MlsNumber": "W5242929",
+    "Property": {
+      "Price": "$1,499,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "13559 FOURTH LINE|Halton Hills, Ontario L7J2L8",
+        "Longitude": "-80.0215857",
+        "Latitude": "43.6500942",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571147117330000/reb86/highres/9/w5242929_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571147117330000/reb86/medres/9/w5242929_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571147117330000/reb86/lowres/9/w5242929_1.jpg",
+          "LastUpdated": "2021-05-20 1:38:31 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1499000"
+    },
+    "Land": {
+      "SizeTotal": "392.34 FT   ; ..Pt 1, 20R10427; Halton Hills/Esquesing|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "3 + 4",
+      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   },
@@ -2361,7 +2608,7 @@
       "Price": "$1,575,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "796155 3RD  LINE E|Mulmur, Ontario L9V0H2",
+        "AddressText": "796155 3RD LINE E|Mulmur, Ontario L9V0H2",
         "Longitude": "-80.0757869063173",
         "Latitude": "44.1169352591622",
         "PermitShowAddress": true,
@@ -2398,6 +2645,147 @@
       "BathroomTotal": "2",
       "Bedrooms": "2 + 2",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23227380",
+    "MlsNumber": "X5242090",
+    "Property": {
+      "Price": "$1,699,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "714534 1ST LINE EHS LINE|Mono, Ontario L9W5T6",
+        "Longitude": "-80.0910765",
+        "Latitude": "44.0263337",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/highres/0/x5242090_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/medres/0/x5242090_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/lowres/0/x5242090_1.jpg",
+          "LastUpdated": "2021-05-20 5:39:58 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,699,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1699900"
+    },
+    "Land": {
+      "SizeTotal": "397.95 x 2207.97 FT   ; 19.81 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23227976",
+    "MlsNumber": "X5242150",
+    "Property": {
+      "Price": "$1,300,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8782 SIDE ROAD 17|Erin, Ontario L0N1N0",
+        "Longitude": "-80.170452",
+        "Latitude": "43.703391",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571051126300000/reb86/highres/0/x5242150_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571051126300000/reb86/medres/0/x5242150_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571051126300000/reb86/lowres/0/x5242150_1.jpg",
+          "LastUpdated": "2021-05-20 10:58:32 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,300,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1300000"
+    },
+    "Land": {
+      "SizeTotal": "311.38 x 1405 FT   ; 10 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23231953",
+    "MlsNumber": "X5243429",
+    "Property": {
+      "Price": "$1,949,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "311475 GREY COUNTY 8 RD|Southgate, Ontario N0C1B0",
+        "Longitude": "-80.3945879",
+        "Latitude": "44.169391",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571308011530000/reb82/highres/9/x5243429_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571308011530000/reb82/medres/9/x5243429_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571308011530000/reb82/lowres/9/x5243429_1.jpg",
+          "LastUpdated": "2021-05-20 6:06:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,949,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1949000"
+    },
+    "Land": {
+      "SizeTotal": "1254.52 x 2442.1 FT|50 - 100 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   }

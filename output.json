@@ -1671,6 +1671,150 @@
     "RelativeURLFr": "/immobilier/23223623/4355-sideroad-10-south-puslinch"
   },
   {
+    "Id": "23230636",
+    "MlsNumber": "40116072",
+    "PublicRemarks": "Your Wait Is Over Fantastic Investment Opportunity 6.96 Acres W/ Stream, Trees & Pond. Possible Severance Application Pending 1 Acre Front Of Property Buyer/ Buyer Agent To Due Their Own Due Diligence. Spacious Home 2770 Sqft Finished Space, + Finished Basement & Outbuilding, Plenty Of Parking For All Your Cars & Toys. Home Is Perfect For Extended Families.Upgrades Throughout The Home Some Minor Final Touches Need To Be Made To Complete This Unique Property.Too Many To List Please See Attached Documents For Review.Propane Rental $76 Approx.Hwt $18.09 Approx.Fireplace Wett Inspected 4 Yrs, Upgrades Done In The Last 4-5Years. Ac Unit On Premises Requires Install. Some Virtually Staged Photos. (63346708)",
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "5 + 2",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "1"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2102954,
+        "Name": "Rita Lange",
+        "Organization": {
+          "OrganizationID": 251020,
+          "Name": "Royal LePage Credit Valley Real Estate Inc., Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571282900000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "10045 Hurontario Street Suite A|Brampton, Ontario L6Z0E6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "793-5000",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "793-5020",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460123254"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royallepagecreditvalley.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/251020/royal-lepage-credit-valley-real-estate-inc-brokerage-10045-hurontario-street-suite-a-brampton-ontario-l6z0e6",
+          "PhotoLastupdate": "2021-05-20 5:24:50 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "793-5000",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "793-5020",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.ritalange.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "460436200"
+          }
+        ],
+        "Position": "Salesperson",
+        "DesignationCodes": "ABR",
+        "PermitFreetextEmail": true,
+        "FirstName": "Rita",
+        "LastName": "Lange",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2102954/rita-lange-10045-hurontario-street-suite-a-brampton-ontario-l6z0e6",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,499,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "13559 FOURTH Line|Halton Hills, Ontario L7J2L8",
+        "Longitude": "-80.02104926",
+        "Latitude": "43.65114223",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571220514500000/reb15/highres/2/40116072_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571220514500000/reb15/medres/2/40116072_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571220514500000/reb15/lowres/2/40116072_1.jpg",
+          "LastUpdated": "2021-05-20 3:40:51 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1499000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "6.965 ac|5 - 9.99 acres",
+      "SizeFrontage": "392 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://unbranded.mediatours.ca/property/13559-fourth-line-halton-hills/"
+    },
+    "PostalCode": "L7J2L8",
+    "RelativeDetailsURL": "/real-estate/23230636/13559-fourth-line-halton-hills",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-20 7:41:04 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23230636/13559-fourth-line-halton-hills",
+    "RelativeURLFr": "/immobilier/23230636/13559-fourth-line-halton-hills"
+  },
+  {
     "Id": "23223162",
     "MlsNumber": "40116112",
     "PublicRemarks": "SPECTACULAR EXECUTIVE HOME ON A PREMIUM PIRVATE LOT 190 DEEP IN A QUIET COURT ENCLAVE. TOTALLY RENOVATED FROM TOP TO BOTTOM. AMAZING BACKYARD OASIS WITH SUN DRENCHED POOL AND AMAZING GARDEN. 2ND FLOOR LAUNDRY, 4 SPACIOUS BEDROOMS, 4 BATHROOMS, FINISHED LOWER LEVEL WITH GAMES ROOM, OFFICE, HARDWOOD FLOORS, CERAMICS THROUGHOUT. GRANITE STAIRS TO LOWER LEVEL. INTERLOCKING DRIVEWAY FOR 8 CARS. EXCELLENT LOCATION! CLOSE TO SCHOOLS, SHOPPING & HIGHWAYS. (63339274)",
@@ -1809,120 +1953,685 @@
     "RelativeURLFr": "/immobilier/23223162/5298-roebuck-court-mississauga"
   },
   {
-    "Id": "23182663",
-    "MlsNumber": "E5228558",
-    "PublicRemarks": "Country In The City.  This 10 Acre Property Is Within 5 Minutes Of The Taunton/Brock Shopping Centre.  Four Bedrooms, Separate Dining Room, Hardwood Floors.  Large Detached Garage Plus Separate Parking Area.  The Front Of The Property Has A Beautiful Green Lawn.  The Rear Of The Property Has Rolling Treed Land With A Creek Including A Private Area With A Fire Pit And Barn.  A Short Walk Down The Road Takes You To Beautiful Heber Downs Conservation Area.**** EXTRAS **** Close To Hwy 407 For Easy Commuting To Toronto.  Presently In The Greenbelt, Adjacent To A Fully Serviced Residential Subdivision.  Enjoy Living In The Well Maintained House, Build A Custom Home Or Hold For Future Redevelopment Potential. (28411221)",
+    "Id": "23230806",
+    "MlsNumber": "40116859",
+    "PublicRemarks": "A one of a kind property, that tells an amazing story and is full of the most wonderful surprises. 10 gorgeous acres, set in the hills of Mulmur, offer a lifestyle that cant be beaten. Perfect for horse enthusiasts and people looking to get away from it all and jump into a beautiful spring-fed pond. Enjoy walking trails, stumble upon an impressive Inukshuk and end the day with a nice cold drink on the porch, while enjoying the expansive sunset views. Completing this story is a home that is warm, inviting and a place where the beautiful views greet you at every window. Offering a great layout, a huge master bedroom with a massive closet and bathroom that is truly amazing. This home has been lovingly maintained and is fondly known to be nestled in the land of rainbows and four-leaf clovers. Features: Barn and pasture perfect for a variety of animals. Hot tub situated on a large deck with beautiful views of the property. High-speed internet. Magic Windows 2017. New Decks 2018/2019. New Board & Batten 2018. Visit our website for further details/info/updates. (63347665)",
     "Building": {
       "BathroomTotal": "2",
-      "Bedrooms": "4",
+      "Bedrooms": "2 + 2",
       "StoriesTotal": "2",
-      "Type": "House"
+      "Type": "House",
+      "UnitTotal": "0"
     },
     "Individual": [
       {
-        "IndividualID": 1425135,
-        "Name": "PHILIP P. LACK",
+        "IndividualID": 2046611,
+        "Name": "Cassidy LeMoine",
         "Organization": {
-          "OrganizationID": 51588,
-          "Name": "LACK REAL ESTATE INC.",
+          "OrganizationID": 262686,
+          "Name": "RE/MAX Hallmark Chay Realty Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571237320000000/lowres/1223087.jpg",
           "Address": {
-            "AddressText": "1050 SIMCOE ST N  UNIT103B|OSHAWA, Ontario L1G4W5",
+            "AddressText": "152 Bayfield Street, Unit 200|Barrie, Ontario L4M3B5",
             "PermitShowAddress": true,
             "DisseminationArea": null
           },
           "Phones": [
             {
               "PhoneType": "Telephone",
-              "PhoneNumber": "579-7942",
-              "AreaCode": "905",
+              "PhoneNumber": "722-7100",
+              "AreaCode": "705",
               "PhoneTypeId": "1"
             },
             {
               "PhoneType": "Fax",
-              "PhoneNumber": "899-3913",
-              "AreaCode": "888",
+              "PhoneNumber": "722-5246",
+              "AreaCode": "705",
               "PhoneTypeId": "4"
             }
           ],
+          "Emails": [
+            {
+              "ContactId": "463969136"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.remaxchay.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
           "OrganizationType": "Firm",
-          "Designation": "Brokerage",
+          "HasEmail": true,
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/51588/lack-real-estate-inc-1050-simcoe-st-n-unit103b-oshawa-ontario-l1g4w5",
-          "PhotoLastupdate": "2021-05-13 5:39:30 PM"
+          "RelativeDetailsURL": "/office/firm/262686/remax-hallmark-chay-realty-brokerage-152-bayfield-street-unit-200-barrie-ontario-l4m3b5",
+          "PhotoLastupdate": "2021-05-20 4:08:52 PM"
         },
         "Phones": [
           {
             "PhoneType": "Telephone",
-            "PhoneNumber": "579-7942",
-            "AreaCode": "905",
+            "PhoneNumber": "716-8722",
+            "AreaCode": "705",
             "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "722-5246",
+            "AreaCode": "705",
+            "PhoneTypeId": "4"
           }
         ],
         "Emails": [
           {
-            "ContactId": "455662179"
+            "ContactId": "463971026"
           }
         ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1425135.jpg",
-        "Position": "Broker of Record",
+        "Position": "Salesperson",
         "PermitFreetextEmail": true,
-        "FirstName": "PHILIP P.",
-        "LastName": "LACK",
-        "CccMember": true,
+        "FirstName": "Cassidy",
+        "LastName": "LeMoine",
         "CorporationDisplayTypeId": "0",
         "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1425135/philip-p-lack-1050-simcoe-st-n-unit103b-oshawa-ontario-l1g4w5",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1425135.jpg",
+        "RelativeDetailsURL": "/agent/2046611/cassidy-lemoine-152-bayfield-street-unit-200-barrie-ontario-l4m3b5",
         "RankMyAgentKey": "",
         "RealSatisfiedKey": ""
       }
     ],
     "Property": {
-      "Price": "$1,500,000",
+      "Price": "$1,575,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "4475 COUNTRY LANE|Whitby, Ontario L1P1Y6",
-        "Longitude": "-78.978076",
-        "Latitude": "43.919804",
+        "AddressText": "796155 THIRD Line E|Mulmur, Ontario L9V0H2",
+        "Longitude": "-80.07598318",
+        "Latitude": "44.11695511",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637562651995930000/reb88/highres/8/e5228558_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637562651995930000/reb88/medres/8/e5228558_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637562651995930000/reb88/lowres/8/e5228558_1.jpg",
-          "LastUpdated": "2021-05-10 5:39:59 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571237324500000/reb17/highres/9/40116859_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571237324500000/reb17/medres/9/40116859_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571237324500000/reb17/lowres/9/40116859_1.jpg",
+          "LastUpdated": "2021-05-20 4:08:52 PM"
         }
       ],
       "Parking": [
         {
-          "Name": "Detached Garage"
+          "Name": "Attached Garage"
         }
       ],
-      "ParkingSpaceTotal": "6",
+      "ParkingSpaceTotal": "8",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,500,000 ",
+      "ConvertedPrice": "$1,575,000 ",
       "OwnershipTypeGroupIds": [
         1
       ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1500000"
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1575000"
     },
     "Business": {},
     "Land": {
-      "SizeTotal": "341.87 x 1317 FT   ; Slightly Irregular, 1966 Survey Attached|10 - 24.99 acres"
+      "SizeTotal": "10 ac|10 - 24.99 acres",
+      "SizeFrontage": "202 ft"
     },
-    "PostalCode": "L1P1Y6",
-    "RelativeDetailsURL": "/real-estate/23182663/4475-country-lane-whitby-rural-whitby",
+    "AlternateURL": {
+      "DetailsLink": "https://tours.jthometours.ca/v2/796155-3-line-e-mulmur-on-l9v-0h2-ca-830872/unbranded",
+      "VideoLink": "https://tours.jthometours.ca/v2/796155-3-line-e-mulmur-on-l9v-0h2-ca-830872/branded"
+    },
+    "PostalCode": "L9V0H2",
+    "RelativeDetailsURL": "/real-estate/23230806/796155-third-line-e-mulmur",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-10 9:39:59 PM",
+    "PhotoChangeDateUTC": "2021-05-20 8:08:52 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
-    "RelativeURLEn": "/real-estate/23182663/4475-country-lane-whitby-rural-whitby",
-    "RelativeURLFr": "/immobilier/23182663/4475-country-lane-whitby"
+    "RelativeURLEn": "/real-estate/23230806/796155-third-line-e-mulmur",
+    "RelativeURLFr": "/immobilier/23230806/796155-third-line-e-mulmur"
+  },
+  {
+    "Id": "23226990",
+    "MlsNumber": "40116932",
+    "PublicRemarks": "Your Country Dream Home Awaits! Don't Miss Your Opportunity, This Spacious 4 Bed 4 Bath Bungalow Is Situated In The Hills Of Mono, Just A Few Minutes Walk From Mono Cliffs Provincial Park On The Bruce Trail. Even Better, This Home Boasts Its Own Private 20 Acres Including A 150'X100'x 13' deep Pond That Many Of Mono's Turtles call home. Nature Lovers Heaven!! If You Are Not Convinced After Viewing The Home, Bring Your Boots To Walk The Property. Seller Has Marked A Trail In The Middle Of The Acreage. Home Is Very Efficient To Run! Enjoy The Low Taxes with the Managed Forest Credit. Many many Updates. Roof plywood, facia and eaves '18, Windows & Doors '17, all 3 main floor washrooms from '18-'21, all main floor flooring '20-'21, lower level flooring '21. Two lower level walkouts, Two cantinas! Lower level has income potential. (63343922)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4 + 0",
+      "SizeInterior": "1807.0000",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2041820,
+        "Name": "Wendy Edwards",
+        "Organization": {
+          "OrganizationID": 85445,
+          "Name": "Royal LePage RCR Realty Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570952790000000/lowres/1147509.jpg",
+          "Address": {
+            "AddressText": "206 George Street|Arthur, Ontario N0G1A0",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "848-2819",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "848-5792",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460127303"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royallepagercr.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/85445/royal-lepage-rcr-realty-brokerage-206-george-street-arthur-ontario-n0g1a0",
+          "PhotoLastupdate": "2021-05-20 8:14:39 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "215-1948",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "848-5792",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.wendyedwardsrealestate.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "http://www.facebook.com/WendyEdwardsRealEstate",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "http://www.linkedin.com/in/wendy-edwards-198a7244/",
+            "WebsiteTypeId": "3"
+          },
+          {
+            "Website": "http://twitter.com/WendyEdwards46",
+            "WebsiteTypeId": "4"
+          },
+          {
+            "Website": "https://www.instagram.com/wendyedwards6/",
+            "WebsiteTypeId": "5"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "458566714"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636857398200000000/lowres/1317713.jpg",
+        "Position": "Salesperson",
+        "DesignationCodes": "ABR",
+        "PermitFreetextEmail": true,
+        "FirstName": "Wendy",
+        "LastName": "Edwards",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2041820/wendy-edwards-206-george-street-arthur-ontario-n0g1a0",
+        "AgentPhotoLastUpdated": "2019-02-14 11:17:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636857398200000000/highres/1317713.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,699,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "714534 1ST LINE EHS Line|Mono, Ontario L9W5T6",
+        "Longitude": "-80.0909942",
+        "Latitude": "44.02658514",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/highres/2/40116932_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/medres/2/40116932_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/lowres/2/40116932_1.jpg",
+          "LastUpdated": "2021-05-20 8:14:39 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Schools, Shopping",
+      "ConvertedPrice": "$1,699,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1699900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "19.81 ac|10 - 24.99 acres",
+      "SizeFrontage": "398 ft",
+      "AccessType": "Road access"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://tours.modernimageryphotographystudio.com/ub/173258/714534-1st-line-ehs-mono-on-l9w-0p1"
+    },
+    "PostalCode": "L9W5T6",
+    "RelativeDetailsURL": "/real-estate/23226990/714534-1st-line-ehs-line-mono",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-20 12:14:39 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23226990/714534-1st-line-ehs-line-mono",
+    "RelativeURLFr": "/immobilier/23226990/714534-1st-line-ehs-line-mono"
+  },
+  {
+    "Id": "23229167",
+    "MlsNumber": "40117088",
+    "PublicRemarks": "Country living at its best!  10 acre property with cut trails through the bush and opening up into a large meadow area at the back of the property. Lots of room for the kids and pets to run and there is even a chicken coop ready for you to bring your own chickens. This property is located close to Belwood Lake, on a quiet paved road and just a few minutes drive into Fergus and 25 minutes from Orangeville. You will love this 4 bedroom, 2.5 bathroom home which is almost 2800 SQFT with a 2 car garage and the benefit of an energy efficient Geo thermal heating and cooling system (updated April 2021). On the main floor you will find the large bright living room with a newer wood burning fireplace, open concept to the formal dining room and through to the updated eat-in kitchen with custom cherry cabinetry, granite counter tops, stainless appliances and a patio door leading out to a large deck. There is also a large family room with woodburning fireplace and patio doors leading out to the deck, main floor laundry and an updated 2pc powder room. Take a walk upstairs and you will find 4 good sized bedrooms, the primary bedroom has an updated 3pc ensuite, the main 5pc bathroom has also been updated, there is a reading nook and a large storage/linen closet. Head down to the finished basement and you will find the large rec room with propane fireplace, a huge home office area, fitness room, utility room and a huge storage room. This property has so much to offer, make your call today! You will not be disappointed!  This one will go quickly! (63346255)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4 + 0",
+      "SizeInterior": "2779.0000",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1555808,
+        "Name": "Carl Wilkinson",
+        "Organization": {
+          "OrganizationID": 209691,
+          "Name": "Edge Realty Solutions Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571132810000000/lowres/1193452.jpg",
+          "Address": {
+            "AddressText": "135 St David Street South Unit 6|Fergus, Ontario N1M2L4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "843-7653",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "843-7652",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463975396"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.edgerealtysolutions.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/209691/edge-realty-solutions-brokerage-135-st-david-street-south-unit-6-fergus-ontario-n1m2l4",
+          "PhotoLastupdate": "2021-05-20 1:14:41 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "546-3755",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "843-7652",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.edgerealtysolutions.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455150849"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1145229.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "Carl",
+        "LastName": "Wilkinson",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1555808/carl-wilkinson-135-st-david-street-south-unit-6-fergus-ontario-n1m2l4",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1145229.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1556211,
+        "Name": "Kim Murphy",
+        "Organization": {
+          "OrganizationID": 209691,
+          "Name": "Edge Realty Solutions Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571132810000000/lowres/1193452.jpg",
+          "Address": {
+            "AddressText": "135 St David Street South Unit 6|Fergus, Ontario N1M2L4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "843-7653",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "843-7652",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463975396"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.edgerealtysolutions.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/209691/edge-realty-solutions-brokerage-135-st-david-street-south-unit-6-fergus-ontario-n1m2l4",
+          "PhotoLastupdate": "2021-05-20 1:14:41 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "830-9444",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "843-7652",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.edgerealtysolutions.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456778265"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1113628.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Kim",
+        "LastName": "Murphy",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1556211/kim-murphy-135-st-david-street-south-unit-6-fergus-ontario-n1m2l4",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1113628.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 2093305,
+        "Name": "Eric Stupak",
+        "Organization": {
+          "OrganizationID": 209691,
+          "Name": "Edge Realty Solutions Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571132810000000/lowres/1193452.jpg",
+          "Address": {
+            "AddressText": "135 St David Street South Unit 6|Fergus, Ontario N1M2L4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "843-7653",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "843-7652",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463975396"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.edgerealtysolutions.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/209691/edge-realty-solutions-brokerage-135-st-david-street-south-unit-6-fergus-ontario-n1m2l4",
+          "PhotoLastupdate": "2021-05-20 1:14:41 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "827-8018",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "843-7652",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456770680"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637498087800000000/lowres/1365788.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Eric",
+        "LastName": "Stupak",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2093305/eric-stupak-135-st-david-street-south-unit-6-fergus-ontario-n1m2l4",
+        "AgentPhotoLastUpdated": "2021-02-25 00:13:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637498087800000000/highres/1365788.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      },
+      {
+        "IndividualID": 1859929,
+        "Name": "Linda Marquardt",
+        "Organization": {
+          "OrganizationID": 209691,
+          "Name": "Edge Realty Solutions Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571132810000000/lowres/1193452.jpg",
+          "Address": {
+            "AddressText": "135 St David Street South Unit 6|Fergus, Ontario N1M2L4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "843-7653",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "843-7652",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463975396"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.edgerealtysolutions.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/209691/edge-realty-solutions-brokerage-135-st-david-street-south-unit-6-fergus-ontario-n1m2l4",
+          "PhotoLastupdate": "2021-05-20 1:14:41 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "830-5030",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "843-7652",
+            "AreaCode": "519",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "456776946"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1201225.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Linda",
+        "LastName": "Marquardt",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1859929/linda-marquardt-135-st-david-street-south-unit-6-fergus-ontario-n1m2l4",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1201225.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,150,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6225 SIXTH Line|Belwood, Ontario N0B1J0",
+        "Longitude": "-80.27840825",
+        "Latitude": "43.74760765",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571132810800000/reb44/highres/8/40117088_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571132810800000/reb44/medres/8/40117088_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571132810800000/reb44/lowres/8/40117088_1.jpg",
+          "LastUpdated": "2021-05-20 1:14:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park",
+      "ConvertedPrice": "$1,150,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1150000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "SizeFrontage": "194 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youriguide.com/6225_6_line_belwood_on/"
+    },
+    "PostalCode": "N0B1J0",
+    "RelativeDetailsURL": "/real-estate/23229167/6225-sixth-line-belwood",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-20 5:14:41 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23229167/6225-sixth-line-belwood",
+    "RelativeURLFr": "/immobilier/23229167/6225-sixth-line-belwood"
   },
   {
     "Id": "23019215",
@@ -4537,6 +5246,137 @@
     "RelativeURLFr": "/immobilier/23209556/791-reid-rd-uxbridge"
   },
   {
+    "Id": "23231631",
+    "MlsNumber": "N5243011",
+    "PublicRemarks": "Beautiful Monarch Built Home Located In The Most Sought After Oak Ridges Neighborhood! This Detached 2 Storey Home Features An Open Concept Living And Dining Area W/ Hardwood Floors, Family Size Kitchen W/O To Custom Deck With Pergola Perfect For Entertaining, 9 Foot Ceilings Pot Lights Crown Molding's Huge In Between Family Room Which Can Be Converted To A Bedroom! Master Br Features His/Her Closets And 4 Piece Ensuite. Oak Staircase With Iron Spindles.**** EXTRAS **** Steps To Temperanceville Park, Cul De Sac, Walking Trails! Includes Gas Stove, B/I Microwave, Dishwasher, Fridge, Washer, Dryer, Cvac, Cac, Garden Shed, Light Fixtures, Window Coverings. Close To All Amenities, Schools, Shopping, Transit. (28474642)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1410174,
+        "Name": "ADIL MALIK",
+        "Organization": {
+          "OrganizationID": 91221,
+          "Name": "HOMELIFE FRONTIER REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571305730000000/lowres/91221.jpg",
+          "Address": {
+            "AddressText": "7620 YONGE STREET UNIT 400|THORNHILL, Ontario L4J1V9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "218-8800",
+              "AreaCode": "416",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "218-8807",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "455959826"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/91221/homelife-frontier-realty-inc-7620-yonge-street-unit-400-thornhill-ontario-l4j1v9",
+          "PhotoLastupdate": "2021-05-20 6:02:53 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "218-8800",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.adilmalik.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455959944"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "ADIL",
+        "LastName": "MALIK",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1410174/adil-malik-7620-yonge-street-unit-400-thornhill-ontario-l4j1v9",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,188,888",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "120 PORTAGE AVE|Richmond Hill, Ontario L4E4P7",
+        "Longitude": "-79.4771338",
+        "Latitude": "43.9451167",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571305733930000/reb82/highres/1/n5243011_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571305733930000/reb82/medres/1/n5243011_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571305733930000/reb82/lowres/1/n5243011_1.jpg",
+          "LastUpdated": "2021-05-20 6:02:53 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "6",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park, Public Transit, Schools",
+      "ConvertedPrice": "$1,188,888 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1188888"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "41.14 x 104.33 FT   ; As Per Survey|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://unbranded.mediatours.ca/property/120-portage-avenue-richmond-hill/"
+    },
+    "PostalCode": "L4E4P7",
+    "RelativeDetailsURL": "/real-estate/23231631/120-portage-ave-richmond-hill-oak-ridges",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-20 10:02:53 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23231631/120-portage-ave-richmond-hill-oak-ridges",
+    "RelativeURLFr": "/immobilier/23231631/120-portage-ave-richmond-hill"
+  },
+  {
     "Id": "23143378",
     "MlsNumber": "W5216298",
     "PublicRemarks": "Surrounded By Nature, A Custom Built 2500Sqft 3+1 Bedroom Bungalow On 7.72 Acres With Walking Paths & Streams Throughout, In The Heart Of Scenic Limehouse. The Home Features Living/Dining Room With Floor To Ceiling Windows Overlooking Nature, Updated Kitchen With Lrg Eat-In Area, Large Master With Wood Burning Fireplace, Bright Sun Filled Family Room With A Wood Burning Fireplace, Finished Basement With The 4 Bedroom, Home, Gym & Lots Of Storage.**** EXTRAS **** Property Features Detached Dbl Car Garage, Inground Pool, Garden Shed, Gazebo, Fire Pit, Hot Tub, Lrg Circular Drive, Include All Appliances, & Electrical Light Fixtures. (28359676)",
@@ -4725,7 +5565,7 @@
         "Organization": {
           "OrganizationID": 241162,
           "Name": "IPRO REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570283310000000/lowres/1207567.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571147080000000/lowres/1207567.jpg",
           "Address": {
             "AddressText": "30 EGLINTON AVE W SUITE C12B|MISSISSAUGA, Ontario L5R3E7",
             "PermitShowAddress": true,
@@ -4750,7 +5590,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/241162/ipro-realty-ltd-30-eglinton-ave-w-suite-c12b-mississauga-ontario-l5r3e7",
-          "PhotoLastupdate": "2021-05-19 1:38:51 PM"
+          "PhotoLastupdate": "2021-05-20 1:38:28 PM"
         },
         "Phones": [
           {
@@ -4787,7 +5627,7 @@
         "Organization": {
           "OrganizationID": 238618,
           "Name": "IPRO REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570283310000000/lowres/1200748.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571147080000000/lowres/1200748.jpg",
           "Address": {
             "AddressText": "30 EGLINTON AVE W. #C12|MISSISSAUGA, Ontario L5R3E7",
             "PermitShowAddress": true,
@@ -4818,7 +5658,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/238618/ipro-realty-ltd-30-eglinton-ave-w-c12-mississauga-ontario-l5r3e7",
-          "PhotoLastupdate": "2021-05-19 1:38:51 PM"
+          "PhotoLastupdate": "2021-05-20 1:38:28 PM"
         },
         "Phones": [
           {
@@ -4881,6 +5721,9 @@
     "Business": {},
     "Land": {
       "SizeTotal": "629.3 x 404.17 FT   ; 571.86X404.77 Appx 5.527 Acres|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://www.youtube.com/watch?v=D5tYvmwFWcA"
     },
     "PostalCode": "L7J2M1",
     "RelativeDetailsURL": "/real-estate/23222068/12673-highway-25-rd-halton-hills-rural-halton-hills",
@@ -5025,6 +5868,136 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23224079/5298-roebuck-crt-mississauga-hurontario",
     "RelativeURLFr": "/immobilier/23224079/5298-roebuck-crt-mississauga"
+  },
+  {
+    "Id": "23229285",
+    "MlsNumber": "W5242929",
+    "PublicRemarks": "Your Wait Is Over Fantastic Investment Opportunity 6.96 Acres W/ Stream, Trees & Pond. Possible Severance Application Pending 1 Acre Front Of Property Buyer/ Buyer Agent To Due Their Own Due Diligence. Spacious Home 2770 Sqft Finished Space, + Finished Basement & Outbuilding, Plenty Of Parking For All Your Cars & Toys. Home Is Perfect For Extended Families.Upgrades Throughout The Home Some Minor Final Touches Need To Be Made To Complete This Unique Property.**** EXTRAS **** Too Many To List Please See Attached Documents For Review.Propane Rental $76 Approx.Hwt $18.09 Approx.Fireplace Wett Inspected 4 Yrs, Upgrades Done In The Last 4-5Years. Ac Unit On Premises Requires Install. Some Virtually Staged Photos. (28472214)",
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "3 + 4",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1822453,
+        "Name": "RITA LANGE",
+        "Organization": {
+          "OrganizationID": 162091,
+          "Name": "ROYAL LEPAGE CREDIT VALLEY REAL ESTATE",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571291030000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "10045 HURONTARIO ST #1|BRAMPTON, Ontario L6Z0E6",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "793-5000",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "793-5020",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/162091/royal-lepage-credit-valley-real-estate-10045-hurontario-st-1-brampton-ontario-l6z0e6",
+          "PhotoLastupdate": "2021-05-20 5:38:23 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "793-5000",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "793-5000",
+            "AreaCode": "905",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.ritalange.ca",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463755884"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "RITA",
+        "LastName": "LANGE",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1822453/rita-lange-10045-hurontario-st-1-brampton-ontario-l6z0e6",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,499,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "13559 FOURTH LINE|Halton Hills, Ontario L7J2L8",
+        "Longitude": "-80.0215857",
+        "Latitude": "43.6500942",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571147117330000/reb86/highres/9/w5242929_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571147117330000/reb86/medres/9/w5242929_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571147117330000/reb86/lowres/9/w5242929_1.jpg",
+          "LastUpdated": "2021-05-20 1:38:31 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,499,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1499000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "392.34 FT   ; ..Pt 1, 20R10427; Halton Hills/Esquesing|5 - 9.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://unbranded.mediatours.ca/property/13559-fourth-line-halton-hills/"
+    },
+    "PostalCode": "L7J2L8",
+    "RelativeDetailsURL": "/real-estate/23229285/13559-fourth-line-halton-hills-acton",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-20 5:38:31 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23229285/13559-fourth-line-halton-hills-acton",
+    "RelativeURLFr": "/immobilier/23229285/13559-fourth-line-halton-hills"
   },
   {
     "Id": "23032691",
@@ -5690,7 +6663,6 @@
     "RelativeDetailsURL": "/real-estate/23022148/386106-20-sdrd-mono-rural-mono",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-18 5:58:12 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23022148/386106-20-sdrd-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23022148/386106-20-sdrd-mono"
@@ -6438,7 +7410,6 @@
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-05-11 7:20:34 PM",
     "PhotoChangeDateUTC": "2021-05-18 3:07:20 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23140844/103026-10th-sdrd-east-garafraxa-rural-east-garafraxa",
     "RelativeURLFr": "/immobilier/23140844/103026-10th-sdrd-east-garafraxa"
@@ -6662,7 +7633,7 @@
         "Organization": {
           "OrganizationID": 282808,
           "Name": "RE/MAX HALLMARK CHAY REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637564397060000000/lowres/1321237.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571187000000000/lowres/1321237.jpg",
           "Address": {
             "AddressText": "152 BAYFIELD STREET UNIT 200|BARRIE, Ontario L4M3B5",
             "PermitShowAddress": true,
@@ -6699,7 +7670,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/282808/remax-hallmark-chay-realty-152-bayfield-street-unit-200-barrie-ontario-l4m3b5",
-          "PhotoLastupdate": "2021-05-12 6:08:26 PM"
+          "PhotoLastupdate": "2021-05-20 2:45:00 PM"
         },
         "Phones": [
           {
@@ -7173,7 +8144,6 @@
     "RelativeDetailsURL": "/real-estate/23219979/1145-roseville-rd-cambridge",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-18 9:59:44 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23219979/1145-roseville-rd-cambridge",
     "RelativeURLFr": "/immobilier/23219979/1145-roseville-rd-cambridge"
@@ -7742,7 +8712,7 @@
         "Organization": {
           "OrganizationID": 282808,
           "Name": "RE/MAX HALLMARK CHAY REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570442560000000/lowres/1321237.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571085010000000/lowres/1321237.jpg",
           "Address": {
             "AddressText": "152 BAYFIELD STREET UNIT 200|BARRIE, Ontario L4M3B5",
             "PermitShowAddress": true,
@@ -7779,7 +8749,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/282808/remax-hallmark-chay-realty-152-bayfield-street-unit-200-barrie-ontario-l4m3b5",
-          "PhotoLastupdate": "2021-05-19 6:04:16 PM"
+          "PhotoLastupdate": "2021-05-20 11:55:01 AM"
         },
         "Phones": [
           {
@@ -7809,7 +8779,7 @@
       "Price": "$1,575,000",
       "Type": "Single Family",
       "Address": {
-        "AddressText": "796155 3RD  LINE E|Mulmur, Ontario L9V0H2",
+        "AddressText": "796155 3RD LINE E|Mulmur, Ontario L9V0H2",
         "Longitude": "-80.0757869063173",
         "Latitude": "44.1169352591622",
         "PermitShowAddress": true,
@@ -7855,5 +8825,425 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23225852/796155-3rd-line-e-mulmur-rural-mulmur",
     "RelativeURLFr": "/immobilier/23225852/796155-3rd-line-e-mulmur"
+  },
+  {
+    "Id": "23227380",
+    "MlsNumber": "X5242090",
+    "PublicRemarks": "Your Country Dream Home Awaits! Don't Miss Your Opportunity, This Spacious 4 Bed 4 Bath Bungalow Is Situated In The Hills Of Mono, Just A Few Minutes Walk From Mono Cliffs Provincial Park On The Bruce Trail. Even Better, This Home Boasts Its Own Private 20 Acres Including A 150'X100' Pond That Many Of Mono's Turtles Reside In. Nature Lovers Heaven!! If You Are Not Convinced After Viewing The Home, Bring Your Boots To Walk The Property. Seller Has Marked**** EXTRAS **** A Trail In The Middle Of The Acreage. Home Is Very Efficient To Run! Enjoy The Low Taxes W/ Managed Forest Credit. Many Updates Are Detailed In Attach'. Roof '18 Windows & Doors '17, Washroomx3 '18-'21. (28469470)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1929333,
+        "Name": "WENDY EDWARDS",
+        "Organization": {
+          "OrganizationID": 279258,
+          "Name": "ROYAL LEPAGE RCR REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570957270000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "941-5151",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "941-5432",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881119"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royallepagercr.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
+          "PhotoLastupdate": "2021-05-20 8:22:07 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "215-1948",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "268-2455",
+            "AreaCode": "800",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.wendyedwardsrealestate.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/wendyedwardsrealproperty/",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "http://www.twitter.com/@WendyEdwards46",
+            "WebsiteTypeId": "4"
+          },
+          {
+            "Website": "https://www.linkedin.com/in/wendy-edwards-198a7244/",
+            "WebsiteTypeId": "3"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459347266"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1929333.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "WENDY",
+        "LastName": "EDWARDS",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1929333/wendy-edwards-14---75-first-street-orangeville-ontario-l9w2e7",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1929333.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,699,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "714534 1ST LINE EHS LINE|Mono, Ontario L9W5T6",
+        "Longitude": "-80.0910765",
+        "Latitude": "44.0263337",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/highres/0/x5242090_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/medres/0/x5242090_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/lowres/0/x5242090_1.jpg",
+          "LastUpdated": "2021-05-20 5:39:58 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,699,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1699900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "397.95 x 2207.97 FT   ; 19.81 Acres|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "http://tours.modernimageryphotographystudio.com/ub/173258/714534-1st-line-ehs-mono-on-l9w-0p1"
+    },
+    "PostalCode": "L9W5T6",
+    "RelativeDetailsURL": "/real-estate/23227380/714534-1st-line-ehs-line-mono-rural-mono",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-20 9:39:58 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23227380/714534-1st-line-ehs-line-mono-rural-mono",
+    "RelativeURLFr": "/immobilier/23227380/714534-1st-line-ehs-line-mono"
+  },
+  {
+    "Id": "23227976",
+    "MlsNumber": "X5242150",
+    "PublicRemarks": "Newly Painted Bungalow In Private, Serene Setting North Of Acton, East Of Guelph. A Large Covered Country Verandah Is The Perfect Spot A Beverage! Meander Manicured Treed Trails To 3 Ponds & There Is Clear Field Suitable For A Horse Or Other Grazers. Lower Level Mudroom Entry From Oversize 31'X24' Garage. 2nd Drive To Shed**** EXTRAS **** Shingles, Eaves & Soffits (18), Oil Tank (01).  Updated Kitchen & Main Bathroom & Updated Laminate Flooring. Fenced Chicken Coup & Large Fenced Play Area For 2 Or 4-Legged Kids. Low Taxes C L T I P. (28470126)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1521724,
+        "Name": "JACQUELINE J GUAGLIARDI",
+        "Organization": {
+          "OrganizationID": 155990,
+          "Name": "ROYAL LEPAGE RCR REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571051120000000/lowres/155990.jpg",
+          "Address": {
+            "AddressText": "14-75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "941-5151",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "941-5432",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/155990/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
+          "PhotoLastupdate": "2021-05-20 10:58:32 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "939-7355",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "268-2455",
+            "AreaCode": "800",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.jacquelineguagliardi.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455651556"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636736659000000000/lowres/1137787.jpg",
+        "Position": "Broker",
+        "DesignationCodes": "CLHMS",
+        "PermitFreetextEmail": true,
+        "FirstName": "JACQUELINE J",
+        "LastName": "GUAGLIARDI",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1521724/jacqueline-j-guagliardi-14-75-first-street-orangeville-ontario-l9w2e7",
+        "AgentPhotoLastUpdated": "2018-09-27 17:25:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636736659000000000/highres/1137787.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,300,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "8782 SIDE ROAD 17|Erin, Ontario L0N1N0",
+        "Longitude": "-80.170452",
+        "Latitude": "43.703391",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571051126300000/reb86/highres/0/x5242150_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571051126300000/reb86/medres/0/x5242150_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571051126300000/reb86/lowres/0/x5242150_1.jpg",
+          "LastUpdated": "2021-05-20 10:58:32 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,300,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1300000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "311.38 x 1405 FT   ; 10 Acres|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://tours.jthometours.ca/v2/8782-sideroad-17-erin-on-n0b-1t0-ca-842422/unbranded"
+    },
+    "PostalCode": "L0N1N0",
+    "RelativeDetailsURL": "/real-estate/23227976/8782-side-road-17-erin-rural-erin",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-20 2:58:32 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23227976/8782-side-road-17-erin-rural-erin",
+    "RelativeURLFr": "/immobilier/23227976/8782-side-road-17-erin"
+  },
+  {
+    "Id": "23231953",
+    "MlsNumber": "X5243429",
+    "PublicRemarks": "\"\"Work From Home\"\" Never Sounded So Good!!! This Beautiful Custom Built, All Brick Raised-Bungalow Sits On 72 Acres Of Absolute Paradise! This Home Boasts Numerous Upgraded Qualities Such As 9' Ceilings On The Main Floor As Well As Being Built With All 2\"\"X 6\"\" Wood Construction To Mention Just A Few!!! The Grounds Of This Spectacular Property Lend Itself To The Perfect Backyard Oasis And Is Ready For You To Create The Ultimate Escape Into Natures Living Room!**** EXTRAS **** All Kitchen Appliances Included: Refrigerator(X2), Stove(X2), Dishwasher(X2), Washer And Dryer. All Electrical Light Fixtures And Window Coverings! Additional Unfinished Second Dwelling On Site! (28475382)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2067652,
+        "Name": "MARCO SCARPELLI",
+        "Organization": {
+          "OrganizationID": 289178,
+          "Name": "CENTURY 21 RED STAR REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571308010000000/lowres/1375274.jpg",
+          "Address": {
+            "AddressText": "50 STEELES AVE E #201|MILTON, Ontario L9T4W9",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "226-4500",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "740-5101",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "467125892"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "HTTP://www.c21redstsar.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/289178/century-21-red-star-realty-inc-50-steeles-ave-e-201-milton-ontario-l9t4w9",
+          "PhotoLastupdate": "2021-05-20 6:06:41 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "226-4500",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "461075428"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "MARCO",
+        "LastName": "SCARPELLI",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2067652/marco-scarpelli-50-steeles-ave-e-201-milton-ontario-l9t4w9",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,949,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "311475 GREY COUNTY 8 RD|Southgate, Ontario N0C1B0",
+        "Longitude": "-80.3945879",
+        "Latitude": "44.169391",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571308011530000/reb82/highres/9/x5243429_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571308011530000/reb82/medres/9/x5243429_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571308011530000/reb82/lowres/9/x5243429_1.jpg",
+          "LastUpdated": "2021-05-20 6:06:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,949,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1949000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "1254.52 x 2442.1 FT|50 - 100 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://view.tours4listings.com/311475-grey-county-road-8-dundalk/nb/"
+    },
+    "PostalCode": "N0C1B0",
+    "RelativeDetailsURL": "/real-estate/23231953/311475-grey-county-8-rd-southgate-dundalk",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-20 10:06:41 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23231953/311475-grey-county-8-rd-southgate-dundalk",
+    "RelativeURLFr": "/immobilier/23231953/311475-grey-county-8-rd-southgate"
   }
 ]
