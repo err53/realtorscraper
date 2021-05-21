@@ -375,7 +375,7 @@
   {
     "Id": "23197890",
     "MlsNumber": "40099221",
-    "PublicRemarks": "Superb may best describe this gorgeous hobby farm located on a quiet country road between Paris and St. George. Quality craftsmanship is evident in this hanadsome remodeled 3 bedroom, 3 bathroom home featuring a spacious open concept with rich dark hardwood floors, gorgeous functional kitchen with newer stainless appliances and over size island with handy bar fridge adjoining what could easily function as a dining room or living room. Also on the main level, a huge family room with modern Wett certified wood burning fireplace. What was formerly 2 bedrooms has been converted to a huge master with fireplace and ensuite privilege bathroom with heated floors. Completing the main floor is an oversized mudroom with loads of storage and another 2 piece bathroom also with heated floors. On the lower level, a cozy rec room, and 2 more spacious bedrooms, a third bathroom with brand new oversize shower and more heated floors! Paradise awaits just out your back door with classy poured concrete patio with hot tub surrounded by freshly mulched gardens and overlooking serene countryside. Adorned with 2 shops and a massive 40 x 80 pole barn, wood and hay sheds and several fenced areas for animals, this fantastic property has so many possibilities. You must see this incredible home in person to truly appreciate all it has to offer. (63297111)",
+    "PublicRemarks": "Superb may best describe this gorgeous hobby farm located on a quiet country road between Paris and St. George. Quality craftsmanship is evident in this handsome remodeled 3 bedroom, 3 bathroom home featuring a spacious open concept with rich dark hardwood floors, gorgeous functional kitchen with newer stainless appliances and over size island with handy bar fridge adjoining what could easily function as a dining room or living room. Also on the main level, a huge family room with modern Wett certified wood burning fireplace. What was formerly 2 bedrooms has been converted to a huge master with fireplace and ensuite privilege bathroom with heated floors. Completing the main floor is an oversized mudroom with loads of storage and another 2 piece bathroom also with heated floors. On the lower level, a cozy rec room, and 2 more spacious bedrooms, a third bathroom with brand new oversize shower and more heated floors! Paradise awaits just out your back door with classy poured concrete patio with hot tub surrounded by freshly mulched gardens and overlooking serene countryside. Adorned with a massive 40 x 80 pole barn, a livestock barn with horse stalls, an extra shop that could serve a number of purposes, a wood shed and several fenced areas for animals, this fantastic property has so many possibilities. You must see this incredible home in person to truly appreciate all it has to offer. (63297111)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "1 + 2",
@@ -389,7 +389,7 @@
         "Organization": {
           "OrganizationID": 92518,
           "Name": "Sutton Team Realty Inc.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565083740000000/lowres/1160225.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572229650000000/lowres/1160225.jpg",
           "Address": {
             "AddressText": "2 Holiday Dr Unit A|Brantford, Ontario N3R7J4",
             "PermitShowAddress": true,
@@ -425,7 +425,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/92518/sutton-team-realty-inc-2-holiday-dr-unit-a-brantford-ontario-n3r7j4",
-          "PhotoLastupdate": "2021-05-13 1:12:54 PM"
+          "PhotoLastupdate": "2021-05-21 7:42:45 PM"
         },
         "Phones": [
           {
@@ -465,7 +465,7 @@
       }
     ],
     "Property": {
-      "Price": "$1,600,000",
+      "Price": "$1,549,999",
       "Type": "Single Family",
       "Address": {
         "AddressText": "142 CLARKE Road|Paris, Ontario N3L3E1",
@@ -491,12 +491,12 @@
       "ParkingSpaceTotal": "10",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,600,000 ",
+      "ConvertedPrice": "$1,549,999 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1600000"
+      "PriceUnformattedValue": "1549999"
     },
     "Business": {},
     "Land": {
@@ -509,6 +509,8 @@
     "PostalCode": "N3L3E1",
     "RelativeDetailsURL": "/real-estate/23197890/142-clarke-road-paris",
     "StatusId": "1",
+    "PriceChangeDateUTC": "2021-05-21 2:25:40 PM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-05-13 4:32:48 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/23197890/142-clarke-road-paris",
@@ -1388,7 +1390,7 @@
         "Organization": {
           "OrganizationID": 48880,
           "Name": "Coldwell Banker Homefront Realty",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637566655660000000/lowres/1001342.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571959850000000/lowres/1001342.jpg",
           "Address": {
             "AddressText": "245 King George Road|Brantford, Ontario N3R7N7",
             "PermitShowAddress": true,
@@ -1424,7 +1426,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/48880/coldwell-banker-homefront-realty-245-king-george-road-brantford-ontario-n3r7n7",
-          "PhotoLastupdate": "2021-05-15 8:52:46 AM"
+          "PhotoLastupdate": "2021-05-21 12:13:05 PM"
         },
         "Phones": [
           {
@@ -1665,7 +1667,6 @@
     "RelativeDetailsURL": "/real-estate/23223623/4355-sideroad-10-south-puslinch",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-19 6:25:07 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23223623/4355-sideroad-10-south-puslinch",
     "RelativeURLFr": "/immobilier/23223623/4355-sideroad-10-south-puslinch"
@@ -1947,7 +1948,6 @@
     "RelativeDetailsURL": "/real-estate/23223162/5298-roebuck-court-mississauga",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-19 5:10:16 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23223162/5298-roebuck-court-mississauga",
     "RelativeURLFr": "/immobilier/23223162/5298-roebuck-court-mississauga"
@@ -2108,7 +2108,7 @@
         "Organization": {
           "OrganizationID": 85445,
           "Name": "Royal LePage RCR Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570952790000000/lowres/1147509.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571444770000000/lowres/1147509.jpg",
           "Address": {
             "AddressText": "206 George Street|Arthur, Ontario N0G1A0",
             "PermitShowAddress": true,
@@ -2144,7 +2144,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/85445/royal-lepage-rcr-realty-brokerage-206-george-street-arthur-ontario-n0g1a0",
-          "PhotoLastupdate": "2021-05-20 8:14:39 AM"
+          "PhotoLastupdate": "2021-05-20 9:54:37 PM"
         },
         "Phones": [
           {
@@ -2229,7 +2229,7 @@
       "ParkingSpaceTotal": "12",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools, Shopping",
+      "AmmenitiesNearBy": "Park, Schools, Shopping",
       "ConvertedPrice": "$1,699,900 ",
       "OwnershipTypeGroupIds": [
         1
@@ -2241,7 +2241,8 @@
     "Land": {
       "SizeTotal": "19.81 ac|10 - 24.99 acres",
       "SizeFrontage": "398 ft",
-      "AccessType": "Road access"
+      "AccessType": "Road access",
+      "LandscapeFeatures": "Landscaped"
     },
     "AlternateURL": {
       "VideoLink": "http://tours.modernimageryphotographystudio.com/ub/173258/714534-1st-line-ehs-mono-on-l9w-0p1"
@@ -2632,6 +2633,415 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23229167/6225-sixth-line-belwood",
     "RelativeURLFr": "/immobilier/23229167/6225-sixth-line-belwood"
+  },
+  {
+    "Id": "23232586",
+    "MlsNumber": "40117103",
+    "PublicRemarks": "Welcome to this lovely country bungalow nestled on 5 acres in the heart of wine country! Located in a peaceful rural setting, backing onto 4 acres of peach trees and vast gardens, but close to all urban amenities with city water and natural gas, this home is the perfect mix of country living with the ease of city conveniences. Enjoy the proximity to Old Town, golf courses, Shaw festival, wineries and exquisite dining.  This solid brick bungalow has 3+1 bedrooms, 2 full bathrooms and a fully finished basement w/wood burning fireplace + separate entrance, ideal for an IN-LAW SITUATION.  A 650 sq. ft. barn with loft, 2 car parking and potting shed is an added feature. Enjoy the beautifully updated kitchen and bathrooms (2015), some newer windows & sliding door, A/C 2019, Furnace 2007, Roof and Eavestroughs on all buildings (2012), septic pumped (2020). 4 acres of peach orchard is currently being leased to farmer. (63349689)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "0"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1925505,
+        "Name": "LISA IBBA",
+        "Organization": {
+          "OrganizationID": 283835,
+          "Name": "ROYAL LEPAGE NRC REALTY",
+          "Address": {
+            "AddressText": "35 MAYWOOD AVENUE|ST. CATHARINES, Ontario L2R1C5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "688-4561",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "635-9228",
+              "AreaCode": "800",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "460119962"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.homesniagara.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283835/royal-lepage-nrc-realty-35-maywood-avenue-st-catharines-ontario-l2r1c5",
+          "PhotoLastupdate": "2021-05-21 11:11:15 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "688-4561",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "635-9228",
+            "AreaCode": "800",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.homesniagara.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463768353"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1229082.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "LISA",
+        "LastName": "IBBA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1925505/lisa-ibba-35-maywood-avenue-st-catharines-ontario-l2r1c5",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1229082.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,198,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "644 EAST WEST Line|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.12239385",
+        "Latitude": "43.23393172",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571407012530000/reb114/highres/3/40117103_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571407012530000/reb114/medres/3/40117103_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571407012530000/reb114/lowres/3/40117103_1.jpg",
+          "LastUpdated": "2021-05-20 8:51:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby",
+      "ConvertedPrice": "$1,198,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1198000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "5 - 9.99 acres",
+      "SizeFrontage": "163 ft"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://youtu.be/7usb5GmEa-o"
+    },
+    "PostalCode": "L0S1J0",
+    "RelativeDetailsURL": "/real-estate/23232586/644-east-west-line-niagara-on-the-lake",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-21 12:51:45 AM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23232586/644-east-west-line-niagara-on-the-lake",
+    "RelativeURLFr": "/immobilier/23232586/644-east-west-line-niagara-on-the-lake"
+  },
+  {
+    "Id": "23236953",
+    "MlsNumber": "40117797",
+    "PublicRemarks": "Escape from the city to this fabulous country home with 14 acres of cleared and forested rolling hills. Live full time or make this your four-season home away from home with nearby access to renowned golf and ski clubs, conservation parks, trails and hiking. Easy living with carpet-free floors and three bedrooms. Enjoy outdoor vistas from the sunny great room with space for large dining and living areas, complete with a cozy wood-burning fireplace and walk-out to deck. A spacious bonus office allows for study and/or work from home. Plenty of room to store recreational equipment in the double car garage or in the walk out lower level. The property is a mix of cleared and uncleared, forested land. Imagine having family gatherings around the fire or camping on your own property. Great for hiking, snow-shoeing, cross country skiing or hobby farm. (63354750)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1987092,
+        "Name": "Catherine Bourelle",
+        "Organization": {
+          "OrganizationID": 205041,
+          "Name": "Sotheby's International Realty Canada, Brokerage",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572135780000000/lowres/205041.jpg",
+          "Address": {
+            "AddressText": "125 Lakeshore Rd. E Suite 200|Oakville, Ontario L6J1H3",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "845-0024",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "844-1747",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/205041/sothebys-international-realty-canada-brokerage-125-lakeshore-rd-e-suite-200-oakville-ontario-l6j1h3",
+          "PhotoLastupdate": "2021-05-21 5:06:18 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "704-3439",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "844-1747",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455145453"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS637079569800000000/lowres/1271510.jpg",
+        "Position": "Broker",
+        "PermitFreetextEmail": true,
+        "FirstName": "Catherine",
+        "LastName": "Bourelle",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1987092/catherine-bourelle-125-lakeshore-rd-e-suite-200-oakville-ontario-l6j1h3",
+        "AgentPhotoLastUpdated": "2019-10-29 14:43:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637079569800000000/highres/1271510.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,689,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "18457 HUMBER STATION Road|Caledon, Ontario L7E3A8",
+        "Longitude": "-79.89088244",
+        "Latitude": "43.95635066",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/highres/7/40117797_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/medres/7/40117797_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/lowres/7/40117797_1.jpg",
+          "LastUpdated": "2021-05-21 5:10:59 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Ski area",
+      "ConvertedPrice": "$1,689,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1689000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "AccessType": "Road access, Highway access"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://tours.bluehivecreative.com/18457humberstationrd/player"
+    },
+    "PostalCode": "L7E3A8",
+    "RelativeDetailsURL": "/real-estate/23236953/18457-humber-station-road-caledon",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-21 9:11:06 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23236953/18457-humber-station-road-caledon",
+    "RelativeURLFr": "/immobilier/23236953/18457-humber-station-road-caledon"
+  },
+  {
+    "Id": "23233208",
+    "MlsNumber": "E5243733",
+    "PublicRemarks": "Meticulous Landscaping Welcomes You Past The Pot Lighting Into The Double Door Entrance Of This Spacious 2 Story Home With New Chandelier Lighting. All Entry Doors As Well As The Garage Door Are Brand New. Recently Updated Eat-In Kitchen Features Granite Countertops And Backsplash. Find Your Sanctuary In A Master Bedroom With A 4 Pc Ensuite Bath And A New Walk-In Closet With Mirrored Doors. 2732 Sq Feet Above Grade.**** EXTRAS **** Host Your Overnight Guests And Family In A Newly Renovated Walkout Basement Apartment. All This In A Perfect Location Close To Hwy 401, Shopping And The Beach! 3rd Basement Bedroom With Sliding Door Measures 4.57 X 3.16. (28476941)",
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4 + 2",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1410786,
+        "Name": "JAY BANERJEI",
+        "Organization": {
+          "OrganizationID": 50862,
+          "Name": "RE/MAX REALTRON REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572159690000000/lowres/1003000.jpg",
+          "Address": {
+            "AddressText": "885 PROGRESS AVENUE, STE. 209|TORONTO, Ontario M1H3G3",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "289-3333",
+              "AreaCode": "416",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "289-4535",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/50862/remax-realtron-realty-inc-885-progress-avenue-ste-209-toronto-ontario-m1h3g3",
+          "PhotoLastupdate": "2021-05-21 5:46:09 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "273-1119",
+            "AreaCode": "647",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "273-1119",
+            "AreaCode": "647",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.jaybanerjei.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://business.facebook.com/TorontoRealEstateBestAgent/?business_id=2097199647188088&ref=bookmarks",
+            "WebsiteTypeId": "2"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "468017811"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "JAY",
+        "LastName": "BANERJEI",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1410786/jay-banerjei-885-progress-avenue-ste-209-toronto-ontario-m1h3g3",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,299,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "165 LAWSON RD|Toronto, Ontario M1C2J5",
+        "Longitude": "-79.1578296",
+        "Latitude": "43.7856657",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/highres/3/e5243733_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/medres/3/e5243733_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/lowres/3/e5243733_1.jpg",
+          "LastUpdated": "2021-05-21 5:59:04 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "6",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,299,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1299900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "60 x 110 FT|25 - 50 acres"
+    },
+    "AlternateURL": {
+      "BrochureLink": "https://www.youtube.com/watch?v=IcXTdGTt6KQ",
+      "PhotoLink": "https://my.matterport.com/show/?m=UjNE6885gmT",
+      "VideoLink": "https://www.winsold.com/tour/78450"
+    },
+    "PostalCode": "M1C2J5",
+    "RelativeDetailsURL": "/real-estate/23233208/165-lawson-rd-toronto-centennial-scarborough",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-21 9:59:04 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23233208/165-lawson-rd-toronto-centennial-scarborough",
+    "RelativeURLFr": "/immobilier/23233208/165-lawson-rd-toronto"
   },
   {
     "Id": "23019215",
@@ -4572,7 +4982,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/286639/remax-hallmark-mcdonough-group-realty-22-queen-st-south-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-05-11 8:11:30 AM"
+          "PhotoLastupdate": "2021-05-21 8:14:51 AM"
         },
         "Phones": [
           {
@@ -4654,209 +5064,6 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23173140/2331-concession-rd-2-adjala-tosorontio-rural-adjala-tosorontio",
     "RelativeURLFr": "/immobilier/23173140/2331-concession-rd-2-adjala-tosorontio"
-  },
-  {
-    "Id": "23173163",
-    "MlsNumber": "N5225379",
-    "PublicRemarks": "Set On A Paved Road This 12 Acre Country Gem Boasts A Spotless 3+1 Bedroom Raised Bungalow, Detached Oversized Insulated And Heated 2 Car Garage With Hoist And Large Doors.  48X32 Ft Shop With 12X12 Roll Up Door.  Barn With 3 Standing Stalls And 2 Box Stalls.  Gorgeous Property With Paddocks And 60Ft Training Ring.**** EXTRAS **** Newer Furnace And Ac.  Standby Generator (Propane), Hot Tub (2017) And Solar Panels  For Extra Income Are All A Bonus. (28398542)",
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1424901,
-        "Name": "MARC RONAN",
-        "Organization": {
-          "OrganizationID": 117547,
-          "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565023620000000/lowres/1168222.jpg",
-          "Address": {
-            "AddressText": "25 QUEEN ST. S.|TOTTENHAM, Ontario L0G1W0",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "936-4216",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "936-5130",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/117547/coldwell-banker-ronan-realty-25-queen-st-s-tottenham-ontario-l0g1w0",
-          "PhotoLastupdate": "2021-05-13 11:32:42 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "936-4216",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.marcronan.com",
-            "WebsiteTypeId": "1"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455697452"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1424901.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "MARC",
-        "LastName": "RONAN",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1424901/marc-ronan-25-queen-st-s-tottenham-ontario-l0g1w0",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1424901.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 1662895,
-        "Name": "BRITTON SCOTT RONAN",
-        "Organization": {
-          "OrganizationID": 117743,
-          "Name": "COLDWELL BANKER RONAN REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565023620000000/lowres/1168329.jpg",
-          "Address": {
-            "AddressText": "367 VICTORIA STREET EAST|ALLISTON, Ontario L9R1J7",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "435-4336",
-              "AreaCode": "705",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "435-3506",
-              "AreaCode": "705",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/117743/coldwell-banker-ronan-realty-367-victoria-street-east-alliston-ontario-l9r1j7",
-          "PhotoLastupdate": "2021-05-13 11:32:42 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "435-4336",
-            "AreaCode": "705",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.brittonronan.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/ExperienceSold/?fref=ts",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/brittonronan",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://ca.linkedin.com/in/britton-ronan-553a6a18",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "455739013"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636991416600000000/lowres/1168330.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "BRITTON SCOTT",
-        "LastName": "RONAN",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1662895/britton-scott-ronan-367-victoria-street-east-alliston-ontario-l9r1j7",
-        "AgentPhotoLastUpdated": "2019-07-19 14:01:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636991416600000000/highres/1168330.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$1,499,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5609 6TH LINE|New Tecumseth, Ontario L0G1W0",
-        "Longitude": "-79.7477291",
-        "Latitude": "44.0613159",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637559945750000000/reb82/highres/9/n5225379_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637559945750000000/reb82/medres/9/n5225379_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637559945750000000/reb82/lowres/9/n5225379_1.jpg",
-          "LastUpdated": "2021-05-07 2:29:35 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1499000"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "11.88 Acre   ; M/L Irregular|10 - 24.99 acres"
-    },
-    "AlternateURL": {
-      "PhotoLink": "http://wylieford.homelistingtours.com/listing2/5609-6th-line",
-      "VideoLink": "https://youtu.be/IdDKq5f6f3E"
-    },
-    "PostalCode": "L0G1W0",
-    "RelativeDetailsURL": "/real-estate/23173163/5609-6th-line-new-tecumseth-rural-new-tecumseth",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-07 6:29:35 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23173163/5609-6th-line-new-tecumseth-rural-new-tecumseth",
-    "RelativeURLFr": "/immobilier/23173163/5609-6th-line-new-tecumseth"
   },
   {
     "Id": "23178748",
@@ -5248,7 +5455,7 @@
   {
     "Id": "23231631",
     "MlsNumber": "N5243011",
-    "PublicRemarks": "Beautiful Monarch Built Home Located In The Most Sought After Oak Ridges Neighborhood! This Detached 2 Storey Home Features An Open Concept Living And Dining Area W/ Hardwood Floors, Family Size Kitchen W/O To Custom Deck With Pergola Perfect For Entertaining, 9 Foot Ceilings Pot Lights Crown Molding's Huge In Between Family Room Which Can Be Converted To A Bedroom! Master Br Features His/Her Closets And 4 Piece Ensuite. Oak Staircase With Iron Spindles.**** EXTRAS **** Steps To Temperanceville Park, Cul De Sac, Walking Trails! Includes Gas Stove, B/I Microwave, Dishwasher, Fridge, Washer, Dryer, Cvac, Cac, Garden Shed, Light Fixtures, Window Coverings. Close To All Amenities, Schools, Shopping, Transit. (28474642)",
+    "PublicRemarks": "Beautiful Monarch Built Home Located In The Most Sought After Oak Ridges Neighborhood! This Detached 2 Storey Home Features An Open Concept Living And Dining Area W/ Hardwood Floors, Family Size Kitchen W/O To Custom Deck With Pergola Perfect For Entertaining, 9 Foot Ceilings Pot Lights Crown Mouldings Huge In Between Family Room Which Can Be Converted To A Bedroom! Master Br Features His/Her Closets And 4 Piece Ensuite. Oak Staircase With Iron Spindles.**** EXTRAS **** Steps To Temperanceville Park, Cul De Sac, Walking Trails! Includes Gas Stove, B/I Microwave, Dishwasher, Fridge, Washer, Dryer, Cvac, Cac, Garden Shed, Light Fixtures, Window Coverings. Close To All Amenities, Schools, Shopping, Transit. (28474642)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3",
@@ -5262,7 +5469,7 @@
         "Organization": {
           "OrganizationID": 91221,
           "Name": "HOMELIFE FRONTIER REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571305730000000/lowres/91221.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571955860000000/lowres/91221.jpg",
           "Address": {
             "AddressText": "7620 YONGE STREET UNIT 400|THORNHILL, Ontario L4J1V9",
             "PermitShowAddress": true,
@@ -5293,7 +5500,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/91221/homelife-frontier-realty-inc-7620-yonge-street-unit-400-thornhill-ontario-l4j1v9",
-          "PhotoLastupdate": "2021-05-20 6:02:53 PM"
+          "PhotoLastupdate": "2021-05-21 12:06:26 PM"
         },
         "Phones": [
           {
@@ -5375,6 +5582,133 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23231631/120-portage-ave-richmond-hill-oak-ridges",
     "RelativeURLFr": "/immobilier/23231631/120-portage-ave-richmond-hill"
+  },
+  {
+    "Id": "23233306",
+    "MlsNumber": "N5243833",
+    "PublicRemarks": "Spacious Family Home On Private 10 Acres W/Pond. Completely Reno'd In '97 W/1000' Addition. Large, Sun-Filled Principle Rooms W/Multiple W/O's. Great Room Features Cathedral Ceiling, Skylights, Field Stone F/P & W/O To Deck. Generous Master W/4 Pc Ensuite, W/I Closet & W/O To Private Deck Overlooking Pond. Finished Lower Level Provides Add'l Living Space-Family Room W/Wetbar, Large Games Room & 2 Bdrms. 2 Drilled Wells. Nothing To Do But Move In & Enjoy!**** EXTRAS **** Fridge, B/I Dw, Stove, Washer & Dryer, All Window Coverings, All Elf's, Power Awning Back Deck, Hot Tub, Firepit, Irrigation System, Murphy Bed, 2 Hwt's, Water Softener, Iron Remover, Uv System, Central Vac & Attachments. (28477139)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1926645,
+        "Name": "SIMON BIN XU",
+        "Organization": {
+          "OrganizationID": 70066,
+          "Name": "HOMELIFE LANDMARK REALTY INC.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571817390000000/lowres/1132867.jpg",
+          "Address": {
+            "AddressText": "7240 WOODBINE AVE UNIT 103|MARKHAM, Ontario L3R1A4",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "305-1600",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "305-1609",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881079"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.HomeLifeLandmark.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/70066/homelife-landmark-realty-inc-7240-woodbine-ave-unit-103-markham-ontario-l3r1a4",
+          "PhotoLastupdate": "2021-05-21 8:15:39 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "305-1600",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "459346329"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "SIMON BIN",
+        "LastName": "XU",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1926645/simon-bin-xu-7240-woodbine-ave-unit-103-markham-ontario-l3r1a4",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,399,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "257 SANDFORD RD|Uxbridge, Ontario L9P1R1",
+        "Longitude": "-79.2455094",
+        "Latitude": "44.1274633",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571817396000000/reb82/highres/3/n5243833_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571817396000000/reb82/medres/3/n5243833_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571817396000000/reb82/lowres/3/n5243833_1.jpg",
+          "LastUpdated": "2021-05-21 8:15:39 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,399,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1399000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "327.67 x 1327.64 FT|10 - 24.99 acres"
+    },
+    "PostalCode": "L9P1R1",
+    "RelativeDetailsURL": "/real-estate/23233306/257-sandford-rd-uxbridge-rural-uxbridge",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-21 12:15:39 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23233306/257-sandford-rd-uxbridge-rural-uxbridge",
+    "RelativeURLFr": "/immobilier/23233306/257-sandford-rd-uxbridge"
   },
   {
     "Id": "23143378",
@@ -5729,7 +6063,6 @@
     "RelativeDetailsURL": "/real-estate/23222068/12673-highway-25-rd-halton-hills-rural-halton-hills",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-19 3:18:37 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23222068/12673-highway-25-rd-halton-hills-rural-halton-hills",
     "RelativeURLFr": "/immobilier/23222068/12673-highway-25-rd-halton-hills"
@@ -5864,7 +6197,6 @@
     "RelativeDetailsURL": "/real-estate/23224079/5298-roebuck-crt-mississauga-hurontario",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-19 6:37:47 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23224079/5298-roebuck-crt-mississauga-hurontario",
     "RelativeURLFr": "/immobilier/23224079/5298-roebuck-crt-mississauga"
@@ -5872,7 +6204,7 @@
   {
     "Id": "23229285",
     "MlsNumber": "W5242929",
-    "PublicRemarks": "Your Wait Is Over Fantastic Investment Opportunity 6.96 Acres W/ Stream, Trees & Pond. Possible Severance Application Pending 1 Acre Front Of Property Buyer/ Buyer Agent To Due Their Own Due Diligence. Spacious Home 2770 Sqft Finished Space, + Finished Basement & Outbuilding, Plenty Of Parking For All Your Cars & Toys. Home Is Perfect For Extended Families.Upgrades Throughout The Home Some Minor Final Touches Need To Be Made To Complete This Unique Property.**** EXTRAS **** Too Many To List Please See Attached Documents For Review.Propane Rental $76 Approx.Hwt $18.09 Approx.Fireplace Wett Inspected 4 Yrs, Upgrades Done In The Last 4-5Years. Ac Unit On Premises Requires Install. Some Virtually Staged Photos. (28472214)",
+    "PublicRemarks": "Your Wait Is Over Fantastic Investment Opportunity 6.96 Acres W/ Stream, Trees & Pond. Possible Severance Application Pending 1 Acre Front Of Property Buyer/ Buyer Agent To Due Their Own Due Diligence. Spacious Home 2770 Sqft Finished Space, + Finished Basement & Outbuilding, Plenty Of Parking For All Your Cars & Toys. Home Is Perfect For Extended Families.Upgrades Throughout The Home Some Minor Final Touches Need To Be Made To Complete This Unique Property.**** EXTRAS **** Too Many To List Please See Attached Documents For Review.Propane Rental $76 Approx.Hwt $18.09 Approx.Fireplace Wett Inspected 4 Yrs, Upgrades Done In The Last 4-5Years. Ac Unit On Premises Requires Install. Some Virtually Stagedphotos/Tour (28472214)",
     "Building": {
       "BathroomTotal": "5",
       "Bedrooms": "3 + 4",
@@ -5886,7 +6218,7 @@
         "Organization": {
           "OrganizationID": 162091,
           "Name": "ROYAL LEPAGE CREDIT VALLEY REAL ESTATE",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571291030000000/lowres/default/royallepage.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571795790000000/lowres/default/royallepage.gif",
           "Address": {
             "AddressText": "10045 HURONTARIO ST #1|BRAMPTON, Ontario L6Z0E6",
             "PermitShowAddress": true,
@@ -5911,7 +6243,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/162091/royal-lepage-credit-valley-real-estate-10045-hurontario-st-1-brampton-ontario-l6z0e6",
-          "PhotoLastupdate": "2021-05-20 5:38:23 PM"
+          "PhotoLastupdate": "2021-05-21 7:39:39 AM"
         },
         "Phones": [
           {
@@ -5988,6 +6320,7 @@
       "SizeTotal": "392.34 FT   ; ..Pt 1, 20R10427; Halton Hills/Esquesing|5 - 9.99 acres"
     },
     "AlternateURL": {
+      "PhotoLink": "https://unbranded.mediatours.ca/property/13559-fourth-ln-halton-hills/",
       "VideoLink": "https://unbranded.mediatours.ca/property/13559-fourth-line-halton-hills/"
     },
     "PostalCode": "L7J2L8",
@@ -7724,8 +8057,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "628410 FIFTEENTH SDRD|Mulmur, Ontario L9V0V1",
-        "Longitude": "-80.0387976",
-        "Latitude": "44.1698421",
+        "Longitude": "-79.9905027",
+        "Latitude": "43.5648952",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -8690,7 +9023,6 @@
     "RelativeDetailsURL": "/real-estate/23225227/4355-sideroad-10-s-puslinch-rural-puslinch",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-19 9:38:10 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23225227/4355-sideroad-10-s-puslinch-rural-puslinch",
     "RelativeURLFr": "/immobilier/23225227/4355-sideroad-10-s-puslinch"
@@ -8821,7 +9153,6 @@
     "RelativeDetailsURL": "/real-estate/23225852/796155-3rd-line-e-mulmur-rural-mulmur",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-19 10:04:16 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23225852/796155-3rd-line-e-mulmur-rural-mulmur",
     "RelativeURLFr": "/immobilier/23225852/796155-3rd-line-e-mulmur"
@@ -8945,10 +9276,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/highres/0/x5242090_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/medres/0/x5242090_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/lowres/0/x5242090_1.jpg",
-          "LastUpdated": "2021-05-20 5:39:58 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571447342570000/reb82/highres/0/x5242090_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571447342570000/reb82/medres/0/x5242090_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571447342570000/reb82/lowres/0/x5242090_1.jpg",
+          "LastUpdated": "2021-05-20 9:58:54 PM"
         }
       ],
       "Parking": [
@@ -8976,7 +9307,7 @@
     "PostalCode": "L9W5T6",
     "RelativeDetailsURL": "/real-estate/23227380/714534-1st-line-ehs-line-mono-rural-mono",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-20 9:39:58 PM",
+    "PhotoChangeDateUTC": "2021-05-21 1:58:54 AM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23227380/714534-1st-line-ehs-line-mono-rural-mono",
@@ -8985,7 +9316,7 @@
   {
     "Id": "23227976",
     "MlsNumber": "X5242150",
-    "PublicRemarks": "Newly Painted Bungalow In Private, Serene Setting North Of Acton, East Of Guelph. A Large Covered Country Verandah Is The Perfect Spot A Beverage! Meander Manicured Treed Trails To 3 Ponds & There Is Clear Field Suitable For A Horse Or Other Grazers. Lower Level Mudroom Entry From Oversize 31'X24' Garage. 2nd Drive To Shed**** EXTRAS **** Shingles, Eaves & Soffits (18), Oil Tank (01).  Updated Kitchen & Main Bathroom & Updated Laminate Flooring. Fenced Chicken Coup & Large Fenced Play Area For 2 Or 4-Legged Kids. Low Taxes C L T I P. (28470126)",
+    "PublicRemarks": "Freshly Painted Bungalow In Private, Serene Setting North Of Acton, East Of Guelph. Enjoy Your Morning Coffee On The Large Country Verandah. Meander Manicured Treed Trails To 3 Ponds Where You Will Enjoy Chirping Crickets & Frogs & Heron Sightings. There Is Clear Field Suitable For A Horse Or Other Grazers. Lower Level Mudroom Entry From Oversize 31'X24' Garage. 2nd Driveway To Shed Which Could Be Renovated. Chicken Coop & Fenced Play Area.**** EXTRAS **** Shingles, Eaves & Soffits (18), Oil Tank (01).  Updated Kitchen & Main Bathroom & Updated Laminate Flooring. Fenced Chicken Coup & Large Fenced Play Area For 2 Or 4-Legged Kids. Low Taxes C L T I P. (28470126)",
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
@@ -8999,7 +9330,7 @@
         "Organization": {
           "OrganizationID": 155990,
           "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571051120000000/lowres/155990.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572155120000000/lowres/155990.jpg",
           "Address": {
             "AddressText": "14-75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
             "PermitShowAddress": true,
@@ -9024,7 +9355,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/155990/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
-          "PhotoLastupdate": "2021-05-20 10:58:32 AM"
+          "PhotoLastupdate": "2021-05-21 5:38:32 PM"
         },
         "Phones": [
           {
@@ -9133,7 +9464,7 @@
         "Organization": {
           "OrganizationID": 289178,
           "Name": "CENTURY 21 RED STAR REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571308010000000/lowres/1375274.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571818860000000/lowres/1375274.jpg",
           "Address": {
             "AddressText": "50 STEELES AVE E #201|MILTON, Ontario L9T4W9",
             "PermitShowAddress": true,
@@ -9170,7 +9501,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/289178/century-21-red-star-realty-inc-50-steeles-ave-e-201-milton-ontario-l9t4w9",
-          "PhotoLastupdate": "2021-05-20 6:06:41 PM"
+          "PhotoLastupdate": "2021-05-21 8:18:06 AM"
         },
         "Phones": [
           {
@@ -9201,8 +9532,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "311475 GREY COUNTY 8 RD|Southgate, Ontario N0C1B0",
-        "Longitude": "-80.3945879",
-        "Latitude": "44.169391",
+        "Longitude": "-80.408048001855",
+        "Latitude": "44.0743713980274",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -9245,5 +9576,113 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23231953/311475-grey-county-8-rd-southgate-dundalk",
     "RelativeURLFr": "/immobilier/23231953/311475-grey-county-8-rd-southgate"
+  },
+  {
+    "Id": "23234763",
+    "MlsNumber": "X5244328",
+    "PublicRemarks": "Welcome To This Lovely Country Bungalow Nestled On 5 Acres In The Heart Of Wine Country! Located In A Peaceful Rural Setting, Backing Onto 4 Acres Of Peach Trees And Vast Gardens, But Close To All Urban Amenities With City Water And Natural Gas, This Home Is The Perfect Mix Of Country Living With The Ease Of City Conveniences. Enjoy The Proximity To Old Town, Golf Courses, Shaw Festival, Wineries And Exquisite Dining.**** EXTRAS **** 650 Sq. Ft. Barn With Loft, 2 Car Parking & Potting Shed Is An Added Feature. Updated Kitchen & Bathrooms (2015), Some Newer Windows & Sliding Door, A/C 2019, Furnace 2007, Roof And Eavestroughs On All Buildings (2012), Septic Pumped (2020) (28479091)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2109402,
+        "Name": "LISA IBBA",
+        "Organization": {
+          "OrganizationID": 283865,
+          "Name": "ROYAL LEPAGE NRC REALTY",
+          "Address": {
+            "AddressText": "35 MAYWOOD AVE|ST. CATHARINES, Ontario L2R1C5",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "688-4561",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283865/royal-lepage-nrc-realty-35-maywood-ave-st-catharines-ontario-l2r1c5",
+          "PhotoLastupdate": "2021-05-21 12:09:42 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "688-4561",
+            "AreaCode": "905",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "463659183"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "LISA",
+        "LastName": "IBBA",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2109402/lisa-ibba-35-maywood-ave-st-catharines-ontario-l2r1c5",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,198,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "644 EAST WEST LINE|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.1223166",
+        "Latitude": "43.23362",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571958260330000/reb82/highres/8/x5244328_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571958260330000/reb82/medres/8/x5244328_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571958260330000/reb82/lowres/8/x5244328_1.jpg",
+          "LastUpdated": "2021-05-21 12:10:26 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,198,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1198000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "163 x 1338 FT|5 - 9.99 acres"
+    },
+    "PostalCode": "L0S1J0",
+    "RelativeDetailsURL": "/real-estate/23234763/644-east-west-line-niagara-on-the-lake",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-21 4:10:26 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23234763/644-east-west-line-niagara-on-the-lake",
+    "RelativeURLFr": "/immobilier/23234763/644-east-west-line-niagara-on-the-lake"
   }
 ]

@@ -102,7 +102,7 @@
     "Id": "23197890",
     "MlsNumber": "40099221",
     "Property": {
-      "Price": "$1,600,000",
+      "Price": "$1,549,999",
       "Type": "Single Family",
       "Address": {
         "AddressText": "142 CLARKE Road|Paris, Ontario N3L3E1",
@@ -128,12 +128,12 @@
       "ParkingSpaceTotal": "10",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,600,000 ",
+      "ConvertedPrice": "$1,549,999 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1600000"
+      "PriceUnformattedValue": "1549999"
     },
     "Land": {
       "SizeTotal": "10 - 24.99 acres",
@@ -674,7 +674,7 @@
       "ParkingSpaceTotal": "12",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Schools, Shopping",
+      "AmmenitiesNearBy": "Park, Schools, Shopping",
       "ConvertedPrice": "$1,699,900 ",
       "OwnershipTypeGroupIds": [
         1
@@ -685,7 +685,8 @@
     "Land": {
       "SizeTotal": "19.81 ac|10 - 24.99 acres",
       "SizeFrontage": "398 ft",
-      "AccessType": "Road access"
+      "AccessType": "Road access",
+      "LandscapeFeatures": "Landscaped"
     },
     "Building": {
       "BathroomTotal": "4",
@@ -741,6 +742,152 @@
       "BathroomTotal": "3",
       "Bedrooms": "4 + 0",
       "SizeInterior": "2779.0000",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23232586",
+    "MlsNumber": "40117103",
+    "Property": {
+      "Price": "$1,198,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "644 EAST WEST Line|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.12239385",
+        "Latitude": "43.23393172",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571407012530000/reb114/highres/3/40117103_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571407012530000/reb114/medres/3/40117103_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571407012530000/reb114/lowres/3/40117103_1.jpg",
+          "LastUpdated": "2021-05-20 8:51:41 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby",
+      "ConvertedPrice": "$1,198,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1198000"
+    },
+    "Land": {
+      "SizeTotal": "5 - 9.99 acres",
+      "SizeFrontage": "163 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "23236953",
+    "MlsNumber": "40117797",
+    "Property": {
+      "Price": "$1,689,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "18457 HUMBER STATION Road|Caledon, Ontario L7E3A8",
+        "Longitude": "-79.89088244",
+        "Latitude": "43.95635066",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/highres/7/40117797_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/medres/7/40117797_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/lowres/7/40117797_1.jpg",
+          "LastUpdated": "2021-05-21 5:10:59 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Ski area",
+      "ConvertedPrice": "$1,689,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1689000"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "AccessType": "Road access, Highway access"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23233208",
+    "MlsNumber": "E5243733",
+    "Property": {
+      "Price": "$1,299,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "165 LAWSON RD|Toronto, Ontario M1C2J5",
+        "Longitude": "-79.1578296",
+        "Latitude": "43.7856657",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/highres/3/e5243733_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/medres/3/e5243733_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/lowres/3/e5243733_1.jpg",
+          "LastUpdated": "2021-05-21 5:59:04 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "6",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,299,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1299900"
+    },
+    "Land": {
+      "SizeTotal": "60 x 110 FT|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "5",
+      "Bedrooms": "4 + 2",
       "StoriesTotal": "2",
       "Type": "House"
     }
@@ -1379,53 +1526,6 @@
     }
   },
   {
-    "Id": "23173163",
-    "MlsNumber": "N5225379",
-    "Property": {
-      "Price": "$1,499,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "5609 6TH LINE|New Tecumseth, Ontario L0G1W0",
-        "Longitude": "-79.7477291",
-        "Latitude": "44.0613159",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637559945750000000/reb82/highres/9/n5225379_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637559945750000000/reb82/medres/9/n5225379_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637559945750000000/reb82/lowres/9/n5225379_1.jpg",
-          "LastUpdated": "2021-05-07 2:29:35 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1499000"
-    },
-    "Land": {
-      "SizeTotal": "11.88 Acre   ; M/L Irregular|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23178748",
     "MlsNumber": "N5227243",
     "Property": {
@@ -1606,6 +1706,53 @@
       "BathroomTotal": "3",
       "Bedrooms": "3",
       "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23233306",
+    "MlsNumber": "N5243833",
+    "Property": {
+      "Price": "$1,399,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "257 SANDFORD RD|Uxbridge, Ontario L9P1R1",
+        "Longitude": "-79.2455094",
+        "Latitude": "44.1274633",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571817396000000/reb82/highres/3/n5243833_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571817396000000/reb82/medres/3/n5243833_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571817396000000/reb82/lowres/3/n5243833_1.jpg",
+          "LastUpdated": "2021-05-21 8:15:39 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,399,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1399000"
+    },
+    "Land": {
+      "SizeTotal": "327.67 x 1327.64 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -2277,8 +2424,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "628410 FIFTEENTH SDRD|Mulmur, Ontario L9V0V1",
-        "Longitude": "-80.0387976",
-        "Latitude": "44.1698421",
+        "Longitude": "-79.9905027",
+        "Latitude": "43.5648952",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -2664,10 +2811,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/highres/0/x5242090_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/medres/0/x5242090_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637571291984030000/reb82/lowres/0/x5242090_1.jpg",
-          "LastUpdated": "2021-05-20 5:39:58 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571447342570000/reb82/highres/0/x5242090_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571447342570000/reb82/medres/0/x5242090_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571447342570000/reb82/lowres/0/x5242090_1.jpg",
+          "LastUpdated": "2021-05-20 9:58:54 PM"
         }
       ],
       "Parking": [
@@ -2750,8 +2897,8 @@
       "Type": "Single Family",
       "Address": {
         "AddressText": "311475 GREY COUNTY 8 RD|Southgate, Ontario N0C1B0",
-        "Longitude": "-80.3945879",
-        "Latitude": "44.169391",
+        "Longitude": "-80.408048001855",
+        "Latitude": "44.0743713980274",
         "PermitShowAddress": true,
         "DisseminationArea": null
       },
@@ -2784,6 +2931,53 @@
     },
     "Building": {
       "BathroomTotal": "4",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23234763",
+    "MlsNumber": "X5244328",
+    "Property": {
+      "Price": "$1,198,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "644 EAST WEST LINE|Niagara-on-the-Lake, Ontario L0S1J0",
+        "Longitude": "-79.1223166",
+        "Latitude": "43.23362",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637571958260330000/reb82/highres/8/x5244328_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637571958260330000/reb82/medres/8/x5244328_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637571958260330000/reb82/lowres/8/x5244328_1.jpg",
+          "LastUpdated": "2021-05-21 12:10:26 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,198,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1198000"
+    },
+    "Land": {
+      "SizeTotal": "163 x 1338 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
       "Type": "House"
