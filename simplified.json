@@ -812,10 +812,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/highres/7/40117797_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/medres/7/40117797_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/lowres/7/40117797_1.jpg",
-          "LastUpdated": "2021-05-21 5:10:59 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572240848730000/reb15/highres/7/40117797_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572240848730000/reb15/medres/7/40117797_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572240848730000/reb15/lowres/7/40117797_1.jpg",
+          "LastUpdated": "2021-05-21 8:01:24 PM"
         }
       ],
       "Parking": [
@@ -861,10 +861,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/highres/3/e5243733_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/medres/3/e5243733_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/lowres/3/e5243733_1.jpg",
-          "LastUpdated": "2021-05-21 5:59:04 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572335282500000/reb82/highres/3/e5243733_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572335282500000/reb82/medres/3/e5243733_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572335282500000/reb82/lowres/3/e5243733_1.jpg",
+          "LastUpdated": "2021-05-21 10:38:48 PM"
         }
       ],
       "Parking": [
@@ -1432,53 +1432,6 @@
     }
   },
   {
-    "Id": "23168951",
-    "MlsNumber": "N5224118",
-    "Property": {
-      "Price": "$999,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1333 CANAL RD|Bradford West Gwillimbury, Ontario L3Z2A6",
-        "Longitude": "-79.5976976",
-        "Latitude": "44.0582766",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637560698277230000/reb82/highres/8/n5224118_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637560698277230000/reb82/medres/8/n5224118_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637560698277230000/reb82/lowres/8/n5224118_1.jpg",
-          "LastUpdated": "2021-05-08 11:23:47 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$999,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "999900"
-    },
-    "Land": {
-      "SizeTotal": "241 x 1227 FT   ; Premium 5.76Acre Lot!|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23173140",
     "MlsNumber": "N5225286",
     "Property": {
@@ -1942,6 +1895,54 @@
       "BathroomTotal": "5",
       "Bedrooms": "3 + 4",
       "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23238773",
+    "MlsNumber": "W5245322",
+    "Property": {
+      "Price": "$1,689,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "18457 HUMBER STATION RD|Caledon, Ontario L7E3A8",
+        "Longitude": "-79.8905713",
+        "Latitude": "43.9562009",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572675144970000/reb82/highres/2/w5245322_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572675144970000/reb82/medres/2/w5245322_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572675144970000/reb82/lowres/2/w5245322_1.jpg",
+          "LastUpdated": "2021-05-22 8:05:14 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,689,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1689000"
+    },
+    "Land": {
+      "SizeTotal": "14 Acre|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
       "Type": "House"
     }
   },
@@ -2978,6 +2979,53 @@
     },
     "Building": {
       "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23239067",
+    "MlsNumber": "X5245502",
+    "Property": {
+      "Price": "$1,250,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "555142 MONO-AMARANTH TOWN LINE|Amaranth, Ontario L9W0T3",
+        "Longitude": "-80.1598345",
+        "Latitude": "44.0328164",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572786667730000/reb82/highres/2/x5245502_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572786667730000/reb82/medres/2/x5245502_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572786667730000/reb82/lowres/2/x5245502_1.jpg",
+          "LastUpdated": "2021-05-22 11:11:06 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,250,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1250000"
+    },
+    "Land": {
+      "SizeTotal": "195.08 x 2241.18 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
       "Type": "House"

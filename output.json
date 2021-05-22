@@ -375,7 +375,7 @@
   {
     "Id": "23197890",
     "MlsNumber": "40099221",
-    "PublicRemarks": "Superb may best describe this gorgeous hobby farm located on a quiet country road between Paris and St. George. Quality craftsmanship is evident in this handsome remodeled 3 bedroom, 3 bathroom home featuring a spacious open concept with rich dark hardwood floors, gorgeous functional kitchen with newer stainless appliances and over size island with handy bar fridge adjoining what could easily function as a dining room or living room. Also on the main level, a huge family room with modern Wett certified wood burning fireplace. What was formerly 2 bedrooms has been converted to a huge master with fireplace and ensuite privilege bathroom with heated floors. Completing the main floor is an oversized mudroom with loads of storage and another 2 piece bathroom also with heated floors. On the lower level, a cozy rec room, and 2 more spacious bedrooms, a third bathroom with brand new oversize shower and more heated floors! Paradise awaits just out your back door with classy poured concrete patio with hot tub surrounded by freshly mulched gardens and overlooking serene countryside. Adorned with a massive 40 x 80 pole barn, a livestock barn with horse stalls, an extra shop that could serve a number of purposes, a wood shed and several fenced areas for animals, this fantastic property has so many possibilities. You must see this incredible home in person to truly appreciate all it has to offer. (63297111)",
+    "PublicRemarks": "Superb may best describe this gorgeous hobby farm located on a quiet country road between Paris and St. George. Quality craftsmanship is evident in this handsome remodeled 3 bedroom, 3 bathroom home featuring a spacious open concept with rich dark hardwood floors, gorgeous functional kitchen with newer stainless appliances and over size island with handy bar fridge adjoining what could easily function as a dining room or living room. Also on the main level, a huge family room with modern Wett certified wood burning fireplace. What was formerly 2 bedrooms has been converted to a huge master with fireplace and ensuite privilege bathroom with heated floors. Completing the main floor is an oversized mudroom with loads of storage and another 2 piece bathroom also with heated floors. On the lower level, a cozy rec room, and 2 more spacious bedrooms, a third bathroom with brand new oversize shower and more heated floors! Paradise awaits just out your back door with classy poured concrete patio with hot tub surrounded by freshly mulched gardens and overlooking serene countryside. Featuring a massive 40 x 80 pole barn, a livestock barn with horse stalls, an extra shop that could serve a number of purposes (currently office and storage), a wood shed, several outdoor fenced areas for a variety of animals, and 8 acres of farmable land this fantastic property has many possibilities. You must see this incredible home/hobby farm in person to truly appreciate all it has to offer. (63297111)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "1 + 2",
@@ -389,7 +389,7 @@
         "Organization": {
           "OrganizationID": 92518,
           "Name": "Sutton Team Realty Inc.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572229650000000/lowres/1160225.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572235810000000/lowres/1160225.jpg",
           "Address": {
             "AddressText": "2 Holiday Dr Unit A|Brantford, Ontario N3R7J4",
             "PermitShowAddress": true,
@@ -425,7 +425,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/92518/sutton-team-realty-inc-2-holiday-dr-unit-a-brantford-ontario-n3r7j4",
-          "PhotoLastupdate": "2021-05-21 7:42:45 PM"
+          "PhotoLastupdate": "2021-05-21 7:53:01 PM"
         },
         "Phones": [
           {
@@ -1810,7 +1810,6 @@
     "RelativeDetailsURL": "/real-estate/23230636/13559-fourth-line-halton-hills",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-20 7:41:04 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23230636/13559-fourth-line-halton-hills",
     "RelativeURLFr": "/immobilier/23230636/13559-fourth-line-halton-hills"
@@ -2085,7 +2084,6 @@
     "RelativeDetailsURL": "/real-estate/23230806/796155-third-line-e-mulmur",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-20 8:08:52 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23230806/796155-third-line-e-mulmur",
     "RelativeURLFr": "/immobilier/23230806/796155-third-line-e-mulmur"
@@ -2251,7 +2249,6 @@
     "RelativeDetailsURL": "/real-estate/23226990/714534-1st-line-ehs-line-mono",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-20 12:14:39 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23226990/714534-1st-line-ehs-line-mono",
     "RelativeURLFr": "/immobilier/23226990/714534-1st-line-ehs-line-mono"
@@ -2629,7 +2626,6 @@
     "RelativeDetailsURL": "/real-estate/23229167/6225-sixth-line-belwood",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-20 5:14:41 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23229167/6225-sixth-line-belwood",
     "RelativeURLFr": "/immobilier/23229167/6225-sixth-line-belwood"
@@ -2687,7 +2683,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/283835/royal-lepage-nrc-realty-35-maywood-avenue-st-catharines-ontario-l2r1c5",
-          "PhotoLastupdate": "2021-05-21 11:11:15 AM"
+          "PhotoLastupdate": "2021-05-22 1:20:01 PM"
         },
         "Phones": [
           {
@@ -2774,7 +2770,6 @@
     "RelativeDetailsURL": "/real-estate/23232586/644-east-west-line-niagara-on-the-lake",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-21 12:51:45 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23232586/644-east-west-line-niagara-on-the-lake",
     "RelativeURLFr": "/immobilier/23232586/644-east-west-line-niagara-on-the-lake"
@@ -2796,7 +2791,7 @@
         "Organization": {
           "OrganizationID": 205041,
           "Name": "Sotheby's International Realty Canada, Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572135780000000/lowres/205041.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572247900000000/lowres/205041.jpg",
           "Address": {
             "AddressText": "125 Lakeshore Rd. E Suite 200|Oakville, Ontario L6J1H3",
             "PermitShowAddress": true,
@@ -2820,7 +2815,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/205041/sothebys-international-realty-canada-brokerage-125-lakeshore-rd-e-suite-200-oakville-ontario-l6j1h3",
-          "PhotoLastupdate": "2021-05-21 5:06:18 PM"
+          "PhotoLastupdate": "2021-05-21 8:13:10 PM"
         },
         "Phones": [
           {
@@ -2868,10 +2863,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/highres/7/40117797_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/medres/7/40117797_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637572138595500000/reb15/lowres/7/40117797_1.jpg",
-          "LastUpdated": "2021-05-21 5:10:59 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572240848730000/reb15/highres/7/40117797_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572240848730000/reb15/medres/7/40117797_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572240848730000/reb15/lowres/7/40117797_1.jpg",
+          "LastUpdated": "2021-05-21 8:01:24 PM"
         }
       ],
       "Parking": [
@@ -2901,7 +2896,7 @@
     "PostalCode": "L7E3A8",
     "RelativeDetailsURL": "/real-estate/23236953/18457-humber-station-road-caledon",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-21 9:11:06 PM",
+    "PhotoChangeDateUTC": "2021-05-22 12:01:27 AM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23236953/18457-humber-station-road-caledon",
@@ -2910,7 +2905,7 @@
   {
     "Id": "23233208",
     "MlsNumber": "E5243733",
-    "PublicRemarks": "Meticulous Landscaping Welcomes You Past The Pot Lighting Into The Double Door Entrance Of This Spacious 2 Story Home With New Chandelier Lighting. All Entry Doors As Well As The Garage Door Are Brand New. Recently Updated Eat-In Kitchen Features Granite Countertops And Backsplash. Find Your Sanctuary In A Master Bedroom With A 4 Pc Ensuite Bath And A New Walk-In Closet With Mirrored Doors. 2732 Sq Feet Above Grade.**** EXTRAS **** Host Your Overnight Guests And Family In A Newly Renovated Walkout Basement Apartment. All This In A Perfect Location Close To Hwy 401, Shopping And The Beach! 3rd Basement Bedroom With Sliding Door Measures 4.57 X 3.16. (28476941)",
+    "PublicRemarks": "Meticulous Landscaping Welcomes You Past The Pot Lighting Into The Double Door Entrance Of This Spacious 2 Story Home With New Chandelier Lighting. All Entry Doors As Well As The Garage Door Are Brand New. Recently Updated Eat-In Kitchen Features Granite Countertops And Backsplash. Find Your Sanctuary In A Master Bedroom With A 4 Pc Ensuite Bath And New Walk-In Closet With Mirrored Doors. 2732 Sq Feet Above Grade. New Bright 2 Br Walk-Out Basement W/Kitchen.**** EXTRAS **** Host Your Overnight Guests And Family In A Newly Renovated Walkout Basement Apartment.  7 Exquisite Chandeliers Inclu. A Perfect Location Close To Hwy 401, Shopping And The Beach! 3rd Basement Bedroom With Sliding Door Measures 4.57 X 3.16. (28476941)",
     "Building": {
       "BathroomTotal": "5",
       "Bedrooms": "4 + 2",
@@ -2924,7 +2919,7 @@
         "Organization": {
           "OrganizationID": 50862,
           "Name": "RE/MAX REALTRON REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572159690000000/lowres/1003000.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573022990000000/lowres/1003000.jpg",
           "Address": {
             "AddressText": "885 PROGRESS AVENUE, STE. 209|TORONTO, Ontario M1H3G3",
             "PermitShowAddress": true,
@@ -2949,7 +2944,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/50862/remax-realtron-realty-inc-885-progress-avenue-ste-209-toronto-ontario-m1h3g3",
-          "PhotoLastupdate": "2021-05-21 5:46:09 PM"
+          "PhotoLastupdate": "2021-05-22 5:44:59 PM"
         },
         "Phones": [
           {
@@ -3004,10 +2999,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/highres/3/e5243733_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/medres/3/e5243733_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637572167441600000/reb82/lowres/3/e5243733_1.jpg",
-          "LastUpdated": "2021-05-21 5:59:04 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572335282500000/reb82/highres/3/e5243733_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572335282500000/reb82/medres/3/e5243733_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572335282500000/reb82/lowres/3/e5243733_1.jpg",
+          "LastUpdated": "2021-05-21 10:38:48 PM"
         }
       ],
       "Parking": [
@@ -3037,7 +3032,7 @@
     "PostalCode": "M1C2J5",
     "RelativeDetailsURL": "/real-estate/23233208/165-lawson-rd-toronto-centennial-scarborough",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-21 9:59:04 PM",
+    "PhotoChangeDateUTC": "2021-05-22 2:38:48 AM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23233208/165-lawson-rd-toronto-centennial-scarborough",
@@ -4705,243 +4700,6 @@
     "RelativeURLFr": "/immobilier/23093074/2580-regional-rd-23-rd-uxbridge"
   },
   {
-    "Id": "23168951",
-    "MlsNumber": "N5224118",
-    "PublicRemarks": "Bright & Spacious Fully Renovated 3+1 Bedroom Bungalow On A Premium 5.76 Acres *Waterfront* Over 2,100 Sqft Of Living *Open Concept* New Gourmet Kitchen W/8Ft Centre Island +Quartz Counters +Mounted Farmhouse Sink *Large Windows* Engineered Hardwood On Main *All Spacious Bedrooms* Fin' Bsmnt W/Sep Entrance + Large Rec +Office +Bedroom +Full Bath & Laundry! Income From Prime Produce Marsh Soil & Detached Insulated 30X50 Workshop W/200Amp Service**** EXTRAS **** Large Attached Garage W/ Direct Access To Home * Roof (13) Windows (14) 200 Amp Panel (21) Exterior Siding (21) Waterproofing (14) Sump Pump (21) Garage Dr (13) All Elfs, Window Coverings, Appliances & Laundry! Visit Www.1333Canal.Ca (28393069)",
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    },
-    "Individual": [
-      {
-        "IndividualID": 1470438,
-        "Name": "HANS OHRSTROM",
-        "Organization": {
-          "OrganizationID": 271921,
-          "Name": "HOMELIFE EAGLE REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565770660000000/lowres/271921.jpg",
-          "Address": {
-            "AddressText": "13025 YONGE ST UNIT 202|RICHMOND HILL, Ontario L4E1A5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "773-7771",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "773-4869",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "464119454"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.homelifeeagle.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/271921/homelife-eagle-realty-inc-13025-yonge-st-unit-202-richmond-hill-ontario-l4e1a5",
-          "PhotoLastupdate": "2021-05-14 8:17:46 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "773-7771",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.hansohrstrom.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/HansOhrstromRealEstate/",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/HansOhrstrom",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://www.linkedin.com/in/hans-ohrstrom-team-b04ab9b5/",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "462695468"
-          }
-        ],
-        "Position": "Broker of Record",
-        "PermitFreetextEmail": true,
-        "FirstName": "HANS",
-        "LastName": "OHRSTROM",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/1470438/hans-ohrstrom-13025-yonge-st-unit-202-richmond-hill-ontario-l4e1a5",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      },
-      {
-        "IndividualID": 2033920,
-        "Name": "SAM GHAMSARI",
-        "Organization": {
-          "OrganizationID": 271921,
-          "Name": "HOMELIFE EAGLE REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637565770660000000/lowres/271921.jpg",
-          "Address": {
-            "AddressText": "13025 YONGE ST UNIT 202|RICHMOND HILL, Ontario L4E1A5",
-            "PermitShowAddress": true,
-            "DisseminationArea": null
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "773-7771",
-              "AreaCode": "905",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "773-4869",
-              "AreaCode": "905",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "464119454"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.homelifeeagle.com",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "OrganizationType": "Firm",
-          "Designation": "Brokerage",
-          "HasEmail": true,
-          "PermitFreetextEmail": true,
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/office/firm/271921/homelife-eagle-realty-inc-13025-yonge-st-unit-202-richmond-hill-ontario-l4e1a5",
-          "PhotoLastupdate": "2021-05-14 8:17:46 AM"
-        },
-        "Phones": [
-          {
-            "PhoneType": "Telephone",
-            "PhoneNumber": "773-7771",
-            "AreaCode": "905",
-            "PhoneTypeId": "1"
-          }
-        ],
-        "Websites": [
-          {
-            "Website": "http://www.hansohrstrom.com",
-            "WebsiteTypeId": "1"
-          },
-          {
-            "Website": "https://www.facebook.com/HansOhrstromRealEstate/",
-            "WebsiteTypeId": "2"
-          },
-          {
-            "Website": "https://twitter.com/hansohrstrom",
-            "WebsiteTypeId": "4"
-          },
-          {
-            "Website": "https://ca.linkedin.com/in/sam-ghamsari-785966a8",
-            "WebsiteTypeId": "3"
-          }
-        ],
-        "Emails": [
-          {
-            "ContactId": "464172855"
-          }
-        ],
-        "Photo": "https://cdn.realtor.ca/individual/TS636656252400000000/lowres/1310703.jpg",
-        "Position": "Salesperson",
-        "PermitFreetextEmail": true,
-        "FirstName": "SAM",
-        "LastName": "GHAMSARI",
-        "CorporationDisplayTypeId": "0",
-        "PermitShowListingLink": true,
-        "RelativeDetailsURL": "/agent/2033920/sam-ghamsari-13025-yonge-st-unit-202-richmond-hill-ontario-l4e1a5",
-        "AgentPhotoLastUpdated": "2018-06-26 15:54:00",
-        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636656252400000000/highres/1310703.jpg",
-        "RankMyAgentKey": "",
-        "RealSatisfiedKey": ""
-      }
-    ],
-    "Property": {
-      "Price": "$999,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1333 CANAL RD|Bradford West Gwillimbury, Ontario L3Z2A6",
-        "Longitude": "-79.5976976",
-        "Latitude": "44.0582766",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637560698277230000/reb82/highres/8/n5224118_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637560698277230000/reb82/medres/8/n5224118_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637560698277230000/reb82/lowres/8/n5224118_1.jpg",
-          "LastUpdated": "2021-05-08 11:23:47 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$999,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "999900"
-    },
-    "Business": {},
-    "Land": {
-      "SizeTotal": "241 x 1227 FT   ; Premium 5.76Acre Lot!|5 - 9.99 acres"
-    },
-    "AlternateURL": {
-      "DetailsLink": "http://www.1333canal.com/",
-      "VideoLink": "http://www.1333canal.ca/"
-    },
-    "PostalCode": "L3Z2A6",
-    "RelativeDetailsURL": "/real-estate/23168951/1333-canal-rd-bradford-west-gwillimbury-rural-bradford-west-gwillimbury",
-    "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-08 3:23:47 PM",
-    "Distance": "",
-    "RelativeURLEn": "/real-estate/23168951/1333-canal-rd-bradford-west-gwillimbury-rural-bradford-west-gwillimbury",
-    "RelativeURLFr": "/immobilier/23168951/1333-canal-rd-bradford-west-gwillimbury"
-  },
-  {
     "Id": "23173140",
     "MlsNumber": "N5225286",
     "PublicRemarks": "Rare Offering!!. South Adjala Horse Farm Estate On Pastoral 25 Acres. Story Book Setting, Views Across The Entire Property Of Gentle Rolling Fields In The Heart Of Horse Country, Minutes To Palgrave Equestrian Centre. Complete Facilities With A 60'X140' Arena + 2 Portable Stalls, Stables Of 13 Matted Stalls & Tack Rm + Huge Upper Hay Storage And 6 Large Paddocks Backing On To Conservation.Sprawling Stone/Board & Batten Bungalow Compliments Equine Property.**** EXTRAS **** Views Across Entire Property, Circular Drive,Finished Basement, 2 Wood Burning Fireplaces, Manual Transfer Switch For Future Generator, Uv Light System On House & Barn Water, Indoor Pool, Bbq Patio, Sun Deck, A/C. (28398426)",
@@ -5455,7 +5213,7 @@
   {
     "Id": "23231631",
     "MlsNumber": "N5243011",
-    "PublicRemarks": "Beautiful Monarch Built Home Located In The Most Sought After Oak Ridges Neighborhood! This Detached 2 Storey Home Features An Open Concept Living And Dining Area W/ Hardwood Floors, Family Size Kitchen W/O To Custom Deck With Pergola Perfect For Entertaining, 9 Foot Ceilings Pot Lights Crown Mouldings Huge In Between Family Room Which Can Be Converted To A Bedroom! Master Br Features His/Her Closets And 4 Piece Ensuite. Oak Staircase With Iron Spindles.**** EXTRAS **** Steps To Temperanceville Park, Cul De Sac, Walking Trails! Includes Gas Stove, B/I Microwave, Dishwasher, Fridge, Washer, Dryer, Cvac, Cac, Garden Shed, Light Fixtures, Window Coverings. Close To All Amenities, Schools, Shopping, Transit. (28474642)",
+    "PublicRemarks": "Beautiful Monarch Built Home Located In The Most Sought After Oak Ridges Neighborhood! This Detached 2 Storey Home Features An Open Concept Living And Dining Area W/ Hardwood Floors, Family Size Kitchen W/O To Custom Deck With Pergola Perfect For Entertaining, 9 Foot Ceilings, Pot Lights, Crown Mouldings, Huge In Between Family Room Which Can Be Converted To A Bedroom! Master Br Features His/Her Closets And 4 Piece Ensuite. Oak Staircase With Iron Spindles.**** EXTRAS **** Steps To Temperanceville Park, Cul De Sac, Walking Trails! Includes Gas Stove, B/I Microwave, Dishwasher, Fridge, Washer, Dryer, Cvac, Cac, Garden Shed, Light Fixtures, Window Coverings. Close To All Amenities, Schools, Shopping, Transit. (28474642)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3",
@@ -5469,7 +5227,7 @@
         "Organization": {
           "OrganizationID": 91221,
           "Name": "HOMELIFE FRONTIER REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571955860000000/lowres/91221.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573023600000000/lowres/91221.jpg",
           "Address": {
             "AddressText": "7620 YONGE STREET UNIT 400|THORNHILL, Ontario L4J1V9",
             "PermitShowAddress": true,
@@ -5500,7 +5258,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/91221/homelife-frontier-realty-inc-7620-yonge-street-unit-400-thornhill-ontario-l4j1v9",
-          "PhotoLastupdate": "2021-05-21 12:06:26 PM"
+          "PhotoLastupdate": "2021-05-22 5:46:00 PM"
         },
         "Phones": [
           {
@@ -5578,7 +5336,6 @@
     "RelativeDetailsURL": "/real-estate/23231631/120-portage-ave-richmond-hill-oak-ridges",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-20 10:02:53 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23231631/120-portage-ave-richmond-hill-oak-ridges",
     "RelativeURLFr": "/immobilier/23231631/120-portage-ave-richmond-hill"
@@ -6327,10 +6084,142 @@
     "RelativeDetailsURL": "/real-estate/23229285/13559-fourth-line-halton-hills-acton",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-20 5:38:31 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23229285/13559-fourth-line-halton-hills-acton",
     "RelativeURLFr": "/immobilier/23229285/13559-fourth-line-halton-hills"
+  },
+  {
+    "Id": "23238773",
+    "MlsNumber": "W5245322",
+    "PublicRemarks": "Escape From The City To This Fabulous Country Home With 14 Acres Of Cleared And Forested Rolling Hills. Live Full Time Or Make This Your Four-Season Home Away From Home With Nearby Access To Renowned Golf And Ski Clubs, Conservation Parks, Trails And Hiking. Easy Living With Carpet-Free Floors And Three Bedrooms. Enjoy Outdoor Vistas From The Sunny Great Room With Space For Large Dining And Living Areas, Complete With A Cozy Wood-Burning Fireplace & Walk-Out.**** EXTRAS **** A Spacious Bonus Office Allows For Study &/Or Work From Home. Plenty Of Room To Store Recreational Equipment In The Double Car Garage Or In The Walk Out Lower Level. The Property Is A Mix Of Cleared & Uncleared, Forested Land. Exc Freezer (28484095)",
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1987064,
+        "Name": "CATHERINE BOURELLE",
+        "Organization": {
+          "OrganizationID": 159857,
+          "Name": "SOTHEBY'S INTERNATIONAL REALTY CANADA",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572675140000000/lowres/159857.jpg",
+          "Address": {
+            "AddressText": "125 LAKESHORE RD E STE 200|OAKVILLE, Ontario L6J1H3",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "845-0024",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "844-1747",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/159857/sothebys-international-realty-canada-125-lakeshore-rd-e-ste-200-oakville-ontario-l6j1h3",
+          "PhotoLastupdate": "2021-05-22 8:05:14 AM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "704-3439",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "704-3439",
+            "AreaCode": "416",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.thebourelleteam.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/realestatemississauga/",
+            "WebsiteTypeId": "2"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455753685"
+          }
+        ],
+        "Position": "Broker",
+        "DesignationCodes": "CLHMS",
+        "PermitFreetextEmail": true,
+        "FirstName": "CATHERINE",
+        "LastName": "BOURELLE",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1987064/catherine-bourelle-125-lakeshore-rd-e-ste-200-oakville-ontario-l6j1h3",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,689,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "18457 HUMBER STATION RD|Caledon, Ontario L7E3A8",
+        "Longitude": "-79.8905713",
+        "Latitude": "43.9562009",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572675144970000/reb82/highres/2/w5245322_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572675144970000/reb82/medres/2/w5245322_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572675144970000/reb82/lowres/2/w5245322_1.jpg",
+          "LastUpdated": "2021-05-22 8:05:14 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "22",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Ski area",
+      "ConvertedPrice": "$1,689,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1689000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "14 Acre|10 - 24.99 acres"
+    },
+    "PostalCode": "L7E3A8",
+    "RelativeDetailsURL": "/real-estate/23238773/18457-humber-station-rd-caledon-rural-caledon",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-22 12:05:14 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23238773/18457-humber-station-rd-caledon-rural-caledon",
+    "RelativeURLFr": "/immobilier/23238773/18457-humber-station-rd-caledon"
   },
   {
     "Id": "23032691",
@@ -9308,7 +9197,6 @@
     "RelativeDetailsURL": "/real-estate/23227380/714534-1st-line-ehs-line-mono-rural-mono",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-21 1:58:54 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23227380/714534-1st-line-ehs-line-mono-rural-mono",
     "RelativeURLFr": "/immobilier/23227380/714534-1st-line-ehs-line-mono"
@@ -9442,7 +9330,6 @@
     "RelativeDetailsURL": "/real-estate/23227976/8782-side-road-17-erin-rural-erin",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-20 2:58:32 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23227976/8782-side-road-17-erin-rural-erin",
     "RelativeURLFr": "/immobilier/23227976/8782-side-road-17-erin"
@@ -9572,7 +9459,6 @@
     "RelativeDetailsURL": "/real-estate/23231953/311475-grey-county-8-rd-southgate-dundalk",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-20 10:06:41 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23231953/311475-grey-county-8-rd-southgate-dundalk",
     "RelativeURLFr": "/immobilier/23231953/311475-grey-county-8-rd-southgate"
@@ -9684,5 +9570,140 @@
     "Distance": "",
     "RelativeURLEn": "/real-estate/23234763/644-east-west-line-niagara-on-the-lake",
     "RelativeURLFr": "/immobilier/23234763/644-east-west-line-niagara-on-the-lake"
+  },
+  {
+    "Id": "23239067",
+    "MlsNumber": "X5245502",
+    "PublicRemarks": "Country Living At Its Finest! Gorgeous Ranch Style Bungalow On 10 Beautiful Acres! Wrap Around Porch & Steel Roof/18. Tastefully Finished, Well Maintained & Pride Of Ownership Shines Through! Enjoy A Spacious & Bright Eat In Kitchen C/W Picture Perfect Views Of The Backyard! Separate Family Rm W/Hardwd Flrs, An Office With A View & Wood Burning Fireplace For Those Working From Home! Master Has W/O To Wood Deck & 5 Pc Ensuite & Double Closet.**** EXTRAS **** Two Additional Bedrms On Main Flr & 4 Pc Bath.  Bsmt Has Large Rec Rm C/W 4th Bedrm & 3Pc Bath, All Above Grade Windows. Separate Fitness Area & Play Area For Kids. Bonus 21Kw Generact Auto Generator Valued At $11K Perfect Back Up Support!! (28484569)",
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1562307,
+        "Name": "CHRISTINE MURRAY",
+        "Organization": {
+          "OrganizationID": 279258,
+          "Name": "ROYAL LEPAGE RCR REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572881780000000/lowres/default/royallepage.gif",
+          "Address": {
+            "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "941-5151",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "941-5432",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "414881119"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.royallepagercr.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
+          "PhotoLastupdate": "2021-05-22 1:49:38 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "941-5151",
+            "AreaCode": "519",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.christinemurray.ca/",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "465778383"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1562307.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "CHRISTINE",
+        "LastName": "MURRAY",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1562307/christine-murray-14---75-first-street-orangeville-ontario-l9w2e7",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1562307.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,250,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "555142 MONO-AMARANTH TOWN LINE|Amaranth, Ontario L9W0T3",
+        "Longitude": "-80.1598345",
+        "Latitude": "44.0328164",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637572786667730000/reb82/highres/2/x5245502_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637572786667730000/reb82/medres/2/x5245502_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637572786667730000/reb82/lowres/2/x5245502_1.jpg",
+          "LastUpdated": "2021-05-22 11:11:06 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,250,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1250000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "195.08 x 2241.18 FT|10 - 24.99 acres"
+    },
+    "PostalCode": "L9W0T3",
+    "RelativeDetailsURL": "/real-estate/23239067/555142-mono-amaranth-town-line-amaranth-rural-amaranth",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-22 3:11:06 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23239067/555142-mono-amaranth-town-line-amaranth-rural-amaranth",
+    "RelativeURLFr": "/immobilier/23239067/555142-mono-amaranth-town-line-amaranth"
   }
 ]
