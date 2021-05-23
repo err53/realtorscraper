@@ -660,10 +660,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/highres/2/40116932_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/medres/2/40116932_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/lowres/2/40116932_1.jpg",
-          "LastUpdated": "2021-05-20 8:14:39 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637573704331830000/reb44/highres/2/40116932_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637573704331830000/reb44/medres/2/40116932_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637573704331830000/reb44/lowres/2/40116932_1.jpg",
+          "LastUpdated": "2021-05-23 12:40:33 PM"
         }
       ],
       "Parking": [
@@ -1246,7 +1246,7 @@
     "Id": "23046094",
     "MlsNumber": "N5187165",
     "Property": {
-      "Price": "$1,879,900",
+      "Price": "$1,849,900",
       "Type": "Single Family",
       "Address": {
         "AddressText": "10700 CONCESSION 6 RD|Uxbridge, Ontario L9P1R2",
@@ -1272,12 +1272,12 @@
       "ParkingSpaceTotal": "10",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,879,900 ",
+      "ConvertedPrice": "$1,849,900 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1879900"
+      "PriceUnformattedValue": "1849900"
     },
     "Land": {
       "SizeTotal": "330.14 x 1846.1 FT|10 - 24.99 acres"
@@ -1704,6 +1704,53 @@
     },
     "Building": {
       "BathroomTotal": "3",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23240831",
+    "MlsNumber": "N5246221",
+    "Property": {
+      "Price": "$1,519,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2616 EIGHTEENTH SDRD|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.7165189",
+        "Latitude": "44.0713466",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/highres/1/n5246221_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/medres/1/n5246221_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/lowres/1/n5246221_1.jpg",
+          "LastUpdated": "2021-05-23 5:44:50 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,519,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1519000"
+    },
+    "Land": {
+      "SizeTotal": "379 x 1153 FT   ; 10.01 Acres|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
       "Type": "House"

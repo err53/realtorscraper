@@ -510,7 +510,6 @@
     "RelativeDetailsURL": "/real-estate/23197890/142-clarke-road-paris",
     "StatusId": "1",
     "PriceChangeDateUTC": "2021-05-21 2:25:40 PM",
-    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-05-13 4:32:48 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/23197890/142-clarke-road-paris",
@@ -2091,7 +2090,7 @@
   {
     "Id": "23226990",
     "MlsNumber": "40116932",
-    "PublicRemarks": "Your Country Dream Home Awaits! Don't Miss Your Opportunity, This Spacious 4 Bed 4 Bath Bungalow Is Situated In The Hills Of Mono, Just A Few Minutes Walk From Mono Cliffs Provincial Park On The Bruce Trail. Even Better, This Home Boasts Its Own Private 20 Acres Including A 150'X100'x 13' deep Pond That Many Of Mono's Turtles call home. Nature Lovers Heaven!! If You Are Not Convinced After Viewing The Home, Bring Your Boots To Walk The Property. Seller Has Marked A Trail In The Middle Of The Acreage. Home Is Very Efficient To Run! Enjoy The Low Taxes with the Managed Forest Credit. Many many Updates. Roof plywood, facia and eaves '18, Windows & Doors '17, all 3 main floor washrooms from '18-'21, all main floor flooring '20-'21, lower level flooring '21. Two lower level walkouts, Two cantinas! Lower level has income potential. (63343922)",
+    "PublicRemarks": "Your Country Dream Home Awaits! Don't Miss Your Opportunity, This Spacious 4 Bed 4 Bath Bungalow Is Situated In The Hills Of Mono, Just A Few Minutes Walk From Mono Cliffs Provincial Park On The Bruce Trail. Even Better, This Home Boasts Its Own Private 20 Acres Including A 150'X100'x 13' deep Pond That Many Of Mono's Turtles call home. Nature Lovers Heaven!! If You Are Not Convinced After Viewing The Home, Bring Your Boots To Walk The Property. Seller Has Marked A Trail In The Middle Of The Acreage. Home Is Very Efficient To Run! Enjoy The Low Taxes with the Managed Forest Credit. Many many Updates. Roof, including the plywood and shingles, facia and eaves '18, Windows & Doors '17, all 3 main floor washrooms from '18-'21, all main floor flooring '20-'21, lower level flooring '21. Two lower level walkouts, Two cantinas! Lower level has income potential. (63343922)",
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "4 + 0",
@@ -2106,7 +2105,7 @@
         "Organization": {
           "OrganizationID": 85445,
           "Name": "Royal LePage RCR Realty Brokerage",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571444770000000/lowres/1147509.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573706540000000/lowres/1147509.jpg",
           "Address": {
             "AddressText": "206 George Street|Arthur, Ontario N0G1A0",
             "PermitShowAddress": true,
@@ -2142,7 +2141,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/85445/royal-lepage-rcr-realty-brokerage-206-george-street-arthur-ontario-n0g1a0",
-          "PhotoLastupdate": "2021-05-20 9:54:37 PM"
+          "PhotoLastupdate": "2021-05-23 12:44:14 PM"
         },
         "Phones": [
           {
@@ -2213,10 +2212,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/highres/2/40116932_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/medres/2/40116932_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637570952795900000/reb44/lowres/2/40116932_1.jpg",
-          "LastUpdated": "2021-05-20 8:14:39 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637573704331830000/reb44/highres/2/40116932_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637573704331830000/reb44/medres/2/40116932_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637573704331830000/reb44/lowres/2/40116932_1.jpg",
+          "LastUpdated": "2021-05-23 12:40:33 PM"
         }
       ],
       "Parking": [
@@ -2248,7 +2247,8 @@
     "PostalCode": "L9W5T6",
     "RelativeDetailsURL": "/real-estate/23226990/714534-1st-line-ehs-line-mono",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-20 12:14:39 PM",
+    "PhotoChangeDateUTC": "2021-05-23 4:40:35 PM",
+    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23226990/714534-1st-line-ehs-line-mono",
     "RelativeURLFr": "/immobilier/23226990/714534-1st-line-ehs-line-mono"
@@ -2897,7 +2897,6 @@
     "RelativeDetailsURL": "/real-estate/23236953/18457-humber-station-road-caledon",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-22 12:01:27 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23236953/18457-humber-station-road-caledon",
     "RelativeURLFr": "/immobilier/23236953/18457-humber-station-road-caledon"
@@ -3033,7 +3032,6 @@
     "RelativeDetailsURL": "/real-estate/23233208/165-lawson-rd-toronto-centennial-scarborough",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-22 2:38:48 AM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23233208/165-lawson-rd-toronto-centennial-scarborough",
     "RelativeURLFr": "/immobilier/23233208/165-lawson-rd-toronto"
@@ -4132,7 +4130,7 @@
         "Organization": {
           "OrganizationID": 50244,
           "Name": "ROYAL LEPAGE YOUR COMMUNITY REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637568471960000000/lowres/1097742.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573742820000000/lowres/1097742.jpg",
           "Address": {
             "AddressText": "6173 MAIN STREET|STOUFFVILLE, Ontario L4A4H8",
             "PermitShowAddress": true,
@@ -4157,7 +4155,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/50244/royal-lepage-your-community-realty-6173-main-street-stouffville-ontario-l4a4h8",
-          "PhotoLastupdate": "2021-05-17 11:19:56 AM"
+          "PhotoLastupdate": "2021-05-23 1:44:42 PM"
         },
         "Phones": [
           {
@@ -4187,7 +4185,7 @@
       }
     ],
     "Property": {
-      "Price": "$1,879,900",
+      "Price": "$1,849,900",
       "Type": "Single Family",
       "Address": {
         "AddressText": "10700 CONCESSION 6 RD|Uxbridge, Ontario L9P1R2",
@@ -4213,12 +4211,12 @@
       "ParkingSpaceTotal": "10",
       "TypeId": "300",
       "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,879,900 ",
+      "ConvertedPrice": "$1,849,900 ",
       "OwnershipTypeGroupIds": [
         1
       ],
       "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1879900"
+      "PriceUnformattedValue": "1849900"
     },
     "Business": {},
     "Land": {
@@ -4230,7 +4228,8 @@
     "PostalCode": "L9P1R2",
     "RelativeDetailsURL": "/real-estate/23046094/10700-concession-6-rd-uxbridge-rural-uxbridge",
     "StatusId": "1",
-    "PriceChangeDateUTC": "2021-04-19 12:05:25 PM",
+    "PriceChangeDateUTC": "2021-05-23 5:46:15 PM",
+    "HasPriceUpdate": true,
     "PhotoChangeDateUTC": "2021-04-09 6:53:33 PM",
     "Distance": "",
     "RelativeURLEn": "/real-estate/23046094/10700-concession-6-rd-uxbridge-rural-uxbridge",
@@ -5357,7 +5356,7 @@
         "Organization": {
           "OrganizationID": 70066,
           "Name": "HOMELIFE LANDMARK REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637571817390000000/lowres/1132867.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573537060000000/lowres/1132867.jpg",
           "Address": {
             "AddressText": "7240 WOODBINE AVE UNIT 103|MARKHAM, Ontario L3R1A4",
             "PermitShowAddress": true,
@@ -5394,7 +5393,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/70066/homelife-landmark-realty-inc-7240-woodbine-ave-unit-103-markham-ontario-l3r1a4",
-          "PhotoLastupdate": "2021-05-21 8:15:39 AM"
+          "PhotoLastupdate": "2021-05-23 8:01:46 AM"
         },
         "Phones": [
           {
@@ -5462,10 +5461,159 @@
     "RelativeDetailsURL": "/real-estate/23233306/257-sandford-rd-uxbridge-rural-uxbridge",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-21 12:15:39 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23233306/257-sandford-rd-uxbridge-rural-uxbridge",
     "RelativeURLFr": "/immobilier/23233306/257-sandford-rd-uxbridge"
+  },
+  {
+    "Id": "23240831",
+    "MlsNumber": "N5246221",
+    "PublicRemarks": "10 Acre Parcel & Custom Ranch Bungalow, 1968 Sq Ft, Quiet Tranquil Setting, 7 Acres Mostly Pasture With Equine Potential, Or Crops, Surrounded By Mature Pines. Large Heated Tandem Garage. Newer Shingles Windows, Kneewall & Eavestrough, Finished Basement. Big Garden Possibilities, Around Corner From Bond Head Club Links, Near Beeton For Easy Shopping To Bradford & Big Box Stores, Or Hwy 400 For Commuting.**** EXTRAS **** Custom Blinds, Propane Tank (R), Hwt (O), Central Air & Vac , Propane Furnace, Iron Remover, All Elf's, Ss Refrigerator Stove & B/I D/W. Washer & Dryer, Range Hood, Garage Door Openers/Remotes, All Chattels  (As Is)  No Warranties! (28487052)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1820865,
+        "Name": "YVONNE IRVINE",
+        "Organization": {
+          "OrganizationID": 238618,
+          "Name": "IPRO REALTY LTD.",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573886900000000/lowres/1200748.jpg",
+          "Address": {
+            "PermitShowAddress": false,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "507-4776",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "507-4779",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.ipro-realty.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/238618/ipro-realty-ltd-30-eglinton-ave-w-c12-mississauga-ontario-l5r3e7",
+          "PhotoLastupdate": "2021-05-23 5:44:50 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "704-0634",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Toll Free",
+            "PhoneNumber": "704-0634",
+            "AreaCode": "416",
+            "PhoneTypeId": "5"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://www.TheYvonneIrvineTeam.com",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.facebook.com/yvonne.irvine.737",
+            "WebsiteTypeId": "2"
+          },
+          {
+            "Website": "https://twitter.com/your_guaranteed",
+            "WebsiteTypeId": "4"
+          },
+          {
+            "Website": "https://www.linkedin.com/in/yvonneirvine/",
+            "WebsiteTypeId": "3"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "455681712"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS636722796600000000/lowres/1193581.jpg",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "YVONNE",
+        "LastName": "IRVINE",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1820865/yvonne-irvine",
+        "AgentPhotoLastUpdated": "2018-09-11 16:21:00",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636722796600000000/highres/1193581.jpg",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,519,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2616 EIGHTEENTH SDRD|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.7165189",
+        "Latitude": "44.0713466",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/highres/1/n5246221_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/medres/1/n5246221_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/lowres/1/n5246221_1.jpg",
+          "LastUpdated": "2021-05-23 5:44:50 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,519,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1519000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "379 x 1153 FT   ; 10.01 Acres|10 - 24.99 acres"
+    },
+    "AlternateURL": {
+      "VideoLink": "https://tours.luckyelement.ca/tours/2616-18th-sideroad/"
+    },
+    "PostalCode": "L0G1W0",
+    "RelativeDetailsURL": "/real-estate/23240831/2616-eighteenth-sdrd-new-tecumseth-rural-new-tecumseth",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-23 9:44:50 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23240831/2616-eighteenth-sdrd-new-tecumseth-rural-new-tecumseth",
+    "RelativeURLFr": "/immobilier/23240831/2616-eighteenth-sdrd-new-tecumseth"
   },
   {
     "Id": "23143378",
@@ -9049,7 +9197,7 @@
   {
     "Id": "23227380",
     "MlsNumber": "X5242090",
-    "PublicRemarks": "Your Country Dream Home Awaits! Don't Miss Your Opportunity, This Spacious 4 Bed 4 Bath Bungalow Is Situated In The Hills Of Mono, Just A Few Minutes Walk From Mono Cliffs Provincial Park On The Bruce Trail. Even Better, This Home Boasts Its Own Private 20 Acres Including A 150'X100' Pond That Many Of Mono's Turtles Reside In. Nature Lovers Heaven!! If You Are Not Convinced After Viewing The Home, Bring Your Boots To Walk The Property. Seller Has Marked**** EXTRAS **** A Trail In The Middle Of The Acreage. Home Is Very Efficient To Run! Enjoy The Low Taxes W/ Managed Forest Credit. Many Updates Are Detailed In Attach'. Roof '18 Windows & Doors '17, Washroomx3 '18-'21. (28469470)",
+    "PublicRemarks": "Your Country Dream Home Awaits! Don't Miss Your Opportunity, This Spacious 4 Bed 4 Bath Bungalow Is Situated In The Hills Of Mono, Just A Few Minutes Walk From Mono Cliffs Provincial Park On The Bruce Trail. Even Better, This Home Boasts Its Own Private 20 Acres Including A 150'X100' Pond That Many Of Mono's Turtles Reside In. Nature Lovers Heaven!! If You Are Not Convinced After Viewing The Home, Bring Your Boots To Walk The Property, Seller Has Marked**** EXTRAS **** A Trail Through The Middle Of The Property. Home Is Very Efficient To Run! Enjoy The Low Taxes W/ Managed Forest Credit. Many Updates Are Detailed In Attach'. Roof '18 Windows & Doors '17, Washroomx3 '18-'21. (28469470)",
     "Building": {
       "BathroomTotal": "4",
       "Bedrooms": "4",
@@ -9063,7 +9211,7 @@
         "Organization": {
           "OrganizationID": 279258,
           "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637570957270000000/lowres/default/royallepage.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573744420000000/lowres/default/royallepage.gif",
           "Address": {
             "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
             "PermitShowAddress": true,
@@ -9100,7 +9248,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
-          "PhotoLastupdate": "2021-05-20 8:22:07 AM"
+          "PhotoLastupdate": "2021-05-23 1:47:22 PM"
         },
         "Phones": [
           {
@@ -9566,7 +9714,6 @@
     "RelativeDetailsURL": "/real-estate/23234763/644-east-west-line-niagara-on-the-lake",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-21 4:10:26 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23234763/644-east-west-line-niagara-on-the-lake",
     "RelativeURLFr": "/immobilier/23234763/644-east-west-line-niagara-on-the-lake"
@@ -9574,7 +9721,7 @@
   {
     "Id": "23239067",
     "MlsNumber": "X5245502",
-    "PublicRemarks": "Country Living At Its Finest! Gorgeous Ranch Style Bungalow On 10 Beautiful Acres! Wrap Around Porch & Steel Roof/18. Tastefully Finished, Well Maintained & Pride Of Ownership Shines Through! Enjoy A Spacious & Bright Eat In Kitchen C/W Picture Perfect Views Of The Backyard! Separate Family Rm W/Hardwd Flrs, An Office With A View & Wood Burning Fireplace For Those Working From Home! Master Has W/O To Wood Deck & 5 Pc Ensuite & Double Closet.**** EXTRAS **** Two Additional Bedrms On Main Flr & 4 Pc Bath.  Bsmt Has Large Rec Rm C/W 4th Bedrm & 3Pc Bath, All Above Grade Windows. Separate Fitness Area & Play Area For Kids. Bonus 21Kw Generact Auto Generator Valued At $11K Perfect Back Up Support!! (28484569)",
+    "PublicRemarks": "Country Living At Its Finest! Gorgeous Ranch Style Bungalow On 10 Beautiful Acres! Wrap Around Porch & Steel Roof/18. Tastefully Finished, Well Maintained & Pride Of Ownership Shines Through! Enjoy A Spacious & Bright Eat In Kitchen C/W Picture Perfect Views Of The Backyard! Separate Family Rm W/Hardwd Flrs, An Office With A View & Wood Burning Fireplace For Those Working From Home! Master Has W/O To Wood Deck & 5 Pc Ensuite & Double Closet.**** EXTRAS **** Two Additional Bedrms On Main Flr & 4 Pc Bath.  Bsmt Has Large Rec Rm C/W 4th Bedrm & 3Pc Bath, All Above Grade Windows. Separate Fitness Area & Play Area For Kids. Bonus 21Kw Generac Auto Generator Valued At $11K Perfect Back Up Support!! (28484569)",
     "Building": {
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
@@ -9588,7 +9735,7 @@
         "Organization": {
           "OrganizationID": 279258,
           "Name": "ROYAL LEPAGE RCR REALTY",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637572881780000000/lowres/default/royallepage.gif",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573888200000000/lowres/default/royallepage.gif",
           "Address": {
             "AddressText": "14 - 75 FIRST STREET|ORANGEVILLE, Ontario L9W2E7",
             "PermitShowAddress": true,
@@ -9625,7 +9772,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/279258/royal-lepage-rcr-realty-14-75-first-street-orangeville-ontario-l9w2e7",
-          "PhotoLastupdate": "2021-05-22 1:49:38 PM"
+          "PhotoLastupdate": "2021-05-23 5:47:00 PM"
         },
         "Phones": [
           {
