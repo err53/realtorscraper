@@ -392,6 +392,56 @@
     }
   },
   {
+    "Id": "23241439",
+    "MlsNumber": "40112472",
+    "Property": {
+      "Price": "$1,519,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2616 18TH SIDEROAD Road|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.71762933",
+        "Latitude": "44.07091493",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637574586682000000/reb85/highres/2/40112472_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637574586682000000/reb85/medres/2/40112472_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637574586682000000/reb85/lowres/2/40112472_1.jpg",
+          "LastUpdated": "2021-05-24 1:11:08 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Hospital, Shopping",
+      "ConvertedPrice": "$1,519,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1519000"
+    },
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "AccessType": "Highway access, Highway Nearby"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "23202981",
     "MlsNumber": "40113593",
     "Property": {
@@ -1725,10 +1775,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/highres/1/n5246221_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/medres/1/n5246221_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/lowres/1/n5246221_1.jpg",
-          "LastUpdated": "2021-05-23 5:44:50 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637574567203270000/reb82/highres/1/n5246221_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637574567203270000/reb82/medres/1/n5246221_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637574567203270000/reb82/lowres/1/n5246221_1.jpg",
+          "LastUpdated": "2021-05-24 12:38:40 PM"
         }
       ],
       "Parking": [
@@ -1753,6 +1803,53 @@
       "BathroomTotal": "2",
       "Bedrooms": "3 + 2",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23241584",
+    "MlsNumber": "N5246388",
+    "Property": {
+      "Price": "$1,299,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "39 DICKSON HILL RD|Markham, Ontario L3P3J3",
+        "Longitude": "-79.2754618",
+        "Latitude": "43.9416381",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637574794308570000/reb82/highres/8/n5246388_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637574794308570000/reb82/medres/8/n5246388_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637574794308570000/reb82/lowres/8/n5246388_1.jpg",
+          "LastUpdated": "2021-05-24 6:57:10 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,299,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1299900"
+    },
+    "Land": {
+      "SizeTotal": "100 x 150 FT|25 - 50 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "5 + 1",
+      "StoriesTotal": "2",
       "Type": "House"
     }
   },

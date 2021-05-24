@@ -1372,6 +1372,158 @@
     "RelativeURLFr": "/immobilier/23174016/308042-centre-line-a-grey-highlands"
   },
   {
+    "Id": "23241439",
+    "MlsNumber": "40112472",
+    "PublicRemarks": "10 Acre Parcel Is Nestled In A Quiet Rural Setting With Peace & Tranquility, The Best Of Both Worlds! This Well Kept Custom Ranch Style Bungalow Offers The Prefect Setting To Raise A Family. Rare Tandem Heated Garage. Note: Room For A Pool, Tennis Court, Or A 2nd Access To Back Acreage Is All A Possibility. 7 Of The Acres Are Mostly Pasture With Equine Potential, Or Crops, Surrounded By Mature Pines. Area For Big Vegetable Garden. This Bungalow Boasts With 1968 Square Feet Above Grade, Not Including The Professionally Finished Basement With 2 More Bedrooms For Guests & 2 Bright Rec Rooms With Above Grade Windows. These Rec Rooms Could Be Used As Movie Theater &  Or Pool Room, Or Perfect Potential For A Nanny or In-Law Suite. This Home Is Conveniently Located Close to Beeton For Easy Shopping. You Can Dine At Amazing Local Restaurants, Close To All Amenities, Short Drive to Bradford & Big Box Stores, Minutes From Hwy 400, Hwy 27 & Hwy 88 For Commuting.   Minute From The Magnificent Bond Head Club Link Family Golf Course Which Offers A North & South Course Designed By Hurdzan-Fry. Bond Head Golf Course Is The Perfect Place To Entertain And Have Some Delectable Cuisine & Spectacular Views, It Also Offers A Patio Bistro Too. ( Also Open To The Public) (63353911)",
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 2",
+      "StoriesTotal": "1",
+      "Type": "House",
+      "UnitTotal": "0"
+    },
+    "Individual": [
+      {
+        "IndividualID": 2051702,
+        "Name": "Yvonne Irvine",
+        "Organization": {
+          "OrganizationID": 283239,
+          "Name": "IPRO REALTY LTD",
+          "Address": {
+            "AddressText": "30 Eglinton Ave W Unit C12-A|Mississauga, Ontario L5R3E7",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "507-4776",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "507-4779",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "463981276"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.iprorealty.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "HasEmail": true,
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/283239/ipro-realty-ltd-30-eglinton-ave-w-unit-c12-a-mississauga-ontario-l5r3e7",
+          "PhotoLastupdate": "2021-05-24 1:09:48 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "704-0634",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          },
+          {
+            "PhoneType": "Fax",
+            "PhoneNumber": "507-4779",
+            "AreaCode": "905",
+            "PhoneTypeId": "4"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "https://www.facebook.com/yvonne.irvine.737",
+            "WebsiteTypeId": "1"
+          },
+          {
+            "Website": "https://www.linkedin.com/in/yvonneirvine/",
+            "WebsiteTypeId": "3"
+          },
+          {
+            "Website": "https://twitter.com/search?q=yvonne%20irvine&src=typed_query",
+            "WebsiteTypeId": "4"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "458208689"
+          }
+        ],
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "Yvonne",
+        "LastName": "Irvine",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/2051702/yvonne-irvine-30-eglinton-ave-w-unit-c12-a-mississauga-ontario-l5r3e7",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,519,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "2616 18TH SIDEROAD Road|New Tecumseth, Ontario L0G1W0",
+        "Longitude": "-79.71762933",
+        "Latitude": "44.07091493",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637574586682000000/reb85/highres/2/40112472_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637574586682000000/reb85/medres/2/40112472_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637574586682000000/reb85/lowres/2/40112472_1.jpg",
+          "LastUpdated": "2021-05-24 1:11:08 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Golf Nearby, Hospital, Shopping",
+      "ConvertedPrice": "$1,519,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1519000"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "10 - 24.99 acres",
+      "AccessType": "Highway access, Highway Nearby"
+    },
+    "AlternateURL": {
+      "DetailsLink": "https://drive.google.com/drive/folders/1mnauWXq1-xPt2ZOdi6le8n3OLnysCN5i",
+      "VideoLink": "https://tours.luckyelement.ca/tours/2616-18th-sideroad/"
+    },
+    "PostalCode": "L0G1W0",
+    "RelativeDetailsURL": "/real-estate/23241439/2616-18th-sideroad-road-new-tecumseth",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-24 5:11:11 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23241439/2616-18th-sideroad-road-new-tecumseth",
+    "RelativeURLFr": "/immobilier/23241439/2616-18th-sideroad-road-new-tecumseth"
+  },
+  {
     "Id": "23202981",
     "MlsNumber": "40113593",
     "PublicRemarks": "Picturesque setting on 7.9 acres near the Town of Paris! Spectacular home was built for entertaining family & friends, it boasts a lrg custom Kraftsman cherry kitchen w/ centre island, backsplash & granite counters, S/S appliances, open concept to great room w/ cozy woodstove & breakfast area. Sit or dine in the screened in sunroom, complete w/ cedar roof or on the deck and listen to  sounds of the waterfall & birds! Through various seasons, watch an array of vibrant coloured birds right outside the living room & kitchen windows. Stunning hardwood, slate & Travertine tile floors carry throughout this lovely home. Huge LR/DR feature another wood burning fireplace insert. 4 bedrooms, 4 pc bath, 2 pc bath, 3pc bath & main floor laundry room complete 2120 sq.ft. of main floor living space. This house offers great entertainment spaces & areas to retreat, like the slate guest room in the basement w/ its own fireplace.  The huge recreation room with billiard table and sitting area. Numerous improvements in recent years include Geothermal heat pump, 60 gallon water heater, water purification system, water softener, 200-amp breaker panel, 6 insulation added attic, new storage shed. The 32 x16 bunky  accommodates 5--featuring hydro & storage room. Roof re-shingled in fall of 2019. Ask for detailed list. Lots of space for all your vehicles & toys with 2 car garage, detached 1 car garage, huge drive way. Almost 8 acres of lush Carolinian forest w/ trails through majestic 100 tree including walnut, cherry sugar and black maple, oaks and many more. The grandeur of nature. Peace and quiet is an everyday occurrence! Pull out the guitar and roast marshmallows or et smores round a roaring fire at the firepit with family & friends. Firewood is always plentiful! Who needs vacations when you have your very own Muskoka, 12 months of the year? This idyllic natural setting is near major highways for the commuter, easy access to HWY #24 and HWY #403. Minutes to the Town of Paris. (63316574)",
@@ -2918,7 +3070,7 @@
         "Organization": {
           "OrganizationID": 50862,
           "Name": "RE/MAX REALTRON REALTY INC.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573022990000000/lowres/1003000.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637574512520000000/lowres/1003000.jpg",
           "Address": {
             "AddressText": "885 PROGRESS AVENUE, STE. 209|TORONTO, Ontario M1H3G3",
             "PermitShowAddress": true,
@@ -2943,7 +3095,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/50862/remax-realtron-realty-inc-885-progress-avenue-ste-209-toronto-ontario-m1h3g3",
-          "PhotoLastupdate": "2021-05-22 5:44:59 PM"
+          "PhotoLastupdate": "2021-05-24 11:07:32 AM"
         },
         "Phones": [
           {
@@ -5482,7 +5634,7 @@
         "Organization": {
           "OrganizationID": 238618,
           "Name": "IPRO REALTY LTD.",
-          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637573886900000000/lowres/1200748.jpg",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637574612780000000/lowres/1200748.jpg",
           "Address": {
             "PermitShowAddress": false,
             "DisseminationArea": null
@@ -5512,7 +5664,7 @@
           "PermitFreetextEmail": true,
           "PermitShowListingLink": true,
           "RelativeDetailsURL": "/office/firm/238618/ipro-realty-ltd-30-eglinton-ave-w-c12-mississauga-ontario-l5r3e7",
-          "PhotoLastupdate": "2021-05-23 5:44:50 PM"
+          "PhotoLastupdate": "2021-05-24 1:54:38 PM"
         },
         "Phones": [
           {
@@ -5578,10 +5730,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/highres/1/n5246221_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/medres/1/n5246221_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637573886905630000/reb82/lowres/1/n5246221_1.jpg",
-          "LastUpdated": "2021-05-23 5:44:50 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637574567203270000/reb82/highres/1/n5246221_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637574567203270000/reb82/medres/1/n5246221_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637574567203270000/reb82/lowres/1/n5246221_1.jpg",
+          "LastUpdated": "2021-05-24 12:38:40 PM"
         }
       ],
       "Parking": [
@@ -5604,16 +5756,140 @@
       "SizeTotal": "379 x 1153 FT   ; 10.01 Acres|10 - 24.99 acres"
     },
     "AlternateURL": {
+      "DetailsLink": "https://tours.luckyelement.ca/wp-content/uploads/2021/05/2616-18th-Sideroad-Tottenham-Feature-Brochure.pdf",
       "VideoLink": "https://tours.luckyelement.ca/tours/2616-18th-sideroad/"
     },
     "PostalCode": "L0G1W0",
     "RelativeDetailsURL": "/real-estate/23240831/2616-eighteenth-sdrd-new-tecumseth-rural-new-tecumseth",
     "StatusId": "1",
-    "PhotoChangeDateUTC": "2021-05-23 9:44:50 PM",
+    "PhotoChangeDateUTC": "2021-05-24 4:38:40 PM",
     "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23240831/2616-eighteenth-sdrd-new-tecumseth-rural-new-tecumseth",
     "RelativeURLFr": "/immobilier/23240831/2616-eighteenth-sdrd-new-tecumseth"
+  },
+  {
+    "Id": "23241584",
+    "MlsNumber": "N5246388",
+    "PublicRemarks": "Escape To Fresh Air Country Living. Conveniently Located In The Hamlet Of Dickson Hill, Between Stouffville & Markham Mins.  6 Mins To Mount Joy Go Station/ 4 Mins To Major Shopping Complex.  This Home Offers 5Bdrm, 4Wshm, Hrdwd Flrs/Ceramics Huge Open Concept Room. Huge Covered Patio, Overlooking In Ground Pool And Farmland Behind.  Huge Completely Finished Walk Out Bright Basement With  Pot. Bedroom & Ensuite Bathroom.**** EXTRAS **** Pot Lights, New Stainless Steel Fridge, Dishwasher.  Ss Stove, Microwave. Washer Dryer.  Cac, R/I Central Vac, Hwt (R). Hi Eff. Gas Furnace.  New Pool Liner, Pool Heater. Updated Bathrooms (28487972)",
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "5 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    },
+    "Individual": [
+      {
+        "IndividualID": 1406852,
+        "Name": "JAZ SIDHU",
+        "Organization": {
+          "OrganizationID": 51252,
+          "Name": "ROYAL LEPAGE VISION REALTY",
+          "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637574612780000000/lowres/51252.jpg",
+          "Address": {
+            "AddressText": "1051 TAPSCOTT RD #1B|TORONTO, Ontario M1X1A1",
+            "PermitShowAddress": true,
+            "DisseminationArea": null
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "321-2228",
+              "AreaCode": "416",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "321-0002",
+              "AreaCode": "416",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "OrganizationType": "Firm",
+          "Designation": "Brokerage",
+          "PermitFreetextEmail": true,
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/office/firm/51252/royal-lepage-vision-realty-1051-tapscott-rd-1b-toronto-ontario-m1x1a1",
+          "PhotoLastupdate": "2021-05-24 1:54:38 PM"
+        },
+        "Phones": [
+          {
+            "PhoneType": "Telephone",
+            "PhoneNumber": "321-2228",
+            "AreaCode": "416",
+            "PhoneTypeId": "1"
+          }
+        ],
+        "Websites": [
+          {
+            "Website": "http://keys2thehome.com",
+            "WebsiteTypeId": "1"
+          }
+        ],
+        "Emails": [
+          {
+            "ContactId": "462840058"
+          }
+        ],
+        "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1049312.gif",
+        "Position": "Salesperson",
+        "PermitFreetextEmail": true,
+        "FirstName": "JAZ",
+        "LastName": "SIDHU",
+        "CorporationDisplayTypeId": "0",
+        "PermitShowListingLink": true,
+        "RelativeDetailsURL": "/agent/1406852/jaz-sidhu-1051-tapscott-rd-1b-toronto-ontario-m1x1a1",
+        "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1049312.gif",
+        "RankMyAgentKey": "",
+        "RealSatisfiedKey": ""
+      }
+    ],
+    "Property": {
+      "Price": "$1,299,900",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "39 DICKSON HILL RD|Markham, Ontario L3P3J3",
+        "Longitude": "-79.2754618",
+        "Latitude": "43.9416381",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637574794308570000/reb82/highres/8/n5246388_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637574794308570000/reb82/medres/8/n5246388_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637574794308570000/reb82/lowres/8/n5246388_1.jpg",
+          "LastUpdated": "2021-05-24 6:57:10 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,299,900 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1299900"
+    },
+    "Business": {},
+    "Land": {
+      "SizeTotal": "100 x 150 FT|25 - 50 acres"
+    },
+    "PostalCode": "L3P3J3",
+    "RelativeDetailsURL": "/real-estate/23241584/39-dickson-hill-rd-markham-rural-markham",
+    "StatusId": "1",
+    "PhotoChangeDateUTC": "2021-05-24 10:57:11 PM",
+    "HasNewImageUpdate": true,
+    "Distance": "",
+    "RelativeURLEn": "/real-estate/23241584/39-dickson-hill-rd-markham-rural-markham",
+    "RelativeURLFr": "/immobilier/23241584/39-dickson-hill-rd-markham"
   },
   {
     "Id": "23143378",
@@ -6364,7 +6640,6 @@
     "RelativeDetailsURL": "/real-estate/23238773/18457-humber-station-rd-caledon-rural-caledon",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-22 12:05:14 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23238773/18457-humber-station-rd-caledon-rural-caledon",
     "RelativeURLFr": "/immobilier/23238773/18457-humber-station-rd-caledon"
@@ -9848,7 +10123,6 @@
     "RelativeDetailsURL": "/real-estate/23239067/555142-mono-amaranth-town-line-amaranth-rural-amaranth",
     "StatusId": "1",
     "PhotoChangeDateUTC": "2021-05-22 3:11:06 PM",
-    "HasNewImageUpdate": true,
     "Distance": "",
     "RelativeURLEn": "/real-estate/23239067/555142-mono-amaranth-town-line-amaranth-rural-amaranth",
     "RelativeURLFr": "/immobilier/23239067/555142-mono-amaranth-town-line-amaranth"
