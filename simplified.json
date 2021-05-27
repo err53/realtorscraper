@@ -49,6 +49,57 @@
     }
   },
   {
+    "Id": "23255648",
+    "MlsNumber": "40071664",
+    "Property": {
+      "Price": "$1,150,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "247 MCLEAN SCHOOL Road|St. George, Ontario N0E1N0",
+        "Longitude": "-80.28423854",
+        "Latitude": "43.26918463",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577179088470000/reb20/highres/4/40071664_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577179088470000/reb20/medres/4/40071664_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577179088470000/reb20/lowres/4/40071664_1.jpg",
+          "Description": "Overview of Property",
+          "LastUpdated": "2021-05-27 1:11:48 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "11",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,150,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1150000"
+    },
+    "Land": {
+      "SizeTotal": "10.151 ac|10 - 24.99 acres",
+      "SizeFrontage": "761 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "2"
+    }
+  },
+  {
     "Id": "22953460",
     "MlsNumber": "40084094",
     "Property": {
@@ -114,10 +165,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637565059687230000/reb41/highres/1/40099221_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637565059687230000/reb41/medres/1/40099221_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637565059687230000/reb41/lowres/1/40099221_1.jpg",
-          "LastUpdated": "2021-05-13 12:32:48 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637576597068100000/reb41/highres/1/40099221_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637576597068100000/reb41/medres/1/40099221_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637576597068100000/reb41/lowres/1/40099221_1.jpg",
+          "LastUpdated": "2021-05-26 9:01:46 PM"
         }
       ],
       "Parking": [
@@ -293,54 +344,6 @@
     }
   },
   {
-    "Id": "23174016",
-    "MlsNumber": "40110257",
-    "Property": {
-      "Price": "$1,095,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "308042 CENTRE LINE A|Grey Highlands, Ontario N0C1L0",
-        "Longitude": "-80.37880064",
-        "Latitude": "44.25507253",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637559996460670000/reb43/highres/7/40110257_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637559996460670000/reb43/medres/7/40110257_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637559996460670000/reb43/lowres/7/40110257_1.jpg",
-          "LastUpdated": "2021-05-07 3:54:06 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "69",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,095,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1095000"
-    },
-    "Land": {
-      "SizeTotal": "100 ac|101+ acres"
-    },
-    "Building": {
-      "BathroomTotal": "4",
-      "Bedrooms": "3 + 1",
-      "SizeInterior": "1660.0000",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23241439",
     "MlsNumber": "40112472",
     "Property": {
@@ -388,6 +391,55 @@
       "StoriesTotal": "1",
       "Type": "House",
       "UnitTotal": "0"
+    }
+  },
+  {
+    "Id": "23254180",
+    "MlsNumber": "40112728",
+    "Property": {
+      "Price": "$1,275,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1086 WEST RIVER Road|North Dumfries, Ontario N1R5S5",
+        "Longitude": "-80.32202777",
+        "Latitude": "43.32869591",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577030906330000/reb20/highres/8/40112728_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577030906330000/reb20/medres/8/40112728_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577030906330000/reb20/lowres/8/40112728_1.jpg",
+          "LastUpdated": "2021-05-27 9:04:50 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "14",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,275,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1275000"
+    },
+    "Land": {
+      "SizeTotal": "9.97 ac|5 - 9.99 acres",
+      "SizeFrontage": "172 ft"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "2"
     }
   },
   {
@@ -646,56 +698,6 @@
     }
   },
   {
-    "Id": "23229167",
-    "MlsNumber": "40117088",
-    "Property": {
-      "Price": "$1,150,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "6225 SIXTH Line|Belwood, Ontario N0B1J0",
-        "Longitude": "-80.27840825",
-        "Latitude": "43.74760765",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637571132810800000/reb44/highres/8/40117088_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637571132810800000/reb44/medres/8/40117088_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637571132810800000/reb44/lowres/8/40117088_1.jpg",
-          "LastUpdated": "2021-05-20 1:14:41 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Attached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "12",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Park",
-      "ConvertedPrice": "$1,150,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Attached Garage",
-      "PriceUnformattedValue": "1150000"
-    },
-    "Land": {
-      "SizeTotal": "10 - 24.99 acres",
-      "SizeFrontage": "194 ft"
-    },
-    "Building": {
-      "BathroomTotal": "3",
-      "Bedrooms": "4 + 0",
-      "SizeInterior": "2779.0000",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23236953",
     "MlsNumber": "40117797",
     "Property": {
@@ -745,6 +747,57 @@
     }
   },
   {
+    "Id": "23255783",
+    "MlsNumber": "40118830",
+    "Property": {
+      "Price": "$2,000,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6898 GORE Road|Puslinch, Ontario N0B2J0",
+        "Longitude": "-80.19198363",
+        "Latitude": "43.39997216",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577169227600000/reb44/highres/0/40118830_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577169227600000/reb44/medres/0/40118830_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577169227600000/reb44/lowres/0/40118830_1.jpg",
+          "LastUpdated": "2021-05-27 12:55:22 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$2,000,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "2000000"
+    },
+    "Land": {
+      "SizeTotal": "10 ac|10 - 24.99 acres",
+      "SizeFrontage": "400 ft",
+      "LandscapeFeatures": "Lawn sprinkler, Landscaped"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "2481.8300",
+      "StoriesTotal": "1.5000",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "23251255",
     "MlsNumber": "40118848",
     "Property": {
@@ -760,10 +813,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637576387069800000/reb85/highres/8/40118848_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637576387069800000/reb85/medres/8/40118848_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637576387069800000/reb85/lowres/8/40118848_1.jpg",
-          "LastUpdated": "2021-05-26 3:11:46 PM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577071168100000/reb85/highres/8/40118848_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577071168100000/reb85/medres/8/40118848_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577071168100000/reb85/lowres/8/40118848_1.jpg",
+          "LastUpdated": "2021-05-27 10:11:56 AM"
         }
       ],
       "Parking": [
@@ -842,6 +895,57 @@
     }
   },
   {
+    "Id": "23254746",
+    "MlsNumber": "40120289",
+    "Property": {
+      "Price": "$1,469,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1 GLENRON Road|Flamborough, Ontario L0P1B0",
+        "Longitude": "-80.008255",
+        "Latitude": "43.439917",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577102941630000/reb15/highres/9/40120289_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577102941630000/reb15/medres/9/40120289_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577102941630000/reb15/lowres/9/40120289_1.jpg",
+          "LastUpdated": "2021-05-27 11:04:54 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "7",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,469,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1469000"
+    },
+    "Land": {
+      "SizeTotal": "10.414 ac|10 - 24.99 acres",
+      "SizeFrontage": "100 ft",
+      "AccessType": "Road access"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "SizeInterior": "1670.0000",
+      "StoriesTotal": "2",
+      "Type": "House",
+      "UnitTotal": "0"
+    }
+  },
+  {
     "Id": "23233208",
     "MlsNumber": "E5243733",
     "Property": {
@@ -884,6 +988,53 @@
     "Building": {
       "BathroomTotal": "5",
       "Bedrooms": "4 + 2",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23254721",
+    "MlsNumber": "E5250194",
+    "Property": {
+      "Price": "$1,490,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1030 SCUGOG LINE 8 RD|Scugog, Ontario L9L1B2",
+        "Longitude": "-79.0118962",
+        "Latitude": "44.1121337",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577113737130000/reb88/highres/4/e5250194_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577113737130000/reb88/medres/4/e5250194_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577113737130000/reb88/lowres/4/e5250194_1.jpg",
+          "LastUpdated": "2021-05-27 11:22:53 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "6",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,490,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1490000"
+    },
+    "Land": {
+      "SizeTotal": "976.12 x 2269.62 FT   ; Regular 50.56 Acres (As Per Survey)|50 - 100 acres"
+    },
+    "Building": {
+      "BathroomTotal": "4",
+      "Bedrooms": "4",
       "StoriesTotal": "2",
       "Type": "House"
     }
@@ -1233,100 +1384,6 @@
     }
   },
   {
-    "Id": "23068625",
-    "MlsNumber": "N5194473",
-    "Property": {
-      "Price": "$1,199,900",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "525 WOODCHOPPERS LANE|King, Ontario L7B0E9",
-        "Longitude": "-79.574613",
-        "Latitude": "44.045542",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637540198617000000/reb82/highres/3/n5194473_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637540198617000000/reb82/medres/3/n5194473_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637540198617000000/reb82/lowres/3/n5194473_1.jpg",
-          "LastUpdated": "2021-04-14 5:57:41 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "11",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,199,900 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1199900"
-    },
-    "Land": {
-      "SizeTotal": "401.93 x 1021.4 FT|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "1",
-      "Bedrooms": "3",
-      "StoriesTotal": "1.5000",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23079887",
-    "MlsNumber": "N5197660",
-    "Property": {
-      "Price": "$1,999,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "13025 MCCOWAN RD|Whitchurch-Stouffville, Ontario L4A7X5",
-        "Longitude": "-79.3060551",
-        "Latitude": "43.9784263",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637541962895770000/reb82/highres/0/n5197660_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637541962895770000/reb82/medres/0/n5197660_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637541962895770000/reb82/lowres/0/n5197660_1.jpg",
-          "LastUpdated": "2021-04-16 6:58:09 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Detached Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "8",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,999,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Detached Garage",
-      "PriceUnformattedValue": "1999000"
-    },
-    "Land": {
-      "SizeTotal": "429.49 x 812.24 FT   ; Irregular Lot. 6.6 Acre|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "2 + 1",
-      "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23093074",
     "MlsNumber": "N5201540",
     "Property": {
@@ -1668,10 +1725,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637575271196900000/reb82/highres/1/n5246221_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637575271196900000/reb82/medres/1/n5246221_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637575271196900000/reb82/lowres/1/n5246221_1.jpg",
-          "LastUpdated": "2021-05-25 8:11:59 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577209777200000/reb82/highres/1/n5246221_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577209777200000/reb82/medres/1/n5246221_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577209777200000/reb82/lowres/1/n5246221_1.jpg",
+          "LastUpdated": "2021-05-27 2:02:57 PM"
         }
       ],
       "Parking": [
@@ -1742,6 +1799,101 @@
     "Building": {
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
+      "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23253905",
+    "MlsNumber": "N5249892",
+    "Property": {
+      "Price": "$1,698,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "20462 BATHURST ST|East Gwillimbury, Ontario L9N1N4",
+        "Longitude": "-79.5258813",
+        "Latitude": "44.1198828",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577000778170000/reb82/highres/2/n5249892_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577000778170000/reb82/medres/2/n5249892_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577000778170000/reb82/lowres/2/n5249892_1.jpg",
+          "LastUpdated": "2021-05-27 8:14:37 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Marina, Schools",
+      "ConvertedPrice": "$1,698,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1698000"
+    },
+    "Land": {
+      "SizeTotal": "281 x 1168 FT   ; Rear = 182 Ft, N =1172Ft/5.67 Acres|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "4",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23256906",
+    "MlsNumber": "N5250416",
+    "Property": {
+      "Price": "$1,888,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "13025 MCCOWAN RD|Whitchurch-Stouffville, Ontario L4A7X5",
+        "Longitude": "-79.3060551",
+        "Latitude": "43.9784263",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577245479770000/reb82/highres/6/n5250416_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577245479770000/reb82/medres/6/n5250416_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577245479770000/reb82/lowres/6/n5250416_1.jpg",
+          "LastUpdated": "2021-05-27 3:02:27 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,888,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1888000"
+    },
+    "Land": {
+      "SizeTotal": "429.49 x 812.24 FT   ; Irregular Lot. 6.6 Acre|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "2 + 1",
       "StoriesTotal": "1",
       "Type": "House"
     }
@@ -1837,53 +1989,6 @@
       "BathroomTotal": "2",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
-      "Type": "House"
-    }
-  },
-  {
-    "Id": "23229285",
-    "MlsNumber": "W5242929",
-    "Property": {
-      "Price": "$1,499,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "13559 FOURTH LINE|Halton Hills, Ontario L7J2L8",
-        "Longitude": "-80.0215857",
-        "Latitude": "43.6500942",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637571147117330000/reb86/highres/9/w5242929_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637571147117330000/reb86/medres/9/w5242929_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637571147117330000/reb86/lowres/9/w5242929_1.jpg",
-          "LastUpdated": "2021-05-20 1:38:31 PM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "ConvertedPrice": "$1,499,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Garage",
-      "PriceUnformattedValue": "1499000"
-    },
-    "Land": {
-      "SizeTotal": "392.34 FT   ; ..Pt 1, 20R10427; Halton Hills/Esquesing|5 - 9.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "5",
-      "Bedrooms": "3 + 4",
-      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   },
@@ -2503,54 +2608,6 @@
     }
   },
   {
-    "Id": "23203507",
-    "MlsNumber": "X5234538",
-    "Property": {
-      "Price": "$1,299,000",
-      "Type": "Single Family",
-      "Address": {
-        "AddressText": "1 GLENRON RD|Hamilton, Ontario L0P1B0",
-        "Longitude": "-80.0082546",
-        "Latitude": "43.4399169",
-        "PermitShowAddress": true,
-        "DisseminationArea": null
-      },
-      "Photo": [
-        {
-          "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637565883713430000/reb82/highres/8/x5234538_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637565883713430000/reb82/medres/8/x5234538_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637565883713430000/reb82/lowres/8/x5234538_1.jpg",
-          "LastUpdated": "2021-05-14 11:26:11 AM"
-        }
-      ],
-      "Parking": [
-        {
-          "Name": "Garage"
-        }
-      ],
-      "ParkingSpaceTotal": "10",
-      "TypeId": "300",
-      "OwnershipType": "Freehold",
-      "AmmenitiesNearBy": "Park",
-      "ConvertedPrice": "$1,299,000 ",
-      "OwnershipTypeGroupIds": [
-        1
-      ],
-      "ParkingType": "Garage",
-      "PriceUnformattedValue": "1299000"
-    },
-    "Land": {
-      "SizeTotal": "100 x 1070 FT   ; Irreg 10.4Ac Lot|10 - 24.99 acres"
-    },
-    "Building": {
-      "BathroomTotal": "2",
-      "Bedrooms": "3 + 0",
-      "StoriesTotal": "2",
-      "Type": "House"
-    }
-  },
-  {
     "Id": "23208095",
     "MlsNumber": "X5235899",
     "Property": {
@@ -2566,10 +2623,10 @@
       "Photo": [
         {
           "SequenceId": "1",
-          "HighResPath": "https://cdn.realtor.ca/listings/TS637575360913870000/reb82/highres/9/x5235899_1.jpg",
-          "MedResPath": "https://cdn.realtor.ca/listings/TS637575360913870000/reb82/medres/9/x5235899_1.jpg",
-          "LowResPath": "https://cdn.realtor.ca/listings/TS637575360913870000/reb82/lowres/9/x5235899_1.jpg",
-          "LastUpdated": "2021-05-25 10:41:31 AM"
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577103107500000/reb82/highres/9/x5235899_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577103107500000/reb82/medres/9/x5235899_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577103107500000/reb82/lowres/9/x5235899_1.jpg",
+          "LastUpdated": "2021-05-27 11:05:10 AM"
         }
       ],
       "Parking": [
@@ -2877,6 +2934,190 @@
       "BathroomTotal": "3",
       "Bedrooms": "3 + 1",
       "StoriesTotal": "1",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23254698",
+    "MlsNumber": "X5250264",
+    "Property": {
+      "Price": "$1,275,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1086 WEST RIVER  RD|North Dumfries, Ontario N1R5S5",
+        "Longitude": "-80.3219755",
+        "Latitude": "43.3289145",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577099990170000/reb86/highres/4/x5250264_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577099990170000/reb86/medres/4/x5250264_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577099990170000/reb86/lowres/4/x5250264_1.jpg",
+          "LastUpdated": "2021-05-27 10:59:59 AM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "TypeId": "300",
+      "ConvertedPrice": "$1,275,000 ",
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1275000"
+    },
+    "Land": {
+      "SizeTotal": "172.31 x 1679.45 FT|5 - 9.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 1",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23257195",
+    "MlsNumber": "X5250639",
+    "Property": {
+      "Price": "$1,469,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "1 GLENRON RD|Hamilton, Ontario L0P1B0",
+        "Longitude": "-80.0082546",
+        "Latitude": "43.4399169",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577249377570000/reb82/highres/9/x5250639_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577249377570000/reb82/medres/9/x5250639_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577249377570000/reb82/lowres/9/x5250639_1.jpg",
+          "LastUpdated": "2021-05-27 3:08:57 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "10",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "AmmenitiesNearBy": "Park",
+      "ConvertedPrice": "$1,469,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Garage",
+      "PriceUnformattedValue": "1469000"
+    },
+    "Land": {
+      "SizeTotal": "100 x 1070 FT   ; Irreg 10.4Ac Lot|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "2",
+      "Bedrooms": "3 + 0",
+      "StoriesTotal": "2",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23256131",
+    "MlsNumber": "X5250922",
+    "Property": {
+      "Price": "$1,125,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "247 MCLEAN RD|Brant, Ontario N0E1N0",
+        "Longitude": "-80.2835771",
+        "Latitude": "43.2689577",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577195482330000/reb86/highres/2/x5250922_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577195482330000/reb86/medres/2/x5250922_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577195482330000/reb86/lowres/2/x5250922_1.jpg",
+          "LastUpdated": "2021-05-27 1:39:08 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Detached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "8",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,125,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Detached Garage",
+      "PriceUnformattedValue": "1125000"
+    },
+    "Land": {
+      "SizeTotal": "761 x 632.24 FT   ; 674.61X632.24X722.83X372.82X24|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "1",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
+      "Type": "House"
+    }
+  },
+  {
+    "Id": "23256135",
+    "MlsNumber": "X5250943",
+    "Property": {
+      "Price": "$1,999,000",
+      "Type": "Single Family",
+      "Address": {
+        "AddressText": "6898 GORE RD|Puslinch, Ontario N0B2J0",
+        "Longitude": "-80.1917315",
+        "Latitude": "43.3996736",
+        "PermitShowAddress": true,
+        "DisseminationArea": null
+      },
+      "Photo": [
+        {
+          "SequenceId": "1",
+          "HighResPath": "https://cdn.realtor.ca/listings/TS637577195495400000/reb86/highres/3/x5250943_1.jpg",
+          "MedResPath": "https://cdn.realtor.ca/listings/TS637577195495400000/reb86/medres/3/x5250943_1.jpg",
+          "LowResPath": "https://cdn.realtor.ca/listings/TS637577195495400000/reb86/lowres/3/x5250943_1.jpg",
+          "LastUpdated": "2021-05-27 1:39:09 PM"
+        }
+      ],
+      "Parking": [
+        {
+          "Name": "Attached Garage"
+        }
+      ],
+      "ParkingSpaceTotal": "12",
+      "TypeId": "300",
+      "OwnershipType": "Freehold",
+      "ConvertedPrice": "$1,999,000 ",
+      "OwnershipTypeGroupIds": [
+        1
+      ],
+      "ParkingType": "Attached Garage",
+      "PriceUnformattedValue": "1999000"
+    },
+    "Land": {
+      "SizeTotal": "400 x 1095.91 FT|10 - 24.99 acres"
+    },
+    "Building": {
+      "BathroomTotal": "3",
+      "Bedrooms": "3",
+      "StoriesTotal": "1.5000",
       "Type": "House"
     }
   }
